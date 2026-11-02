@@ -13,7 +13,7 @@ Sistema de producción del canal [Logística en 1 Minuto](https://www.youtube.co
 
 ## Reglas del canal
 
-- Solo video de stock con licencia libre (Pexels) o placas propias: nada de clips de terceros, fotos de prensa ni música con derechos.
+- Solo video de stock con licencia libre (Pexels) o placas propias, y música de fondo generada por código (`pipeline/musica.py`): nada de clips de terceros, fotos de prensa ni música con derechos.
 - Todo dato del guion lleva fuente en el campo `fuentes`.
 - Apto para toda la familia: sin insultos, apuestas ni violencia. El canal está marcado como "no creado para niños".
 - Sin pagos, contratos ni cambios de configuración de la cuenta sin autorización del propietario.

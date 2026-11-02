@@ -13,6 +13,7 @@ import yaml
 from PIL import Image, ImageDraw, ImageFont
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 FUENTES = os.path.join(RAIZ, "assets", "fuentes")
 MODELOS = os.environ.get("KOKORO_DIR", os.path.join(RAIZ, "modelos"))
 W, H, FPS = 1080, 1920, 30
@@ -207,7 +208,12 @@ def main(carpeta):
         t += dur
 
     wav = os.path.join(tmp, "voz.wav")
-    sf.write(wav, np.concatenate(audios), sr)
+    pista = np.concatenate(audios)
+    if guion.get("musica", CANAL.get("musica", True)):
+        import zlib
+        from musica import mezclar
+        pista = mezclar(pista, sr, semilla=zlib.crc32(os.path.basename(os.path.normpath(carpeta)).encode()))
+    sf.write(wav, pista, sr)
     lista = os.path.join(tmp, "lista.txt")
     open(lista, "w").write("".join(f"file '{c}'\n" for c in clips))
     srt_path = os.path.join(salida, "subtitulos.srt")
