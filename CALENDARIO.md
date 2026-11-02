@@ -8,16 +8,16 @@ Serie principal: **Logística en 1 minuto**. Un concepto técnico por Short, exp
 2. **Un concepto por video.** Si hacen falta dos, son dos videos.
 3. **Un dato concreto y con fuente** en cada video: un número, una norma, un caso real.
 4. **Visual que explica:** códigos resaltados, cifras grandes, comparaciones. El texto en pantalla aporta, no repite la voz.
-5. **Menos de 50 segundos.** Si el guion no entra, se corta.
+5. **Menos de 50 segundos, medido en el MP4 final** (`ffprobe`), no en el guion. Si pasa de 50 s, se cortan escenas antes de programar. Máximo 7 escenas con narración. *(Revisión 2026-11-02: el 003 salió con 62 s y 9 escenas; en Instagram la gente lo miró 9,3 s en promedio, un 15 %.)*
 6. **Nada que no esté verificado.** Ante la duda, el dato se saca.
 
 ## Temas (en orden de producción)
 
 | # | Tema | Gancho | Estado |
 | --- | --- | --- | --- |
-| 002 | El viaje de tu celular | Muchos celulares caros vuelan, no navegan | Piloto listo |
-| 003 | Qué significan las letras de un contenedor (ISO 6346) | Si sabés leerlo, sabés de quién es | En producción |
-| 004 | Incoterms: EXW, FOB y CIF | ¿Quién paga si el barco se hunde? | Publicado (2026-11-01) |
+| 002 | El viaje de tu celular | Muchos celulares caros vuelan, no navegan | Programado (2026-11-02 19:00) |
+| 003 | Qué significan las letras de un contenedor (ISO 6346) | Si sabés leerlo, sabés de quién es | Publicado (2026-11-01) |
+| 004 | Incoterms: EXW, FOB y CIF | ¿Quién paga si el barco se hunde? | Programado (2026-11-03 19:00) |
 | 005 | Incoterms: DAP y DDP | El Incoterm que te puede fundir | Pendiente |
 | 006 | Tipos de contenedor: dry, high cube, reefer, open top, flat rack, tanque | No todos los contenedores son iguales | Pendiente |
 | 007 | TEU y FEU: cómo se mide un barco | Un barco no se mide en toneladas | Pendiente |
