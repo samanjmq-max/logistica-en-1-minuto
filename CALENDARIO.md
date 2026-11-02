@@ -18,7 +18,7 @@ Serie principal: **Logística en 1 minuto**. Un concepto técnico por Short, exp
 | 002 | El viaje de tu celular | Muchos celulares caros vuelan, no navegan | Programado (2026-11-02 19:00) |
 | 003 | Qué significan las letras de un contenedor (ISO 6346) | Si sabés leerlo, sabés de quién es | Publicado (2026-11-01) |
 | 004 | Incoterms: EXW, FOB y CIF | ¿Quién paga si el barco se hunde? | Programado (2026-11-03 19:00) |
-| 005 | Incoterms: DAP y DDP | El Incoterm que te puede fundir | Publicado (2026-11-02) |
+| 005 | Incoterms: DAP y DDP | El Incoterm que te puede fundir | Programado (2026-11-04 19:00) |
 | 006 | Tipos de contenedor: dry, high cube, reefer, open top, flat rack, tanque | No todos los contenedores son iguales | Pendiente |
 | 007 | TEU y FEU: cómo se mide un barco | Un barco no se mide en toneladas | Pendiente |
 | 008 | El Bill of Lading | El papel que vale lo mismo que la mercadería | Pendiente |
