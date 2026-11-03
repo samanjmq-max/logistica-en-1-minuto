@@ -10,7 +10,7 @@ Serie principal: **Logística en 1 minuto**. Un concepto técnico por Short, exp
 4. **Visual que explica:** códigos resaltados, cifras grandes, comparaciones. El texto en pantalla aporta, no repite la voz.
 5. **Menos de 50 segundos, medido en el MP4 final** (`ffprobe`), no en el guion. Si pasa de 50 s, se cortan escenas antes de programar. Máximo 7 escenas con narración. *(Revisión 2026-11-02: el 003 salió con 62 s y 9 escenas; en Instagram la gente lo miró 9,3 s en promedio, un 15 %.)*
 6. **Nada que no esté verificado.** Ante la duda, el dato se saca.
-7. **Siempre instructivo.** Cada video enseña algo que el espectador puede aplicar o entender mejor de la logística. Nada de curiosidades sueltas ni temas fuera de logística y comercio exterior.
+7. **Siempre instructivo y útil.** Cada video responde una duda o resuelve un problema real que alguien tuvo (desde enviar un paquete hasta almacenarlo o importar). Tiene que dejar una acción concreta: un paso, una regla o una cuenta que el espectador puede aplicar hoy. Nada de curiosidades sueltas ni temas fuera de logística y comercio exterior.
 8. **Música de fondo original** (generada por pipeline/musica.py, sin derechos de terceros), baja debajo de la voz. Se desactiva con musica: false en el guion.
 
 ## Temas (en orden de producción)
@@ -67,4 +67,23 @@ Formato: **problema → causa → solución**. Un problema típico de un área l
 | 040 | Gestión | Medir sin KPIs | Si no lo medís, no lo podés mejorar | Pendiente |
 | 041 | Seguridad | Accidentes con autoelevadores | El riesgo número uno del depósito | Pendiente |
 | 042 | Devoluciones | Logística inversa desordenada | Las devoluciones que se comen el depósito | Pendiente |
+
+## Serie 3: Cómo hacerlo (guías rápidas para cualquiera)
+
+Formato: **la duda → los pasos → el error a evitar**. Para personas y pequeños negocios, no solo profesionales. Cuando el tema depende del país, se arranca por Uruguay con datos oficiales verificados al producir (Correo Uruguayo, DNA, etc.) y se aclara en pantalla. Se intercala con las otras series (por ejemplo, uno de cada tres videos) cuando el resumen semanal lo justifique.
+
+| # | Duda | Gancho | Estado |
+| --- | --- | --- | --- |
+| 043 | Cómo embalar un paquete para que llegue sano | El 80 % de lo que se rompe, se rompe por cómo se embaló | Pendiente (verificar cifra o sacar) |
+| 044 | Peso volumétrico: cómo se calcula | Te cobraron más de lo que pesa tu caja | Pendiente |
+| 045 | Cómo enviar un paquete al exterior desde Uruguay | Lo que nadie te dice antes de ir al correo | Pendiente |
+| 046 | Compras en el exterior y franquicia (Uruguay) | Cuándo pagás impuestos y cuándo no | Pendiente |
+| 047 | Cómo leer el rastreo de un envío | "En tránsito" hace una semana: qué significa | Pendiente |
+| 048 | Qué no se puede enviar (mercancías prohibidas y peligrosas) | Las baterías que te frenan el paquete | Pendiente |
+| 049 | Cómo ordenar un depósito chico | Encontrar cualquier cosa en 30 segundos | Pendiente |
+| 050 | Cómo almacenar en altura sin riesgo | Lo pesado abajo, siempre | Pendiente |
+| 051 | Pallet: medidas y cómo armarlo | El pallet mal armado que se cae en el camión | Pendiente |
+| 052 | Cómo cotizar un flete | Tres datos que te pide cualquier transportista | Pendiente |
+| 053 | Cómo hacer un inventario sin parar la operación | El conteo cíclico | Pendiente |
+| 054 | Cómo importar por primera vez | Los pasos, en orden | Pendiente |
 
