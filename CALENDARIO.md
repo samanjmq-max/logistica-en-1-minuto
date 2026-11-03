@@ -2,13 +2,14 @@
 
 Serie principal: **Logística en 1 minuto**. Un concepto técnico por Short, explicado como lo explicaría un profesor de comercio exterior, con un dato verificable y fuente en el guion.
 
-## Las 3 preguntas antes de cada video (obligatorio)
+## Las 4 preguntas antes de cada video (obligatorio)
 
 Antes de escribir el guion se responden en el propio guion.yaml, en el campo `chequeo`:
 
 1. **¿Qué se lleva el espectador?** Una sola frase con lo que sabe o puede hacer después de verlo. Si no entra en una frase, el tema es demasiado grande: se divide.
 2. **¿Qué tan útil es? (1 a 5)** 5 = le resuelve un problema o una duda real hoy. Por debajo de 4 se reescribe o se cambia el tema.
 3. **¿Qué tan llamativo es? (1 a 5)** El gancho de los primeros 2 segundos: ¿alguien deja de deslizar? Por debajo de 4 se reescribe el gancho.
+4. **¿Aprendí algo yo con este video?** Autocrítica del que lo escribe: si el guion solo dice lo que cualquiera ya sabe o lo que sale en el primer resultado de Google, no alcanza. Tiene que tener al menos un dato, una regla o un error típico que sorprenda incluso a alguien que ya sabe del tema. Se anota cuál es; si no hay, se investiga más o se cambia el tema.
 
 Ejemplo:
 ```yaml
@@ -17,7 +18,10 @@ chequeo:
   util: 5
   llamativo: 4
   gancho: "Te cobraron más de lo que pesa tu caja."
+  aprendi: "Cada empresa usa su propio divisor (5000 o 6000), y eso cambia el precio."
 ```
+
+Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito de control) y 004 (en CIF el riesgo pasa en origen aunque el vendedor pague el seguro) la pasan. 002 (viaje del celular) es el más flojo: solo deja el dato del avión y no deja ninguna acción; no se repite ese formato de recorrido general.
 
 ## Reglas de calidad (crítica interna antes de producir)
 
