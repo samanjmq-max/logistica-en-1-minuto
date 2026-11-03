@@ -2,6 +2,23 @@
 
 Serie principal: **Logística en 1 minuto**. Un concepto técnico por Short, explicado como lo explicaría un profesor de comercio exterior, con un dato verificable y fuente en el guion.
 
+## Las 3 preguntas antes de cada video (obligatorio)
+
+Antes de escribir el guion se responden en el propio guion.yaml, en el campo `chequeo`:
+
+1. **¿Qué se lleva el espectador?** Una sola frase con lo que sabe o puede hacer después de verlo. Si no entra en una frase, el tema es demasiado grande: se divide.
+2. **¿Qué tan útil es? (1 a 5)** 5 = le resuelve un problema o una duda real hoy. Por debajo de 4 se reescribe o se cambia el tema.
+3. **¿Qué tan llamativo es? (1 a 5)** El gancho de los primeros 2 segundos: ¿alguien deja de deslizar? Por debajo de 4 se reescribe el gancho.
+
+Ejemplo:
+```yaml
+chequeo:
+  se_lleva: "Calcular el peso volumétrico de su caja antes de pagar un envío."
+  util: 5
+  llamativo: 4
+  gancho: "Te cobraron más de lo que pesa tu caja."
+```
+
 ## Reglas de calidad (crítica interna antes de producir)
 
 1. **Gancho en la primera frase:** una pregunta o un dato que sorprenda. Nada de introducciones.
