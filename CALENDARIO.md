@@ -10,7 +10,8 @@ Serie principal: **Logística en 1 minuto**. Un concepto técnico por Short, exp
 4. **Visual que explica:** códigos resaltados, cifras grandes, comparaciones. El texto en pantalla aporta, no repite la voz.
 5. **Menos de 50 segundos, medido en el MP4 final** (`ffprobe`), no en el guion. Si pasa de 50 s, se cortan escenas antes de programar. Máximo 7 escenas con narración. *(Revisión 2026-11-02: el 003 salió con 62 s y 9 escenas; en Instagram la gente lo miró 9,3 s en promedio, un 15 %.)*
 6. **Nada que no esté verificado.** Ante la duda, el dato se saca.
-7. **Música de fondo original** (generada por pipeline/musica.py, sin derechos de terceros), baja debajo de la voz. Se desactiva con musica: false en el guion.
+7. **Siempre instructivo.** Cada video enseña algo que el espectador puede aplicar o entender mejor de la logística. Nada de curiosidades sueltas ni temas fuera de logística y comercio exterior.
+8. **Música de fondo original** (generada por pipeline/musica.py, sin derechos de terceros), baja debajo de la voz. Se desactiva con musica: false en el guion.
 
 ## Temas (en orden de producción)
 
@@ -43,3 +44,27 @@ Serie principal: **Logística en 1 minuto**. Un concepto técnico por Short, exp
 | 026 | Última milla | El tramo más caro del viaje | Pendiente |
 
 Los temas de costos de aduana van por país (Uruguay, Argentina, México), con tasas verificadas en la fuente oficial de cada aduana al momento de producir.
+
+## Serie 2: Problemas reales y cómo se resuelven
+
+Formato: **problema → causa → solución**. Un problema típico de un área logística, por qué pasa y los pasos concretos para resolverlo, con el tono de un jefe de logística que ya lo vivió. Gancho: el síntoma que el espectador reconoce ("¿Te pasa que…?"). La solución tiene que ser aplicable y, cuando haya cifras, con fuente. Se produce después de terminar la serie 1 (o se intercala si el resumen semanal muestra que rinde mejor).
+
+| # | Área | Problema | Gancho | Estado |
+| --- | --- | --- | --- | --- |
+| 027 | Depósito | Diferencias de inventario | El sistema dice 100 y en la estantería hay 87 | Pendiente |
+| 028 | Depósito | Errores de picking | Mandaste el producto equivocado al cliente | Pendiente |
+| 029 | Depósito | Mercadería vencida (sin FEFO) | Tiraste mercadería que estaba en el depósito | Pendiente |
+| 030 | Recepción | Camiones esperando en la puerta | Tres horas para descargar un camión | Pendiente |
+| 031 | Recepción | Recibir sin controlar contra la orden de compra | Pagaste mercadería que nunca entró | Pendiente |
+| 032 | Despacho | Pedidos que salen tarde | El camión se fue y el pedido quedó | Pendiente |
+| 033 | Despacho | Carga mal armada en el camión | Llegó roto por cómo se cargó | Pendiente |
+| 034 | Transporte | Rutas de reparto mal armadas | Tu camión recorre el doble de lo necesario | Pendiente |
+| 035 | Transporte | Entregas fallidas en última milla | Fue, no había nadie, y vuelve mañana | Pendiente |
+| 036 | Importación | Carga trabada en aduana por documentos | Un error en la factura y la carga no sale | Pendiente |
+| 037 | Importación | Demurrage por retirar tarde el contenedor | La multa diaria que nadie vio venir | Pendiente |
+| 038 | Inventario | Quiebres de stock | Tenés de todo, menos lo que se vende | Pendiente |
+| 039 | Inventario | Sobrestock | Plata parada en la estantería | Pendiente |
+| 040 | Gestión | Medir sin KPIs | Si no lo medís, no lo podés mejorar | Pendiente |
+| 041 | Seguridad | Accidentes con autoelevadores | El riesgo número uno del depósito | Pendiente |
+| 042 | Devoluciones | Logística inversa desordenada | Las devoluciones que se comen el depósito | Pendiente |
+
