@@ -1,0 +1,70 @@
+titulo: "No todos los contenedores son iguales: 6 tipos 📦"
+formato: short
+serie: "Logística en 1 minuto"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: publicado       # piloto -> aprobado -> publicado
+escenas:
+  - grande: "¿TODOS IGUALES?"
+    chico: "6 tipos de contenedor, uno para cada carga"
+    narracion: "¿Todos los contenedores son iguales? No: hay uno para cada tipo de carga."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+  - grande: "DRY"
+    resaltar: "DRY"
+    chico: "Estándar: caja cerrada para carga general"
+    narracion: "El dry, o estándar, es la caja cerrada para carga general, como cajas y pallets."
+    clip: https://videos.pexels.com/video-files/15170997/15170997-hd_1080_1920_30fps.mp4
+  - grande: "HIGH CUBE +30 CM"
+    resaltar: "+30 CM"
+    chico: 'Alto exterior: 2,90 m (9''6") contra 2,59 m (8''6") del estándar'
+    narracion: "El high cube es un pie más alto: dos metros noventa por fuera. Ideal para carga voluminosa."
+    clip: https://videos.pexels.com/video-files/11801939/11801939-hd_1080_1920_30fps.mp4
+  - grande: "-35 °C A +30 °C"
+    resaltar: "-35 °C"
+    chico: "Reefer: contenedor refrigerado (rango de Hapag-Lloyd)"
+    narracion: "El reefer es refrigerado: en Hapag-Lloyd, de menos treinta y cinco a más treinta grados."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+  - grande: "OPEN TOP · FLAT RACK"
+    resaltar: "FLAT RACK"
+    chico: "Techo de lona, carga por arriba · Sin techo ni costados, para máquinas"
+    narracion: "El open top tiene techo de lona y se carga desde arriba. El flat rack no tiene techo ni costados: va para máquinas."
+    clip: https://videos.pexels.com/video-files/11336230/11336230-hd_720_1280_30fps.mp4
+    desde: 5
+  - grande: "TANQUE: MÍN. 80 %"
+    resaltar: "80 %"
+    chico: "Líquidos: alimentos o químicos. Lleno al menos al 80 % para que no se sacuda"
+    narracion: "Y el tanque lleva líquidos. Se llena al menos al ochenta por ciento, para que la carga no se sacuda."
+    clip: https://videos.pexels.com/video-files/10622135/10622135-hd_720_1280_30fps.mp4
+  - grande: "ELEGÍ BIEN LA CAJA"
+    chico: "Logística en 1 minuto · Seguinos"
+    narracion: "Elegí bien la caja. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 3
+descripcion: |
+  ¿Todos los contenedores son iguales? No. Seis tipos y para qué sirve cada uno:
+  · Dry (estándar): caja cerrada para carga general.
+  · High cube: 9'6" de alto exterior (2,896 m) contra 8'6" (2,591 m) del estándar: un pie más, para carga voluminosa.
+  · Reefer: refrigerado. Los de Hapag-Lloyd controlan de -35 °C a +30 °C.
+  · Open top: techo de lona removible, se carga desde arriba con grúa. Para carga alta.
+  · Flat rack: sin techo ni paredes laterales, para cargas pesadas o sobredimensionadas, como maquinaria.
+  · Tanque: líquidos (alimentos o químicos). Se llena al menos al 80 % para evitar el oleaje interno durante el viaje.
+
+  Fuentes: especificaciones de contenedores de Hapag-Lloyd y Maersk.
+
+  Imágenes de stock: Cyriac von Czapiewski, Rolan Muradov, Mike Hongkong 2, FÁBIO REIS DE ABREU, Glenn Langhorst e Ivan Mudruk (Pexels).
+
+  #Logistica #ComercioExterior #Contenedores #Reefer #HighCube #Shorts
+fuentes:
+  - https://epub.sub.uni-hamburg.de/epub/volltexte/2018/78453/pdf/17038_Update_Container_Specification_engl_sRGB.pdf
+  - https://www.hapag-lloyd.com/en/services-information/cargo-fleet/container.html
+  - https://www.maersk.com/support/faqs/reefer-container-temperature-range
+  - https://eascpcd.maersk.com/support/faqs/types-and-sizes-of-containers
+  - https://www.marineinsight.com/flat-rack-containers/
+creditos:
+  - https://www.pexels.com/video/containers-on-a-cargo-ship-at-port-15187012/
+  - https://www.pexels.com/video/workers-at-a-warehouse-15170997/
+  - https://www.pexels.com/video/vehicle-carrying-container-in-warehouse-11801939/
+  - https://www.pexels.com/video/container-ship-in-harbor-13372582/
+  - https://www.pexels.com/video/container-ship-in-city-bay-11336230/
+  - https://www.pexels.com/video/industrial-ship-on-rough-sea-10622135/
