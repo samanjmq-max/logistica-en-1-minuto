@@ -120,6 +120,8 @@ Formato: **la duda → los pasos → el error a evitar**. Para personas y peque�
 | 052 | Cómo cotizar un flete | Tres datos que te pide cualquier transportista | Pendiente |
 | 053 | Cómo hacer un inventario sin parar la operación | El conteo cíclico | Pendiente |
 | 054 | Cómo importar por primera vez | Los pasos, en orden | Pendiente |
+| 055 | ¿Autoelevador o transpaleta? La pregunta que decide | Comprar el equipo equivocado te come el capital | Pendiente (prioridad) |
+| 056 | Cuánto espacio necesitás para arrancar un depósito | El error de alquilar de más (o de menos) | Pendiente |
 
 
 ## Videos largos (horizontales, 8 a 10 minutos)
@@ -135,6 +137,7 @@ Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y ampl
 | L01 | Incoterms 2020: los 11 explicados y los 5 errores que te hacen perder plata | Programado (2026-11-05 20:30, 8:04 min) |
 | L02 | Contenedores: tipos, medidas, TEU y cómo elegir 20 o 40 pies | Pendiente |
 | L03 | Cómo importar por primera vez desde Uruguay, paso a paso | Pendiente |
+| L02b | ¿AUTOELEVADOR o transpaleta? Cómo elegir el equipo para tu depósito (sin gastar de más) | Pendiente (prioridad: alimenta el ebook 2) |
 | L04 | Los 10 problemas más caros de un depósito y cómo resolverlos | Pendiente |
 
 ## Producto propio y afiliados (links para las descripciones)
