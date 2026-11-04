@@ -133,3 +133,10 @@ Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y ampl
 | L02 | Contenedores: tipos, medidas, TEU y cómo elegir 20 o 40 pies | Pendiente |
 | L03 | Cómo importar por primera vez desde Uruguay, paso a paso | Pendiente |
 | L04 | Los 10 problemas más caros de un depósito y cómo resolverlos | Pendiente |
+
+## Producto propio y afiliados (links para las descripciones)
+
+- **Producto propio** (guía + comparador de costos): en Hotmart, ID 8887961, todavía en borrador. Cuando esté activo, el link va acá y en la primera línea de la descripción de los videos sobre Incoterms, costos o importación.
+- **Afiliado: Mega Logística Internacional** (CAMEX, Hotmart desde 2018; USD 49,54; comisión 60 %): https://go.hotmart.com/M108343505U
+  - Usarlo solo en videos de logística internacional o transporte. Va al final de la descripción como: "Curso recomendado de logística internacional (link de afiliado): …".
+  - Siempre aclarar que es un link de afiliado. Nunca prometer resultados ni usar la marca Hotmart. Nada de spam en WhatsApp ni Telegram (reglas de Hotmart).
