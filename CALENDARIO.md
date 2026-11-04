@@ -1,5 +1,7 @@
 # Calendario de contenido · Logística en 1 Minuto
 
+**Público:** todo el mundo de habla hispana (no solo Uruguay). Montos siempre en dólares (USD); si un dato es de un país, se dice de cuál.
+
 Serie principal: **Logística en 1 minuto**. Un concepto técnico por Short, explicado como lo explicaría un profesor de comercio exterior, con un dato verificable y fuente en el guion.
 
 ## Las 4 preguntas antes de cada video (obligatorio)
@@ -102,7 +104,7 @@ Formato: **problema → causa → solución**. Un problema típico de un área l
 
 ## Serie 3: Cómo hacerlo (guías rápidas para cualquiera)
 
-Formato: **la duda → los pasos → el error a evitar**. Para personas y pequeños negocios, no solo profesionales. Cuando el tema depende del país, se arranca por Uruguay con datos oficiales verificados al producir (Correo Uruguayo, DNA, etc.) y se aclara en pantalla. Se intercala con las otras series (por ejemplo, uno de cada tres videos) cuando el resumen semanal lo justifique.
+Formato: **la duda → los pasos → el error a evitar**. Para personas y pequeños negocios, no solo profesionales. El público es TODO el mundo de habla hispana, no solo Uruguay: los videos explican primero la regla general (que sirve en cualquier país) y, cuando algo depende del país, se aclara en pantalla y se da un ejemplo de uno o varios países (Uruguay, Argentina, México, Colombia, Chile, España) con datos oficiales verificados al producir. Se intercala con las otras series (por ejemplo, uno de cada tres videos) cuando el resumen semanal lo justifique.
 
 | # | Duda | Gancho | Estado |
 | --- | --- | --- | --- |
