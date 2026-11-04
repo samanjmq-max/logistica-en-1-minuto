@@ -33,6 +33,9 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 6. **Nada que no esté verificado.** Ante la duda, el dato se saca.
 7. **Siempre instructivo y útil.** Cada video responde una duda o resuelve un problema real que alguien tuvo (desde enviar un paquete hasta almacenarlo o importar). Tiene que dejar una acción concreta: un paso, una regla o una cuenta que el espectador puede aplicar hoy. Nada de curiosidades sueltas ni temas fuera de logística y comercio exterior.
 8. **Música de fondo original** (generada por pipeline/musica.py, sin derechos de terceros), baja debajo de la voz. Se desactiva con musica: false en el guion.
+9. **Título:** las dos primeras palabras son las que se ven al deslizar: van en MAYÚSCULAS y son la palabra clave fuerte del tema (ej.: "INCOTERM PELIGROSO: DDP te puede fundir 💸"). Corto, un emoji, y deja curiosidad: no explica todo.
+10. **Hashtags: 4 como máximo**, #Shorts primero y 3 del tema exacto. Nada de hashtags genéricos ni de relleno (#viral, #fyp): YouTube los toma como spam.
+11. **Horario:** 19:00 por defecto. Cuando haya 3 semanas de datos, el resumen semanal prueba otro horario y decide con números (no con consejos de terceros).
 
 ## Temas (en orden de producción)
 
