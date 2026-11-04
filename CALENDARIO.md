@@ -40,6 +40,9 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 13. **Llamado a seguir atado al contenido:** además del cierre, cuando el video tiene una lista o un remate, pedir que sigan ANTES del remate y conectado al tema ("Seguí la cuenta: el tercer error es el que más plata cuesta"). Nunca al principio.
 14. **Primero el empaque:** título y gancho se escriben ANTES que el guion. Si el título no entusiasma, se cambia la idea, no se fuerza el guion.
 15. **Nunca borrar un video con advertencia o strike:** se apela desde YouTube Studio. Borrarlo elimina la posibilidad de apelar.
+16. **Cumplir la promesa del título en los primeros segundos** (MrBeast: la gente se va cuando el video no es lo que prometía el título). Nada de "hoy te voy a contar": se empieza mostrando.
+17. **Remate y corte.** Cuando llega la respuesta, el video termina enseguida: el cierre es una sola frase. Un final largo hace que deslicen antes de que el video cuente como visto completo.
+18. **Rotar formatos:** no repetir la misma serie más de 3 días seguidos (conceptos, problemas reales, guías rápidas).
 
 ## Temas (en orden de producción)
 
@@ -117,6 +120,10 @@ Formato: **la duda → los pasos → el error a evitar**. Para personas y peque�
 
 
 ## Videos largos (horizontales, 8 a 10 minutos)
+
+**Por qué son la prioridad:** es la plata real del canal. Desde el 1/2/2027 los nuevos canales necesitan el doble para monetizar (8.000 horas o 20 millones de vistas de Shorts), y hasta los que ya están en el programa dejan de cobrar por Shorts si no hacen 10 millones de vistas en 90 días; los videos largos siguen pagando. Objetivo: entrar al programa ANTES del 1/2/2027 (hoy: 1.000 suscriptores + 4.000 horas, o 10 M de vistas de Shorts). Ritmo: un video largo por semana.
+
+Reglas extra para largos (guía de producción de MrBeast): el primer minuto es el más importante (cumplir la promesa del título y mostrar lo que viene); un nuevo gancho cada 2 a 3 minutos ("y lo que viene ahora es lo que más plata hace perder"); lo más explicativo va en la segunda mitad; terminar apenas llega el remate.
 
 Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y amplía los Shorts de un mismo tema, con capítulos, miniatura propia y un llamado a suscribirse a mitad del video (antes de la parte más útil). Mínimo 8 minutos (desde ahí YouTube permite anuncios a mitad del video). Formato en guion.yaml: `formato: largo`, campos `capitulo` en las escenas y `miniatura: {arriba, abajo}`. Se renderizan como release `largos` del repositorio.
 
