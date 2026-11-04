@@ -115,3 +115,14 @@ Formato: **la duda → los pasos → el error a evitar**. Para personas y peque�
 | 053 | Cómo hacer un inventario sin parar la operación | El conteo cíclico | Pendiente |
 | 054 | Cómo importar por primera vez | Los pasos, en orden | Pendiente |
 
+
+## Videos largos (horizontales, 8 a 10 minutos)
+
+Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y amplía los Shorts de un mismo tema, con capítulos, miniatura propia y un llamado a suscribirse a mitad del video (antes de la parte más útil). Mínimo 8 minutos (desde ahí YouTube permite anuncios a mitad del video). Formato en guion.yaml: `formato: largo`, campos `capitulo` en las escenas y `miniatura: {arriba, abajo}`. Se renderizan como release `largos` del repositorio.
+
+| # | Tema | Estado |
+| --- | --- | --- |
+| L01 | Incoterms 2020: los 11 explicados y los 5 errores que te hacen perder plata | En producción (2026-11-04) |
+| L02 | Contenedores: tipos, medidas, TEU y cómo elegir 20 o 40 pies | Pendiente |
+| L03 | Cómo importar por primera vez desde Uruguay, paso a paso | Pendiente |
+| L04 | Los 10 problemas más caros de un depósito y cómo resolverlos | Pendiente |
