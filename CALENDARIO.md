@@ -122,7 +122,7 @@ Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y ampl
 
 | # | Tema | Estado |
 | --- | --- | --- |
-| L01 | Incoterms 2020: los 11 explicados y los 5 errores que te hacen perder plata | En producción (2026-11-04) |
+| L01 | Incoterms 2020: los 11 explicados y los 5 errores que te hacen perder plata | Programado (2026-11-05 20:30, 8:04 min) |
 | L02 | Contenedores: tipos, medidas, TEU y cómo elegir 20 o 40 pies | Pendiente |
 | L03 | Cómo importar por primera vez desde Uruguay, paso a paso | Pendiente |
 | L04 | Los 10 problemas más caros de un depósito y cómo resolverlos | Pendiente |
