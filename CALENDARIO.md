@@ -36,6 +36,10 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 9. **Título:** las dos primeras palabras son las que se ven al deslizar: van en MAYÚSCULAS y son la palabra clave fuerte del tema (ej.: "INCOTERM PELIGROSO: DDP te puede fundir 💸"). Corto, un emoji, y deja curiosidad: no explica todo.
 10. **Hashtags: 4 como máximo**, #Shorts primero y 3 del tema exacto. Nada de hashtags genéricos ni de relleno (#viral, #fyp): YouTube los toma como spam.
 11. **Horario:** 19:00 por defecto. Cuando haya 3 semanas de datos, el resumen semanal prueba otro horario y decide con números (no con consejos de terceros).
+12. **Primeros 3 segundos:** imagen que se mueve + la frase gancho en pantalla desde el primer cuadro. Nada de logo, saludo ni pausa al inicio. Es lo que decide si deslizan.
+13. **Llamado a seguir atado al contenido:** además del cierre, cuando el video tiene una lista o un remate, pedir que sigan ANTES del remate y conectado al tema ("Seguí la cuenta: el tercer error es el que más plata cuesta"). Nunca al principio.
+14. **Primero el empaque:** título y gancho se escriben ANTES que el guion. Si el título no entusiasma, se cambia la idea, no se fuerza el guion.
+15. **Nunca borrar un video con advertencia o strike:** se apela desde YouTube Studio. Borrarlo elimina la posibilidad de apelar.
 
 ## Temas (en orden de producción)
 
