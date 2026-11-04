@@ -43,6 +43,7 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 16. **Cumplir la promesa del título en los primeros segundos** (MrBeast: la gente se va cuando el video no es lo que prometía el título). Nada de "hoy te voy a contar": se empieza mostrando.
 17. **Remate y corte.** Cuando llega la respuesta, el video termina enseguida: el cierre es una sola frase. Un final largo hace que deslicen antes de que el video cuente como visto completo.
 18. **Rotar formatos:** no repetir la misma serie más de 3 días seguidos (conceptos, problemas reales, guías rápidas).
+19. **Links en la descripción:** aplicar la sección "Producto propio y afiliados" de este archivo en cada video (YouTube, TikTok, Instagram y Pinterest).
 
 ## Temas (en orden de producción)
 
@@ -136,7 +137,9 @@ Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y ampl
 
 ## Producto propio y afiliados (links para las descripciones)
 
-- **Producto propio** (guía + comparador de costos): en Hotmart, ID 8887961, todavía en borrador. Cuando esté activo, el link va acá y en la primera línea de la descripción de los videos sobre Incoterms, costos o importación.
+- **Producto propio** (guía "Sin errores en comercio exterior" + comparador de costos, USD 7, Hotmart ID 8887961, ACTIVO desde 2026-11-04): https://go.hotmart.com/M108343404O?dp=1
+  - Va en la PRIMERA línea de la descripción de todo video sobre Incoterms, costos de importación, aduana, importar o seguros de carga: "📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1". En el resto de los videos, al final de la descripción.
+  - En videos largos, mencionarlo una vez en el cierre ("el link está en la descripción"), sin exagerar promesas.
 - **Afiliado: Mega Logística Internacional** (CAMEX, Hotmart desde 2018; USD 49,54; comisión 60 %): https://go.hotmart.com/M108343505U
   - Usarlo solo en videos de logística internacional o transporte. Va al final de la descripción como: "Curso recomendado de logística internacional (link de afiliado): …".
   - Siempre aclarar que es un link de afiliado. Nunca prometer resultados ni usar la marca Hotmart. Nada de spam en WhatsApp ni Telegram (reglas de Hotmart).
