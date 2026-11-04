@@ -1,0 +1,75 @@
+titulo: "¿Un contenedor de 40 carga el doble que uno de 20? No ⚖️📦"
+formato: short
+serie: "Logística en 1 minuto"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: publicado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Elegir entre un contenedor de 20 o de 40 pies con una sola cuenta: peso de la carga dividido su volumen."
+  util: 4
+  llamativo: 4
+  gancho: "El de 40 pies es el doble de largo, pero carga menos peso que el de 20."
+  aprendi: "Los dos tienen el mismo peso bruto máximo (32,5 t en Hapag-Lloyd), así que el 40' carga MENOS (28,8 t contra 30,2 t): por encima de unos 425 kg por m³ el 40' se queda sin peso antes de llenarse."
+escenas:
+  - grande: "40' ≠ 2 × 20'"
+    resaltar: "≠"
+    chico: "El doble de largo no es el doble de carga"
+    narracion: "Un contenedor de cuarenta pies es el doble de largo, pero carga menos peso que uno de veinte."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+  - grande: "1 TEU = 20 PIES"
+    resaltar: "TEU"
+    chico: "Twenty-foot Equivalent Unit · un 40' (FEU) cuenta como 2 TEU"
+    narracion: "En logística se mide en TEU: un contenedor de veinte pies es un TEU, y uno de cuarenta, dos."
+    clip: https://videos.pexels.com/video-files/11801939/11801939-hd_1080_1920_30fps.mp4
+  - grande: "24.346 TEU"
+    resaltar: "24.346"
+    chico: "MSC Irina (2023), entre los portacontenedores más grandes del mundo"
+    narracion: "Así se mide un barco: el MSC Irina carga más de veinticuatro mil TEU."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+  - grande: "20': 33 M³ · 30,2 T"
+    resaltar: "30,2 T"
+    chico: "20' estándar: volumen y carga máxima (Hapag-Lloyd)"
+    narracion: "Pero ojo con el peso. Un veinte pies estándar lleva treinta y tres metros cúbicos y hasta treinta toneladas."
+    clip: https://videos.pexels.com/video-files/10451891/10451891-hd_720_1280_30fps.mp4
+  - grande: "40': 67 M³ · 28,8 T"
+    resaltar: "28,8 T"
+    chico: "Mismo peso bruto máximo (32,5 t), pero el 40' pesa más vacío"
+    narracion: "El de cuarenta tiene el doble de volumen, pero carga menos: veintiocho coma ocho toneladas."
+    clip: https://videos.pexels.com/video-files/20654625/20654625-hd_720_1280_30fps.mp4
+  - grande: "+425 KG/M³ → 20'"
+    resaltar: "425 KG/M³"
+    chico: "Peso ÷ volumen. Arriba de 425 kg por m³, el 40' se queda sin peso antes de llenarse"
+    narracion: "La cuenta: dividí el peso de tu carga por su volumen. Si pasa de cuatrocientos veinticinco kilos por metro cúbico, como cerámicos o acero, pedí veinte pies."
+    clip: https://videos.pexels.com/video-files/11801920/11801920-hd_1080_1920_30fps.mp4
+  - grande: "PESADO: 20' · LIVIANO: 40'"
+    chico: "Logística en 1 minuto · Seguinos"
+    narracion: "Pesado en veinte, liviano en cuarenta. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 3
+descripcion: |
+  ¿Un contenedor de 40 pies carga el doble que uno de 20? En volumen sí; en peso, no.
+  · TEU (Twenty-foot Equivalent Unit): un contenedor de 20 pies es 1 TEU; uno de 40 (FEU) cuenta como 2 TEU. Así se mide la capacidad de un barco: el MSC Irina (2023) tiene 24.346 TEU.
+  · 20' estándar (Hapag-Lloyd): 33,2 m³ y hasta 30.200 kg de carga.
+  · 40' estándar (Hapag-Lloyd): 67,7 m³ y hasta 28.800 kg de carga. Los dos tienen 32.500 kg de peso bruto máximo, pero el 40' pesa más vacío (3.700 kg contra 2.300 kg).
+  · La cuenta: peso de tu carga ÷ volumen. 28.800 kg ÷ 67,7 m³ ≈ 425 kg/m³. Si tu carga es más densa, el 40' se queda sin peso antes de llenarse: conviene el de 20.
+
+  Ojo: la carga máxima varía según el contenedor (está en su placa) y en la ruta pueden regir límites de peso menores. Consultalo con tu naviera o transportista antes de reservar.
+
+  Fuentes: especificaciones de contenedores de Hapag-Lloyd, CBS (definición de TEU) y The Maritime Executive.
+
+  Imágenes de stock: Cyriac von Czapiewski, Mike Hongkong 2, FÁBIO REIS DE ABREU, Glenn Langhorst y Eric Skaggs (Pexels).
+
+  #Logistica #ComercioExterior #Contenedores #TEU #Importacion #Shorts
+fuentes:
+  - https://epub.sub.uni-hamburg.de/epub/volltexte/2018/78453/pdf/17038_Update_Container_Specification_engl_sRGB.pdf
+  - https://www.cbs.nl/en-gb/our-services/methods/definitions/teu--twenty-foot-equivalent-unit--
+  - https://maritime-executive.com/article/msc-receives-second-ultra-large-and-this-one-is-the-world-s-largest
+  - https://en.wikipedia.org/wiki/List_of_largest_container_ships
+creditos:
+  - https://www.pexels.com/video/containers-on-a-cargo-ship-at-port-15187012/
+  - https://www.pexels.com/video/vehicle-carrying-container-in-warehouse-11801939/
+  - https://www.pexels.com/video/container-ship-in-harbor-13372582/
+  - https://www.pexels.com/video/container-ship-being-loaded-10451891/
+  - https://www.pexels.com/video/a-forklift-is-parked-in-front-of-a-building-20654625/
+  - https://www.pexels.com/video/trucks-on-viaduct-in-city-11801920/

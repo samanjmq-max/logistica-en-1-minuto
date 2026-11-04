@@ -43,7 +43,7 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 | 004 | Incoterms: EXW, FOB y CIF | ¿Quién paga si el barco se hunde? | Programado (2026-11-03 19:00) |
 | 005 | Incoterms: DAP y DDP | El Incoterm que te puede fundir | Programado (2026-11-04 19:00) |
 | 006 | Tipos de contenedor: dry, high cube, reefer, open top, flat rack, tanque | No todos los contenedores son iguales | Programado (2026-11-05 19:00) |
-| 007 | TEU y FEU: cómo se mide un barco | Un barco no se mide en toneladas | Pendiente |
+| 007 | TEU y FEU: ¿20 o 40 pies? (peso ÷ volumen) | Un 40 pies carga menos peso que uno de 20 | Publicado (2026-11-06) |
 | 008 | El Bill of Lading | El papel que vale lo mismo que la mercadería | Pendiente |
 | 009 | Factura comercial, packing list y certificado de origen | Un error en un papel y la carga queda trabada | Pendiente |
 | 010 | Avería gruesa | Tu carga llegó perfecta y igual te cobran | Pendiente |
