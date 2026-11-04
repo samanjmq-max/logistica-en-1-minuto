@@ -2,7 +2,7 @@ titulo: "INCOTERMS 2020: los 11 explicados y los 5 errores que te hacen perder p
 formato: largo
 serie: "Guías completas"
 voz: em_alex
-velocidad: 1.05
+velocidad: 1.0
 pausa: 0.35
 estado: aprobado
 chequeo:
@@ -164,6 +164,30 @@ escenas:
     narracion: "Tercera pregunta: ¿quién puede hacer los trámites de aduana en cada país? Lo normal es que cada uno haga la aduana de su país. Por eso los extremos, EXW y DDP, son los que más problemas dan: obligan a alguien a hacer trámites en un país que no es el suyo."
     clip: https://videos.pexels.com/video-files/6657743/6657743-hd_1366_720_25fps.mp4
     desde: 8
+  # --- Ejemplo
+  - capitulo: "Un ejemplo real: China a Montevideo"
+    grande: "EJEMPLO"
+    chico: "Importás desde China a Montevideo, en contenedor"
+    narracion: "Veamos un ejemplo. Importás desde China a Montevideo, en contenedor, y el proveedor te cotiza CIF Montevideo. Parece cómodo: él paga el flete y el seguro."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 12
+  - grande: "CIF MONTEVIDEO"
+    resaltar: "CIF"
+    chico: "Riesgo tuyo desde China · seguro mínimo · gastos de destino a tu cargo"
+    narracion: "Pero mirá lo que firmás. El riesgo es tuyo desde que el contenedor sube al barco en China. El seguro es el mínimo, de cláusula C. Y los gastos en el puerto de destino que no estén incluidos en el flete los pagás vos."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+    desde: 3
+  - grande: "FCA SHANGHÁI"
+    resaltar: "FCA"
+    chico: "Tu forwarder, tu flete, tu seguro con cláusula A"
+    narracion: "La alternativa es pedir FCA, con la terminal de Shanghái como lugar de entrega. El proveedor despacha la exportación y entrega el contenedor en la terminal, y vos contratás el flete con tu forwarder y un seguro de cláusula A. Pagás vos el viaje, pero sabés exactamente qué pagás y qué cubre."
+    clip: https://videos.pexels.com/video-files/7183495/7183495-hd_2048_1080_24fps.mp4
+    desde: 2
+  - grande: "COMPARÁ EL TOTAL"
+    chico: "Costo puesto en tu depósito, no solo el precio de la factura"
+    narracion: "¿Cuál conviene? Pedí las dos cotizaciones y compará el costo total puesto en tu depósito, no solo el precio de la factura. Esa cuenta es la que decide."
+    clip: https://videos.pexels.com/video-files/6657743/6657743-hd_1366_720_25fps.mp4
+    desde: 14
   # --- Errores
   - capitulo: "Los 5 errores más caros"
     grande: "ERROR 1"
