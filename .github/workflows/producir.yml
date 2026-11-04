@@ -10,7 +10,7 @@ permissions:
 jobs:
   render:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
         with: { fetch-depth: 2 }
@@ -39,6 +39,18 @@ jobs:
           name: videos
           path: contenido/*/salida/
           retention-days: 14
+      - name: Subir videos largos como release (pesan más de 100 MB)
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: |
+          for d in contenido/*/salida; do
+            if [ -f "$d/capitulos.txt" ] && [ -f "$d/short.mp4" ]; then
+              n=$(basename "$(dirname "$d")")
+              cp "$d/short.mp4" "/tmp/$n.mp4"; cp "$d/miniatura.jpg" "/tmp/$n.jpg"; cp "$d/capitulos.txt" "/tmp/$n.txt"
+              gh release view largos >/dev/null 2>&1 || gh release create largos --title "Videos largos" --notes "Videos largos renderizados"
+              gh release upload largos "/tmp/$n.mp4" "/tmp/$n.jpg" "/tmp/$n.txt" --clobber
+              rm "$d/short.mp4"
+            fi
+          done
       - name: Guardar videos en la rama "videos"
         run: |
           git config user.name "github-actions[bot]"
@@ -47,6 +59,7 @@ jobs:
           for d in contenido/*/salida; do [ -f "$d/short.mp4" ] && cp "$d/short.mp4" "/tmp/v/$(basename "$(dirname "$d")").mp4"; done
           git fetch origin videos 2>/dev/null || true
           if git rev-parse --verify -q origin/videos >/dev/null; then git checkout -B videos origin/videos; else git checkout --orphan videos && git rm -rqf . ; fi
+          ls /tmp/v/*.mp4 >/dev/null 2>&1 || exit 0
           cp /tmp/v/*.mp4 .
           git add ./*.mp4
           git commit -m "Videos renderizados $(date -u +%F)" || exit 0

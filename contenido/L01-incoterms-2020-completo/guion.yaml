@@ -1,0 +1,240 @@
+titulo: "INCOTERMS 2020: los 11 explicados y los 5 errores que te hacen perder plata"
+formato: largo
+serie: "Guías completas"
+voz: em_alex
+velocidad: 1.05
+pausa: 0.35
+estado: aprobado
+chequeo:
+  se_lleva: "Elegir el Incoterm correcto para su operación con 3 preguntas y evitar los 5 errores más caros."
+  util: 5
+  llamativo: 4
+  gancho: "Elegís mal tres letras y podés perder la mercadería y además pagar el flete."
+  aprendi: "Incoterms no dice quién es dueño de la mercadería ni cuándo se paga; y en CIP el seguro mínimo es el de máxima cobertura (cláusula A), mientras que en CIF es el mínimo (cláusula C)."
+miniatura:
+  arriba: "11 INCOTERMS"
+  abajo: "Elegí bien o perdés plata"
+escenas:
+  # --- Intro
+  - capitulo: "Por qué importa el Incoterm"
+    grande: "3 LETRAS"
+    chico: "Que deciden quién pierde si algo sale mal"
+    narracion: "Tres letras en un contrato pueden hacer que pierdas la mercadería y además tengas que pagar el flete. Son los Incoterms, y la mayoría de la gente que compra o vende afuera los usa sin saber bien qué firma."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+  - grande: "EN ESTE VIDEO"
+    chico: "Los 11 Incoterms · Cómo elegir · Los 5 errores más caros"
+    narracion: "En este video vas a ver los once Incoterms dos mil veinte, uno por uno, cómo elegir el correcto con tres preguntas, y los cinco errores que más plata hacen perder. Quedate hasta el final, porque el último error es el más común."
+  - grande: "ICC"
+    resaltar: "ICC"
+    chico: "Cámara de Comercio Internacional · versión vigente: Incoterms® 2020"
+    narracion: "Los Incoterms son reglas de la Cámara de Comercio Internacional. La versión que se recomienda usar es la de dos mil veinte. Cada regla dice tres cosas: dónde se entrega la mercadería, en qué momento pasa el riesgo del vendedor al comprador, y quién paga cada costo y cada trámite."
+    clip: https://videos.pexels.com/video-files/8170593/8170593-hd_1920_1080_25fps.mp4
+  # --- Qué no son
+  - capitulo: "Lo que el Incoterm NO dice"
+    grande: "LO QUE NO DICEN"
+    chico: "No definen el dueño, el pago ni el precio"
+    narracion: "Y acá viene lo primero que casi nadie sabe. El Incoterm no dice quién es el dueño de la mercadería, no dice cuándo ni cómo se paga, y no es el contrato de compraventa. Todo eso lo tenés que acordar aparte, en el contrato."
+    clip: https://videos.pexels.com/video-files/7841671/7841671-hd_1280_720_30fps.mp4
+  - grande: "FOB MONTEVIDEO"
+    resaltar: "MONTEVIDEO"
+    chico: "Siempre: regla + lugar exacto + «Incoterms® 2020»"
+    narracion: "Lo que sí tenés que poner siempre es la regla, el lugar exacto y la versión. Por ejemplo: FOB puerto de Montevideo, Incoterms dos mil veinte. Si el lugar queda vago, nadie sabe en qué punto pasa el riesgo, y ahí empiezan los problemas."
+  # --- Familias
+  - capitulo: "Las dos familias"
+    grande: "7 + 4"
+    chico: "7 para cualquier transporte · 4 solo marítimos"
+    narracion: "Los once se dividen en dos familias. Siete sirven para cualquier transporte: camión, avión, tren, barco o varios combinados. Y cuatro son solo para transporte marítimo o fluvial."
+    clip: https://videos.pexels.com/video-files/7183495/7183495-hd_2048_1080_24fps.mp4
+  - grande: "E · F · C · D"
+    chico: "La primera letra te dice hasta dónde llega el vendedor"
+    narracion: "Un truco para recordarlos: la primera letra te dice hasta dónde llega el vendedor. Con E, la mercadería sale de su local. Con F, se la entrega al transporte que contrata el comprador. Con C, el vendedor paga el transporte principal. Y con D, la lleva hasta el destino."
+  # --- Grupo E
+  - capitulo: "EXW: el mínimo para el vendedor"
+    grande: "EXW"
+    resaltar: "EXW"
+    chico: "Ex Works · En fábrica"
+    narracion: "Empecemos por EXW, en fábrica. El vendedor deja la mercadería disponible en su local o en el lugar acordado, sin cargarla en el camión y sin despacharla de exportación. Desde ese momento, todo el riesgo y todo el costo son del comprador."
+    clip: https://videos.pexels.com/video-files/10416700/10416700-hd_1280_720_50fps.mp4
+  - grande: "OJO CON EXW"
+    chico: "El comprador tiene que poder exportar desde el país del vendedor"
+    narracion: "Parece cómodo para el vendedor, pero tiene una trampa: el comprador tiene que hacer la exportación en el país del vendedor, y muchas veces no puede, porque no está registrado ahí. Si ese es tu caso, conviene FCA."
+    clip: https://videos.pexels.com/video-files/3365496/3365496-hd_1920_1080_30fps.mp4
+  # --- Grupo F
+  - capitulo: "FCA, FAS y FOB"
+    grande: "FCA"
+    resaltar: "FCA"
+    chico: "Free Carrier · Franco transportista"
+    narracion: "FCA, franco transportista. El vendedor despacha la exportación y entrega la mercadería al transportista que eligió el comprador. Si la entrega es en el local del vendedor, él la carga en el camión. Si es en otro lugar, por ejemplo una terminal, la entrega lista para descargar. Ahí pasa el riesgo."
+    clip: https://videos.pexels.com/video-files/3365496/3365496-hd_1920_1080_30fps.mp4
+    desde: 12
+  - grande: "FAS"
+    resaltar: "FAS"
+    chico: "Free Alongside Ship · Al costado del buque"
+    narracion: "FAS, al costado del buque. Es marítimo. El vendedor pone la mercadería al lado del barco, en el puerto de carga. Se usa sobre todo para cargas a granel o piezas muy grandes, que no van en contenedor."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+  - grande: "FOB"
+    resaltar: "FOB"
+    chico: "Free on Board · Libre a bordo"
+    narracion: "FOB, libre a bordo. El más famoso. El vendedor despacha la exportación y el riesgo pasa cuando la mercadería está a bordo del barco que eligió el comprador, en el puerto de carga."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 8
+  - grande: "CONTENEDOR = FCA"
+    resaltar: "FCA"
+    chico: "La ICC aconseja FCA y no FOB para carga en contenedor"
+    narracion: "Pero ojo: si tu carga va en contenedor, la Cámara de Comercio Internacional aconseja usar FCA y no FOB. ¿Por qué? Porque el contenedor se entrega en la terminal días antes de subir al barco. Con FOB, el vendedor sigue cargando con el riesgo mientras el contenedor espera en un lugar que ya no controla."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+    desde: 6
+  - grande: "FCA + B/L"
+    resaltar: "B/L"
+    chico: "Novedad 2020: se puede pactar el conocimiento de embarque «a bordo»"
+    narracion: "Y una novedad de dos mil veinte: en FCA se puede pactar que el transportista del comprador le emita al vendedor el conocimiento de embarque a bordo, que muchas veces pide el banco para cobrar con carta de crédito."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+  # --- Grupo C
+  - capitulo: "CPT, CIP, CFR y CIF"
+    grande: "2 PUNTOS"
+    chico: "En los C, el riesgo pasa en origen pero el vendedor paga hasta destino"
+    narracion: "Ahora el grupo C, el que más confunde. En los C hay dos puntos distintos: el riesgo pasa en origen, cuando se entrega al transportista, pero el vendedor paga el flete hasta el destino. El vendedor paga el viaje, pero si algo pasa en el camino, el problema es del comprador."
+    clip: https://videos.pexels.com/video-files/17899033/17899033-hd_1920_1080_24fps.mp4
+  - grande: "CPT"
+    resaltar: "CPT"
+    chico: "Carriage Paid To · Transporte pagado hasta"
+    narracion: "CPT, transporte pagado hasta. Sirve para cualquier transporte. El vendedor contrata y paga el transporte hasta el destino, y el riesgo pasa cuando le entrega la mercadería al primer transportista."
+    clip: https://videos.pexels.com/video-files/18749847/18749847-hd_1920_1080_60fps.mp4
+  - grande: "CIP"
+    resaltar: "CIP"
+    chico: "CPT + seguro con cobertura máxima (cláusula A)"
+    narracion: "CIP es igual a CPT, pero el vendedor además contrata un seguro. Y desde dos mil veinte ese seguro tiene que ser de cobertura amplia, la cláusula A de las Cláusulas de Carga del Instituto, por al menos el valor de la mercadería más un diez por ciento."
+    clip: https://videos.pexels.com/video-files/5696874/5696874-hd_1280_720_30fps.mp4
+  - grande: "CFR"
+    resaltar: "CFR"
+    chico: "Cost and Freight · Costo y flete (marítimo)"
+    narracion: "CFR, costo y flete, es la versión marítima de CPT. El vendedor paga el flete hasta el puerto de destino, pero el riesgo pasa cuando la mercadería está a bordo, en el puerto de origen. Y no incluye seguro."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 16
+  - grande: "CIF"
+    resaltar: "CIF"
+    chico: "CFR + seguro mínimo (cláusula C)"
+    narracion: "CIF es CFR más seguro. Pero acá el seguro obligatorio es el mínimo, la cláusula C, que cubre bastante menos. Si comprás en CIF y tu mercadería vale mucho, pedí que el seguro sea cláusula A, o contratá uno vos."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+    desde: 12
+  - grande: "CIP: A · CIF: C"
+    resaltar: "A"
+    chico: "Mismo grupo, seguros muy distintos"
+    narracion: "Retené esto, porque es el dato que más sorprende: en CIP el seguro es el de máxima cobertura, y en CIF es el de cobertura mínima. Mismo grupo, seguros muy distintos."
+  - grande: "SUSCRIBITE"
+    chico: "En el grupo D está el Incoterm que más plata hace perder"
+    narracion: "Si esto ya te sirvió, suscribite, porque en el grupo D que viene ahora está el Incoterm que más plata le hace perder al vendedor que no hizo bien la cuenta."
+    clip: https://videos.pexels.com/video-files/8426060/8426060-hd_1280_720_25fps.mp4
+  # --- Grupo D
+  - capitulo: "DAP, DPU y DDP"
+    grande: "DAP"
+    resaltar: "DAP"
+    chico: "Delivered at Place · Entregado en lugar"
+    narracion: "DAP, entregado en lugar. El vendedor lleva la mercadería hasta el lugar de destino acordado y la entrega sobre el camión o el medio de transporte que llega, lista para descargar. Ahí pasa el riesgo. La descarga, la importación y los impuestos son del comprador."
+    clip: https://videos.pexels.com/video-files/17899033/17899033-hd_1920_1080_24fps.mp4
+    desde: 3
+  - grande: "DPU"
+    resaltar: "DPU"
+    chico: "Delivered at Place Unloaded · Entregado descargado"
+    narracion: "DPU, entregado en lugar descargado. Reemplazó al viejo DAT en dos mil veinte, y es el único Incoterm en el que el vendedor tiene que descargar la mercadería en destino. El riesgo pasa recién cuando está en el piso."
+    clip: https://videos.pexels.com/video-files/3365496/3365496-hd_1920_1080_30fps.mp4
+    desde: 20
+  - grande: "DDP"
+    resaltar: "DDP"
+    chico: "Delivered Duty Paid · Entregado con derechos pagados"
+    narracion: "Y DDP, entregado con derechos pagados. Es el máximo para el vendedor: además de llevarla, hace la importación en el país del comprador y paga los aranceles y los impuestos. Si el vendedor no conoce bien esos costos, se puede comer toda la ganancia."
+    clip: https://videos.pexels.com/video-files/6657743/6657743-hd_1366_720_25fps.mp4
+  - grande: "DDP ≠ SIEMPRE"
+    chico: "Si la ley exige un importador local, no se puede usar DDP"
+    narracion: "Y hay países donde la ley exige que el importador sea una empresa local. En esos casos, el vendedor extranjero no puede hacer la importación, y DDP no se puede usar. Ahí corresponde DAP."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+    desde: 5
+  # --- Cómo elegir
+  - capitulo: "Cómo elegir en 3 preguntas"
+    grande: "PREGUNTA 1"
+    chico: "¿Cómo viaja? Barco a granel · contenedor · camión o avión"
+    narracion: "Ahora, cómo elegir. Primera pregunta: ¿cómo viaja la mercadería? Si va en barco a granel, podés usar los marítimos: FAS, FOB, CFR o CIF. Si va en contenedor, en camión o en avión, usá los de cualquier transporte: FCA, CPT, CIP o los D."
+    clip: https://videos.pexels.com/video-files/4102389/4102389-hd_1920_1080_30fps.mp4
+  - grande: "PREGUNTA 2"
+    chico: "¿Quién consigue mejor flete y mejor seguro?"
+    narracion: "Segunda pregunta: ¿quién consigue mejor flete y mejor seguro? Si sos importador y tenés un buen forwarder, te conviene controlar el flete vos: FCA, o FOB si es marítimo sin contenedor. Si el vendedor tiene mejores tarifas, dejá que lo contrate él con un C o un D."
+    clip: https://videos.pexels.com/video-files/13244608/13244608-hd_1920_1080_24fps.mp4
+  - grande: "PREGUNTA 3"
+    chico: "¿Quién puede hacer la aduana en cada país?"
+    narracion: "Tercera pregunta: ¿quién puede hacer los trámites de aduana en cada país? Lo normal es que cada uno haga la aduana de su país. Por eso los extremos, EXW y DDP, son los que más problemas dan: obligan a alguien a hacer trámites en un país que no es el suyo."
+    clip: https://videos.pexels.com/video-files/6657743/6657743-hd_1366_720_25fps.mp4
+    desde: 8
+  # --- Errores
+  - capitulo: "Los 5 errores más caros"
+    grande: "ERROR 1"
+    chico: "Usar FOB o CIF con carga en contenedor"
+    narracion: "Y ahora, los cinco errores más caros. Uno: usar FOB o CIF con carga en contenedor. Para contenedores, usá FCA o CIP."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 20
+  - grande: "ERROR 2"
+    chico: "Dejar el lugar vago: «FOB Brasil» no sirve"
+    narracion: "Dos: dejar el lugar vago. Escribir FOB Brasil no sirve. Tiene que ser el puerto o la dirección exacta."
+    clip: https://videos.pexels.com/video-files/7183495/7183495-hd_2048_1080_24fps.mp4
+    desde: 5
+  - grande: "ERROR 3"
+    chico: "Creer que en CIF el riesgo es del vendedor hasta destino"
+    narracion: "Tres: creer que en CIF o CFR el vendedor responde hasta el destino. No: el riesgo pasa a bordo, en origen."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+    desde: 18
+  - grande: "ERROR 4"
+    chico: "Creer que el Incoterm define el pago o el dueño"
+    narracion: "Cuatro: creer que el Incoterm define cuándo se paga o quién es el dueño. Eso va en el contrato."
+    clip: https://videos.pexels.com/video-files/7841671/7841671-hd_1280_720_30fps.mp4
+    desde: 4
+  - grande: "ERROR 5"
+    chico: "No poner la versión: escribí «Incoterms® 2020»"
+    narracion: "Y cinco, el más común: no poner la versión. Hay contratos que todavía se rigen por versiones viejas. Escribí siempre Incoterms dos mil veinte."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+    desde: 9
+  # --- Cierre
+  - capitulo: "Resumen"
+    grande: "RESUMEN"
+    chico: "Contenedor → FCA o CIP · Lugar exacto · Versión 2020"
+    narracion: "En resumen: si usás contenedor, FCA o CIP. Poné siempre el lugar exacto y la versión. Y antes de firmar, preguntate cómo viaja, quién consigue mejor flete y quién puede hacer cada aduana."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 2
+  - grande: "LOGÍSTICA EN 1 MINUTO"
+    chico: "Un concepto de logística por día · Suscribite"
+    narracion: "Esto fue Logística en 1 Minuto. Todos los días subimos un concepto de logística y comercio exterior explicado simple. Suscribite y dejá en los comentarios qué Incoterm usás vos, y con qué país trabajás."
+    clip: https://videos.pexels.com/video-files/8170593/8170593-hd_1920_1080_25fps.mp4
+    desde: 2
+descripcion: |
+  Los 11 Incoterms® 2020 explicados simple: EXW, FCA, FAS, FOB, CPT, CIP, CFR, CIF, DAP, DPU y DDP. Dónde pasa el riesgo, quién paga el flete y el seguro, quién hace la aduana, cómo elegir el correcto con 3 preguntas y los 5 errores que más plata hacen perder.
+
+  Lo que casi nadie sabe: el Incoterm no define quién es el dueño de la mercadería ni cuándo se paga; y en CIP el seguro obligatorio es de cobertura máxima (cláusula A) mientras que en CIF es el mínimo (cláusula C).
+
+  Fuentes: Cámara de Comercio Internacional (ICC), introducción a Incoterms® 2020 y ICC Academy; International Trade Administration (trade.gov); DHL Freight.
+
+  Imágenes de stock (Pexels): Cyriac von Czapiewski, FÁBIO REIS DE ABREU, Thanh Văn, Suraphat Nuea-on, EJ Merl, Alex Kad, Kmeel.com Videos, Kampus Production, RDNE Stock project, Sosa Films, LOC THAI, K, Mikhail Nilov y Kaboompics.
+
+  Música original generada para el canal.
+
+  #Incoterms #ComercioExterior #Logistica
+fuentes:
+  - https://library.iccwbo.org/content/tfb/BOOKS/BK_0049/BK_0049_03_Introduction.htm
+  - https://academy.iccwbo.org/incoterms/article/incoterms-2020-cip-or-cif/
+  - https://academy.iccwbo.org/incoterms/article/incoterms-2020-fca-or-fob/
+  - https://academy.iccwbo.org/incoterms/article/incoterms-2020-exw-or-fca/
+  - https://www.trade.gov/node/79
+  - https://www.dhl.com/de-en/home/our-divisions/freight/customer-service/incoterms-2020.html
+creditos:
+  - https://www.pexels.com/video/containers-on-a-cargo-ship-at-port-15187012/
+  - https://www.pexels.com/video/container-ship-in-harbor-13372582/
+  - https://www.pexels.com/video/production-line-machine-part-10416700/
+  - https://www.pexels.com/video/a-man-loading-cement-on-a-delivery-truck-3365496/
+  - https://www.pexels.com/video/a-semi-truck-is-driving-down-the-road-17899033/
+  - https://www.pexels.com/video/semi-truck-climbing-a-mountain-on-west-coast-in-oregon-18749847/
+  - https://www.pexels.com/video/aerial-shot-of-a-highway-7183495/
+  - https://www.pexels.com/video/group-of-people-shaking-hands-8170593/
+  - https://www.pexels.com/video/men-closing-a-business-deal-8426060/
+  - https://www.pexels.com/video/a-man-signing-a-document-7841671/
+  - https://www.pexels.com/video/a-shot-of-the-airport-from-a-moving-vehicle-4102389/
+  - https://www.pexels.com/video/people-unloading-the-cargo-on-the-airplane-5696874/
+  - https://www.pexels.com/video/driving-vehicle-on-airport-tarmac-13244608/
+  - https://www.pexels.com/video/person-holding-documents-8731324/
+  - https://www.pexels.com/video/a-person-using-magnifying-glass-on-documents-6657743/

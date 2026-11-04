@@ -1,7 +1,10 @@
-"""Produce un Short vertical (1080x1920) a partir de contenido/<slug>/guion.yaml.
+"""Produce un video a partir de contenido/<slug>/guion.yaml.
+
+formato: short (por defecto) -> vertical 1080x1920
+formato: largo               -> horizontal 1920x1080, con capítulos y miniatura
 
 Uso:  python pipeline/producir.py contenido/<slug>
-Salida: contenido/<slug>/salida/short.mp4 (+ subtitulos.srt)
+Salida: contenido/<slug>/salida/short.mp4 (+ subtitulos.srt; en largos, capitulos.txt y miniatura.jpg)
 
 Usa solo placas propias o video de stock con licencia libre (Pexels): nada de
 clips de terceros con derechos. La marca (nombre, logo, colores) sale de canal.yaml.
@@ -27,11 +30,27 @@ def fuente(peso, tam):
     return ImageFont.truetype(os.path.join(FUENTES, f"Inter-{peso}.otf"), tam)
 
 
+# Cómo se dicen en voz alta las siglas (solo para la voz; los subtítulos muestran la sigla)
+PRONUNCIA = {
+    "EXW": "ex works", "FCA": "efe se a", "FAS": "fas", "FOB": "fob", "CPT": "se pe te",
+    "CIP": "se i pe", "CFR": "se efe erre", "CIF": "se i efe", "DAP": "dap", "DPU": "de pe u",
+    "DDP": "de de pe", "DAT": "dat", "ICC": "i se se", "TEU": "teu", "FEU": "feu",
+    "B/L": "be ele", "BIC": "bic", "ISO": "iso", "VGM": "ve ge eme", "IMO": "imo",
+}
+
+
+def para_voz(texto):
+    for sigla, dicho in PRONUNCIA.items():
+        texto = re.sub(rf"(?<![\w/]){re.escape(sigla)}(?![\w/])", dicho, texto)
+    return texto
+
+
 def voz(texto, voz_id, velocidad):
     from kokoro_onnx import Kokoro
     if not hasattr(voz, "k"):
         voz.k = Kokoro(os.path.join(MODELOS, "kokoro-v1.0.onnx"), os.path.join(MODELOS, "voices-v1.0.bin"))
-    audio, sr = voz.k.create(texto, voice=voz_id, speed=velocidad, lang="es")
+    # es-419: español latinoamericano (seseo), más natural para el público rioplatense
+    audio, sr = voz.k.create(para_voz(texto), voice=voz_id, speed=velocidad, lang=CANAL.get("acento", "es-419"))
     return audio, sr
 
 
@@ -52,11 +71,11 @@ def placa(escena, idx, total, logo):
     """Dibuja la placa de una escena: cifra o palabra clave grande + bajada."""
     img = Image.new("RGB", (W, H), VERDE)
     d = ImageDraw.Draw(img)
-    # líneas de cancha de fondo
-    d.ellipse([W / 2 - 330, H / 2 - 330, W / 2 + 330, H / 2 + 330], outline=VERDE2, width=10)
-    d.line([0, H / 2, W, H / 2], fill=VERDE2, width=10)
-    d.rectangle([W / 2 - 300, -10, W / 2 + 300, 330], outline=VERDE2, width=10)
-    d.rectangle([W / 2 - 300, H - 330, W / 2 + 300, H + 10], outline=VERDE2, width=10)
+    # cuadrícula suave de fondo (como un plano de depósito)
+    for x in range(0, W, 120):
+        d.line([x, 0, x, H], fill=VERDE2, width=2)
+    for y in range(0, H, 120):
+        d.line([0, y, W, y], fill=VERDE2, width=2)
     # marca arriba
     img.paste(logo, (70, 110), logo)
     d.text((70 + logo.width + 24, 128), CANAL["nombre"].upper(), font=fuente("Black", 46), fill=BLANCO)
@@ -158,8 +177,37 @@ def ts(seg):
     return f"{int(h):02d}:{int(m):02d}:{s:06.3f}".replace(".", ",")
 
 
+def miniatura(guion, ruta):
+    """Miniatura 1280x720 para videos largos: texto grande sobre fondo de marca."""
+    mw, mh = 1280, 720
+    img = Image.new("RGB", (mw, mh), VERDE)
+    d = ImageDraw.Draw(img)
+    for x in range(0, mw, 80):
+        d.line([x, 0, x, mh], fill=VERDE2, width=2)
+    for y in range(0, mh, 80):
+        d.line([0, y, mw, y], fill=VERDE2, width=2)
+    m = guion.get("miniatura", {})
+    arriba, abajo = m.get("arriba", ""), m.get("abajo", "")
+    f1 = fuente("Black", 190)
+    while d.textlength(arriba, font=f1) > mw - 120 and f1.size > 80:
+        f1 = fuente("Black", f1.size - 10)
+    d.text((mw / 2, 150), arriba, font=f1, fill=AMARILLO, anchor="ma", stroke_width=10, stroke_fill=TINTA)
+    f2 = fuente("Black", 84)
+    y = 150 + f1.size + 40
+    for ln in envolver(d, abajo, f2, mw - 140):
+        d.text((mw / 2, y), ln, font=f2, fill=BLANCO, anchor="ma", stroke_width=6, stroke_fill=TINTA)
+        y += 96
+    d.rectangle([0, mh - 70, mw, mh], fill=AMARILLO)
+    d.text((mw / 2, mh - 35), CANAL["nombre"].upper(), font=fuente("Black", 40), fill=TINTA, anchor="mm")
+    img.save(ruta, quality=92)
+
+
 def main(carpeta):
+    global W, H
     guion = yaml.safe_load(open(os.path.join(carpeta, "guion.yaml"), encoding="utf-8"))
+    largo_fmt = guion.get("formato", "short") == "largo"
+    if largo_fmt:
+        W, H = 1920, 1080
     salida = os.path.join(carpeta, "salida")
     os.makedirs(salida, exist_ok=True)
     tmp = tempfile.mkdtemp()
@@ -170,9 +218,11 @@ def main(carpeta):
 
     escenas = guion["escenas"]
     audios, srt, t, sr = [], [], 0.0, 24000
-    clips = []
+    clips, capitulos = [], []
     pausa = float(guion.get("pausa", 0.25))
     for i, esc in enumerate(escenas):
+        if esc.get("capitulo"):
+            capitulos.append((t, esc["capitulo"]))
         a, sr = voz(esc["narracion"], guion.get("voz", "em_alex"), float(guion.get("velocidad", 1.08)))
         a = np.concatenate([a, np.zeros(int(sr * pausa), dtype=a.dtype)])
         dur = len(a) / sr
@@ -221,12 +271,17 @@ def main(carpeta):
         for n, (a, b, txt) in enumerate(srt, 1):
             fh.write(f"{n}\n{ts(a)} --> {ts(b)}\n{txt}\n\n")
     estilo = ("FontName=Inter,FontSize=14,Bold=1,PrimaryColour=&H00FFFFFF,OutlineColour=&H00111111,"
-              "BorderStyle=1,Outline=3,Shadow=0,Alignment=2,MarginV=72")
+              "BorderStyle=1,Outline=3,Shadow=0,Alignment=2,MarginV=" + ("24" if largo_fmt else "72"))
     final = os.path.join(salida, "short.mp4")
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", lista, "-i", wav,
                     "-vf", f"subtitles={srt_path}:fontsdir={FUENTES}:force_style='{estilo}'",
-                    "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-pix_fmt", "yuv420p",
+                    "-c:v", "libx264", "-preset", "veryfast", "-crf", "23" if largo_fmt else "20", "-pix_fmt", "yuv420p",
                     "-c:a", "aac", "-b:a", "160k", "-shortest", final], check=True)
+    if largo_fmt:
+        miniatura(guion, os.path.join(salida, "miniatura.jpg"))
+        with open(os.path.join(salida, "capitulos.txt"), "w", encoding="utf-8") as fh:
+            for seg, nombre in capitulos:
+                fh.write(f"{int(seg // 60)}:{int(seg % 60):02d} {nombre}\n")
     print(f"Listo: {final} ({t:.1f} s)")
 
 
