@@ -141,6 +141,7 @@ Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y ampl
 
 - **Producto propio** (guía "Sin errores en comercio exterior" + comparador de costos, USD 7, Hotmart ID 8887961, ACTIVO desde 2026-11-04): https://go.hotmart.com/M108343404O?dp=1
   - Va en la PRIMERA línea de la descripción de todo video sobre Incoterms, costos de importación, aduana, importar o seguros de carga: "📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1". En el resto de los videos, al final de la descripción.
+  - Cupón de lanzamiento **LANZAMIENTO** (28 % de descuento: USD 7 → USD 5,04), válido hasta el 2026-11-18. Hasta esa fecha, agregar en la descripción: "Con el cupón LANZAMIENTO la pagás USD 5 (hasta el 18/11)". Después de esa fecha, sacarlo.
   - En videos largos, mencionarlo una vez en el cierre ("el link está en la descripción"), sin exagerar promesas.
 - **Afiliado: Mega Logística Internacional** (CAMEX, Hotmart desde 2018; USD 49,54; comisión 60 %): https://go.hotmart.com/M108343505U
   - Usarlo solo en videos de logística internacional o transporte. Va al final de la descripción como: "Curso recomendado de logística internacional (link de afiliado): …".
