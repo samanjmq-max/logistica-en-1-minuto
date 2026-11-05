@@ -109,7 +109,7 @@ Formato: **la duda → los pasos → el error a evitar**. Para personas y peque�
 | # | Duda | Gancho | Estado |
 | --- | --- | --- | --- |
 | 043 | Cómo embalar un paquete para que llegue sano | El 80 % de lo que se rompe, se rompe por cómo se embaló | Pendiente (verificar cifra o sacar) |
-| 044 | Peso volumétrico: cómo se calcula | Te cobraron más de lo que pesa tu caja | Pendiente |
+| 044 | Peso volumétrico: cómo se calcula | Te cobraron más de lo que pesa tu caja | Publicado (2026-11-07 19:00; se intercaló por la regla 18: 004 a 007 fueron 4 días seguidos de la serie 1) |
 | 045 | Cómo enviar un paquete al exterior desde Uruguay | Lo que nadie te dice antes de ir al correo | Pendiente |
 | 046 | Compras en el exterior y franquicia (Uruguay) | Cuándo pagás impuestos y cuándo no | Pendiente |
 | 047 | Cómo leer el rastreo de un envío | "En tránsito" hace una semana: qué significa | Pendiente |

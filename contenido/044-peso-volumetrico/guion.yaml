@@ -1,0 +1,77 @@
+titulo: "PESO VOLUMÉTRICO: tu caja de 5 kg paga 12 📦"
+formato: short
+serie: "Cómo hacerlo"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: publicado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Calcular el peso volumétrico de su caja (largo × ancho × alto en cm ÷ 5000) antes de enviarla y achicar la caja para pagar menos."
+  util: 5
+  llamativo: 4
+  gancho: "Tu caja pesa 5 kilos y te la cobran como si pesara 12."
+  aprendi: "El divisor no es universal: los couriers express (DHL, UPS) dividen por 5000, pero la regla IATA de carga aérea divide por 6000, así que la misma caja de 50×40×30 da 12 kg en un courier y 10 kg como carga aérea. Y UPS redondea cualquier fracción al siguiente medio kilo."
+escenas:
+  - grande: "5 KG → PAGÁS 12"
+    resaltar: "12"
+    chico: "Peso volumétrico: el espacio también se cobra"
+    narracion: "Tu caja pesa cinco kilos y te la cobran como si pesara doce. No es un error: es el peso volumétrico."
+    clip: https://videos.pexels.com/video-files/6342195/6342195-hd_1080_1920_24fps.mp4
+  - grande: "L × A × H ÷ 5000"
+    resaltar: "÷ 5000"
+    chico: "Medidas en centímetros · divisor habitual de DHL y UPS"
+    narracion: "Multiplicá largo por ancho por alto, en centímetros, y dividí por cinco mil. Así lo calculan DHL y UPS."
+    clip: https://videos.pexels.com/video-files/7033604/7033604-hd_1080_1920_25fps.mp4
+  - grande: "50×40×30 = 12 KG"
+    resaltar: "12 KG"
+    chico: "Se paga el MAYOR: peso real o volumétrico"
+    narracion: "Una caja de cincuenta por cuarenta por treinta da doce kilos. Y siempre se paga el mayor de los dos."
+    clip: https://videos.pexels.com/video-files/7464002/7464002-hd_1080_1920_30fps.mp4
+  - grande: "CARGA AÉREA: ÷ 6000"
+    resaltar: "÷ 6000"
+    chico: "Regla IATA: la misma caja da 10 kg · preguntá el divisor antes de cotizar"
+    narracion: "Ojo: en carga aérea, la regla IATA divide por seis mil. Preguntá siempre qué divisor usa tu empresa."
+    clip: https://videos.pexels.com/video-files/13790675/13790675-hd_720_1280_24fps.mp4
+  - grande: "−10 CM = −4 KG"
+    resaltar: "−4 KG"
+    chico: "50×40×20 → 8 kg. Usá la caja más chica que proteja bien"
+    narracion: "La jugada: usá la caja más chica posible. Diez centímetros menos de alto y pagás cuatro kilos menos."
+    clip: https://videos.pexels.com/video-files/6342204/6342204-hd_720_1280_24fps.mp4
+  - grande: "MEDÍ ANTES DE PAGAR"
+    chico: "Logística en 1 minuto · Seguinos"
+    narracion: "Medí antes de pagar. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/7463914/7463914-hd_720_1280_30fps.mp4
+descripcion: |
+  PESO VOLUMÉTRICO: tu caja de 5 kg paga 12 📦
+
+  ¿Por qué te cobran más de lo que pesa tu caja? Por el peso volumétrico: las empresas de envío cobran también el espacio que ocupa el paquete.
+  · La cuenta (courier express): largo × ancho × alto en centímetros ÷ 5000 = kilos volumétricos. Es el divisor habitual de DHL Express y UPS (para DHL, 1 m³ = 200 kg).
+  · Se compara con el peso real y se cobra el MAYOR de los dos. Ejemplo de DHL: una caja de 50 × 40 × 30 cm que pesa 5 kg se cobra como 12 kg.
+  · En carga aérea, la regla de IATA usa 6000 cm³ por kilo: la misma caja da 10 kg.
+  · UPS además redondea cualquier fracción al siguiente medio kilo.
+  · Para pagar menos: usá la caja más chica que proteja bien el producto. Con 50 × 40 × 20 cm, el peso volumétrico baja a 8 kg.
+
+  Ojo: el divisor puede cambiar según la empresa, el servicio y el país. Confirmalo con tu transportista antes de enviar.
+
+  Fuentes: DHL Express (cálculo de peso volumétrico), UPS (dimensiones y peso) y material de capacitación de ASEAN basado en el manual IATA TACT.
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1 (con el cupón LANZAMIENTO la pagás USD 5, hasta el 18/11)
+  Curso recomendado de logística internacional (link de afiliado): https://go.hotmart.com/M108343505U
+
+  Imágenes de stock: Liza Summer, Tima Miroshnichenko, RDNE Stock project y K (Pexels).
+
+  #Shorts #PesoVolumetrico #Envios #Courier
+fuentes:
+  - https://www.dhl.com/discover/en-sg/ship-with-dhl/start-shipping/how-to-calculate-dhl-volumetric-weight
+  - https://www.dhlexpress.nl/en/faq/shipping/how-do-i-calculate-volumetric-weight
+  - https://www.ups.com/co/es/support/shipping-support/shipping-dimensions-weight
+  - https://asean.org/wp-content/uploads/2023/02/Air-Freight-C5.-Calculation-of-Air-Freight-PPT-Trainer-V2.pdf
+creditos:
+  - https://www.pexels.com/video/close-up-video-of-parcels-6342195/
+  - https://www.pexels.com/video/a-macro-shot-of-a-steel-tape-measure-7033604/
+  - https://www.pexels.com/video/woman-taping-cardboard-box-7464002/
+  - https://www.pexels.com/video/vehicles-on-airport-tarmac-13790675/
+  - https://www.pexels.com/video/woman-putting-clothes-inside-the-box-6342204/
+  - https://www.pexels.com/video/a-man-taping-a-package-7463914/
