@@ -1,0 +1,268 @@
+titulo: "CONTENEDOR 20 o 40: cómo elegir sin pagar de más (la cuenta que casi nadie hace) 📦"
+formato: largo
+serie: "Guías completas"
+voz: em_alex
+velocidad: 1.0
+pausa: 0.35
+estado: aprobado
+chequeo:
+  se_lleva: "Elegir el tipo y el tamaño de contenedor para su carga con dos cuentas (peso ÷ volumen y pallets por piso) y evitar los 5 errores que generan costos extra."
+  util: 5
+  llamativo: 4
+  gancho: "El contenedor de 40 pies es el doble de grande, pero carga menos peso que el de 20."
+  aprendi: "En un 40' entran 24 o 25 europallets, no 22 (el doble de 11), porque su largo interior (12,03 m) es más del doble del de un 20' (5,90 m). Y sin VGM (peso bruto verificado, obligatorio por SOLAS desde el 1/7/2016) el contenedor no se carga al barco."
+miniatura:
+  arriba: "¿20 O 40?"
+  abajo: "La cuenta que te ahorra plata"
+escenas:
+  # --- Intro
+  - capitulo: "La pregunta que te ahorra plata"
+    grande: "40' ≠ 2 × 20'"
+    resaltar: "≠"
+    chico: "El doble de largo no es el doble de carga"
+    narracion: "Un contenedor de cuarenta pies es el doble de grande que uno de veinte. Pero carga menos peso. Y si no sabés eso, podés terminar pagando un contenedor que no podés llenar, o uno que no te aceptan en el barco."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+  - grande: "EN ESTE VIDEO"
+    chico: "Medidas · 6 tipos · La cuenta del peso · Pallets · VGM · Ejemplo · 5 errores"
+    narracion: "En este video vas a aprender a elegir el contenedor correcto para tu carga. Vas a ver las medidas reales, los seis tipos que más se usan, la cuenta de peso y volumen que decide entre veinte y cuarenta, cuántos pallets entran en cada uno, el trámite sin el cual tu contenedor no sube al barco, un ejemplo con tres importaciones a Montevideo, y los cinco errores que más plata hacen perder."
+  # --- TEU y medidas
+  - capitulo: "TEU y las medidas que importan"
+    grande: "1 TEU = 20 PIES"
+    resaltar: "TEU"
+    chico: "Twenty-foot Equivalent Unit · un 40' (FEU) cuenta como 2 TEU"
+    narracion: "Primero, el idioma. En logística todo se mide en TEU, que quiere decir unidad equivalente a veinte pies. Un contenedor de veinte pies es un TEU. Uno de cuarenta es un FEU, y cuenta como dos TEU."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+  - grande: "24.346 TEU"
+    resaltar: "24.346"
+    chico: "MSC Irina (2023), entre los portacontenedores más grandes del mundo"
+    narracion: "Así se mide hasta un barco. El MSC Irina, de dos mil veintitrés, carga veinticuatro mil trescientos cuarenta y seis TEU. Y así te cotizan muchas veces el flete: por contenedor de veinte o de cuarenta, no por kilo."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 4
+  - grande: "20': 5,90 × 2,35 × 2,39 M"
+    resaltar: "5,90"
+    chico: "Medidas interiores de un 20' estándar: largo × ancho × alto"
+    narracion: "Ahora, lo que te importa a vos es el interior. Un veinte pies estándar mide por dentro unos cinco metros noventa de largo, dos metros treinta y cinco de ancho y dos metros treinta y nueve de alto. Son unos treinta y tres metros cúbicos."
+    clip: https://videos.pexels.com/video-files/6618335/6618335-hd_1280_720_24fps.mp4
+  - grande: "40': 12,03 M DE LARGO"
+    resaltar: "12,03 M"
+    chico: "Mismo ancho y alto · unos 67 m³"
+    narracion: "El cuarenta pies tiene el mismo ancho y el mismo alto, pero doce metros con tres centímetros de largo. Fijate que es un poco más del doble del veinte. Ese detalle, que parece menor, después te va a dar más pallets. Ya vamos a llegar."
+    clip: https://videos.pexels.com/video-files/6618335/6618335-hd_1280_720_24fps.mp4
+    desde: 8
+  # --- Tipos
+  - capitulo: "Los 6 tipos de contenedor"
+    grande: "DRY"
+    resaltar: "DRY"
+    chico: "Estándar: caja cerrada para carga general"
+    narracion: "Antes del tamaño, elegí el tipo. El dry, o estándar, es la caja cerrada para carga general: cajas, bolsas, pallets. Es el que vas a usar la mayoría de las veces."
+    clip: https://videos.pexels.com/video-files/19896989/19896989-hd_1280_720_25fps.mp4
+  - grande: "HIGH CUBE +30 CM"
+    resaltar: "+30 CM"
+    chico: 'Alto exterior: 2,90 m (9''6") contra 2,59 m (8''6") del estándar'
+    narracion: "El high cube es un pie más alto: dos metros noventa por fuera, contra dos metros cincuenta y nueve del estándar. Es para carga liviana y voluminosa, donde lo que se te acaba es el espacio, no el peso."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+    desde: 4
+  - grande: "REEFER: -35 °C A +30 °C"
+    resaltar: "-35 °C"
+    chico: "Contenedor refrigerado (rango de Hapag-Lloyd)"
+    narracion: "El reefer es refrigerado. Tiene su propio equipo de frío, y en la flota de Hapag-Lloyd controla desde menos treinta y cinco hasta más treinta grados. Es para alimentos, flores o medicamentos."
+  - grande: "OPEN TOP · FLAT RACK"
+    resaltar: "FLAT RACK"
+    chico: "Techo de lona, carga por arriba · Sin techo ni costados, para máquinas"
+    narracion: "El open top tiene techo de lona y se carga desde arriba, con grúa, cuando la carga es muy alta para entrar por la puerta. El flat rack no tiene techo ni costados: es una base con cabeceras, para máquinas o piezas sobredimensionadas."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 6
+  - grande: "TANQUE: MÍN. 80 %"
+    resaltar: "80 %"
+    chico: "Líquidos: alimentos o químicos. Lleno al menos al 80 % para que no se sacuda"
+    narracion: "Y el tanque lleva líquidos, como aceites o químicos. Se llena por lo menos al ochenta por ciento, para que el líquido no se sacuda durante el viaje. La regla es simple: el tipo lo define la carga; el tamaño, la cuenta que viene ahora."
+  # --- Peso
+  - capitulo: "La trampa del peso"
+    grande: "20': 30,2 T · 40': 28,8 T"
+    resaltar: "28,8 T"
+    chico: "Carga máxima de un 20' y un 40' estándar (Hapag-Lloyd)"
+    narracion: "Y acá viene la trampa. En Hapag-Lloyd, un veinte pies estándar carga hasta treinta mil doscientos kilos. Y el cuarenta, que es el doble de grande, carga menos: veintiocho mil ochocientos."
+    clip: https://videos.pexels.com/video-files/3817901/3817901-hd_1280_720_30fps.mp4
+  - grande: "BRUTO MÁX.: 32,5 T"
+    resaltar: "32,5 T"
+    chico: "Tara: 2,3 t el 20' · 3,7 t el 40'"
+    narracion: "¿Por qué? Porque los dos tienen el mismo peso bruto máximo, treinta y dos mil quinientos kilos, contando el contenedor. Y el cuarenta pesa más vacío: tres mil setecientos kilos, contra dos mil trescientos del veinte. Lo que pesa la caja, se lo resta a tu carga."
+    clip: https://videos.pexels.com/video-files/3817901/3817901-hd_1280_720_30fps.mp4
+    desde: 20
+  - grande: "MIRÁ LA PLACA"
+    chico: "La carga máxima de cada contenedor está en su placa · en ruta puede haber límites menores"
+    narracion: "Un aviso importante: estos números son de una naviera. Cada contenedor tiene su carga máxima escrita en su placa, y en la ruta, del puerto a tu depósito, puede haber límites de peso más bajos para el camión. Preguntalo siempre antes de reservar."
+    clip: https://videos.pexels.com/video-files/11564291/11564291-hd_1280_720_30fps.mp4
+  - grande: "SUSCRIBITE"
+    chico: "Ahora viene la cuenta que decide entre 20 y 40"
+    narracion: "Si esto ya te sirvió, suscribite, porque ahora viene la parte más útil: la cuenta de un minuto que te dice qué contenedor pedir, y que casi nadie hace antes de cotizar."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+  # --- La cuenta
+  - capitulo: "La cuenta: peso ÷ volumen"
+    grande: "KG ÷ M³"
+    resaltar: "÷"
+    chico: "Peso total de tu carga dividido su volumen total"
+    narracion: "La cuenta es esta: dividí el peso total de tu carga, en kilos, por su volumen total, en metros cúbicos. Eso te da la densidad de tu carga: cuántos kilos hay en cada metro cúbico."
+    clip: https://videos.pexels.com/video-files/19896989/19896989-hd_1280_720_25fps.mp4
+    desde: 8
+  - grande: "425 KG/M³"
+    resaltar: "425"
+    chico: "28.800 kg ÷ 67,7 m³ ≈ 425 kg por m³: el límite del 40'"
+    narracion: "Ahora, el número mágico. Si dividís la carga máxima del cuarenta, veintiocho mil ochocientos kilos, por su volumen, sesenta y siete coma siete metros cúbicos, te da unos cuatrocientos veinticinco kilos por metro cúbico."
+  - grande: "+425 → 20'"
+    resaltar: "20'"
+    chico: "Más densa: el 40' se queda sin peso antes de llenarse"
+    narracion: "Si tu carga es más densa que eso, como cerámicos, acero, papel o vino, el cuarenta se queda sin peso antes de llenarse. Vas a pagar un contenedor grande medio vacío. Ahí conviene el de veinte, o dos de veinte."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+    desde: 8
+  - grande: "-425 → 40' O HC"
+    resaltar: "40'"
+    chico: "Más liviana: lo que se acaba es el espacio"
+    narracion: "Si tu carga es más liviana, como ropa, muebles o plástico, lo que se te acaba es el espacio. Ahí el cuarenta, y mejor todavía el high cube, te dan más metros cúbicos por casi el mismo trámite."
+    clip: https://videos.pexels.com/video-files/4292301/4292301-hd_1280_720_50fps.mp4
+  - grande: "NUNCA AL 100 %"
+    chico: "Las cajas no encajan perfecto: dejá margen de volumen"
+    narracion: "Y un consejo de depósito: nunca vas a usar el cien por ciento del volumen. Las cajas no encajan perfecto y siempre quedan huecos. Por eso, para carga en pallets, la cuenta que manda es otra: cuántos pallets entran en el piso."
+    clip: https://videos.pexels.com/video-files/14910119/14910119-hd_1280_720_24fps.mp4
+  # --- Pallets
+  - capitulo: "Cuántos pallets entran"
+    grande: "20': 11 EUROPALLETS"
+    resaltar: "11"
+    chico: "Europallet 1,20 × 0,80 m · industrial 1,20 × 1,00 m: 9 a 10"
+    narracion: "En un veinte pies estándar entran once europallets, los de un metro veinte por ochenta, o nueve a diez pallets industriales, los de un metro veinte por un metro. Todo en una sola fila de altura."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+    desde: 2
+  - grande: "40': 24 A 25, NO 22"
+    resaltar: "24 A 25"
+    chico: "Industriales: 20 a 21 · el largo interior es más del doble"
+    narracion: "¿Y en el cuarenta? Uno pensaría que el doble, veintidós. Pero no: entran veinticuatro o veinticinco europallets, y veinte o veintiuno industriales. Es ese largo extra que te mostré al principio: doce metros, contra el doble de cinco noventa, que sería once ochenta."
+    clip: https://videos.pexels.com/video-files/4292301/4292301-hd_1280_720_50fps.mp4
+    desde: 3
+  - grande: "SIN SOBRESALIR"
+    chico: "La cuenta vale si la carga no sobresale del pallet"
+    narracion: "Ojo con una condición: esas cuentas valen si la carga no sobresale del borde del pallet. Si sobresale aunque sea un poco, perdés lugares. Y medí el alto: con dos metros treinta y nueve por dentro, si tus pallets son bajos y la mercadería aguanta peso encima, a veces entran dos pisos. Si el peso te lo permite, cargás el doble."
+    clip: https://videos.pexels.com/video-files/19896989/19896989-hd_1280_720_25fps.mp4
+    desde: 16
+  # --- VGM
+  - capitulo: "VGM: sin peso verificado no embarca"
+    grande: "VGM"
+    resaltar: "VGM"
+    chico: "Peso bruto verificado: carga + embalaje y trincado + tara del contenedor"
+    narracion: "Y ahora, el trámite que más sorprende. Desde el primero de julio de dos mil dieciséis, por una reforma de la Organización Marítima Internacional al convenio SOLAS, todo contenedor lleno necesita un VGM, el peso bruto verificado. Es el peso de la carga, más el embalaje y el trincado, más la tara del contenedor."
+    clip: https://videos.pexels.com/video-files/3817901/3817901-hd_1280_720_30fps.mp4
+    desde: 40
+  - grande: "MÉTODO 1 · MÉTODO 2"
+    chico: "1: pesar el contenedor lleno · 2: pesar cada bulto y sumar la tara"
+    narracion: "Se calcula de dos maneras. Método uno: pesar el contenedor ya cargado, en una balanza. Método dos: pesar por separado todos los bultos y materiales, y sumarles la tara del contenedor, con un método aprobado por la autoridad del país. En los dos casos, con balanzas que cumplan las normas."
+    clip: https://videos.pexels.com/video-files/11564291/11564291-hd_1280_720_30fps.mp4
+    desde: 6
+  - grande: "SIN VGM, NO SUBE"
+    resaltar: "NO SUBE"
+    chico: "El responsable es el embarcador · sin VGM a tiempo, se niega la carga"
+    narracion: "El responsable de informarlo es el embarcador, el que despacha la carga. Y si el VGM no llega a tiempo para el plan de carga del barco, el contenedor no se embarca. Se queda en el puerto, y los costos de esa espera los pagás vos."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+    desde: 8
+  - grande: "PREGUNTÁ EL CORTE"
+    chico: "Pedile al forwarder la fecha y hora límite para enviar el VGM"
+    narracion: "El consejo práctico: cuando reserves, pedile a tu forwarder o a la naviera la fecha y la hora de corte para enviar el VGM, que es antes del cierre de la lista de carga. Anotala junto con la fecha de salida del barco, porque llegar tarde con ese dato es lo mismo que no tenerlo."
+    clip: https://videos.pexels.com/video-files/11564291/11564291-hd_1280_720_30fps.mp4
+    desde: 2
+  # --- Ejemplo
+  - capitulo: "Ejemplo: tres importaciones a Montevideo"
+    grande: "CASO 1: CERÁMICOS"
+    chico: "22.000 kg en 18 m³ = 1.222 kg/m³"
+    narracion: "Vamos a un ejemplo. Tres importadores traen mercadería a Montevideo, con números redondos para que se vea clara la cuenta. El primero trae cerámicos: veintidós mil kilos que ocupan dieciocho metros cúbicos. Hacemos la cuenta: veintidós mil dividido dieciocho da mil doscientos veintidós kilos por metro cúbico."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 2
+  - grande: "→ UN 20'"
+    resaltar: "20'"
+    chico: "Entra en peso (30,2 t) y en volumen (33 m³)"
+    narracion: "Es mucho más que cuatrocientos veinticinco, así que va en un veinte pies. Entra en peso, porque son veintidós toneladas contra treinta, y entra en volumen, porque son dieciocho metros contra treinta y tres. Pedir un cuarenta sería pagar aire."
+    clip: https://videos.pexels.com/video-files/6618335/6618335-hd_1280_720_24fps.mp4
+    desde: 4
+  - grande: "CASO 2: MUEBLES"
+    chico: "6.000 kg en 55 m³ = 109 kg/m³ → un 40'"
+    narracion: "El segundo trae muebles: seis mil kilos en cincuenta y cinco metros cúbicos. Da ciento nueve kilos por metro cúbico, muy liviano. En un veinte no entra, porque supera los treinta y tres metros. Va en un cuarenta, o en un high cube si los muebles son altos."
+    clip: https://videos.pexels.com/video-files/4292301/4292301-hd_1280_720_50fps.mp4
+  - grande: "CASO 3: 50 T DE ACERO"
+    chico: "Dos 20' cargan 60,4 t · un 40' solo 28,8 t"
+    narracion: "Y el tercero trae cincuenta toneladas de piezas de acero. Si pide un cuarenta pensando que es como dos de veinte, se equivoca: el cuarenta carga solo veintiocho coma ocho toneladas. Dos de veinte cargan más de sesenta. Para carga pesada, dos de veinte le ganan a uno de cuarenta."
+    clip: https://videos.pexels.com/video-files/3817901/3817901-hd_1280_720_30fps.mp4
+    desde: 10
+  # --- Errores
+  - capitulo: "Los 5 errores más caros"
+    grande: "ERROR 1"
+    chico: "Elegir por volumen sin mirar el peso"
+    narracion: "Y ahora, los cinco errores más caros. Uno: elegir el contenedor solo por volumen, sin mirar el peso. Siempre hacé primero la cuenta de kilos por metro cúbico."
+    clip: https://videos.pexels.com/video-files/19896989/19896989-hd_1280_720_25fps.mp4
+    desde: 22
+  - grande: "ERROR 2"
+    chico: "Confundir peso bruto máximo con carga útil"
+    narracion: "Dos: confundir el peso bruto máximo con lo que podés cargar. Los treinta y dos mil quinientos kilos incluyen el contenedor. A eso restale la tara."
+    clip: https://videos.pexels.com/video-files/3817901/3817901-hd_1280_720_30fps.mp4
+    desde: 30
+  - grande: "ERROR 3"
+    chico: "Pallets que sobresalen o que no se aprovechan en altura"
+    narracion: "Tres: armar pallets que sobresalen del borde, o no medir el alto. Perdés lugares en el piso, o dejás vacía la mitad de arriba del contenedor."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+    desde: 12
+  - grande: "ERROR 4"
+    chico: "Mandar el VGM tarde o mal calculado"
+    narracion: "Cuatro: mandar el VGM tarde, o calcularlo a ojo. El contenedor se queda en tierra, y perdés el barco."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+    desde: 2
+  - grande: "ERROR 5"
+    chico: "Demurrage y detention: el reloj corre después del tiempo libre"
+    narracion: "Y cinco, el que más plata se come en silencio: no controlar los días libres. Si el contenedor queda en la terminal después del tiempo libre, pagás demurrage. Si lo retirás y tardás en devolverlo vacío, pagás detention. Y ojo: que el barco haya llegado no quiere decir que el contenedor ya esté disponible. Pedí las condiciones por escrito antes de embarcar."
+    clip: https://videos.pexels.com/video-files/6618335/6618335-hd_1280_720_24fps.mp4
+    desde: 12
+  # --- Cierre
+  - capitulo: "Resumen"
+    grande: "RESUMEN"
+    chico: "Tipo según la carga · kg ÷ m³ · pallets por piso · VGM a tiempo"
+    narracion: "En resumen: el tipo de contenedor lo define tu carga. El tamaño lo define una cuenta: si pasa de cuatrocientos veinticinco kilos por metro cúbico, veinte pies; si no, cuarenta o high cube. Contá los pallets por piso, mandá el VGM a tiempo y controlá los días libres."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 5
+  - grande: "LOGÍSTICA EN 1 MINUTO"
+    chico: "Guía + planilla para comparar cotizaciones: link en la descripción"
+    narracion: "Si vas a importar, en la descripción tenés una guía con una planilla para comparar cotizaciones de punta a punta. Esto fue Logística en 1 Minuto. Suscribite y contame en los comentarios qué carga movés vos: ¿veinte o cuarenta?"
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+    desde: 6
+descripcion: |
+  ¿Contenedor de 20 o de 40 pies? El de 40 es el doble de grande, pero carga MENOS peso. En este video: medidas interiores, los 6 tipos de contenedor (dry, high cube, reefer, open top, flat rack y tanque), la cuenta de peso ÷ volumen que decide entre 20 y 40, cuántos pallets entran, el VGM (sin peso verificado el contenedor no embarca), un ejemplo con tres importaciones a Montevideo y los 5 errores más caros.
+
+  Datos clave:
+  · 20' estándar: interior 5,90 × 2,35 × 2,39 m, 33,2 m³, carga máxima 30.200 kg (Hapag-Lloyd).
+  · 40' estándar: interior 12,03 × 2,35 × 2,39 m, 67,7 m³, carga máxima 28.800 kg. Los dos tienen 32.500 kg de peso bruto máximo; el 40' pesa más vacío (3.700 kg contra 2.300 kg).
+  · La cuenta: 28.800 kg ÷ 67,7 m³ ≈ 425 kg/m³. Si tu carga es más densa, el 40' se queda sin peso antes de llenarse.
+  · Pallets en un solo piso, sin sobresalir: 20' = 11 europallets o 9-10 industriales; 40' = 24-25 europallets o 20-21 industriales.
+  · VGM: obligatorio desde el 1/7/2016 (enmienda de la OMI al convenio SOLAS). Lo informa el embarcador; sin VGM a tiempo, se niega la carga.
+  Ojo: la carga máxima varía según el contenedor (está en su placa) y en la ruta pueden regir límites de peso menores. Los casos del ejemplo son ilustrativos; consultá siempre con tu naviera o forwarder.
+
+  Fuentes: especificaciones de contenedores de Hapag-Lloyd, CBS (definición de TEU), The Maritime Executive (MSC Irina), iContainers (medidas interiores, pallets, demurrage y detention), BIC (VGM) y Maersk (VGM).
+
+  Imágenes de stock (Pexels): Cyriac von Czapiewski, FÁBIO REIS DE ABREU, K, Andi Farruku, Suraphat Nuea-on, Frank J, LISTOS PARA RODAR | Productora, Tiger Lily y 23 Audiovisual.
+
+  Música original generada para el canal.
+
+  #Contenedores #ComercioExterior #Logistica
+fuentes:
+  - https://epub.sub.uni-hamburg.de/epub/volltexte/2018/78453/pdf/17038_Update_Container_Specification_engl_sRGB.pdf
+  - https://www.hapag-lloyd.com/en/services-information/cargo-fleet/container.html
+  - https://www.maersk.com/support/faqs/reefer-container-temperature-range
+  - https://www.cbs.nl/en-gb/our-services/methods/definitions/teu--twenty-foot-equivalent-unit--
+  - https://maritime-executive.com/article/msc-receives-second-ultra-large-and-this-one-is-the-world-s-largest
+  - https://www.icontainers.com/help/how-many-pallets-fit-in-a-container
+  - https://www.icontainers.com/videos/demurrage-vs-detention-explained/
+  - https://bic-boxtech.org/verified-gross-mass/
+  - https://www.maersk.com/transportation-services/ocean-transport/verified-gross-mass
+creditos:
+  - https://www.pexels.com/video/containers-on-a-cargo-ship-at-port-15187012/
+  - https://www.pexels.com/video/container-ship-in-harbor-13372582/
+  - https://www.pexels.com/video/a-forklift-truck-transferring-a-cargo-container-6618335/
+  - https://www.pexels.com/video/forklift-in-a-warehouse-6194507/
+  - https://www.pexels.com/video/commercial-trucks-lining-up-on-a-weighing-scale-for-crops-valuation-3817901/
+  - https://www.pexels.com/video/a-loaded-grain-truck-entering-a-processing-plant-11564291/
+  - https://www.pexels.com/video/deposito-19896989/
+  - https://www.pexels.com/video/a-man-dragging-a-pallet-cart-4292301/
+  - https://www.pexels.com/video/man-working-on-a-warehouse-14910119/
