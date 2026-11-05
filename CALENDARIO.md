@@ -149,3 +149,7 @@ Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y ampl
 - **Afiliado: Mega Logística Internacional** (CAMEX, Hotmart desde 2018; USD 49,54; comisión 60 %): https://go.hotmart.com/M108343505U
   - Usarlo solo en videos de logística internacional o transporte. Va al final de la descripción como: "Curso recomendado de logística internacional (link de afiliado): …".
   - Siempre aclarar que es un link de afiliado. Nunca prometer resultados ni usar la marca Hotmart. Nada de spam en WhatsApp ni Telegram (reglas de Hotmart).
+- **Afiliado: Mega de Comercio Exterior** (CAMEX, Hotmart ID 1522260, afiliación confirmada): https://go.hotmart.com/P108344299F
+  - Usarlo en videos de importar, exportar, aduana, Incoterms o costos de importación. Va al final de la descripción como: "Curso recomendado de comercio exterior (link de afiliado): https://go.hotmart.com/P108344299F".
+  - No poner los dos cursos CAMEX en el mismo video: logística internacional o transporte → Mega Logística; comercio exterior o aduana → Mega de Comercio Exterior.
+- **Ghost Importer** (ID 2291543): afiliación solicitada el 04/11, esperando aceptación del productor. No usar hasta que esté confirmada.
