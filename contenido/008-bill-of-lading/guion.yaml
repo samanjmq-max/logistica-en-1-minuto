@@ -4,7 +4,7 @@ serie: "Logística en 1 minuto"
 voz: em_alex
 velocidad: 1.1
 pausa: 0.25
-estado: publicado       # piloto -> aprobado -> publicado
+estado: publicado       # piloto -> aprobado -> publicado (render 2)
 chequeo:
   se_lleva: "Saber que el B/L original es el título de la carga (con uno de los tres originales se retira) y elegir sea waybill o telex release cuando hay confianza con el proveedor, para no depender de papeles que se pueden perder."
   util: 4
