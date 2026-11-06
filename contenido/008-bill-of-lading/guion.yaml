@@ -10,7 +10,7 @@ chequeo:
   util: 4
   llamativo: 5
   gancho: "Si perdés este papel, la naviera te puede pedir una garantía del doble de lo que vale tu carga."
-  aprendi: "Si se pierde el original, la naviera no entrega sin carta de indemnidad con garantía bancaria: Swire Shipping pide el 200 % del valor CIF y Maersk en Indonesia hasta el 300 %. Y de los tres originales alcanza con uno para retirar: los otros quedan anulados, por eso hay que controlar el juego completo."
+  aprendi: "Si se pierde el original, la naviera no entrega sin carta de indemnidad con garantía bancaria: Swire Shipping pide el 200 % del valor CIF y Maersk en Indonesia en general el 300 %. Y de los tres originales alcanza con uno para retirar: los otros quedan anulados, por eso hay que controlar el juego completo."
 escenas:
   - grande: "PERDERLO = GARANTÍA 200 %"
     resaltar: "200 %"
@@ -48,7 +48,7 @@ descripcion: |
 
   El Bill of Lading (B/L o conocimiento de embarque) original no es un papel más: es recibo de la carga, prueba del contrato de transporte y título de la mercadería. Quien presenta el original tiene derecho a reclamar la carga en destino.
   · Se emite normalmente en un juego de tres originales. Con uno se retira la carga y los otros quedan anulados ("one of which being accomplished, the others to stand void"). Por eso se controla el juego completo.
-  · Si se pierde, la naviera no entrega sin una carta de indemnidad con garantía bancaria. Ejemplos: Swire Shipping pide una garantía del 200 % del valor CIF; Maersk en Indonesia pide hasta el 300 % del valor de la carga.
+  · Si se pierde, la naviera no entrega sin una carta de indemnidad con garantía bancaria. Ejemplos: Swire Shipping pide una garantía del 200 % del valor CIF; Maersk en Indonesia pide en general el 300 % del valor de la carga.
   · La jugada: si le comprás seguido al mismo proveedor y no pagás con carta de crédito, pedí sea waybill o telex release. El sea waybill no es título: la naviera entrega al destinatario nombrado sin originales.
   · Si es un negocio nuevo o pagás con carta de crédito, B/L original y bien guardado.
 
