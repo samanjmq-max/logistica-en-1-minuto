@@ -57,6 +57,8 @@ def mezclar(voz, sr, semilla=0, nivel=0.12, nivel_con_voz=0.045):
     """Devuelve voz + música, bajando la música cuando suena la voz (ducking)."""
     voz = voz.astype(np.float64)
     musica = generar(len(voz) / sr, sr, semilla)[: len(voz)]
+    if len(musica) < len(voz):  # el redondeo de int(duracion * sr) puede dejarla 1 muestra corta
+        musica = np.pad(musica, (0, len(voz) - len(musica)))
     # envolvente de la voz en ventanas de 50 ms, suavizada
     v = int(0.05 * sr)
     energia = np.sqrt(np.convolve(voz ** 2, np.ones(v) / v, mode="same"))
