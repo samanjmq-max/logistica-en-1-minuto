@@ -1,0 +1,78 @@
+titulo: "BILL OF LADING: si lo perdés, pagás el doble 📄"
+formato: short
+serie: "Logística en 1 minuto"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: publicado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Saber que el B/L original es el título de la carga (con uno de los tres originales se retira) y elegir sea waybill o telex release cuando hay confianza con el proveedor, para no depender de papeles que se pueden perder."
+  util: 4
+  llamativo: 5
+  gancho: "Si perdés este papel, la naviera te puede pedir una garantía del doble de lo que vale tu carga."
+  aprendi: "Si se pierde el original, la naviera no entrega sin carta de indemnidad con garantía bancaria: Swire Shipping pide el 200 % del valor CIF y Maersk en Indonesia hasta el 300 %. Y de los tres originales alcanza con uno para retirar: los otros quedan anulados, por eso hay que controlar el juego completo."
+escenas:
+  - grande: "PERDERLO = GARANTÍA 200 %"
+    resaltar: "200 %"
+    chico: "Bill of Lading (B/L) original · conocimiento de embarque"
+    narracion: "Si perdés este papel, la naviera te puede pedir una garantía bancaria del doble de lo que vale tu carga."
+    clip: https://videos.pexels.com/video-files/6100897/6100897-hd_1080_2048_30fps.mp4
+  - grande: "RECIBO · CONTRATO · TÍTULO"
+    resaltar: "TÍTULO"
+    chico: "Quien presenta el original, reclama la carga"
+    narracion: "Es el Bill of Lading original: recibo, contrato y título. Quien presenta el original, reclama la carga."
+    clip: https://videos.pexels.com/video-files/11336230/11336230-hd_720_1280_30fps.mp4
+  - grande: "3 ORIGINALES → ALCANZA 1"
+    resaltar: "1"
+    chico: "Con uno se entrega la carga y los otros quedan anulados"
+    narracion: "Se emiten tres originales y alcanza con uno para retirar: controlá el juego completo."
+    clip: https://videos.pexels.com/video-files/8814707/8814707-hd_1080_1920_25fps.mp4
+  - grande: "PERDIDO: 200 % CIF"
+    resaltar: "200 %"
+    chico: "Carta de indemnidad + garantía bancaria (Swire Shipping) · Maersk en Indonesia: 300 %"
+    narracion: "Si se pierde, te piden carta de indemnidad con garantía: Swire Shipping exige el doscientos por ciento del valor CIF."
+    clip: https://videos.pexels.com/video-files/12909001/12909001-hd_720_1280_24fps.mp4
+  - grande: "¿CONFIANZA? SEA WAYBILL"
+    resaltar: "SEA WAYBILL"
+    chico: "O telex release: no viajan originales · con carta de crédito, B/L"
+    narracion: "La jugada: si le comprás seguido al proveedor y no hay carta de crédito, pedí sea waybill o telex release. No viajan originales."
+    clip: https://videos.pexels.com/video-files/11801939/11801939-hd_1080_1920_30fps.mp4
+  - grande: "CUIDÁ EL ORIGINAL"
+    chico: "Logística en 1 minuto · Seguinos"
+    narracion: "Si es negocio nuevo, original y bien guardado. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+descripcion: |
+  BILL OF LADING: si lo perdés, pagás el doble 📄
+
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1 (con el cupón LANZAMIENTO la pagás USD 5, hasta el 18/11)
+
+  El Bill of Lading (B/L o conocimiento de embarque) original no es un papel más: es recibo de la carga, prueba del contrato de transporte y título de la mercadería. Quien presenta el original tiene derecho a reclamar la carga en destino.
+  · Se emite normalmente en un juego de tres originales. Con uno se retira la carga y los otros quedan anulados ("one of which being accomplished, the others to stand void"). Por eso se controla el juego completo.
+  · Si se pierde, la naviera no entrega sin una carta de indemnidad con garantía bancaria. Ejemplos: Swire Shipping pide una garantía del 200 % del valor CIF; Maersk en Indonesia pide hasta el 300 % del valor de la carga.
+  · La jugada: si le comprás seguido al mismo proveedor y no pagás con carta de crédito, pedí sea waybill o telex release. El sea waybill no es título: la naviera entrega al destinatario nombrado sin originales.
+  · Si es un negocio nuevo o pagás con carta de crédito, B/L original y bien guardado.
+
+  Ojo: las exigencias cambian según la naviera y el país. Consultá siempre con tu naviera o forwarder.
+
+  Fuentes: Maersk y DCSA (B/L vs. sea waybill), Swire Shipping (B/L perdido), Maersk Indonesia (hoja de información para B/L perdido) y The Maritime Executive (por qué se emiten tres originales).
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  Curso recomendado de comercio exterior (link de afiliado): https://go.hotmart.com/P108344299F
+
+  Imágenes de stock: Katrin Bolovtsova, Glenn Langhorst, Kampus Production, Mizuno K, Mike Hongkong 2 y Cyriac von Czapiewski (Pexels).
+
+  #Shorts #BillOfLading #ComercioExterior #Importar
+fuentes:
+  - https://www.maersk.com/de-de/logistics-explained/shipping-documentation/2023/10/03/difference-bill-of-lading-sea-waybill
+  - https://dcsa.org/newsroom/sea-waybill-vs-bill-of-lading
+  - https://kb.swireshipping.com/hc/en-gb/articles/360036051954-Lost-original-bills-of-lading-What-do-I-do
+  - https://uescpcd.maersk.com/~/media_sc9/maersk/local-information/files/asia-pacific/indonesia/important-information/customer-information-sheet-lost-bl.pdf
+  - https://www.maritime-executive.com/article/why-are-bills-of-lading-issued-in-sets-of-three
+creditos:
+  - https://www.pexels.com/video/a-person-flipping-some-documents-6100897/
+  - https://www.pexels.com/video/container-ship-in-city-bay-11336230/
+  - https://www.pexels.com/video/a-person-signing-documents-8814707/
+  - https://www.pexels.com/video/woman-searching-through-boxes-in-an-office-12909001/
+  - https://www.pexels.com/video/vehicle-carrying-container-in-warehouse-11801939/
+  - https://www.pexels.com/video/containers-on-a-cargo-ship-at-port-15187012/
