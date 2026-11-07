@@ -58,7 +58,7 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 | 006 | Tipos de contenedor: dry, high cube, reefer, open top, flat rack, tanque | No todos los contenedores son iguales | Programado (2026-11-05 19:00) |
 | 007 | TEU y FEU: ¿20 o 40 pies? (peso ÷ volumen) | Un 40 pies carga menos peso que uno de 20 | Publicado (2026-11-06) |
 | 008 | El Bill of Lading | El papel que vale lo mismo que la mercadería | Publicado (2026-11-08 19:00) |
-| 009 | Factura comercial, packing list y certificado de origen | Un error en un papel y la carga queda trabada | Pendiente |
+| 009 | Certificado de origen (se enfocó en uno: factura comercial y packing list quedan para el 036) | Sin el certificado, pagás arancel completo | Publicado (2026-11-09 19:00) |
 | 010 | Avería gruesa | Tu carga llegó perfecta y igual te cobran | Pendiente |
 | 011 | Seguro de carga: cláusulas A, B y C | ¿Qué pasa si se pierde mi mercadería? | Pendiente |
 | 012 | Contenedores que caen al mar | Cuántos se pierden por año | Pendiente (buscar cifra oficial) |

@@ -1,0 +1,85 @@
+titulo: "CERTIFICADO DE ORIGEN: sin él, pagás arancel 📜"
+formato: short
+serie: "Logística en 1 minuto"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: publicado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Revisar el certificado de origen Mercosur antes de que salga la carga (que la descripción y el código arancelario coincidan con la factura, que se haya emitido dentro de los 180 días de la factura y que esté vigente) para no perder la rebaja de arancel."
+  util: 4
+  llamativo: 4
+  gancho: "¿Le compraste a un socio del Mercosur y pagaste arancel completo? Te faltó este papel."
+  aprendi: "El Régimen de Origen Mercosur nuevo (Decisión CMC 05/23, vigente desde el 18/07/2024) cambió los plazos: el certificado vale 12 meses (antes 180 días) y se puede emitir hasta 180 días después de la factura (antes 60). Y si la aduana argentina detecta un error, no se pierde todo: se deja una garantía y hay 30 días corridos para presentar uno nuevo."
+escenas:
+  - grande: "MERCOSUR = MENOS ARANCEL"
+    resaltar: "MENOS ARANCEL"
+    chico: "…solo si probás el origen"
+    narracion: "¿Le compraste a un socio del Mercosur y pagaste arancel completo? Te faltó este papel."
+    clip: https://videos.pexels.com/video-files/20654641/20654641-hd_720_1280_30fps.mp4
+  - grande: "CERTIFICADO DE ORIGEN"
+    resaltar: "ORIGEN"
+    chico: "Sin prueba de origen válida, no hay preferencia arancelaria"
+    narracion: "El certificado de origen prueba que el producto es del Mercosur. Sin él, la aduana no te aplica la rebaja."
+    clip: https://videos.pexels.com/video-files/6100897/6100897-hd_1080_2048_30fps.mp4
+  - grande: "HASTA 180 DÍAS DE LA FACTURA"
+    resaltar: "180 DÍAS"
+    chico: "Régimen de Origen Mercosur · Decisión CMC 05/23 · desde 2024 (antes: 60 días)"
+    narracion: "Regla nueva desde 2024: se emite hasta ciento ochenta días después de la factura,"
+    clip: https://videos.pexels.com/video-files/8814707/8814707-hd_1080_1920_25fps.mp4
+  - grande: "VALE 12 MESES"
+    resaltar: "12 MESES"
+    chico: "Desde que se emite · antes: 180 días"
+    narracion: "y vale doce meses, ya no ciento ochenta días."
+    clip: https://videos.pexels.com/video-files/11801939/11801939-hd_1080_1920_30fps.mp4
+  - grande: "FACTURA = CERTIFICADO"
+    resaltar: "="
+    chico: "Misma descripción y mismo código arancelario"
+    narracion: "Antes de que salga la carga, pedí una copia y comparala con la factura: descripción y código arancelario tienen que coincidir."
+    clip: https://videos.pexels.com/video-files/8298300/8298300-hd_720_1280_25fps.mp4
+  - grande: "¿ERROR? GARANTÍA + 30 DÍAS"
+    resaltar: "30 DÍAS"
+    chico: "Ejemplo Argentina: la aduana pide uno nuevo y vos dejás una garantía"
+    narracion: "Si tiene un error, en Argentina dejás una garantía y tenés treinta días para presentar uno nuevo."
+    clip: https://videos.pexels.com/video-files/6964001/6964001-hd_1080_1920_25fps.mp4
+  - grande: "REVISALO ANTES DE CARGAR"
+    chico: "Logística en 1 minuto · Seguinos"
+    narracion: "Revisalo antes de cargar. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+descripcion: |
+  CERTIFICADO DE ORIGEN: sin él, pagás arancel 📜
+
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1 (con el cupón LANZAMIENTO la pagás USD 5, hasta el 18/11)
+
+  Si le comprás a un país con el que hay un acuerdo comercial (por ejemplo, entre socios del Mercosur), la rebaja de arancel no es automática: hay que probar que el producto es originario. Esa prueba es el certificado de origen. Sin una prueba de origen válida, la aduana no aplica la preferencia arancelaria.
+  · Régimen de Origen Mercosur (Decisión CMC 05/23, vigente desde el 18/07/2024): el certificado se emite dentro de los 180 días desde la factura comercial (antes eran 60) y vale 12 meses desde su emisión (antes, 180 días).
+  · Antes de que salga la carga, pedile al proveedor una copia y comparala con la factura comercial: la descripción del producto y el código arancelario tienen que coincidir.
+  · Si la aduana detecta un error: en Argentina se pide un certificado nuevo, el importador deja una garantía y tiene 30 días corridos para presentarlo.
+  · Novedad: el régimen nuevo permite que cada país habilite también una declaración de origen hecha por el propio exportador. Argentina lo hizo con la Resolución 247/2026 (vigente desde el 26/09/2026): esa declaración indica número y fecha de la factura comercial.
+
+  Ojo: los procedimientos cambian según el país y el acuerdo. Consultá con tu despachante de aduana.
+
+  Fuentes: Centro Despachantes de Aduana de Argentina (CDA, comunicaciones sobre el nuevo Régimen de Origen Mercosur), Aduana News, Dirección Nacional de Aduanas de Uruguay (Comunicado 60/2024) y Resolución 247/2026 de Argentina.
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  Curso recomendado de comercio exterior (link de afiliado): https://go.hotmart.com/P108344299F
+
+  Imágenes de stock: Eric Skaggs, Katrin Bolovtsova, Kampus Production, Mike Hongkong 2, Mikhail Nilov y Cyriac von Czapiewski (Pexels).
+
+  #Shorts #CertificadoDeOrigen #Mercosur #ComercioExterior
+fuentes:
+  - https://www.cda.org.ar/detalle_noticia.php?id=41518
+  - https://www.cda.org.ar/detalle_noticia_imprimir.php?id=41579
+  - https://aduananews.com/el-regimen-de-origen-mercosur-en-adelante-rom/
+  - https://aduanas.gub.uy/innovaportal/file/26814/1/comunicado-60-2024-gestion-de-comercio-exterior.pdf
+  - https://www.derechoenzapatillas.com/2026/origen-mercosur/
+  - https://www.infobae.com/movant/2026/07/23/argentina-simplifica-la-prueba-de-origen-para-exportar-al-mercosur
+creditos:
+  - https://www.pexels.com/video/an-aerial-view-of-a-truck-and-trailer-20654641/
+  - https://www.pexels.com/video/a-person-flipping-some-documents-6100897/
+  - https://www.pexels.com/video/a-person-signing-documents-8814707/
+  - https://www.pexels.com/video/vehicle-carrying-container-in-warehouse-11801939/
+  - https://www.pexels.com/video/a-woman-checking-the-documents-8298300/
+  - https://www.pexels.com/video/a-person-computing-using-a-calculator-6964001/
+  - https://www.pexels.com/video/containers-on-a-cargo-ship-at-port-15187012/
