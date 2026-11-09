@@ -51,17 +51,16 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 
 ### Orden para la semana del 10 al 16/11 (resumen semanal 2026-11-09)
 
-La tarea diaria toma estos temas en este orden, antes que el orden de la tabla, y los programa en el primer día libre a las 19:00 (al 9/11 no hay nada programado para el martes 10/11). Criterio: primero los temas donde el espectador pierde o paga plata (el tipo de gancho que mejor rindió), y rotando series (regla 18).
+La tarea diaria toma estos temas en este orden, antes que el orden de la tabla, y los programa en el primer día libre a las 19:00. El 010 (avería gruesa) ya estaba en producción el 9/11 y va primero; esta lista sigue después de él. Criterio: primero los temas donde el espectador pierde o paga plata (el tipo de gancho que mejor rindió), y rotando series (regla 18).
 
 | Orden | # | Serie | Gancho a usar |
 | --- | --- | --- | --- |
 | 1 | 013 | 1 | La multa que te cobra la naviera por día |
 | 2 | 036 | 2 | Un error en la factura y la carga no sale |
-| 3 | 010 | 1 | Tu carga llegó perfecta y igual te cobran |
-| 4 | 055 | 3 | Comprar el equipo equivocado te come el capital |
-| 5 | 011 | 1 | Si se pierde tu mercadería, ¿quién te la paga? |
-| 6 | 031 | 2 | Pagaste mercadería que nunca entró |
-| 7 | 052 | 3 | Tres datos que te pide cualquier transportista (y el que te cambia el precio) |
+| 3 | 055 | 3 | Comprar el equipo equivocado te come el capital |
+| 4 | 011 | 1 | Si se pierde tu mercadería, ¿quién te la paga? |
+| 5 | 031 | 2 | Pagaste mercadería que nunca entró |
+| 6 | 052 | 3 | Tres datos que te pide cualquier transportista (y el que te cambia el precio) |
 
 El 037 (demurrage como problema real) queda después del 013 para no repetir tema la misma semana.
 
