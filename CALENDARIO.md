@@ -27,7 +27,7 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 
 ## Reglas de calidad (crítica interna antes de producir)
 
-1. **Gancho en la primera frase:** una pregunta o un dato que sorprenda. Nada de introducciones.
+1. **Gancho en la primera frase:** una pregunta o un dato que sorprenda. Nada de introducciones. **El gancho dice qué pierde o qué paga el espectador** (plata, carga, tiempo): "¿quién pierde?", "te cobran", "pagás el doble". Nada de ganchos de lista o descriptivos ("6 X que tenés que conocer", "¿carga el doble?"). *(Revisión 2026-11-09, datos de Instagram: el 004 "Si el barco se hunde, ¿quién pierde?" fue el mejor: 141 vistas y 52,6 % pasó los 3 s. Los descriptivos rindieron peor: 007 "¿carga el doble?" 18,3 % pasó los 3 s; 006 "6 contenedores" 3,8 s de promedio; 002 "el viaje" 3,6 s. Muestra chica: se revisa el 16/11.)*
 2. **Un concepto por video.** Si hacen falta dos, son dos videos.
 3. **Un dato concreto y con fuente** en cada video: un número, una norma, un caso real.
 4. **Visual que explica:** códigos resaltados, cifras grandes, comparaciones. El texto en pantalla aporta, no repite la voz.
@@ -49,13 +49,29 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 
 ## Temas (en orden de producción)
 
+### Orden para la semana del 10 al 16/11 (resumen semanal 2026-11-09)
+
+La tarea diaria toma estos temas en este orden, antes que el orden de la tabla, y los programa en el primer día libre a las 19:00 (al 9/11 no hay nada programado para el martes 10/11). Criterio: primero los temas donde el espectador pierde o paga plata (el tipo de gancho que mejor rindió), y rotando series (regla 18).
+
+| Orden | # | Serie | Gancho a usar |
+| --- | --- | --- | --- |
+| 1 | 013 | 1 | La multa que te cobra la naviera por día |
+| 2 | 036 | 2 | Un error en la factura y la carga no sale |
+| 3 | 010 | 1 | Tu carga llegó perfecta y igual te cobran |
+| 4 | 055 | 3 | Comprar el equipo equivocado te come el capital |
+| 5 | 011 | 1 | Si se pierde tu mercadería, ¿quién te la paga? |
+| 6 | 031 | 2 | Pagaste mercadería que nunca entró |
+| 7 | 052 | 3 | Tres datos que te pide cualquier transportista (y el que te cambia el precio) |
+
+El 037 (demurrage como problema real) queda después del 013 para no repetir tema la misma semana.
+
 | # | Tema | Gancho | Estado |
 | --- | --- | --- | --- |
-| 002 | El viaje de tu celular | Muchos celulares caros vuelan, no navegan | Programado (2026-11-02 19:00) |
+| 002 | El viaje de tu celular | Muchos celulares caros vuelan, no navegan | Publicado (2026-11-02) |
 | 003 | Qué significan las letras de un contenedor (ISO 6346) | Si sabés leerlo, sabés de quién es | Publicado (2026-11-01) |
-| 004 | Incoterms: EXW, FOB y CIF | ¿Quién paga si el barco se hunde? | Programado (2026-11-03 19:00) |
-| 005 | Incoterms: DAP y DDP | El Incoterm que te puede fundir | Programado (2026-11-04 19:00) |
-| 006 | Tipos de contenedor: dry, high cube, reefer, open top, flat rack, tanque | No todos los contenedores son iguales | Programado (2026-11-05 19:00) |
+| 004 | Incoterms: EXW, FOB y CIF | ¿Quién paga si el barco se hunde? | Publicado (2026-11-03) |
+| 005 | Incoterms: DAP y DDP | El Incoterm que te puede fundir | Publicado (2026-11-04) |
+| 006 | Tipos de contenedor: dry, high cube, reefer, open top, flat rack, tanque | No todos los contenedores son iguales | Publicado (2026-11-05) |
 | 007 | TEU y FEU: ¿20 o 40 pies? (peso ÷ volumen) | Un 40 pies carga menos peso que uno de 20 | Publicado (2026-11-06) |
 | 008 | El Bill of Lading | El papel que vale lo mismo que la mercadería | Publicado (2026-11-08 19:00) |
 | 009 | Certificado de origen (se enfocó en uno: factura comercial y packing list quedan para el 036) | Sin el certificado, pagás arancel completo | Publicado (2026-11-09 19:00) |
@@ -134,8 +150,8 @@ Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y ampl
 
 | # | Tema | Estado |
 | --- | --- | --- |
-| L01 | Incoterms 2020: los 11 explicados y los 5 errores que te hacen perder plata | Programado (2026-11-05 20:30, 8:04 min) |
-| L02 | Contenedores: tipos, medidas, TEU y cómo elegir 20 o 40 pies | Programado (2026-11-06 20:30, 8:32 min) |
+| L01 | Incoterms 2020: los 11 explicados y los 5 errores que te hacen perder plata | Publicado (2026-11-04 20:30, 8:04 min; falta la miniatura) |
+| L02 | Contenedores: tipos, medidas, TEU y cómo elegir 20 o 40 pies | Publicado (2026-11-06 20:30, 8:32 min) |
 | L03 | Cómo importar por primera vez desde Uruguay, paso a paso | Pendiente |
 | L02b | ¿AUTOELEVADOR o transpaleta? Cómo elegir el equipo para tu depósito (sin gastar de más) | Pendiente (prioridad: alimenta el ebook 2) |
 | L04 | Los 10 problemas más caros de un depósito y cómo resolverlos | Pendiente |
