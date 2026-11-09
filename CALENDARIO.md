@@ -151,9 +151,12 @@ Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y ampl
 | --- | --- | --- |
 | L01 | Incoterms 2020: los 11 explicados y los 5 errores que te hacen perder plata | Publicado (2026-11-04 20:30, 8:04 min; falta la miniatura) |
 | L02 | Contenedores: tipos, medidas, TEU y cómo elegir 20 o 40 pies | Publicado (2026-11-06 20:30, 8:32 min) |
-| L03 | Cómo importar por primera vez desde Uruguay, paso a paso | Pendiente |
+| L03 | PRIMERA IMPORTACIÓN: los 7 pasos para importar a Uruguay sin pagar de más | Producido (programado 2026-11-10 20:30) |
 | L02b | ¿AUTOELEVADOR o transpaleta? Cómo elegir el equipo para tu depósito (sin gastar de más) | Pendiente (prioridad: alimenta el ebook 2) |
 | L04 | Los 10 problemas más caros de un depósito y cómo resolverlos | Pendiente |
+| L05 | DEMURRAGE y detention: cómo no pagar días de contenedor y cómo negociar los días libres | Pendiente |
+| L06 | EXPORTAR DESDE Uruguay por primera vez: pasos, documentos y certificado de origen | Pendiente |
+| L07 | INVENTARIO SIN errores: cómo hacer un conteo cíclico en tu depósito paso a paso | Pendiente |
 
 ## Producto propio y afiliados (links para las descripciones)
 

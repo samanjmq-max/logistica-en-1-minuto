@@ -1,0 +1,289 @@
+titulo: "PRIMERA IMPORTACIÓN: los 7 pasos para importar a Uruguay sin pagar de más 📦"
+formato: largo
+serie: "Guías completas"
+voz: em_alex
+velocidad: 1.0
+pausa: 0.35
+estado: aprobado
+chequeo:
+  se_lleva: "Importar a Uruguay por primera vez siguiendo 7 pasos en orden (código, permisos, despachante, Incoterm y seguro, documentos, DUA y canal, cuenta de tributos) y calcular cuánta plata necesita en caja el día del despacho."
+  util: 5
+  llamativo: 4
+  gancho: "Aunque no contrates seguro, la aduana te lo cobra igual: te suma el 1 % del FOB al valor."
+  aprendi: "Si no hay seguro, el procedimiento del DUA digital de la DNA manda declarar el 1 % del FOB. El IVA de importación (22 %) y el anticipo (10 %) se calculan sobre el valor en aduana MÁS el arancel, y si importa un no contribuyente esa base sube un 50 %. En enero a mayo de 2026 el canal verde liberó en 0 horas y el naranja y el rojo en unas 35 horas promedio."
+miniatura:
+  arriba: "IMPORTAR A URUGUAY"
+  abajo: "7 pasos sin pagar de más"
+escenas:
+  # --- Intro
+  - capitulo: "Lo que te cobran aunque no lo pidas"
+    grande: "SIN SEGURO = +1 % FOB"
+    resaltar: "+1 % FOB"
+    chico: "Si no contrataste seguro, la aduana suma igual el 1 % del valor FOB"
+    narracion: "Si importás sin contratar seguro, la aduana te lo cobra igual. Te suma el uno por ciento del valor FOB, y sobre eso pagás arancel e impuestos. Y es solo una de las sorpresas de la primera importación."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+  - grande: "EN ESTE VIDEO"
+    chico: "7 pasos en orden · ejemplo con números · cuánta plata tener en caja · 5 errores"
+    narracion: "En este video vas a ver los siete pasos para importar a Uruguay por primera vez, en el orden correcto. Vas a ver qué papeles necesitás, cómo se calculan los tributos con un ejemplo real con números, cuánta plata tenés que tener en caja el día del despacho, y los cinco errores que más caro le salen al que arranca."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+  - grande: "PRIMERO, LO QUE NO SE VE"
+    chico: "La mayoría de los problemas se generan antes de comprar"
+    narracion: "La idea clave es esta: casi todo lo que sale mal en una importación se decide antes de comprar, no cuando el contenedor llega al puerto. Por eso los primeros pasos son de escritorio."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+  # --- Paso 1
+  - capitulo: "Paso 1: el código arancelario"
+    grande: "PASO 1: EL CÓDIGO"
+    resaltar: "CÓDIGO"
+    chico: "Nomenclatura Común del Mercosur (NCM), basada en el Sistema Armonizado"
+    narracion: "Paso uno: averiguar el código arancelario de tu producto. En el Mercosur se usa la Nomenclatura Común del Mercosur, la NCM, que está basada en el Sistema Armonizado. En Uruguay, la tabla oficial está estructurada a diez dígitos."
+    clip: https://videos.pexels.com/video-files/6657743/6657743-hd_1366_720_25fps.mp4
+  - grande: "EL CÓDIGO DECIDE"
+    chico: "El arancel · los permisos · si el origen te da una rebaja"
+    narracion: "¿Por qué es lo primero? Porque ese código decide todo lo demás: cuánto arancel pagás, si necesitás un permiso de algún ministerio, y si el origen del producto te puede dar una rebaja. Si el código está mal, la cuenta entera está mal."
+    clip: https://videos.pexels.com/video-files/6657743/6657743-hd_1366_720_25fps.mp4
+    desde: 6
+  - grande: "INTRA ZONA · EXTRA ZONA"
+    resaltar: "INTRA ZONA"
+    chico: "La tabla NCM trae columnas distintas según de dónde venga la mercadería"
+    narracion: "Un detalle que pocos miran: la tabla de la NCM tiene columnas separadas para la mercadería que viene de dentro del Mercosur y para la que viene de afuera. Por eso, comprarle a Brasil o a China no cuesta lo mismo, aunque el producto sea idéntico."
+    clip: https://videos.pexels.com/video-files/17899033/17899033-hd_1920_1080_24fps.mp4
+  - grande: "PEDILO POR ESCRITO"
+    chico: "Que tu despachante te confirme el código antes de comprar"
+    narracion: "El consejo práctico: pedile a tu despachante que te confirme el código por escrito, con la descripción técnica del producto, antes de cerrar la compra. No después."
+    clip: https://videos.pexels.com/video-files/7841671/7841671-hd_1280_720_30fps.mp4
+  # --- Paso 2
+  - capitulo: "Paso 2: permisos previos y la VUCE"
+    grande: "PASO 2: PERMISOS"
+    resaltar: "PERMISOS"
+    chico: "Alimentos, cosméticos, equipos de radio, químicos: pueden necesitar autorización"
+    narracion: "Paso dos: los permisos previos. Hay productos que no entran solo pagando. Alimentos, productos de origen animal, medicamentos, equipos de radio o ciertos químicos pueden necesitar una autorización de un organismo antes de despachar."
+    clip: https://videos.pexels.com/video-files/10416700/10416700-hd_1280_720_50fps.mp4
+  - grande: "VUCE: 30 AGENCIAS"
+    resaltar: "30"
+    chico: "Ventanilla Única de Comercio Exterior · 239 procesos disponibles (diciembre de 2024)"
+    narracion: "En Uruguay esos trámites se hacen en la VUCE, la Ventanilla Única de Comercio Exterior. A diciembre de dos mil veinticuatro tenía treinta agencias integradas, como el Ministerio de Ganadería, el de Salud Pública, la URSEC o el Ministerio de Ambiente, y doscientos treinta y nueve procesos disponibles."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+    desde: 5
+  - grande: "ANTES DE PAGAR"
+    chico: "Si el permiso tarda, tu carga espera en el puerto (y eso cuesta)"
+    narracion: "La regla es simple: el permiso se averigua antes de pagarle al proveedor. Si te enterás cuando la carga ya llegó, la mercadería queda esperando en el puerto, y cada día de espera lo pagás vos."
+    clip: https://videos.pexels.com/video-files/6618335/6618335-hd_1280_720_24fps.mp4
+  # --- Paso 3
+  - capitulo: "Paso 3: tu empresa y el despachante"
+    grande: "PASO 3: RUT + IVA"
+    resaltar: "RUT"
+    chico: "Empresa inscripta en DGI y, mejor, como contribuyente de IVA"
+    narracion: "Paso tres: preparar tu empresa. Para importar con fines comerciales necesitás estar inscripto en la DGI, con tu RUT. Y lo ideal es importar como contribuyente de IVA. Ya vas a ver por qué eso cambia mucho la cuenta."
+    clip: https://videos.pexels.com/video-files/8426060/8426060-hd_1280_720_25fps.mp4
+  - grande: "DESPACHANTE"
+    chico: "Código Aduanero, art. 15: solo sin despachante en casos puntuales"
+    narracion: "Después, el despachante de aduana. El Código Aduanero uruguayo dice en qué casos no hace falta: por ejemplo, envíos expresos de hasta doscientos dólares, muestras de hasta quinientos, o equipaje. Para una importación comercial normal, vas con despachante."
+    clip: https://videos.pexels.com/video-files/8170593/8170593-hd_1920_1080_25fps.mp4
+  - grande: "RESPONDE CON VOS"
+    chico: "Art. 27: el despachante responde solidariamente por los tributos"
+    narracion: "Y no es un simple gestor. Según el artículo veintisiete del Código, el despachante responde en forma solidaria con vos por los tributos. Por eso te va a pedir los papeles bien hechos. Elegilo antes de comprar y pedile un presupuesto por escrito con sus honorarios."
+    clip: https://videos.pexels.com/video-files/8170593/8170593-hd_1920_1080_25fps.mp4
+    desde: 2
+  # --- Paso 4
+  - capitulo: "Paso 4: Incoterm y seguro"
+    grande: "PASO 4: EL INCOTERM"
+    resaltar: "INCOTERM"
+    chico: "FOB, CIF, EXW…: define quién paga el flete y el seguro y dónde pasa el riesgo"
+    narracion: "Paso cuatro: comprar con el Incoterm correcto. Las tres letras de tu factura, como FOB o CIF, definen quién paga el flete, quién paga el seguro y en qué punto el riesgo pasa a ser tuyo. Tenemos un video completo de Incoterms en el canal."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 4
+  - grande: "VALOR EN ADUANA ≈ CIF"
+    resaltar: "CIF"
+    chico: "Mercadería + flete + seguro hasta Uruguay"
+    narracion: "¿Por qué importa tanto? Porque los tributos no se calculan sobre lo que le pagaste al proveedor, sino sobre el valor en aduana. En la práctica, es la mercadería, más el flete, más el seguro hasta Uruguay. Lo que se llama valor CIF."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+    desde: 6
+  - grande: "1 % DEL FOB"
+    resaltar: "1 %"
+    chico: "Procedimiento del DUA digital (DNA): sin seguro, se declara el 1 % del FOB"
+    narracion: "Y acá vuelve el gancho del principio. Según el procedimiento de la Dirección Nacional de Aduanas para el DUA digital, si no contrataste seguro se declara el uno por ciento del valor FOB. O sea: pagás tributos sobre un seguro que no tenés. Y si la carga se pierde, no te cubre nada."
+    clip: https://videos.pexels.com/video-files/3365496/3365496-hd_1920_1080_30fps.mp4
+  - grande: "CONTRATÁ EL SEGURO"
+    chico: "Así el valor declarado es real y la carga queda cubierta"
+    narracion: "Conclusión: contratá el seguro de transporte y pedí el certificado. Así el valor que declarás es el real, y si la carga se daña o se pierde, estás cubierto de verdad."
+    clip: https://videos.pexels.com/video-files/7841671/7841671-hd_1280_720_30fps.mp4
+    desde: 4
+  # --- Paso 5
+  - capitulo: "Paso 5: los documentos"
+    grande: "PASO 5: LOS PAPELES"
+    resaltar: "PAPELES"
+    chico: "Factura comercial · conocimiento de embarque · lista de empaque"
+    narracion: "Paso cinco: los documentos. Los básicos son tres. La factura comercial del proveedor. El conocimiento de embarque, o la guía aérea si viene en avión. Y la lista de empaque, que para carga en contenedor es obligatoria."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+    desde: 9
+  - grande: "+ ORIGEN · FLETE · SEGURO"
+    chico: "Certificado de origen si pedís una rebaja · factura de flete y póliza si no van en la factura"
+    narracion: "Según el caso, suman otros. El certificado de origen, si querés una rebaja de arancel por el origen del producto. Y la factura del flete y el certificado de seguro, si esos costos no vienen incluidos en la factura comercial."
+    clip: https://videos.pexels.com/video-files/6657743/6657743-hd_1366_720_25fps.mp4
+    desde: 12
+  - grande: "QUE TODO COINCIDA"
+    chico: "Descripción, cantidades, pesos y valores iguales en todos los papeles"
+    narracion: "El truco está en revisar que todo coincida: la descripción, las cantidades, los pesos y los valores tienen que ser iguales en todos los papeles. Pedile al proveedor los borradores antes del embarque y pasáselos a tu despachante. Corregir un papel antes de que salga el barco es gratis; después, cuesta días."
+    clip: https://videos.pexels.com/video-files/6657743/6657743-hd_1366_720_25fps.mp4
+    desde: 2
+  - grande: "SUSCRIBITE"
+    chico: "Ahora viene la cuenta: cuánta plata necesitás el día del despacho"
+    narracion: "Si esto ya te está sirviendo, suscribite, porque ahora viene la parte que más plata te ahorra: cómo funciona el despacho, y la cuenta exacta de cuánta plata tenés que tener en caja para retirar tu mercadería."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+  # --- Paso 6
+  - capitulo: "Paso 6: el DUA y los canales"
+    grande: "PASO 6: EL DUA"
+    resaltar: "DUA"
+    chico: "Lo presenta el despachante en el sistema LUCIA; lo firman él y el importador"
+    narracion: "Paso seis: el despacho. Tu despachante presenta el DUA, el documento único aduanero, en el sistema informático de la aduana, que se llama LUCIA. Va con una declaración jurada firmada por el despachante y por vos, el importador."
+    clip: https://videos.pexels.com/video-files/11564291/11564291-hd_1280_720_30fps.mp4
+  - grande: "VERDE · NARANJA · ROJO"
+    resaltar: "NARANJA"
+    chico: "Verde: OK automático · Naranja: revisión de documentos · Rojo: documentos y mercadería"
+    narracion: "Después, el sistema le asigna un canal. En canal verde, el OK es automático. En naranja, un funcionario revisa los documentos. Y en rojo, revisa los documentos y además la mercadería, en forma física."
+    clip: https://videos.pexels.com/video-files/6618335/6618335-hd_1280_720_24fps.mp4
+    desde: 6
+  - grande: "VERDE: 0 H · ROJO: 35 H"
+    resaltar: "35 H"
+    chico: "Horas promedio de liberación, enero a mayo de 2026 (DNA)"
+    narracion: "¿Cuánto cambia? Según datos de la propia aduana de enero a mayo de dos mil veintiséis, el canal verde liberó en cero horas promedio. El naranja y el rojo, en unas treinta y cinco horas. Más de un día de diferencia, solo por cómo llegaron tus papeles."
+    clip: https://videos.pexels.com/video-files/3817901/3817901-hd_1280_720_30fps.mp4
+  - grande: "NO LO ELEGÍS, PERO…"
+    chico: "Papeles prolijos y que coincidan: menos chances de demoras"
+    narracion: "El canal no lo elegís vos. Pero si te toca naranja o rojo, lo que define si salís rápido es que los papeles estén completos y coincidan con la carga. Por eso el paso cinco es el que más tiempo te ahorra."
+    clip: https://videos.pexels.com/video-files/19896989/19896989-hd_1280_720_25fps.mp4
+  # --- Paso 7
+  - capitulo: "Paso 7: la cuenta de los tributos"
+    grande: "PASO 7: LA CUENTA"
+    resaltar: "CUENTA"
+    chico: "Arancel · IVA 22 % · anticipo de IVA 10 % · tasas"
+    narracion: "Paso siete, el más importante: hacer la cuenta antes de comprar. Los tributos principales son tres: el arancel, que depende del código; el IVA, que en la tasa básica es del veintidós por ciento; y el anticipo de IVA, que para esos bienes es del diez por ciento. Además hay tasas, que te liquida el despachante."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+    desde: 6
+  - grande: "VALOR + ARANCEL"
+    resaltar: "+ ARANCEL"
+    chico: "IVA y anticipo se calculan sobre el valor en aduana MÁS el arancel"
+    narracion: "Y acá está la trampa de la base: el IVA y el anticipo no se calculan sobre el valor en aduana solo, sino sobre el valor en aduana más el arancel. O sea, pagás impuesto sobre el impuesto. Lo dicen el título de IVA y su decreto reglamentario."
+    clip: https://videos.pexels.com/video-files/6657743/6657743-hd_1366_720_25fps.mp4
+    desde: 8
+  - grande: "EJEMPLO: CHINA → MVD"
+    chico: "FOB 10.000 + flete 1.500 + seguro 100 = 11.600 USD (números redondos)"
+    narracion: "Vamos al ejemplo, con números redondos. Una pyme de Montevideo compra a China mercadería por diez mil dólares FOB. El flete hasta Montevideo cuesta mil quinientos, y el seguro, cien. El valor en aduana queda en once mil seiscientos dólares."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 8
+  - grande: "ARANCEL: 1.160"
+    resaltar: "1.160"
+    chico: "Supongamos un arancel del 10 % para su código: 11.600 × 10 %"
+    narracion: "Supongamos que su código paga diez por ciento de arancel; el tuyo puede ser otro. Diez por ciento de once mil seiscientos son mil ciento sesenta dólares. Sumados, la base para el IVA queda en doce mil setecientos sesenta."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+    desde: 10
+  - grande: "IVA 2.807 + ANTICIPO 1.276"
+    resaltar: "1.276"
+    chico: "22 % y 10 % de 12.760 USD"
+    narracion: "El IVA, veintidós por ciento de doce mil setecientos sesenta, da dos mil ochocientos siete dólares. Y el anticipo de IVA, diez por ciento de la misma base, mil doscientos setenta y seis."
+    clip: https://videos.pexels.com/video-files/7183495/7183495-hd_2048_1080_24fps.mp4
+  - grande: "5.243 USD EN CAJA"
+    resaltar: "5.243"
+    chico: "Arancel + IVA + anticipo, sin contar tasas, despachante, puerto y flete interno"
+    narracion: "Total: cinco mil doscientos cuarenta y tres dólares solo en esos tres tributos. Es más de la mitad de lo que pagaste por la mercadería. Y todavía faltan las tasas, los honorarios del despachante, los gastos de puerto y el camión hasta tu depósito."
+    clip: https://videos.pexels.com/video-files/17899033/17899033-hd_1920_1080_24fps.mp4
+    desde: 3
+  - grande: "COSTO ≠ CAJA"
+    chico: "Si sos contribuyente, el IVA y el anticipo se descuentan después: el arancel no"
+    narracion: "Ahora, la diferencia entre costo y caja. Si sos contribuyente de IVA, el IVA y el anticipo que pagaste en la aduana después los descontás en tus declaraciones; confirmalo con tu contador. El arancel, en cambio, es costo puro. Pero los tres los tenés que tener en la cuenta el día del despacho."
+    clip: https://videos.pexels.com/video-files/7841671/7841671-hd_1280_720_30fps.mp4
+    desde: 4
+  - grande: "NO CONTRIBUYENTE: +50 %"
+    resaltar: "+50 %"
+    chico: "Título de IVA, art. 13: la base se incrementa un 50 % si importa un no contribuyente"
+    narracion: "¿Y si importás sin ser contribuyente de IVA? El artículo trece del título de IVA dice que, en ese caso, la base del impuesto se incrementa un cincuenta por ciento. Por eso, antes de tu primera importación, hablá con tu contador sobre cómo estás inscripto."
+    clip: https://videos.pexels.com/video-files/8426060/8426060-hd_1280_720_25fps.mp4
+  # --- Errores
+  - capitulo: "Los 5 errores más caros"
+    grande: "ERROR 1"
+    chico: "Comprar antes de confirmar el código y los permisos"
+    narracion: "Y ahora, los cinco errores más caros de la primera importación. Uno: comprar antes de confirmar el código y los permisos. Es el error que deja la carga trabada en el puerto."
+    clip: https://videos.pexels.com/video-files/6618335/6618335-hd_1280_720_24fps.mp4
+    desde: 12
+  - grande: "ERROR 2"
+    chico: "Calcular los tributos sobre el precio FOB"
+    narracion: "Dos: calcular los tributos sobre el precio que le pagaste al proveedor. La base es el valor en aduana, con flete y seguro, y para el IVA se le suma el arancel."
+    clip: https://videos.pexels.com/video-files/3817901/3817901-hd_1280_720_30fps.mp4
+    desde: 20
+  - grande: "ERROR 3"
+    chico: "No contratar seguro para ahorrar"
+    narracion: "Tres: no contratar seguro para ahorrar. Te suman el uno por ciento del FOB igual, y la carga viaja sin cobertura."
+    clip: https://videos.pexels.com/video-files/3365496/3365496-hd_1920_1080_30fps.mp4
+    desde: 6
+  - grande: "ERROR 4"
+    chico: "Papeles que no coinciden entre sí"
+    narracion: "Cuatro: papeles que no coinciden entre sí, o con la carga. Si te toca canal naranja o rojo, eso es lo que te deja días esperando."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+    desde: 3
+  - grande: "ERROR 5"
+    chico: "No tener la plata de los tributos y del IVA en caja"
+    narracion: "Y cinco: no tener la plata en caja. Aunque el IVA lo recuperes después, se paga antes de retirar. Si no lo tenés, la mercadería espera, y el depósito del puerto y los días del contenedor se cobran."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+    desde: 10
+  # --- Cierre
+  - capitulo: "Resumen"
+    grande: "RESUMEN"
+    chico: "Código · permisos · RUT y despachante · Incoterm y seguro · papeles · DUA · la cuenta"
+    narracion: "En resumen: código, permisos, empresa y despachante, Incoterm y seguro, papeles que coincidan, DUA, y la cuenta hecha antes de comprar. Los primeros cinco pasos se hacen antes de pagarle al proveedor."
+    clip: https://videos.pexels.com/video-files/18749847/18749847-hd_1920_1080_60fps.mp4
+  - grande: "LOGÍSTICA EN 1 MINUTO"
+    chico: "Guía + planilla para comparar cotizaciones: link en la descripción"
+    narracion: "Si vas a importar, en la descripción tenés una guía con una planilla para comparar cotizaciones puestas en tu depósito. Esto fue Logística en 1 Minuto. Suscribite, y contame en los comentarios qué querés importar."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+    desde: 6
+descripcion: |
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1 (con el cupón LANZAMIENTO la pagás USD 5, hasta el 18/11)
+
+  ¿Tu primera importación a Uruguay? Aunque no contrates seguro, la aduana te suma igual el 1 % del FOB. En este video, los 7 pasos en orden: código arancelario (NCM), permisos previos en la VUCE, RUT y despachante, Incoterm y seguro, documentos, DUA y canales, y la cuenta de los tributos con un ejemplo China → Montevideo. Más los 5 errores más caros.
+
+  Datos clave (Uruguay):
+  · Sin seguro contratado se declara el 1 % del valor FOB (procedimiento de importación con DUA digital, DNA).
+  · IVA: tasa básica 22 %, mínima 10 % (Título 10 del Texto Ordenado DGI 2023, art. 34). En la importación se aplica sobre el valor en aduana más el arancel (art. 13); si importa un no contribuyente, esa base se incrementa un 50 %.
+  · Anticipo de IVA en la importación: 10 % para bienes a tasa básica y 3 % para tasa mínima, sobre el valor en aduana más el arancel (Decreto 220/998, art. 115).
+  · Despachante: el Código Aduanero (Ley 19.276, art. 15) lista los casos sin despachante, por ejemplo envíos expresos de hasta USD 200 y muestras de hasta USD 500. Art. 27: el despachante responde solidariamente por los tributos.
+  · Canales: verde (OK automático), naranja (revisión documental) y rojo (documental y física). Enero a mayo de 2026: el verde liberó en 0 h promedio; el naranja en 35,19 h y el rojo en 35,12 h (DNA, "Agilidad en controles").
+  · VUCE: 30 agencias integradas y 239 procesos disponibles a diciembre de 2024.
+  Ojo: el ejemplo usa números redondos y un arancel supuesto del 10 %; el tuyo depende del código de tu producto. Las tasas, el arancel y el tratamiento del IVA de tu caso los confirman tu despachante y tu contador.
+
+  Fuentes: IMPO (Texto Ordenado DGI 2023 Título 10, Decreto 220/998, Código Aduanero Ley 19.276), Dirección Nacional de Aduanas (procedimiento DUA digital, agilidad en controles 2026), VUCE (resultados 2024) y Uruguay XXI (NCM).
+
+  Imágenes de stock (Pexels): Cyriac von Czapiewski, FÁBIO REIS DE ABREU, Thanh Văn, Suraphat Nuea-on, EJ Merl, Alex Kad, Kmeel.com Videos, Kampus Production, RDNE Stock project, Sosa Films, LOC THAI, K, Mikhail Nilov, Kaboompics, Frank J, LISTOS PARA RODAR | Productora, Tiger Lily y 23 Audiovisual.
+
+  Música original generada para el canal.
+
+  Curso recomendado de comercio exterior (link de afiliado): https://go.hotmart.com/P108344299F
+
+  #Importar #ComercioExterior #Uruguay
+fuentes:
+  - https://www.aduanas.gub.uy/innovaportal/file/10163/1/procedimiento_dua_digital_-_importacion.pdf
+  - https://www.aduanas.gub.uy/innovaportal/file/9989/1/procedimiento_de_importacion_dua_digital.pdf
+  - https://www.aduanas.gub.uy/innovaportal/file/28322/1/agilidad-en-controles---enero-a-mayo-2026.pdf
+  - https://www.impo.com.uy/bases/todgi-2023/10-2024
+  - https://www.impo.com.uy/bases/decretos/220-1998/115
+  - https://www.impo.com.uy/bases/codigo-aduanero/19276-2014
+  - https://vuce.gub.uy/wp-content/uploads/2025/01/RESULTADOS-VUCE-Dic-2024.pdf
+  - https://www.uruguayxxi.gub.uy/uploads/rutarecurso/97c722197e436fe588de6243b4cc6da06c01ba5e.pdf
+  - https://yo-facturo.com/blog/como-importar-a-uruguay/
+creditos:
+  - https://www.pexels.com/video/containers-on-a-cargo-ship-at-port-15187012/
+  - https://www.pexels.com/video/container-ship-in-harbor-13372582/
+  - https://www.pexels.com/video/production-line-machine-part-10416700/
+  - https://www.pexels.com/video/a-man-loading-cement-on-a-delivery-truck-3365496/
+  - https://www.pexels.com/video/a-semi-truck-is-driving-down-the-road-17899033/
+  - https://www.pexels.com/video/semi-truck-climbing-a-mountain-on-west-coast-in-oregon-18749847/
+  - https://www.pexels.com/video/aerial-shot-of-a-highway-7183495/
+  - https://www.pexels.com/video/group-of-people-shaking-hands-8170593/
+  - https://www.pexels.com/video/men-closing-a-business-deal-8426060/
+  - https://www.pexels.com/video/a-man-signing-a-document-7841671/
+  - https://www.pexels.com/video/person-holding-documents-8731324/
+  - https://www.pexels.com/video/a-person-using-magnifying-glass-on-documents-6657743/
+  - https://www.pexels.com/video/a-forklift-truck-transferring-a-cargo-container-6618335/
+  - https://www.pexels.com/video/forklift-in-a-warehouse-6194507/
+  - https://www.pexels.com/video/commercial-trucks-lining-up-on-a-weighing-scale-for-crops-valuation-3817901/
+  - https://www.pexels.com/video/a-loaded-grain-truck-entering-a-processing-plant-11564291/
+  - https://www.pexels.com/video/deposito-19896989/
