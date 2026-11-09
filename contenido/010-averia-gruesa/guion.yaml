@@ -1,0 +1,82 @@
+titulo: "AVERÍA GRUESA: tu carga llegó sana y pagás igual ⚓"
+formato: short
+serie: "Logística en 1 minuto"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: publicado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Saber que si la naviera declara avería gruesa no le entregan el contenedor hasta dar una garantía, y confirmar antes de embarcar que su póliza de carga cubre avería gruesa y salvamento para no poner efectivo."
+  util: 4
+  llamativo: 5
+  gancho: "Tu contenedor llegó perfecto y la naviera no te lo entrega."
+  aprendi: "En el incendio del Maersk Honam (2018) pidieron 42,5 % de garantía de salvamento más 11,5 % de avería gruesa: 54 % del valor de la carga, también para los contenedores sanos. Y el asegurado no firma la Average Guarantee: la firma la aseguradora; el dueño de la carga firma solo el Average Bond. Sin seguro, el depósito es en efectivo y se calcula sobre el valor CFR (mercadería + flete)."
+escenas:
+  - grande: "LLEGÓ SANA Y NO TE LA DAN"
+    resaltar: "NO TE LA DAN"
+    chico: "Tu contenedor, retenido en el puerto"
+    narracion: "Tu contenedor llegó perfecto y la naviera no te lo entrega. ¿Por qué? Avería gruesa."
+    clip: https://videos.pexels.com/video-files/10622135/10622135-hd_720_1280_30fps.mp4
+  - grande: "AVERÍA GRUESA"
+    resaltar: "GRUESA"
+    chico: "Reglas de York-Amberes (revisión 2016) · las incluye el conocimiento de embarque"
+    narracion: "Si el barco gasta o sacrifica algo para salvar el viaje, todos los dueños de la carga pagan una parte. Aunque tu carga esté intacta."
+    clip: https://videos.pexels.com/video-files/11336230/11336230-hd_720_1280_30fps.mp4
+  - grande: "54 % DEL VALOR"
+    resaltar: "54 %"
+    chico: "Maersk Honam, incendio 2018: 42,5 % salvamento + 11,5 % avería gruesa"
+    narracion: "En el incendio del Maersk Honam, en 2018, pidieron garantías por el cincuenta y cuatro por ciento del valor de la carga."
+    clip: https://videos.pexels.com/video-files/10451891/10451891-hd_720_1280_30fps.mp4
+  - grande: "SIN SEGURO: PONÉS EFECTIVO"
+    resaltar: "EFECTIVO"
+    chico: "Depósito en efectivo + Average Bond antes de liberar la carga"
+    narracion: "Sin seguro, ponés ese depósito en efectivo para liberar la carga, y puede quedar inmovilizado meses o años."
+    clip: https://videos.pexels.com/video-files/6700011/6700011-hd_1080_1920_25fps.mp4
+  - grande: "CON SEGURO: GARANTÍA"
+    resaltar: "GARANTÍA"
+    chico: "La aseguradora firma la Average Guarantee · vos, solo el Average Bond"
+    narracion: "Con seguro, la aseguradora da la garantía y vos firmás solo el compromiso."
+    clip: https://videos.pexels.com/video-files/8814707/8814707-hd_1080_1920_25fps.mp4
+  - grande: "¿TU PÓLIZA CUBRE AVERÍA GRUESA?"
+    resaltar: "AVERÍA GRUESA"
+    chico: "Cláusulas del Instituto (A, B y C): cláusula 2 · Seguí Logística en 1 Minuto"
+    narracion: "Antes de embarcar, confirmá por escrito que tu póliza cubre avería gruesa y salvamento. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/8298300/8298300-hd_720_1280_25fps.mp4
+descripcion: |
+  AVERÍA GRUESA: tu carga llegó sana y pagás igual ⚓
+
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1 (con el cupón LANZAMIENTO la pagás USD 5, hasta el 18/11)
+
+  Avería gruesa (general average): cuando en el viaje se hace un sacrificio o un gasto extraordinario, intencional y razonable para salvar el barco y la carga (por ejemplo, combatir un incendio o pagar un salvamento), el costo se reparte entre todos los que tienen intereses en el viaje: el barco, el flete y cada dueño de carga, aunque su mercadería haya llegado intacta. Se rige por las Reglas de York-Amberes (última revisión, 2016), que incorpora el conocimiento de embarque.
+  · Hasta que no se da una garantía, la carga no se libera.
+  · Caso real: incendio del Maersk Honam (2018). Se fijó una garantía de salvamento del 42,5 % del valor de la carga más un 11,5 % de avería gruesa: 54 % en total, también para los contenedores sanos.
+  · Sin seguro: el dueño de la carga firma el Average Bond y deja un depósito en efectivo, un porcentaje del valor CFR (mercadería + flete) que fija el liquidador. Puede quedar inmovilizado meses o, en casos grandes, años.
+  · Con seguro: la aseguradora firma la Average Guarantee (el asegurado no debe firmarla) y vos firmás solo el Average Bond.
+  · Qué hacer hoy: antes de embarcar, confirmá por escrito que tu póliza cubre avería gruesa y salvamento. Las Cláusulas del Instituto (A, B y C, edición 2009) lo cubren en la cláusula 2. Si se declara avería gruesa, avisá enseguida a tu aseguradora o a tu forwarder.
+
+  Ojo: cada caso lo define el liquidador de averías y el contrato de transporte. Consultá con tu corredor de seguros.
+
+  Fuentes: aviso de MSC a clientes (15/05/2018), The Loadstar y Supply Chain Dive (Maersk Honam), Sedgwick (preguntas frecuentes sobre garantías de avería gruesa), C.H. Robinson y Cláusulas del Instituto 2009 (LMA/IUA).
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  Curso recomendado de logística internacional (link de afiliado): https://go.hotmart.com/M108343505U
+
+  Imágenes de stock: Ivan Mudruk, Glenn Langhorst, Tima Miroshnichenko, Kampus Production y Mikhail Nilov (Pexels).
+
+  #Shorts #AveriaGruesa #SeguroDeCarga #TransporteMaritimo
+fuentes:
+  - https://www.msc.com/arg/notices/2018-may/fire-on-maersk-honam-discharging-operations-upda
+  - https://gcaptain.com/shippers-with-cargo-on-maersk-honam-face-hefty-bill-to-get-it-released
+  - https://www.supplychaindive.com/news/maersk-honam-fire-cargo-risk-shipper-payment/524076/
+  - https://gsm.sedgwick.com/general-average-security-frequently-asked-questions/
+  - https://www.chrobinson.com/resources/blog/how-general-average-could-ruin-your-ocean-cargo-deliveries/
+  - https://blogs.tradlinx.com/general-average-explained-why-your-cargo-can-be-held-after-a-ship-casualty/
+  - https://www.ttclub.com/fileadmin/uploads/tt-club/Documents/ICC.pdf
+creditos:
+  - https://www.pexels.com/video/industrial-ship-on-rough-sea-10622135/
+  - https://www.pexels.com/video/container-ship-in-city-bay-11336230/
+  - https://www.pexels.com/video/container-ship-being-loaded-10451891/
+  - https://www.pexels.com/video/a-person-counting-money-6700011/
+  - https://www.pexels.com/video/a-person-signing-documents-8814707/
+  - https://www.pexels.com/video/a-woman-checking-the-documents-8298300/
