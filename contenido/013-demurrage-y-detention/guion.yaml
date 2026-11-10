@@ -17,12 +17,12 @@ escenas:
     chico: "Demurrage y detention: dos cargos distintos"
     narracion: "Cada día de más que tenés el contenedor, la naviera te cobra. Y son dos cargos distintos."
     clip: https://videos.pexels.com/video-files/11336230/11336230-hd_720_1280_30fps.mp4
-  - grande: "DEMURRAGE: LLENO EN EL PUERTO"
+  - grande: "DEMURRAGE: EN PUERTO"
     resaltar: "DEMURRAGE"
-    chico: "Corre desde que lo descargan del barco, pasados los días libres"
+    chico: "Contenedor lleno en la terminal · corre desde la descarga del barco"
     narracion: "Demurrage: el contenedor lleno sigue en el puerto después de los días libres. Corre desde que lo descargan."
     clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
-  - grande: "DETENTION: HASTA DEVOLVERLO VACÍO"
+  - grande: "DETENTION: HASTA VACÍO"
     resaltar: "VACÍO"
     chico: "Desde que sale del puerto hasta que entra vacío al depósito de la naviera"
     narracion: "Detention: ya lo sacaste. El reloj no para cuando descargás en tu depósito: para cuando lo devolvés vacío."
@@ -37,9 +37,9 @@ escenas:
     chico: "Cuántos son, si son separados o combinados y desde cuándo corren"
     narracion: "Antes de embarcar, pedí por escrito cuántos días libres tenés, y negocialos antes de reservar."
     clip: https://videos.pexels.com/video-files/8814707/8814707-hd_1080_1920_25fps.mp4
-  - grande: "PAPELES LISTOS ANTES DEL BARCO"
+  - grande: "DOCUMENTOS ANTES"
     resaltar: "ANTES"
-    chico: "Despacho adelantado = menos días pagos · Seguí Logística en 1 Minuto"
+    chico: "Papeles de aduana listos antes de que llegue el barco · Seguí Logística en 1 Minuto"
     narracion: "Y tené los papeles de aduana listos antes de que llegue el barco. Seguí Logística en 1 Minuto."
     clip: https://videos.pexels.com/video-files/8298300/8298300-hd_720_1280_25fps.mp4
 descripcion: |
