@@ -77,7 +77,7 @@ El 037 (demurrage como problema real) queda después del 013 para no repetir tem
 | 010 | Avería gruesa | Tu carga llegó perfecta y igual te cobran | Publicado (2026-11-10 19:00) |
 | 011 | Seguro de carga: cláusulas A, B y C | ¿Qué pasa si se pierde mi mercadería? | Pendiente |
 | 012 | Contenedores que caen al mar | Cuántos se pierden por año | Pendiente (buscar cifra oficial) |
-| 013 | Demurrage y detention | La multa que te cobra la naviera por día | Pendiente |
+| 013 | Demurrage y detention | La multa que te cobra la naviera por día | Publicado (2026-11-11 19:00) |
 | 014 | VGM (SOLAS): pesar el contenedor | Por qué un contenedor mal pesado hunde barcos | Pendiente |
 | 015 | Trincaje de contenedores | Cómo se atan miles de cajas en alta mar | Pendiente |
 | 016 | Mercancías peligrosas: clases IMO | Qué significan los rombos de colores | Pendiente |

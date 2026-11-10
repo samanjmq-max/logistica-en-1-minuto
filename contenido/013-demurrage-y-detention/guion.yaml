@@ -1,0 +1,79 @@
+titulo: "DEMURRAGE DETENTION: la multa que corre por día ⏰"
+formato: short
+serie: "Logística en 1 minuto"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: publicado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Distinguir demurrage (contenedor lleno que sigue en el puerto) de detention (contenedor afuera hasta devolverlo vacío) y pedir por escrito los días libres antes de embarcar."
+  util: 5
+  llamativo: 4
+  gancho: "Cada día de más con el contenedor, la naviera te cobra."
+  aprendi: "El detention no se corta cuando descargás la mercadería en tu depósito: corre hasta que el contenedor VACÍO entra al depósito que indica la naviera (términos de Maersk). Y el mismo atraso cuesta distinto según el puerto: 14 días de más promediaban USD 2.478 por contenedor en Nueva York y USD 584 en Hamburgo (Container xChange, 2023)."
+escenas:
+  - grande: "TE COBRAN POR DÍA"
+    resaltar: "POR DÍA"
+    chico: "Demurrage y detention: dos cargos distintos"
+    narracion: "Cada día de más que tenés el contenedor, la naviera te cobra. Y son dos cargos distintos."
+    clip: https://videos.pexels.com/video-files/11336230/11336230-hd_720_1280_30fps.mp4
+  - grande: "DEMURRAGE: LLENO EN EL PUERTO"
+    resaltar: "DEMURRAGE"
+    chico: "Corre desde que lo descargan del barco, pasados los días libres"
+    narracion: "Demurrage: el contenedor lleno sigue en el puerto después de los días libres. Corre desde que lo descargan."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+  - grande: "DETENTION: HASTA DEVOLVERLO VACÍO"
+    resaltar: "VACÍO"
+    chico: "Desde que sale del puerto hasta que entra vacío al depósito de la naviera"
+    narracion: "Detention: ya lo sacaste. El reloj no para cuando descargás en tu depósito: para cuando lo devolvés vacío."
+    clip: https://videos.pexels.com/video-files/11801939/11801939-hd_1080_1920_30fps.mp4
+  - grande: "USD 2.478 POR 14 DÍAS"
+    resaltar: "USD 2.478"
+    chico: "Nueva York, promedio por contenedor estándar · Hamburgo: USD 584 (Container xChange, 2023)"
+    narracion: "En Nueva York, catorce días de más costaban en promedio dos mil cuatrocientos setenta y ocho dólares por contenedor."
+    clip: https://videos.pexels.com/video-files/6700011/6700011-hd_1080_1920_25fps.mp4
+  - grande: "DÍAS LIBRES POR ESCRITO"
+    resaltar: "POR ESCRITO"
+    chico: "Cuántos son, si son separados o combinados y desde cuándo corren"
+    narracion: "Antes de embarcar, pedí por escrito cuántos días libres tenés, y negocialos antes de reservar."
+    clip: https://videos.pexels.com/video-files/8814707/8814707-hd_1080_1920_25fps.mp4
+  - grande: "PAPELES LISTOS ANTES DEL BARCO"
+    resaltar: "ANTES"
+    chico: "Despacho adelantado = menos días pagos · Seguí Logística en 1 Minuto"
+    narracion: "Y tené los papeles de aduana listos antes de que llegue el barco. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/8298300/8298300-hd_720_1280_25fps.mp4
+descripcion: |
+  DEMURRAGE DETENTION: la multa que corre por día ⏰
+
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1 (con el cupón LANZAMIENTO la pagás USD 5, hasta el 18/11)
+
+  Dos cargos que cobra la naviera cuando te pasás de los días libres (free time):
+  · Demurrage: el contenedor lleno sigue dentro del puerto o terminal. En importación corre desde la descarga del barco.
+  · Detention: el contenedor está afuera (en tu depósito o en un camión). Corre desde que sale del puerto hasta que entra VACÍO al depósito que indica la naviera. Descargar la mercadería no frena el reloj.
+  · Algunas navieras dan días separados y otras días combinados (demurrage + detention juntos).
+  · Dato: con 14 días de más, el promedio por contenedor estándar era USD 2.478 en Nueva York y USD 584 en Hamburgo (Container xChange, 2023).
+  · Hoy: antes de embarcar, pedí por escrito cuántos días libres tenés, si son separados o combinados y desde cuándo corren; negocialos antes de reservar. Tené los papeles de aduana listos antes de que llegue el barco y devolvé el vacío apenas lo descargues.
+
+  Las condiciones las define cada naviera en su tarifa y en tu contrato: confirmalas con tu forwarder.
+
+  Fuentes: términos de Maersk para Detention & Demurrage y benchmark de Container xChange 2023.
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  Curso recomendado de logística internacional (link de afiliado): https://go.hotmart.com/M108343505U
+
+  Imágenes de stock: Glenn Langhorst, FÁBIO REIS DE ABREU, Mike Hongkong 2, Tima Miroshnichenko, Kampus Production y Mikhail Nilov (Pexels).
+
+  #Shorts #Demurrage #Detention #ComercioExterior
+fuentes:
+  - https://terms.maersk.com/dnd
+  - https://www.container-xchange.com/blog/demurrage-detention
+  - https://www.ajot.com/news/average-demurrage-and-detention-charges-witness-a-25-dip-globally-in-2023
+  - https://datamarnews.com/noticias/benchmark-report-on-demurrage-and-detention-top-5-most-expensive-ports-in-the-world-all-in-the-us/
+creditos:
+  - https://www.pexels.com/video/container-ship-in-city-bay-11336230/
+  - https://www.pexels.com/video/container-ship-in-harbor-13372582/
+  - https://www.pexels.com/video/vehicle-carrying-container-in-warehouse-11801939/
+  - https://www.pexels.com/video/a-person-counting-money-6700011/
+  - https://www.pexels.com/video/a-person-signing-documents-8814707/
+  - https://www.pexels.com/video/a-woman-checking-the-documents-8298300/
