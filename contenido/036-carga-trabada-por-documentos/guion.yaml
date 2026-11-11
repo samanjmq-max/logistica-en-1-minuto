@@ -1,0 +1,76 @@
+titulo: "CARGA TRABADA: el dato que no coincide 📄"
+formato: short
+serie: "Problemas reales y cómo se resuelven"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: publicado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Pedir los borradores de factura comercial, packing list y BL antes del embarque y cruzar bultos, peso y descripción, para que la carga no quede trabada ni haya que pagar por corregir el BL."
+  util: 5
+  llamativo: 4
+  gancho: "Tu carga llegó y la aduana no la libera: un dato no coincide entre tus papeles."
+  aprendi: "Corregir el BL tarde se cobra: Maersk cobra EUR 50 por BL si el cambio (descripción, bultos, peso, partes) se pide 1 día o más después de cargar el contenedor (exportaciones desde Europa, desde el 15/10/2026), y desde China ya después de emitido el borrador (Verify Copy). Y en EE. UU. la factura tiene que nombrar cada artículo y decir qué va en cada bulto; si no trae el peso que hace falta para el arancel, el importador paga el pesaje antes de la liberación (19 CFR 141.86)."
+escenas:
+  - grande: "LA CARGA NO SALE"
+    resaltar: "NO SALE"
+    chico: "Un dato distinto entre factura, packing list y BL"
+    narracion: "Tu carga llegó y la aduana no la libera: un dato no coincide entre tus papeles."
+    clip: https://videos.pexels.com/video-files/11336230/11336230-hd_720_1280_30fps.mp4
+  - grande: "3 PAPELES, MISMOS DATOS"
+    resaltar: "MISMOS"
+    chico: "Factura comercial · Packing list · Conocimiento de embarque (BL)"
+    narracion: "Factura, packing list y conocimiento de embarque tienen que coincidir en bultos, peso y descripción."
+    clip: https://videos.pexels.com/video-files/8298300/8298300-hd_720_1280_25fps.mp4
+  - grande: "«REPUESTOS» NO ALCANZA"
+    resaltar: "REPUESTOS"
+    chico: "EE. UU. (19 CFR 141.86): nombre de cada artículo y qué va en cada bulto"
+    narracion: "Error típico: describir todo como repuestos. En Estados Unidos, la factura debe nombrar cada artículo y qué va en cada bulto."
+    clip: https://videos.pexels.com/video-files/12909001/12909001-hd_720_1280_24fps.mp4
+  - grande: "CORREGIR EL BL: EUR 50"
+    resaltar: "EUR 50"
+    chico: "Maersk, exportación desde Europa: cambio pedido 1 día o más después de cargar"
+    narracion: "Y corregir el BL tarde se paga: Maersk cobra cincuenta euros por BL si lo pedís un día o más después de cargar el contenedor."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+  - grande: "PEDÍ LOS BORRADORES"
+    resaltar: "BORRADORES"
+    chico: "Factura, packing list y BL draft, antes del embarque"
+    narracion: "La solución: pedí los borradores de los tres papeles antes del embarque."
+    clip: https://videos.pexels.com/video-files/8814707/8814707-hd_1080_1920_25fps.mp4
+  - grande: "CRUZÁ 3 DATOS"
+    resaltar: "3"
+    chico: "Bultos · Peso bruto · Descripción · Seguí Logística en 1 Minuto"
+    narracion: "Cruzá bultos, peso y descripción, y corregí antes de que carguen. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/6100897/6100897-hd_1080_2048_30fps.mp4
+descripcion: |
+  CARGA TRABADA: el dato que no coincide 📄
+
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1 (con el cupón LANZAMIENTO la pagás USD 5, hasta el 18/11)
+
+  Problema: la carga llega y no la liberan porque los papeles no dicen lo mismo.
+  · Causa: factura comercial, packing list y conocimiento de embarque (BL) con distinta cantidad de bultos, distinto peso o una descripción genérica ("repuestos", "muestras").
+  · Dato: en EE. UU. (19 CFR 141.86) la factura debe nombrar cada artículo y decir qué va en cada bulto; si no trae el peso que hace falta para calcular el arancel, el importador paga el pesaje antes de la liberación.
+  · Dato: corregir el BL tarde se cobra. Maersk cobra EUR 50 por BL en exportaciones desde Europa si el cambio se pide 1 día o más después de cargar el contenedor (desde el 15/10/2026); en otros orígenes, como China, el cargo puede aplicar ya después de emitido el borrador.
+  · Hoy: pedí los borradores de los tres papeles antes del embarque, cruzá bultos, peso bruto y descripción línea por línea, y corregí antes de que carguen.
+
+  Los requisitos exactos dependen de la aduana de cada país: confirmalos con tu despachante.
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  Curso recomendado de comercio exterior (link de afiliado): https://go.hotmart.com/P108344299F
+
+  Imágenes de stock: Glenn Langhorst, Mikhail Nilov, Mizuno K, Cyriac von Czapiewski, Kampus Production y Katrin Bolovtsova (Pexels).
+
+  #Shorts #Aduana #FacturaComercial #ComercioExterior
+fuentes:
+  - https://www.ecfr.gov/current/title-19/chapter-I/part-141/subpart-F/section-141.86
+  - https://www.maersk.com/news/articles/2026/09/28/transport-document-amendment-fee-export-europe-world
+  - https://www.maersk.com/support/faqs/when-does-a-shipping-instruction-amendment-charge-apply
+  - https://lacamara.pe/oscar-vasquez-trabas-documentarias-en-el-despacho-aduanero/
+creditos:
+  - https://www.pexels.com/video/container-ship-in-city-bay-11336230/
+  - https://www.pexels.com/video/a-woman-checking-the-documents-8298300/
+  - https://www.pexels.com/video/woman-searching-through-boxes-in-an-office-12909001/
+  - https://www.pexels.com/video/containers-on-a-cargo-ship-at-port-15187012/
+  - https://www.pexels.com/video/a-person-signing-documents-8814707/
+  - https://www.pexels.com/video/a-person-flipping-some-documents-6100897/

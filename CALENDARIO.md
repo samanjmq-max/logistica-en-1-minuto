@@ -109,7 +109,7 @@ Formato: **problema → causa → solución**. Un problema típico de un área l
 | 033 | Despacho | Carga mal armada en el camión | Llegó roto por cómo se cargó | Pendiente |
 | 034 | Transporte | Rutas de reparto mal armadas | Tu camión recorre el doble de lo necesario | Pendiente |
 | 035 | Transporte | Entregas fallidas en última milla | Fue, no había nadie, y vuelve mañana | Pendiente |
-| 036 | Importación | Carga trabada en aduana por documentos | Un error en la factura y la carga no sale | Pendiente |
+| 036 | Importación | Carga trabada en aduana por documentos | Un error en la factura y la carga no sale | Publicado (2026-11-12 19:00) |
 | 037 | Importación | Demurrage por retirar tarde el contenedor | La multa diaria que nadie vio venir | Pendiente |
 | 038 | Inventario | Quiebres de stock | Tenés de todo, menos lo que se vende | Pendiente |
 | 039 | Inventario | Sobrestock | Plata parada en la estantería | Pendiente |
