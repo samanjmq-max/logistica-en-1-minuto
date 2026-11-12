@@ -1,0 +1,274 @@
+titulo: "AUTOELEVADOR O TRANSPALETA: cómo elegir el equipo de tu depósito sin gastar de más 🏗️"
+formato: largo
+serie: "Guías completas"
+voz: em_alex
+velocidad: 1.0
+pausa: 0.35
+estado: aprobado
+chequeo:
+  se_lleva: "Elegir entre transpaleta (manual o eléctrica), apilador y autoelevador con 5 medidas de su propio depósito (altura y techo, peso, centro de carga, ancho de pasillo y si trabaja adentro), y no comprar un equipo que no entra, no llega o no levanta."
+  util: 5
+  llamativo: 4
+  gancho: "El autoelevador que dice 1.800 kilos puede levantar solo 1.200 con tu carga. Y no es un defecto: está en la placa."
+  aprendi: "La capacidad vale solo para el centro de carga de la placa (OSHA: 4.000 lb a 24 pulgadas bajan a 2.666 lb a 36). Además, el mástil del equipo cambia todo: un contrapesado de pie (Jungheinrich ETG 214) sube las horquillas a 4,78 m, pero su mástil extendido mide 6,01 m y bajado 2,10 m, así que hay que medir el techo y el portón, no solo la estantería. Y el pasillo cambia mucho según el equipo: 1,8 a 1,9 m una transpaleta eléctrica, 2,34 m un apilador chico y 2,79 a 3,0 m un contrapesado eléctrico de 3 ruedas, según las fichas de cada fabricante."
+miniatura:
+  arriba: "¿AUTOELEVADOR?"
+  abajo: "o transpaleta: 5 medidas antes de comprar"
+escenas:
+  # --- Intro
+  - capitulo: "La pregunta que decide"
+    grande: "1.814 KG → 1.209 KG"
+    resaltar: "1.209 KG"
+    chico: "El mismo autoelevador, con una carga más larga (ejemplo de OSHA)"
+    narracion: "Un autoelevador que en el folleto levanta mil ochocientos kilos, con una carga más larga, puede levantar solo mil doscientos. No está fallado: así funciona, y está escrito en su placa. Si no sabés esto, podés comprar una máquina cara que no te sirve."
+    clip: https://videos.pexels.com/video-files/13422070/13422070-hd_1920_1080_30fps.mp4
+  - grande: "EN ESTE VIDEO"
+    chico: "Los 5 equipos · 5 medidas antes de comprar · un ejemplo real · 5 errores caros"
+    narracion: "En este video vas a ver cuáles son los equipos para mover pallets y qué hace cada uno, las cinco medidas de tu depósito que tenés que tomar antes de pedir un presupuesto, un ejemplo completo de un depósito chico en Montevideo, y los cinco errores que más plata hacen perder."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+  - grande: "¿A QUÉ ALTURA GUARDÁS?"
+    resaltar: "ALTURA"
+    chico: "La primera pregunta, antes de la marca o el precio"
+    narracion: "La primera pregunta no es la marca ni el precio: ¿a qué altura guardás? Esa respuesta ya descarta varias opciones."
+    clip: https://videos.pexels.com/video-files/4281404/4281404-hd_1920_1080_25fps.mp4
+  # --- Los equipos
+  - capitulo: "Los 5 equipos y qué hace cada uno"
+    grande: "TRANSPALETA MANUAL"
+    chico: "Ej.: STILL HPT 25: 2.500 kg, eleva 115 mm"
+    narracion: "Empecemos por el más simple: la transpaleta manual. Mueve mucho peso, por ejemplo la STILL HPT veinticinco carga dos mil quinientos kilos. Pero eleva apenas ciento quince milímetros, once centímetros y medio. O sea, despega el pallet del piso para moverlo, y nada más."
+    clip: https://videos.pexels.com/video-files/4292301/4292301-hd_1280_720_50fps.mp4
+  - grande: "PISO Y CAMIÓN"
+    chico: "Sirve si todo se guarda en el piso o va directo al camión"
+    narracion: "Te sirve si todo se guarda en el piso o se carga directo al camión, y si las distancias son cortas. No necesita batería ni cargador. Pero la fuerza la hace el operario."
+    clip: https://videos.pexels.com/video-files/4292301/4292301-hd_1280_720_50fps.mp4
+    desde: 4
+  - grande: "TRANSPALETA ELÉCTRICA"
+    chico: "Ej.: Jungheinrich EJE 120i: 2.000 kg · 5,6 km/h · eleva 122 mm"
+    narracion: "El paso siguiente es la transpaleta eléctrica. El motor hace la fuerza. Por ejemplo, la Jungheinrich EJE ciento veinte i carga dos mil kilos y anda a cinco coma seis kilómetros por hora, cargada o vacía. Pero ojo: tampoco eleva. Su horquilla sube hasta ciento veintidós milímetros."
+    clip: https://videos.pexels.com/video-files/14910119/14910119-hd_1280_720_24fps.mp4
+  - grande: "APILADOR"
+    chico: "Ej.: EP ES12-12MMi: 1.200 kg · eleva hasta 1,6 m · se maneja a pie"
+    narracion: "Si necesitás subir el pallet a una estantería, aparece el apilador. Se maneja caminando detrás, y tiene un mástil que eleva. Un modelo chico, el EP ES doce, carga mil doscientos kilos y eleva hasta un metro sesenta. Hay modelos que suben más; revisá su capacidad a la altura que necesitás."
+    clip: https://videos.pexels.com/video-files/5738746/5738746-hd_1280_720_30fps.mp4
+  - grande: "AUTOELEVADOR"
+    chico: "Contrapesado: el peso atrás equilibra la carga adelante"
+    narracion: "Después, el autoelevador contrapesado, el clásico. El peso de atrás equilibra la carga de adelante. Por ejemplo, la serie eléctrica Jungheinrich EFG ciento diez a ciento quince carga de una a una tonelada y media, y anda a doce kilómetros por hora."
+    clip: https://videos.pexels.com/video-files/13422070/13422070-hd_1920_1080_30fps.mp4
+    desde: 10
+  - grande: "RETRÁCTIL"
+    chico: "Para pasillos angostos y mucha altura (también los equipos VNA)"
+    narracion: "Y el quinto: el retráctil, que adelanta el mástil para buscar el pallet, y los equipos de pasillo muy angosto. Según Toyota, junto con los contrapesados eléctricos de tres ruedas, son los que mejor se adaptan a espacios justos con mucha altura."
+    clip: https://videos.pexels.com/video-files/5738746/5738746-hd_1280_720_30fps.mp4
+    desde: 8
+  # --- Medida 1
+  - capitulo: "Medida 1: la altura, el techo y el portón"
+    grande: "MEDIDA 1: ALTURA"
+    resaltar: "ALTURA"
+    chico: "La viga más alta de tu estantería, más un margen para entrar y sacar"
+    narracion: "Ahora, las cinco medidas. Medida uno: la altura. Medí la viga más alta de tu estantería, y sumale un margen para poder entrar con el pallet por encima de la viga y sacarlo. Esa es la altura de horquilla que necesitás."
+    clip: https://videos.pexels.com/video-files/4281404/4281404-hd_1920_1080_25fps.mp4
+    desde: 5
+  - grande: "4,78 M → 6,01 M"
+    resaltar: "6,01 M"
+    chico: "Jungheinrich ETG 214: horquilla a 4,78 m · mástil extendido 6,01 m"
+    narracion: "Pero acá viene lo que casi nadie mira. La horquilla no es lo más alto del equipo: es el mástil. Por ejemplo, el Jungheinrich ETG doscientos catorce sube las horquillas a cuatro metros setenta y ocho, pero con el mástil extendido mide seis metros con un centímetro. Si tu techo, las luces o un sprinkler están más abajo, choca."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+    desde: 6
+  - grande: "MÁSTIL BAJADO: 2,10 M"
+    resaltar: "2,10 M"
+    chico: "Compará con la altura de tu portón y de cualquier entrepiso"
+    narracion: "Y al revés: con el mástil bajado, ese mismo equipo mide dos metros diez. Comparala con tu portón y con cualquier entrepiso. Si no entra por la puerta, no sirve."
+    clip: https://videos.pexels.com/video-files/19896989/19896989-hd_1280_720_25fps.mp4
+  - grande: "PEDÍ EL MÁSTIL JUSTO"
+    chico: "Los fabricantes ofrecen varios mástiles: elegí por tu altura real"
+    narracion: "El consejo práctico: los fabricantes ofrecen varios mástiles para el mismo equipo. No pidas el más alto por las dudas. Pedí el que llega a tu viga más alta con margen, y que bajado pase por tu portón."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+  # --- Medidas 2 y 3
+  - capitulo: "Medidas 2 y 3: el peso y el centro de carga"
+    grande: "MEDIDA 2: PESO"
+    resaltar: "PESO"
+    chico: "Pesá tu pallet MÁS pesado, no el promedio"
+    narracion: "Medida dos: el peso. Pero no el peso promedio: el de tu pallet más pesado, con la madera y el film incluidos. Ese es el que va a poner a prueba al equipo, y el que define la capacidad mínima."
+    clip: https://videos.pexels.com/video-files/3365496/3365496-hd_1920_1080_30fps.mp4
+  - grande: "MEDIDA 3: CENTRO"
+    resaltar: "CENTRO"
+    chico: "Distancia desde la cara de la horquilla hasta el centro de la carga"
+    narracion: "Medida tres, la más importante y la que menos se mira: el centro de carga. Es la distancia desde la cara vertical de la horquilla hasta el centro de gravedad de la carga. Si la carga es pareja, es más o menos la mitad de su largo."
+    clip: https://videos.pexels.com/video-files/6618335/6618335-hd_1280_720_24fps.mp4
+  - grande: "MIRÁ LA PLACA"
+    resaltar: "PLACA"
+    chico: "La capacidad vale solo para el centro de carga que dice la placa"
+    narracion: "La capacidad de un autoelevador vale solo para el centro de carga que figura en su placa. En las fichas que vimos, quinientos o seiscientos milímetros. Si tu carga es más larga, el centro se aleja, la palanca crece, y el equipo puede levantar menos."
+    clip: https://videos.pexels.com/video-files/13422070/13422070-hd_1920_1080_30fps.mp4
+    desde: 20
+  - grande: "4.000 LB → 2.666 LB"
+    resaltar: "2.666 LB"
+    chico: "OSHA: centro a 24 pulgadas (61 cm) → a 36 pulgadas (91 cm). Aproximado"
+    narracion: "El ejemplo de OSHA, la agencia de seguridad laboral de Estados Unidos: un autoelevador de cuatro mil libras, unos mil ochocientos catorce kilos, con el centro a sesenta y un centímetros, levanta unas dos mil seiscientas sesenta y seis libras, mil doscientos nueve kilos, si el centro pasa a noventa y un centímetros. Un tercio menos."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+    desde: 12
+  - grande: "PEDÍ LA TABLA"
+    chico: "Con tu altura, tu peso y tu largo de carga: la capacidad real, por escrito"
+    narracion: "Esa cuenta es una aproximación: la que manda es la placa del fabricante. Por eso, cuando pidas presupuesto, mandá tus tres datos, altura, peso y largo de la carga, y pedí por escrito la capacidad real del equipo con esos datos."
+    clip: https://videos.pexels.com/video-files/7841671/7841671-hd_1280_720_30fps.mp4
+  # --- Suscribirse
+  - grande: "SEGUÍ EL CANAL"
+    chico: "Lo que viene: pasillo, motor y un ejemplo completo con números"
+    narracion: "Ya tenés las tres medidas que deciden si el equipo llega y levanta. Ahora vienen el pasillo, el motor y lo más útil: un depósito de verdad, con números. Si esto te está sirviendo, suscribite a Logística en 1 Minuto. Cada semana, una guía como esta."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+    desde: 3
+  # --- Medida 4
+  - capitulo: "Medida 4: el ancho de pasillo"
+    grande: "MEDIDA 4: PASILLO"
+    resaltar: "PASILLO"
+    chico: "Ast: el pasillo mínimo para girar 90° con la carga"
+    narracion: "Medida cuatro: el ancho del pasillo. En las fichas técnicas aparece como A, S, T: es el pasillo recto mínimo en el que el equipo, con la carga, puede girar noventa grados para entrar a la estantería."
+    clip: https://videos.pexels.com/video-files/14910119/14910119-hd_1280_720_24fps.mp4
+    desde: 5
+  - grande: "1,8 · 2,3 · 2,8 M"
+    chico: "Transpaleta eléctrica 1,79–1,94 m · apilador 2,34 m · contrapesado 2,79–3,01 m (fichas)"
+    narracion: "Y cambia mucho de un equipo a otro. Según las fichas de los fabricantes, la transpaleta eléctrica que vimos necesita entre un metro ochenta y un metro noventa y cuatro. El apilador chico, dos metros treinta y cuatro. Y los contrapesados eléctricos de tres ruedas, entre dos metros setenta y nueve y tres metros."
+    clip: https://videos.pexels.com/video-files/4281404/4281404-hd_1920_1080_25fps.mp4
+    desde: 2
+  - grande: "+200 MM"
+    resaltar: "+200 MM"
+    chico: "Margen de seguridad que suma el cálculo · y ojo al cambiar de marca"
+    narracion: "Toyota suma un margen de seguridad de doscientos milímetros en el cálculo. Y avisa que si cambiás de marca, revises las medidas, porque el radio de giro cambia. No diseñes tus pasillos con la ficha de un equipo y después compres otro."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+    desde: 8
+  # --- Medida 5
+  - capitulo: "Medida 5: adentro o afuera"
+    grande: "MEDIDA 5: ¿ADENTRO?"
+    resaltar: "¿ADENTRO?"
+    chico: "Combustión (diésel, gas, nafta) o eléctrico"
+    narracion: "Medida cinco: ¿dónde trabaja el equipo? Porque eso decide el motor. Un autoelevador a combustión, diésel, gas o nafta, rinde muy bien en patio. Pero adentro es otra historia."
+    clip: https://videos.pexels.com/video-files/6618335/6618335-hd_1280_720_24fps.mp4
+    desde: 6
+  - grande: "MONÓXIDO DE CARBONO"
+    chico: "OSHA: sin ventilación adecuada, no operar motores a combustión adentro"
+    narracion: "OSHA advierte que los autoelevadores a combustión pueden generar niveles altos de monóxido de carbono en lugares cerrados, y que no se operan dentro de un depósito sin ventilación adecuada. Si casi todo tu trabajo es en lugares poco ventilados, recomienda pasarse a eléctricos."
+    clip: https://videos.pexels.com/video-files/19896989/19896989-hd_1280_720_25fps.mp4
+    desde: 6
+  - grande: "LA BATERÍA PESA"
+    chico: "ETG 214: batería de 909 a 1.045 kg · el EJE 120i trae litio integrado"
+    narracion: "Y si vas por eléctrico, mirá la batería. En el ETG doscientos catorce pesa entre novecientos nueve y mil cuarenta y cinco kilos. En equipos chicos, como la transpaleta EJE, ya viene de litio integrada. Preguntá cuántas horas rinde y cuánto tarda en cargar, para saber si te alcanza para tu turno."
+    clip: https://videos.pexels.com/video-files/10416700/10416700-hd_1280_720_50fps.mp4
+  # --- Ejemplo
+  - capitulo: "Ejemplo: un depósito chico en Montevideo"
+    grande: "EL CASO"
+    chico: "Pallet 1,0 × 1,2 m · 700 kg el más pesado · viga más alta 3,5 m · techo libre 5,5 m · portón 2,4 m"
+    narracion: "El caso. Una empresa chica en Montevideo recibe camiones con pallets de un metro por uno veinte. El más pesado anda en setecientos kilos. Tiene estanterías con la viga más alta a tres metros y medio, un techo libre de cinco metros y medio, y un portón de dos metros cuarenta. Los números son de ejemplo; la cuenta es la misma para el tuyo."
+    clip: https://videos.pexels.com/video-files/3365496/3365496-hd_1920_1080_30fps.mp4
+    desde: 6
+  - grande: "TRANSPALETA: NO LLEGA"
+    resaltar: "NO LLEGA"
+    chico: "Mueve los 700 kg, pero no sube a 3,5 m"
+    narracion: "Primero, la transpaleta. Mueve los setecientos kilos sin problema, pero no sube a la estantería. Sirve para descargar el camión y mover en el piso, no para guardar en altura."
+    clip: https://videos.pexels.com/video-files/4292301/4292301-hd_1280_720_50fps.mp4
+    desde: 8
+  - grande: "APILADOR CHICO: NO"
+    resaltar: "NO"
+    chico: "El ES12: 1.200 kg, pero eleva 1,6 m. Haría falta un modelo más alto"
+    narracion: "El apilador chico que vimos aguanta el peso, pero eleva un metro sesenta: no llega a la viga de tres metros y medio. Habría que buscar un apilador de mástil más alto y revisar su capacidad a esa altura, que suele bajar."
+    clip: https://videos.pexels.com/video-files/5738746/5738746-hd_1280_720_30fps.mp4
+    desde: 3
+  - grande: "CENTRO: 600 MM"
+    resaltar: "600 MM"
+    chico: "Pallet tomado por el lado de 1 m: largo 1,2 m → centro a 0,6 m"
+    narracion: "Ahora el autoelevador. Si toma el pallet por el lado de un metro, la carga mide uno veinte de largo sobre la horquilla, y su centro queda a sesenta centímetros. Coincide con el centro de la placa del ETG doscientos catorce, que carga mil trescientos sesenta y cuatro kilos. Setecientos entra con margen."
+    clip: https://videos.pexels.com/video-files/13422070/13422070-hd_1920_1080_30fps.mp4
+    desde: 28
+  - grande: "TECHO Y PORTÓN: OK"
+    resaltar: "OK"
+    chico: "Bajado 2,10 m < portón 2,40 m · extendido al máximo 6,01 m > techo 5,5 m"
+    narracion: "El portón: bajado mide dos metros diez, pasa por los dos cuarenta. Pero el techo: extendido al máximo mide seis metros con un centímetro, y el techo libre es de cinco y medio. Para llegar a tres metros y medio no hace falta extenderlo entero, pero conviene pedir un mástil más corto o un límite de altura, para que nadie choque el techo."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+    desde: 9
+  - grande: "LA DECISIÓN"
+    chico: "Eléctrico (trabaja adentro) + transpaleta manual para el camión · pasillos de unos 3 m"
+    narracion: "La decisión: un autoelevador eléctrico, porque trabaja adentro, con un mástil acorde, y pasillos de unos tres metros, a confirmar con la ficha del modelo. Y una transpaleta manual de apoyo para el camión. Si el día de mañana los pasillos tienen que ser más angostos, ahí se evalúa un retráctil."
+    clip: https://videos.pexels.com/video-files/14910119/14910119-hd_1280_720_24fps.mp4
+    desde: 10
+  # --- Errores
+  - capitulo: "Los 5 errores más caros"
+    grande: "ERROR 1"
+    chico: "Comprar por la capacidad del folleto sin mirar el centro de carga"
+    narracion: "Y ahora, los cinco errores que más plata hacen perder. Error uno: comprar por la capacidad del folleto. Ya viste por qué: sin el centro de carga, ese número no te dice nada."
+    clip: https://videos.pexels.com/video-files/8426060/8426060-hd_1280_720_25fps.mp4
+  - grande: "ERROR 2"
+    chico: "Medir la estantería y olvidarse del techo, las luces y el portón"
+    narracion: "Error dos: medir solo la estantería. El mástil extendido puede chocar el techo, las luces o los sprinklers, y el mástil bajado puede no pasar por el portón."
+    clip: https://videos.pexels.com/video-files/4281404/4281404-hd_1920_1080_25fps.mp4
+    desde: 8
+  - grande: "ERROR 3"
+    chico: "Diseñar los pasillos con la ficha de un equipo y comprar otro"
+    narracion: "Error tres: armar las estanterías con la ficha de un equipo y después comprar otro más barato, de otra marca. El radio de giro cambia, y un pasillo que quedó corto no se arregla fácil."
+    clip: https://videos.pexels.com/video-files/19896989/19896989-hd_1280_720_25fps.mp4
+    desde: 12
+  - grande: "ERROR 4"
+    chico: "Usar un equipo a combustión adentro sin ventilación"
+    narracion: "Error cuatro: usar un autoelevador a combustión adentro, sin ventilación. Según OSHA, la sobreexposición al monóxido puede causar pérdida de conocimiento y hasta la muerte. Si trabajás adentro, eléctrico."
+    clip: https://videos.pexels.com/video-files/6618335/6618335-hd_1280_720_24fps.mp4
+    desde: 14
+  - grande: "ERROR 5"
+    chico: "Darle el equipo a alguien sin capacitación"
+    narracion: "Error cinco: darle el equipo a cualquiera. Revisá qué capacitación pide la norma de tu país. Un operador sin práctica rompe estanterías, mercadería y, lo peor, lastima gente."
+    clip: https://videos.pexels.com/video-files/13422070/13422070-hd_1920_1080_30fps.mp4
+    desde: 4
+  # --- Cierre
+  - capitulo: "Resumen"
+    grande: "RESUMEN"
+    chico: "Altura y techo · peso · centro de carga · pasillo · adentro o afuera"
+    narracion: "En resumen: antes de pedir presupuesto, medí la altura con el techo y el portón, el peso de tu pallet más pesado, el largo de la carga, el ancho de tus pasillos, y si trabajás adentro. Con eso, el equipo casi se elige solo."
+    clip: https://videos.pexels.com/video-files/5738746/5738746-hd_1280_720_30fps.mp4
+    desde: 12
+  - grande: "LOGÍSTICA EN 1 MINUTO"
+    chico: "Guía + planilla para armar tu primer depósito: link en la descripción"
+    narracion: "Si estás armando tu depósito, en la descripción tenés una guía con una planilla para planificarlo. Y suscribite, que el próximo video también te ahorra plata."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+    desde: 15
+descripcion: |
+  📗 Guía + planilla para armar tu primer depósito: https://go.hotmart.com/U108348887Q?dp=1 (con el cupón DEPOSITO7 la pagás USD 7, hasta el 18/11)
+
+  ¿Autoelevador, apilador o transpaleta? Antes de pedir presupuesto, medí 5 cosas de tu depósito: la altura (con el techo y el portón), el peso de tu pallet más pesado, el centro de carga, el ancho de pasillo y si el equipo trabaja adentro. En este video: los 5 equipos, las 5 medidas, un ejemplo completo de un depósito chico en Montevideo y los 5 errores más caros.
+
+  Datos clave (fichas técnicas y OSHA):
+  · Transpaleta manual STILL HPT 25: 2.500 kg, eleva 115 mm.
+  · Transpaleta eléctrica Jungheinrich EJE 120i: 2.000 kg, 5,6 km/h, horquilla hasta 122 mm, pasillo (Ast) de 1.787 a 1.936 mm con pallet de 40" × 48".
+  · Apilador EP ES12-12MMi: 1.200 kg con centro a 600 mm, elevación máxima 1.605 mm, pasillo de 2.340 mm con pallet de 1000 × 1200.
+  · Contrapesado eléctrico Jungheinrich EFG 110k a 115: 1 a 1,5 t, 12 km/h, pasillo de 2.789 a 3.005 mm.
+  · Contrapesado de pie Jungheinrich ETG 214: 1.364 kg con centro a 600 mm, horquilla hasta 4.775 mm, mástil extendido 6.009 mm, mástil bajado 2.105 mm, batería de 909 a 1.045 kg.
+  · Centro de carga (OSHA): la capacidad vale para el centro de carga de la placa. Ejemplo: 4.000 lb (1.814 kg) con centro a 24" (61 cm) → unas 2.666 lb (1.209 kg) con centro a 36" (91 cm). Es una aproximación: manda la placa del fabricante.
+  · Ancho de pasillo (Toyota): Ast es el pasillo recto mínimo para girar 90° con la carga; el cálculo suma 200 mm de margen, y al cambiar de marca hay que volver a revisar las medidas.
+  · Combustión adentro (OSHA): puede generar niveles altos de monóxido de carbono; no operar sin ventilación adecuada y considerar equipos eléctricos en lugares poco ventilados.
+  Ojo: el ejemplo usa números supuestos y los modelos se citan solo como referencia de sus fichas (no es publicidad). Pedí siempre la capacidad real por escrito para tu altura, tu peso y tu largo de carga.
+
+  Imágenes de stock (Pexels): Rodrigo Garcin, Raquel Tinoco, Tiger Lily, Andi Farruku y los autores de los clips reutilizados, enlazados en github.com/samanjmq-max/logistica-en-1-minuto.
+
+  Música original generada para el canal.
+
+  #Autoelevador #Transpaleta #Deposito #Logistica
+fuentes:
+  - https://www.osha.gov/etools/powered-industrial-trucks/load-handling/load-composition
+  - https://www.osha.gov/etools/powered-industrial-trucks/workplace/enclosed-hazardous-areas
+  - https://www.osha.gov/etools/powered-industrial-trucks/types-fundamentals/power-sources/internal-combustion
+  - https://baltic.toyota-forklifts.eu/guides/aisle-width-guide/
+  - https://www.still.shop/images/STILL-ES-NTS/products/downloads/HPS_HPT_ES_TD.pdf
+  - https://www.logisnextamericas.com/globalassets/migration-blocks/jungheinrich/product-listing/pallet-trucks/eje-120-225/jehn0398_mx---eje-120i-spanish-spec-sheet.pdf
+  - https://ep-equipment.com/wp-content/uploads/2021/01/ES12-12MMI-ES-V2208.01.pdf
+  - https://www.gwequip.com/wp-content/uploads/2021/06/jungheinrich-i-efg-110k-115-spec-spanish-1.pdf
+  - https://www.gwequip.com/wp-content/uploads/2021/06/etg_214-etg_318_spec_sheet-spanish.pdf
+creditos:
+  - https://www.pexels.com/video/man-driving-forklift-in-warehouse-13422070/
+  - https://www.pexels.com/video/machine-picking-products-from-shelf-5738746/
+  - https://www.pexels.com/video/men-getting-items-from-the-shelves-in-the-warehouse-4281404/
+  - https://www.pexels.com/video/forklift-in-a-warehouse-6194507/
+  - https://www.pexels.com/video/a-man-dragging-a-pallet-cart-4292301/
+  - https://www.pexels.com/video/man-working-on-a-warehouse-14910119/
+  - https://www.pexels.com/video/deposito-19896989/
+  - https://www.pexels.com/video/a-forklift-truck-transferring-a-cargo-container-6618335/
+  - https://www.pexels.com/video/person-holding-documents-8731324/
+  - https://www.pexels.com/video/a-man-signing-a-document-7841671/
+  - https://www.pexels.com/video/men-closing-a-business-deal-8426060/
+  - https://www.pexels.com/video/a-man-loading-cement-on-a-delivery-truck-3365496/
+  - https://www.pexels.com/video/production-line-machine-part-10416700/
