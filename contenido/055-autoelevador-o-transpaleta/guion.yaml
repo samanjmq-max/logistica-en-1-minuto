@@ -1,0 +1,66 @@
+titulo: "AUTOELEVADOR O TRANSPALETA: la pregunta que decide 🏗️"
+formato: short
+serie: "Cómo hacerlo"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: publicado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Elegir entre transpaleta, apilador o autoelevador según la altura a la que guarda, y no comprar un autoelevador por la capacidad del folleto sin mirar el centro de carga de la placa."
+  util: 5
+  llamativo: 4
+  gancho: "Comprar el equipo equivocado te come el capital. ¿Autoelevador o transpaleta?"
+  aprendi: "La capacidad de un autoelevador vale solo para el centro de carga de su placa: en el ejemplo de OSHA, uno de 4.000 lb (1.814 kg) con centro a 24 pulgadas (61 cm) levanta solo 2.666 lb (1.209 kg) si la carga lo lleva a 36 pulgadas (91 cm), un tercio menos. Y una transpaleta manual de 2.500 kg (STILL HPT 25) eleva apenas 115 mm: no sirve para estanterías."
+escenas:
+  - grande: "¿AUTOELEVADOR O TRANSPALETA?"
+    chico: "Elegir mal te come el capital"
+    narracion: "Comprar el equipo equivocado te come el capital. ¿Autoelevador o transpaleta? Lo decide una pregunta: ¿a qué altura guardás?"
+    clip: https://videos.pexels.com/video-files/7019231/7019231-hd_1080_2048_25fps.mp4
+  - grande: "TRANSPALETA: 11,5 CM"
+    resaltar: "11,5 CM"
+    chico: "Ej.: STILL HPT 25 (2.500 kg): eleva 115 mm. Solo despega el pallet del piso"
+    narracion: "Una transpaleta manual levanta el pallet apenas unos centímetros: lo despega del piso para moverlo, nada más."
+    clip: https://videos.pexels.com/video-files/4821663/4821663-hd_1080_2048_25fps.mp4
+  - grande: "¿ESTANTERÍAS? → ELEVAR"
+    resaltar: "ELEVAR"
+    chico: "Todo al piso o al camión: transpaleta · En altura: apilador o autoelevador"
+    narracion: "Si todo va al piso o al camión, te alcanza. Si usás estanterías, necesitás un apilador o un autoelevador."
+    clip: https://videos.pexels.com/video-files/16971219/16971219-hd_1080_1920_30fps.mp4
+  - grande: "MIRÁ LA PLACA"
+    resaltar: "PLACA"
+    chico: "La capacidad vale solo con el centro de carga de la placa (OSHA)"
+    narracion: "Y ojo con la capacidad: vale solo con el centro de carga que dice la placa."
+    clip: https://videos.pexels.com/video-files/15170997/15170997-hd_1080_1920_30fps.mp4
+  - grande: "1.814 KG → 1.209 KG"
+    resaltar: "1.209 KG"
+    chico: "OSHA: 4.000 lb con centro a 61 cm → 2.666 lb a 91 cm (aprox.; manda la placa)"
+    narracion: "Ejemplo de OSHA: un autoelevador de mil ochocientos kilos, con una carga más larga, levanta un tercio menos: mil doscientos."
+    clip: https://videos.pexels.com/video-files/16971219/16971219-hd_1080_1920_30fps.mp4
+  - grande: "MEDÍ 3 COSAS"
+    resaltar: "3"
+    chico: "Altura máxima · Pallet más pesado · Largo de la carga · Seguí Logística en 1 Minuto"
+    narracion: "Antes de comprar, medí tu altura máxima, tu pallet más pesado y su largo. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/7019231/7019231-hd_1080_2048_25fps.mp4
+descripcion: |
+  AUTOELEVADOR O TRANSPALETA: la pregunta que decide 🏗️
+
+  📗 Guía + planilla para armar tu primer depósito: https://go.hotmart.com/U108348887Q?dp=1 (con el cupón DEPOSITO7 la pagás USD 7, hasta el 18/11)
+
+  La duda: ¿qué equipo compro para mover pallets?
+  · La pregunta que decide: ¿a qué altura guardás? Una transpaleta manual solo despega el pallet del piso (ej.: STILL HPT 25, 2.500 kg, eleva 115 mm). Si todo va al piso o al camión, alcanza. Para estanterías hace falta un apilador o un autoelevador.
+  · El error a evitar: creer en la capacidad del folleto. La capacidad de un autoelevador vale solo para el centro de carga de su placa. Ejemplo de OSHA: 4.000 lb (1.814 kg) con centro a 24" (61 cm) bajan a 2.666 lb (1.209 kg) si la carga lleva el centro a 36" (91 cm).
+  · Hoy: antes de cotizar, anotá la altura máxima a la que guardás, el peso de tu pallet más pesado y el largo de tu carga, y pedí la tabla de capacidad del equipo para esos datos.
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  Imágenes de stock: cottonbro studio y Rolan Muradov (Pexels).
+
+  #Shorts #Autoelevador #Transpaleta #Deposito
+fuentes:
+  - https://www.osha.gov/etools/powered-industrial-trucks/load-handling/load-composition
+  - https://www.still.shop/images/STILL-ES-NTS/products/downloads/HPS_HPT_ES_TD.pdf
+creditos:
+  - https://www.pexels.com/video/a-man-riding-a-pallet-jack-7019231/
+  - https://www.pexels.com/video/deliveries-of-sacks-of-fresh-coffee-beans-4821663/
+  - https://www.pexels.com/video/racks-16971219/
+  - https://www.pexels.com/video/workers-at-a-warehouse-15170997/
