@@ -75,7 +75,7 @@ El 037 (demurrage como problema real) queda después del 013 para no repetir tem
 | 008 | El Bill of Lading | El papel que vale lo mismo que la mercadería | Publicado (2026-11-08 19:00) |
 | 009 | Certificado de origen (se enfocó en uno: factura comercial y packing list quedan para el 036) | Sin el certificado, pagás arancel completo | Publicado (2026-11-09 19:00) |
 | 010 | Avería gruesa | Tu carga llegó perfecta y igual te cobran | Publicado (2026-11-10 19:00) |
-| 011 | Seguro de carga: cláusulas A, B y C | ¿Qué pasa si se pierde mi mercadería? | Pendiente |
+| 011 | Seguro de carga: cláusulas A, B y C | ¿Qué pasa si se pierde mi mercadería? | Publicado (2026-11-14 19:00) |
 | 012 | Contenedores que caen al mar | Cuántos se pierden por año | Pendiente (buscar cifra oficial) |
 | 013 | Demurrage y detention | La multa que te cobra la naviera por día | Publicado (2026-11-11 19:00) |
 | 014 | VGM (SOLAS): pesar el contenedor | Por qué un contenedor mal pesado hunde barcos | Pendiente |

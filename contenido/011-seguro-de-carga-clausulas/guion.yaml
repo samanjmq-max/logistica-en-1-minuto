@@ -1,0 +1,76 @@
+titulo: "SEGURO CIF: si te roban la carga, no te paga 🚨"
+formato: short
+serie: "Logística en 1 minuto"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: publicado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Saber que en CIF el vendedor solo contrata la cláusula C (no cubre robo ni agua de mar) y pedir por contrato la cláusula A o asegurar por su cuenta."
+  util: 5
+  llamativo: 4
+  gancho: "Compraste CIF, te robaron parte de la carga y el seguro no te paga."
+  aprendi: "Con Incoterms 2020, CIF y CIP ya no exigen lo mismo: en CIF el mínimo sigue siendo la cláusula C (incendio, hundimiento, choque; sin robo ni entrada de agua de mar), pero en CIP el mínimo pasó a ser la A. Y ni la A paga daños por embalaje insuficiente, vicio propio o demora."
+escenas:
+  - grande: "¿QUIÉN TE LA PAGA?"
+    chico: "Compraste CIF y te robaron parte de la carga"
+    narracion: "Compraste CIF, te robaron parte de la carga, y el seguro no te paga nada. ¿Por qué?"
+    clip: https://videos.pexels.com/video-files/11336230/11336230-hd_720_1280_30fps.mp4
+  - grande: "CIF = CLÁUSULA C"
+    resaltar: "CLÁUSULA C"
+    chico: "Incoterms 2020: en CIF el vendedor solo debe contratar la cobertura mínima (ICC C)"
+    narracion: "Porque en CIF el vendedor solo está obligado a contratar la cláusula C: la cobertura mínima."
+    clip: https://videos.pexels.com/video-files/10451891/10451891-hd_720_1280_30fps.mp4
+  - grande: "C: SOLO DESASTRES"
+    resaltar: "DESASTRES"
+    chico: "Incendio · hundimiento · varada · choque · avería gruesa. Sin robo ni agua de mar"
+    narracion: "La C cubre desastres: incendio, hundimiento, choque. No cubre el robo, ni el agua de mar que entra al contenedor."
+    clip: https://videos.pexels.com/video-files/10622135/10622135-hd_720_1280_30fps.mp4
+  - grande: "A: TODO RIESGO"
+    resaltar: "TODO RIESGO"
+    chico: "Incluye robo · B: agua de mar sí, robo no · En CIP (2020) el mínimo ya es la A"
+    narracion: "La A es todo riesgo: incluye el robo. Y ojo: en CIP, desde 2020, el mínimo ya es la A."
+    clip: https://videos.pexels.com/video-files/8298300/8298300-hd_720_1280_25fps.mp4
+  - grande: "NI LA A PAGA ESTO"
+    resaltar: "NI LA A"
+    chico: "Exclusiones: embalaje insuficiente · vicio propio · demora"
+    narracion: "Pero ni la A paga si el daño fue por mal embalaje o por demora."
+    clip: https://videos.pexels.com/video-files/6700011/6700011-hd_1080_1920_25fps.mp4
+  - grande: "PEDÍ \"ICC A\" POR ESCRITO"
+    resaltar: "ICC A"
+    chico: "Por el 110 % del valor del contrato, o asegurá vos · Seguí Logística en 1 Minuto"
+    narracion: "Si comprás CIF, pedí en el contrato la cláusula A, o asegurá vos. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/8814707/8814707-hd_1080_1920_25fps.mp4
+descripcion: |
+  SEGURO CIF: si te roban la carga, no te paga 🚨
+
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1 (con el cupón LANZAMIENTO la pagás USD 5, hasta el 18/11)
+
+  Seguro de carga: cláusulas A, B y C (Institute Cargo Clauses).
+  · En CIF (Incoterms 2020) el vendedor solo está obligado a contratar la cobertura mínima: cláusula C, por el 110 % del valor del contrato. En CIP, desde 2020, el mínimo es la cláusula A.
+  · Cláusula C: incendio o explosión, varada o hundimiento, vuelco o descarrilamiento del transporte terrestre, choque, descarga en puerto de arribada forzosa, avería gruesa y echazón. NO cubre robo, ni entrada de agua de mar o de río, ni caída al mar desde cubierta.
+  · Cláusula B: suma agua de mar o de río, caída al mar desde cubierta, terremoto y rayo; el robo sigue sin cobertura.
+  · Cláusula A ("todo riesgo"): incluye robo y daños no excluidos expresamente.
+  · Ninguna cubre: embalaje insuficiente o inadecuado, vicio propio de la mercadería, demora, mermas o derrames normales. Guerra y huelgas van aparte.
+  · Hoy: si comprás CIF, pedí por contrato cobertura cláusula A (la cobertura extra corre por cuenta del comprador) o comprá FOB y asegurá vos. Y revisá el embalaje: ninguna cláusula cubre el daño por embalaje insuficiente.
+
+  Fuentes: ICC Academy, Röhlig (Incoterms 2020: CIF) y MSIG (comparación ICC A, B y C).
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  Curso recomendado de comercio exterior (link de afiliado): https://go.hotmart.com/P108344299F
+
+  Imágenes de stock: Ivan Mudruk, Glenn Langhorst, Tima Miroshnichenko, Kampus Production y Mikhail Nilov (Pexels).
+
+  #Shorts #SeguroDeCarga #Incoterms #CIF
+fuentes:
+  - https://icc.academy/?p=22185
+  - https://www.rohlig.com/freight-knowledge/incoterms/incoterms-2020/incoterms-2020-cif/
+  - https://www.msig.com.hk/sites/msig_hk/files/Cover%20comparison%20between%20ICC%20%28A%29%28B%29%28C%29%20_1.pdf
+creditos:
+  - https://www.pexels.com/video/container-ship-in-city-bay-11336230/
+  - https://www.pexels.com/video/container-ship-being-loaded-10451891/
+  - https://www.pexels.com/video/industrial-ship-on-rough-sea-10622135/
+  - https://www.pexels.com/video/a-woman-checking-the-documents-8298300/
+  - https://www.pexels.com/video/a-person-counting-money-6700011/
+  - https://www.pexels.com/video/a-person-signing-documents-8814707/
