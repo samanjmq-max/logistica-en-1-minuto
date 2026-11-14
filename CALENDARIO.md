@@ -104,7 +104,7 @@ Formato: **problema → causa → solución**. Un problema típico de un área l
 | 028 | Depósito | Errores de picking | Mandaste el producto equivocado al cliente | Pendiente |
 | 029 | Depósito | Mercadería vencida (sin FEFO) | Tiraste mercadería que estaba en el depósito | Pendiente |
 | 030 | Recepción | Camiones esperando en la puerta | Tres horas para descargar un camión | Pendiente |
-| 031 | Recepción | Recibir sin controlar contra la orden de compra | Pagaste mercadería que nunca entró | Pendiente |
+| 031 | Recepción | Recibir sin controlar contra la orden de compra | Pagaste mercadería que nunca entró | Publicado (2026-11-15 19:00) |
 | 032 | Despacho | Pedidos que salen tarde | El camión se fue y el pedido quedó | Pendiente |
 | 033 | Despacho | Carga mal armada en el camión | Llegó roto por cómo se cargó | Pendiente |
 | 034 | Transporte | Rutas de reparto mal armadas | Tu camión recorre el doble de lo necesario | Pendiente |

@@ -1,0 +1,67 @@
+titulo: "REMITO FIRMADO: pagaste lo que no llegó 📦"
+formato: short
+serie: "Problemas reales y cómo se resuelven"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: publicado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Recibir contando bultos y cantidades contra su propia orden de compra antes de firmar, anotar en el remito el faltante o el daño visible, y pagar la factura solo si coincide con la orden de compra y con lo recibido (cruce de 3 documentos)."
+  util: 5
+  llamativo: 4
+  gancho: "Pagaste mercadería que nunca entró a tu depósito."
+  aprendi: "Se cuenta contra la orden de compra propia, no contra el remito del proveedor (si no, solo confirmás lo que él dice). Y en transporte internacional por carretera (Convenio CMR, art. 30) el daño visible se reserva al momento de la entrega y el que no se ve tiene apenas 7 días, sin contar domingos ni feriados, para avisarse por escrito; la demora, 21 días. Firmar limpio deja al que recibe en una posición mucho más difícil para probar el faltante."
+escenas:
+  - grande: "PAGASTE LO QUE NO ENTRÓ"
+    resaltar: "NO ENTRÓ"
+    chico: "Firmaste el remito sin contar"
+    narracion: "Pagaste mercadería que nunca entró a tu depósito. Pasa cuando se firma el remito sin contar."
+    clip: https://videos.pexels.com/video-files/13456113/13456113-hd_720_1280_24fps.mp4
+  - grande: "CONTÁ ANTES DE FIRMAR"
+    resaltar: "ANTES"
+    chico: "Bultos y cantidades contra TU orden de compra, no contra el remito del proveedor"
+    narracion: "Antes de firmar, contá bultos y cantidades contra tu orden de compra, no contra el remito del proveedor."
+    clip: https://videos.pexels.com/video-files/6342195/6342195-hd_1080_1920_24fps.mp4
+  - grande: "ANOTALO EN EL REMITO"
+    resaltar: "REMITO"
+    chico: "Faltante o caja golpeada: se escribe al recibir (remito, albarán o guía)"
+    narracion: "Si falta algo o llega golpeado, escribilo en el remito en ese momento. Firmar limpio y reclamar después es mucho más difícil."
+    clip: https://videos.pexels.com/video-files/8814707/8814707-hd_1080_1920_25fps.mp4
+  - grande: "DAÑO OCULTO: 7 DÍAS"
+    resaltar: "7 DÍAS"
+    chico: "Convenio CMR, art. 30 (carretera internacional): aviso por escrito, sin contar domingos ni feriados"
+    narracion: "Y si el daño no se ve, el convenio CMR del transporte internacional por carretera te da siete días, sin contar domingos ni feriados, para avisar por escrito."
+    clip: https://videos.pexels.com/video-files/12909001/12909001-hd_720_1280_24fps.mp4
+  - grande: "CRUCE DE 3 PAPELES"
+    resaltar: "3"
+    chico: "Orden de compra · Recepción · Factura · Seguí Logística en 1 Minuto"
+    narracion: "Recién ahí se paga: la factura tiene que coincidir con la orden de compra y con lo que recibiste. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/6100897/6100897-hd_1080_2048_30fps.mp4
+descripcion: |
+  REMITO FIRMADO: pagaste lo que no llegó 📦
+
+  📗 Guía + planilla para armar tu primer depósito: https://go.hotmart.com/U108348887Q?dp=1 (con el cupón DEPOSITO7 la pagás USD 7, hasta el 18/11)
+
+  Problema: se paga mercadería que nunca entró al depósito.
+  · Causa: se firma el remito (albarán o guía) sin contar, o se cuenta contra el papel del proveedor en vez de la orden de compra propia.
+  · Paso 1: antes de firmar, contá bultos y cantidades contra TU orden de compra.
+  · Paso 2: si falta algo o llega golpeado, anotalo en el remito en ese momento.
+  · Dato: en transporte internacional por carretera (Convenio CMR, art. 30), el daño visible se reserva al momento de la entrega; el que no se ve, por escrito dentro de los 7 días (sin domingos ni feriados); la demora, dentro de los 21 días. En otros transportes y países los plazos cambian: revisá tu contrato.
+  · Paso 3: pagá la factura solo si coincide con la orden de compra y con lo recibido (cruce de 3 documentos o "three-way match").
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  Imágenes de stock: Mizuno K, Liza Summer, Kampus Production y Katrin Bolovtsova (Pexels).
+
+  #Shorts #Deposito #RecepcionDeMercaderia #Inventario
+fuentes:
+  - https://www.generixgroup.com/es/blog/reservas-transporte-plazos-indemnizacion
+  - https://www.dashdoc.com/es/blog/todo-sobre-el-cmr-transporte-
+  - https://www.accountingtools.com/articles/what-is-three-way-matching.html
+  - https://www.accountingcoach.com/blog/what-is-three-way-match
+creditos:
+  - https://www.pexels.com/video/a-man-delivering-a-package-to-a-woman-13456113/
+  - https://www.pexels.com/video/close-up-video-of-parcels-6342195/
+  - https://www.pexels.com/video/a-person-signing-documents-8814707/
+  - https://www.pexels.com/video/woman-searching-through-boxes-in-an-office-12909001/
+  - https://www.pexels.com/video/a-person-flipping-some-documents-6100897/
