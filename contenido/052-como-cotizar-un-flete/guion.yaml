@@ -1,0 +1,83 @@
+titulo: "COTIZAR FLETE: el dato que te sube el precio 🚚"
+formato: short
+serie: "Cómo hacerlo"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: publicado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Pedir una cotización de flete con los 3 datos que siempre piden (origen y destino con Incoterm, qué mercadería es, bultos con medidas, peso y si se apilan), saber que en marítimo consolidado 1 m³ cuenta como 1.000 kg y se paga el mayor, y pedir el precio todo incluido y desglosado."
+  util: 5
+  llamativo: 4
+  gancho: "Te cotizaron un flete y la factura llegó más cara."
+  aprendi: "En marítimo consolidado (LCL) 1 m³ equivale a 1.000 kg y se cobra lo que sea mayor (W/M): una carga liviana y voluminosa paga por volumen aunque pese poco. Y decir si la carga es apilable o no puede cambiar el precio en serio: la que no se apila paga el espacio que queda libre arriba. Además, en rutas cortas el tramo por tierra puede costar más que el barco, por eso hay que aclarar si es puerto a puerto o puerta a puerta."
+escenas:
+  - grande: "LA FACTURA VINO MÁS CARA"
+    resaltar: "MÁS CARA"
+    chico: "Casi siempre faltaron datos al pedir el precio"
+    narracion: "Te cotizaron un flete y la factura llegó más cara. Casi siempre es porque faltaron datos al pedir el precio."
+    clip: https://videos.pexels.com/video-files/6700011/6700011-hd_1080_1920_25fps.mp4
+  - grande: "1. DE DÓNDE A DÓNDE"
+    resaltar: "1."
+    chico: "¿Puerta a puerta o puerto a puerto? + Incoterm"
+    narracion: "Uno: origen y destino. Aclarás si es puerta a puerta o puerto a puerto, y el Incoterm."
+    clip: https://videos.pexels.com/video-files/11801920/11801920-hd_1080_1920_30fps.mp4
+  - grande: "2. QUÉ MERCADERÍA ES"
+    resaltar: "2."
+    chico: "¿Es peligrosa? Baterías, químicos, aerosoles: cambia todo"
+    narracion: "Dos: qué mercadería es, y si es peligrosa."
+    clip: https://videos.pexels.com/video-files/6342195/6342195-hd_1080_1920_24fps.mp4
+  - grande: "3. BULTOS, MEDIDAS Y PESO"
+    resaltar: "3."
+    chico: "Largo × ancho × alto · peso bruto · ¿se puede apilar?"
+    narracion: "Tres: cuántos bultos, medidas, peso bruto, y si se apilan. Lo que no se apila paga el espacio de arriba."
+    clip: https://videos.pexels.com/video-files/6342204/6342204-hd_720_1280_24fps.mp4
+  - grande: "1 m³ = 1.000 KG"
+    resaltar: "1 m³"
+    chico: "Marítimo consolidado (LCL): se paga el MAYOR, peso o volumen"
+    narracion: "Y el dato que te sube el precio: en marítimo consolidado, un metro cúbico cuenta como mil kilos, y se paga el mayor."
+    clip: https://videos.pexels.com/video-files/10451891/10451891-hd_720_1280_30fps.mp4
+  - grande: "2 m³ DE 300 KG → PAGÁS 2"
+    resaltar: "PAGÁS 2"
+    chico: "Se cobra por los 2 m³, no por los 300 kg"
+    narracion: "Dos metros cúbicos que pesan trescientos kilos pagan por los dos metros cúbicos."
+    clip: https://videos.pexels.com/video-files/11801939/11801939-hd_1080_1920_30fps.mp4
+  - grande: "PEDÍ PRECIO TODO INCLUIDO"
+    resaltar: "TODO INCLUIDO"
+    chico: "Y desglosado, para comparar · Seguí Logística en 1 Minuto"
+    narracion: "Pedí el precio todo incluido y desglosado. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/8298300/8298300-hd_720_1280_25fps.mp4
+descripcion: |
+  COTIZAR FLETE: el dato que te sube el precio 🚚
+
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1 (con el cupón LANZAMIENTO la pagás USD 5, hasta el 18/11)
+
+  ¿Te cotizaron un flete y la factura llegó más cara? Casi siempre faltaron datos al pedir el precio. Los 3 que te pide cualquier transportista:
+  · 1. Origen y destino: direcciones o puertos, si es puerta a puerta o puerto a puerto, y el Incoterm (define qué tramos se cotizan). En rutas cortas, el tramo por tierra puede costar más que el barco.
+  · 2. Qué mercadería es, y si es peligrosa (baterías, químicos, aerosoles).
+  · 3. Bultos, medidas (largo × ancho × alto), peso bruto y si se pueden apilar. La carga que no se apila paga el espacio que queda libre arriba.
+  · El dato que cambia el precio: en marítimo consolidado (LCL) se cobra por "W/M": 1 m³ equivale a 1.000 kg y se paga lo que sea mayor. Ejemplo: 2 m³ que pesan 300 kg pagan por 2 m³.
+  · Pedí siempre el precio todo incluido ("all in") y desglosado, así comparás cotizaciones iguales.
+
+  Ojo: en aéreo y camión la equivalencia es otra (ver nuestro video de peso volumétrico) y cada transportista puede tener mínimos propios. Confirmalo al cotizar.
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  Curso recomendado de logística internacional (link de afiliado): https://go.hotmart.com/M108343505U
+
+  Imágenes de stock: Tima Miroshnichenko, Mike Hongkong 2, Liza Summer, Glenn Langhorst y Mikhail Nilov (Pexels).
+
+  #Shorts #Flete #CotizarFlete #CargaConsolidada
+fuentes:
+  - https://www.shapiro.com/resources/transportation-conversion-tables-and-calculations/
+  - https://www.marineinsight.com/what-is-cbm-rate-in-shipping/
+  - https://cargolinked.com/guides/information-needed-for-accurate-freight-quote
+  - https://www.junologistics.com/juno-blogs/essentials-of-a-freight-quote
+creditos:
+  - https://www.pexels.com/video/a-person-counting-money-6700011/
+  - https://www.pexels.com/video/trucks-on-viaduct-in-city-11801920/
+  - https://www.pexels.com/video/close-up-video-of-parcels-6342195/
+  - https://www.pexels.com/video/woman-putting-clothes-inside-the-box-6342204/
+  - https://www.pexels.com/video/container-ship-being-loaded-10451891/
+  - https://www.pexels.com/video/vehicle-carrying-container-in-warehouse-11801939/
+  - https://www.pexels.com/video/a-woman-checking-the-documents-8298300/

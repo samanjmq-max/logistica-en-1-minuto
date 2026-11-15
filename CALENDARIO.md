@@ -132,7 +132,7 @@ Formato: **la duda → los pasos → el error a evitar**. Para personas y peque�
 | 049 | Cómo ordenar un depósito chico | Encontrar cualquier cosa en 30 segundos | Pendiente |
 | 050 | Cómo almacenar en altura sin riesgo | Lo pesado abajo, siempre | Pendiente |
 | 051 | Pallet: medidas y cómo armarlo | El pallet mal armado que se cae en el camión | Pendiente |
-| 052 | Cómo cotizar un flete | Tres datos que te pide cualquier transportista | Pendiente |
+| 052 | Cómo cotizar un flete | Tres datos que te pide cualquier transportista | Publicado (2026-11-16 19:00) |
 | 053 | Cómo hacer un inventario sin parar la operación | El conteo cíclico | Pendiente |
 | 054 | Cómo importar por primera vez | Los pasos, en orden | Pendiente |
 | 055 | ¿Autoelevador o transpaleta? La pregunta que decide | Comprar el equipo equivocado te come el capital | Publicado (2026-11-13 19:00) |
