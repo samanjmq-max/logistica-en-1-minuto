@@ -76,9 +76,9 @@ El 037 (demurrage como problema real) queda después del 013 para no repetir tem
 | 009 | Certificado de origen (se enfocó en uno: factura comercial y packing list quedan para el 036) | Sin el certificado, pagás arancel completo | Publicado (2026-11-09 19:00) |
 | 010 | Avería gruesa | Tu carga llegó perfecta y igual te cobran | Publicado (2026-11-10 19:00) |
 | 011 | Seguro de carga: cláusulas A, B y C | ¿Qué pasa si se pierde mi mercadería? | Publicado (2026-11-14 19:00) |
-| 012 | Contenedores que caen al mar | Cuántos se pierden por año | Pendiente (buscar cifra oficial) |
+| 012 | Contenedores que caen al mar | Cuántos se pierden por año | Pendiente (se pasó el 2026-11-16: solo como cifra es una curiosidad sin acción y útil < 4; retomarlo solo con un enfoque útil, por ejemplo qué hacer si tu contenedor es uno de ellos, sin repetir 010 y 011) |
 | 013 | Demurrage y detention | La multa que te cobra la naviera por día | Publicado (2026-11-11 19:00) |
-| 014 | VGM (SOLAS): pesar el contenedor | Por qué un contenedor mal pesado hunde barcos | Pendiente |
+| 014 | VGM (SOLAS): pesar el contenedor | Sin este número, tu contenedor no sube | Publicado (2026-11-17 19:00) |
 | 015 | Trincaje de contenedores | Cómo se atan miles de cajas en alta mar | Pendiente |
 | 016 | Mercancías peligrosas: clases IMO | Qué significan los rombos de colores | Pendiente |
 | 017 | Cadena de frío | Por qué el reefer nunca se apaga | Pendiente |

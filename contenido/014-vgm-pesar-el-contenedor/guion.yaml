@@ -1,0 +1,85 @@
+titulo: "PESO VGM: sin este número, tu contenedor no sube ⚖️"
+formato: short
+serie: "Logística en 1 minuto"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: publicado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Declarar el VGM de su contenedor antes del cierre de la naviera con uno de los dos métodos (pesarlo lleno, o sumar carga, embalajes, pallets, maderas y trincas más la tara pintada en la puerta), sin estimar, y que coincida con el peso de las instrucciones de embarque."
+  util: 5
+  llamativo: 4
+  gancho: "Tu contenedor llega al puerto y no lo suben al barco."
+  aprendi: "El VGM no es el peso de la mercadería: incluye pallets, maderas de estiba, trincas y la tara del contenedor (la que está en la puerta), y estimarlo no está permitido. Y no alcanza con mandarlo: Maersk anunció en 2020, para cargas desde Reino Unido, un cargo de GBP 100 por contenedor si el VGM difiere en más de ±500 kg o 5 % del peso de las instrucciones de embarque más la tara."
+escenas:
+  - grande: "SIN VGM, NO EMBARCA"
+    resaltar: "SIN VGM"
+    chico: "Peso bruto verificado · obligatorio desde el 1/7/2016 (SOLAS)"
+    narracion: "Tu contenedor llega al puerto y no lo suben al barco. Le faltó un número: el VGM, el peso bruto verificado."
+    clip: https://videos.pexels.com/video-files/10451891/10451891-hd_720_1280_30fps.mp4
+  - grande: "LO FIRMA EL EMBARCADOR"
+    resaltar: "EMBARCADOR"
+    chico: "El shipper del conocimiento de embarque, antes del cierre que fija la naviera"
+    narracion: "Lo firma el embarcador, antes del cierre que fija la naviera."
+    clip: https://videos.pexels.com/video-files/8814707/8814707-hd_1080_1920_25fps.mp4
+  - grande: "MÉTODO 1: PESÁS TODO"
+    resaltar: "MÉTODO 1"
+    chico: "El contenedor ya cargado, en una balanza calibrada"
+    narracion: "Hay dos formas. Uno: pesás el contenedor ya cargado, en una balanza calibrada."
+    clip: https://videos.pexels.com/video-files/3817901/3817901-hd_1280_720_30fps.mp4
+  - grande: "MÉTODO 2: SUMÁS"
+    resaltar: "MÉTODO 2"
+    chico: "Carga + embalajes + pallets + maderas y trincas + tara (pintada en la puerta)"
+    narracion: "Dos: pesás la carga con embalajes, pallets, maderas y trincas, y le sumás la tara que está pintada en la puerta."
+    clip: https://videos.pexels.com/video-files/4292301/4292301-hd_1280_720_50fps.mp4
+  - grande: "ESTIMAR NO VALE"
+    resaltar: "NO VALE"
+    chico: "Ni \"más o menos\": el peso tiene que ser real"
+    narracion: "Ojo: estimarlo no está permitido."
+    clip: https://videos.pexels.com/video-files/6964001/6964001-hd_1080_1920_25fps.mp4
+  - grande: "NO COINCIDE: GBP 100"
+    resaltar: "GBP 100"
+    chico: "Maersk desde Reino Unido (2020): si difiere más de 500 kg o 5 % de lo declarado + tara"
+    narracion: "Y si no coincide con el peso que declaraste más la tara, Maersk, desde Reino Unido, cobra cien libras por contenedor."
+    clip: https://videos.pexels.com/video-files/6700011/6700011-hd_1080_1920_25fps.mp4
+  - grande: "SUMÁ PALLETS Y TARA"
+    resaltar: "Y TARA"
+    chico: "Antes de mandar el peso · Seguí Logística en 1 Minuto"
+    narracion: "Antes de mandar el peso, sumá pallets y tara. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+descripcion: |
+  PESO VGM: sin este número, tu contenedor no sube ⚖️
+
+  ¿Exportás en contenedor? Desde el 1/7/2016 (convenio SOLAS de la OMI), un contenedor lleno no se carga en el barco sin su VGM, el peso bruto verificado. Lo declara y firma el embarcador (el shipper del conocimiento de embarque) antes del cierre que fija la naviera o el forwarder, que cambia según el puerto.
+  · Método 1: pesar el contenedor ya cargado, en una balanza calibrada.
+  · Método 2: pesar toda la carga con sus embalajes, pallets, maderas de estiba y trincas, y sumar la tara del contenedor (figura en la puerta, "TARE").
+  · Estimar el peso no está permitido.
+  · El error típico: mandar solo el peso de la mercadería. El VGM es mercadería + embalajes + contenedor.
+  · Que coincida con lo que declaraste: Maersk anunció en 2020, para cargas desde Reino Unido, un cargo de GBP 100 por contenedor si el VGM difiere más de ±500 kg o 5 % del peso de las instrucciones de embarque más la tara.
+
+  Ojo: los plazos, tolerancias y cargos varían según el país, el puerto y la naviera, y en algunos países el método 2 exige que el exportador esté registrado ante la autoridad. Confirmalo al reservar.
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1 (con el cupón LANZAMIENTO la pagás USD 5, hasta el 18/11)
+
+  Curso recomendado de logística internacional (link de afiliado): https://go.hotmart.com/M108343505U
+
+  Imágenes de stock: Glenn Langhorst, Kampus Production, Suraphat Nuea-on, Tiger Lily, Mikhail Nilov, Tima Miroshnichenko y Cyriac von Czapiewski (Pexels).
+
+  #Shorts #VGM #Contenedor #SOLAS
+fuentes:
+  - https://www.dhl.com/content/dam/dhl/global/dhl-global-forwarding/documents/pdf/dhl-glo-dgf-solas-shipping-guide.pdf
+  - https://shippingaustralia.com.au/wp-content/uploads/2016/03/VGM_Factsheet_WEB.pdf
+  - https://www.amsa.gov.au/vessels-operators/cargoes-and-dangerous-goods/obtaining-verified-gross-mass
+  - https://www.mardep.gov.hk/filemanager/en/share/pub-services/pdf/miss_vgm_method2.pdf
+  - https://www.marineinsight.com/guidelines/verified-gross-mass-vgm-for-shipping/
+  - https://www.maersk.com/news/articles/2020/07/03/weight-discrepancy-fee-united-kingdom-to-world
+creditos:
+  - https://www.pexels.com/video/container-ship-being-loaded-10451891/
+  - https://www.pexels.com/video/a-person-signing-documents-8814707/
+  - https://www.pexels.com/video/commercial-trucks-lining-up-on-a-weighing-scale-for-crops-valuation-3817901/
+  - https://www.pexels.com/video/a-man-dragging-a-pallet-cart-4292301/
+  - https://www.pexels.com/video/a-person-computing-using-a-calculator-6964001/
+  - https://www.pexels.com/video/a-person-counting-money-6700011/
+  - https://www.pexels.com/video/containers-on-a-cargo-ship-at-port-15187012/
