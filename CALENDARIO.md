@@ -27,7 +27,7 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 
 ## Reglas de calidad (crítica interna antes de producir)
 
-1. **Gancho en la primera frase:** una pregunta o un dato que sorprenda. Nada de introducciones. **El gancho dice qué pierde o qué paga el espectador** (plata, carga, tiempo): "¿quién pierde?", "te cobran", "pagás el doble". Nada de ganchos de lista o descriptivos ("6 X que tenés que conocer", "¿carga el doble?"). *(Revisión 2026-11-09, datos de Instagram: el 004 "Si el barco se hunde, ¿quién pierde?" fue el mejor: 141 vistas y 52,6 % pasó los 3 s. Los descriptivos rindieron peor: 007 "¿carga el doble?" 18,3 % pasó los 3 s; 006 "6 contenedores" 3,8 s de promedio; 002 "el viaje" 3,6 s. Muestra chica: se revisa el 16/11.)*
+1. **Gancho en la primera frase:** una pregunta o un dato que sorprenda. Nada de introducciones. **El gancho dice qué pierde o qué paga el espectador** (plata, carga, tiempo): "¿quién pierde?", "te cobran", "pagás el doble". Nada de ganchos de lista o descriptivos ("6 X que tenés que conocer", "¿carga el doble?"). *(Revisión 2026-11-09, datos de Instagram: el 004 "Si el barco se hunde, ¿quién pierde?" fue el mejor: 141 vistas y 52,6 % pasó los 3 s. Los descriptivos rindieron peor: 007 "¿carga el doble?" 18,3 % pasó los 3 s; 006 "6 contenedores" 3,8 s de promedio; 002 "el viaje" 3,6 s. Revisión 2026-11-16: el 010 "AVERÍA GRUESA: tu carga llegó sana y pagás igual" tuvo el mejor paso de los 3 s hasta ahora (81,8 %) y 12,2 s de promedio (33 % del video), con solo 15 vistas. Se mantiene la regla.)*
 2. **Un concepto por video.** Si hacen falta dos, son dos videos.
 3. **Un dato concreto y con fuente** en cada video: un número, una norma, un caso real.
 4. **Visual que explica:** códigos resaltados, cifras grandes, comparaciones. El texto en pantalla aporta, no repite la voz.
@@ -46,23 +46,20 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 17. **Remate y corte.** Cuando llega la respuesta, el video termina enseguida: el cierre es una sola frase. Un final largo hace que deslicen antes de que el video cuente como visto completo.
 18. **Rotar formatos:** no repetir la misma serie más de 3 días seguidos (conceptos, problemas reales, guías rápidas).
 19. **Links en la descripción:** aplicar la sección "Producto propio y afiliados" de este archivo en cada video (YouTube, TikTok, Instagram y Pinterest).
+20. **Programado no es publicado.** Antes de producir, la tarea diaria revisa en Metricool (getScheduledPosts) el estado de todo lo programado en los días anteriores, en cada red. Si alguna dice ERROR: no se produce un video nuevo, se anota el error exacto en el registro, se avisa al propietario y la próxima publicación es el video más viejo que quedó sin salir. En el registro se escribe "programado" solo cuando Metricool lo aceptó, y "publicado" solo cuando el estado dice PUBLISHED. *(Revisión 2026-11-16: del 10/11 20:30 al 15/11 Metricool rechazó todo con "You have reached your Metricool account limit" y la tarea siguió produciendo y anotando "programado" durante 6 días sin que saliera nada.)*
 
 ## Temas (en orden de producción)
 
-### Orden para la semana del 10 al 16/11 (resumen semanal 2026-11-09)
+### Orden para la semana del 17 al 23/11 (resumen semanal 2026-11-16)
 
-La tarea diaria toma estos temas en este orden, antes que el orden de la tabla, y los programa en el primer día libre a las 19:00. El 010 (avería gruesa) ya estaba en producción el 9/11 y va primero; esta lista sigue después de él. Criterio: primero los temas donde el espectador pierde o paga plata (el tipo de gancho que mejor rindió), y rotando series (regla 18).
+**Del 10/11 a la noche al 16/11 no se publicó nada:** Metricool rechazó cada publicación con "You have reached your Metricool account limit" (L03, 013, 036, 055, L02b, 011 y 031). El 052 (16/11) y el 014 (17/11) están programados con el mismo riesgo. Los videos están renderizados pero nadie los vio, así que la lista de la semana pasada no se llegó a probar.
 
-| Orden | # | Serie | Gancho a usar |
-| --- | --- | --- | --- |
-| 1 | 013 | 1 | La multa que te cobra la naviera por día |
-| 2 | 036 | 2 | Un error en la factura y la carga no sale |
-| 3 | 055 | 3 | Comprar el equipo equivocado te come el capital |
-| 4 | 011 | 1 | Si se pierde tu mercadería, ¿quién te la paga? |
-| 5 | 031 | 2 | Pagaste mercadería que nunca entró |
-| 6 | 052 | 3 | Tres datos que te pide cualquier transportista (y el que te cambia el precio) |
+1. **No se producen Shorts ni largos nuevos hasta que se vuelva a publicar** (lo decide el propietario: plan de Metricool, publicación a mano o esperar que se renueve el límite). Con 9 videos listos hay atraso para más de una semana.
+2. **Primero sale el atraso, en el mismo orden**, uno por día a las 19:00: 013 → 036 → 055 → 011 → 031 → 052 → 014 (los que no hayan salido). Los largos L03 y L02b van a las 20:30, martes y viernes.
+3. **Al reprogramar después del 18/11, sacar de la descripción los cupones LANZAMIENTO y DEPOSITO7** (vencen ese día). El resto de la descripción queda igual.
+4. Terminado el atraso, siguen temas nuevos rotando series y con gancho de plata: 037 (demurrage como problema real, serie 2) → 053 (conteo cíclico, serie 3) → 016 (mercancías peligrosas, serie 1).
 
-El 037 (demurrage como problema real) queda después del 013 para no repetir tema la misma semana.
+El 037 queda después del 013 para no repetir tema la misma semana.
 
 | # | Tema | Gancho | Estado |
 | --- | --- | --- | --- |
@@ -75,10 +72,10 @@ El 037 (demurrage como problema real) queda después del 013 para no repetir tem
 | 008 | El Bill of Lading | El papel que vale lo mismo que la mercadería | Publicado (2026-11-08 19:00) |
 | 009 | Certificado de origen (se enfocó en uno: factura comercial y packing list quedan para el 036) | Sin el certificado, pagás arancel completo | Publicado (2026-11-09 19:00) |
 | 010 | Avería gruesa | Tu carga llegó perfecta y igual te cobran | Publicado (2026-11-10 19:00) |
-| 011 | Seguro de carga: cláusulas A, B y C | ¿Qué pasa si se pierde mi mercadería? | Publicado (2026-11-14 19:00) |
+| 011 | Seguro de carga: cláusulas A, B y C | ¿Qué pasa si se pierde mi mercadería? | Renderizado, NO publicado (falló el 2026-11-14: límite de Metricool) |
 | 012 | Contenedores que caen al mar | Cuántos se pierden por año | Pendiente (se pasó el 2026-11-16: solo como cifra es una curiosidad sin acción y útil < 4; retomarlo solo con un enfoque útil, por ejemplo qué hacer si tu contenedor es uno de ellos, sin repetir 010 y 011) |
-| 013 | Demurrage y detention | La multa que te cobra la naviera por día | Publicado (2026-11-11 19:00) |
-| 014 | VGM (SOLAS): pesar el contenedor | Sin este número, tu contenedor no sube | Publicado (2026-11-17 19:00) |
+| 013 | Demurrage y detention | La multa que te cobra la naviera por día | Renderizado, NO publicado (falló el 2026-11-11: límite de Metricool) |
+| 014 | VGM (SOLAS): pesar el contenedor | Sin este número, tu contenedor no sube | Renderizado, programado 2026-11-17 19:00 (en riesgo: límite de Metricool; verificar el 18/11) |
 | 015 | Trincaje de contenedores | Cómo se atan miles de cajas en alta mar | Pendiente |
 | 016 | Mercancías peligrosas: clases IMO | Qué significan los rombos de colores | Pendiente |
 | 017 | Cadena de frío | Por qué el reefer nunca se apaga | Pendiente |
@@ -104,12 +101,12 @@ Formato: **problema → causa → solución**. Un problema típico de un área l
 | 028 | Depósito | Errores de picking | Mandaste el producto equivocado al cliente | Pendiente |
 | 029 | Depósito | Mercadería vencida (sin FEFO) | Tiraste mercadería que estaba en el depósito | Pendiente |
 | 030 | Recepción | Camiones esperando en la puerta | Tres horas para descargar un camión | Pendiente |
-| 031 | Recepción | Recibir sin controlar contra la orden de compra | Pagaste mercadería que nunca entró | Publicado (2026-11-15 19:00) |
+| 031 | Recepción | Recibir sin controlar contra la orden de compra | Pagaste mercadería que nunca entró | Renderizado, NO publicado (falló el 2026-11-15: límite de Metricool) |
 | 032 | Despacho | Pedidos que salen tarde | El camión se fue y el pedido quedó | Pendiente |
 | 033 | Despacho | Carga mal armada en el camión | Llegó roto por cómo se cargó | Pendiente |
 | 034 | Transporte | Rutas de reparto mal armadas | Tu camión recorre el doble de lo necesario | Pendiente |
 | 035 | Transporte | Entregas fallidas en última milla | Fue, no había nadie, y vuelve mañana | Pendiente |
-| 036 | Importación | Carga trabada en aduana por documentos | Un error en la factura y la carga no sale | Publicado (2026-11-12 19:00) |
+| 036 | Importación | Carga trabada en aduana por documentos | Un error en la factura y la carga no sale | Renderizado, NO publicado (falló el 2026-11-12: límite de Metricool) |
 | 037 | Importación | Demurrage por retirar tarde el contenedor | La multa diaria que nadie vio venir | Pendiente |
 | 038 | Inventario | Quiebres de stock | Tenés de todo, menos lo que se vende | Pendiente |
 | 039 | Inventario | Sobrestock | Plata parada en la estantería | Pendiente |
@@ -132,10 +129,10 @@ Formato: **la duda → los pasos → el error a evitar**. Para personas y peque�
 | 049 | Cómo ordenar un depósito chico | Encontrar cualquier cosa en 30 segundos | Pendiente |
 | 050 | Cómo almacenar en altura sin riesgo | Lo pesado abajo, siempre | Pendiente |
 | 051 | Pallet: medidas y cómo armarlo | El pallet mal armado que se cae en el camión | Pendiente |
-| 052 | Cómo cotizar un flete | Tres datos que te pide cualquier transportista | Publicado (2026-11-16 19:00) |
+| 052 | Cómo cotizar un flete | Tres datos que te pide cualquier transportista | Renderizado, programado 2026-11-16 19:00 (en riesgo: límite de Metricool; verificar el 17/11) |
 | 053 | Cómo hacer un inventario sin parar la operación | El conteo cíclico | Pendiente |
 | 054 | Cómo importar por primera vez | Los pasos, en orden | Pendiente |
-| 055 | ¿Autoelevador o transpaleta? La pregunta que decide | Comprar el equipo equivocado te come el capital | Publicado (2026-11-13 19:00) |
+| 055 | ¿Autoelevador o transpaleta? La pregunta que decide | Comprar el equipo equivocado te come el capital | Renderizado, NO publicado (falló el 2026-11-13: límite de Metricool) |
 | 056 | Cuánto espacio necesitás para arrancar un depósito | El error de alquilar de más (o de menos) | Pendiente |
 
 
@@ -151,8 +148,8 @@ Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y ampl
 | --- | --- | --- |
 | L01 | Incoterms 2020: los 11 explicados y los 5 errores que te hacen perder plata | Publicado (2026-11-04 20:30, 8:04 min; falta la miniatura) |
 | L02 | Contenedores: tipos, medidas, TEU y cómo elegir 20 o 40 pies | Publicado (2026-11-06 20:30, 8:32 min) |
-| L03 | PRIMERA IMPORTACIÓN: los 7 pasos para importar a Uruguay sin pagar de más | Producido (programado 2026-11-10 20:30) |
-| L02b | AUTOELEVADOR O TRANSPALETA: cómo elegir el equipo de tu depósito sin gastar de más | Producido (programado 2026-11-13 20:30) |
+| L03 | PRIMERA IMPORTACIÓN: los 7 pasos para importar a Uruguay sin pagar de más | Renderizado, NO publicado (falló el 2026-11-10 20:30: límite de Metricool) |
+| L02b | AUTOELEVADOR O TRANSPALETA: cómo elegir el equipo de tu depósito sin gastar de más | Renderizado, NO publicado (falló el 2026-11-13 20:30: límite de Metricool) |
 | L04 | Los 10 problemas más caros de un depósito y cómo resolverlos | Pendiente |
 | L05 | DEMURRAGE y detention: cómo no pagar días de contenedor y cómo negociar los días libres | Pendiente |
 | L06 | EXPORTAR DESDE Uruguay por primera vez: pasos, documentos y certificado de origen | Pendiente |
