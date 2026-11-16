@@ -148,7 +148,7 @@ Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y ampl
 | --- | --- | --- |
 | L01 | Incoterms 2020: los 11 explicados y los 5 errores que te hacen perder plata | Publicado (2026-11-04 20:30, 8:04 min; falta la miniatura) |
 | L02 | Contenedores: tipos, medidas, TEU y cómo elegir 20 o 40 pies | Publicado (2026-11-06 20:30, 8:32 min) |
-| L03 | PRIMERA IMPORTACIÓN: los 7 pasos para importar a Uruguay sin pagar de más | Renderizado, NO publicado (falló el 2026-11-10 20:30: límite de Metricool) |
+| L03 | PRIMERA IMPORTACIÓN: los 7 pasos para importar a Uruguay sin pagar de más | Renderizado, reprogramado 2026-11-17 20:30 (falló el 10/11 por el límite de Metricool; en riesgo, verificar el 18/11). No se produjo L04 (regla 20) |
 | L02b | AUTOELEVADOR O TRANSPALETA: cómo elegir el equipo de tu depósito sin gastar de más | Renderizado, NO publicado (falló el 2026-11-13 20:30: límite de Metricool) |
 | L04 | Los 10 problemas más caros de un depósito y cómo resolverlos | Pendiente |
 | L05 | DEMURRAGE y detention: cómo no pagar días de contenedor y cómo negociar los días libres | Pendiente |
