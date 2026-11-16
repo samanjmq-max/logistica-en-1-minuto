@@ -48,6 +48,8 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 19. **Links en la descripción:** aplicar la sección "Producto propio y afiliados" de este archivo en cada video (YouTube, TikTok, Instagram y Pinterest).
 20. **Programado no es publicado.** Antes de producir, la tarea diaria revisa en Metricool (getScheduledPosts) el estado de todo lo programado en los días anteriores, en cada red. Si alguna dice ERROR: no se produce un video nuevo, se anota el error exacto en el registro, se avisa al propietario y la próxima publicación es el video más viejo que quedó sin salir. En el registro se escribe "programado" solo cuando Metricool lo aceptó, y "publicado" solo cuando el estado dice PUBLISHED. *(Revisión 2026-11-16: del 10/11 20:30 al 15/11 Metricool rechazó todo con "You have reached your Metricool account limit" y la tarea siguió produciendo y anotando "programado" durante 6 días sin que saliera nada.)*
 
+21. **Publicar con vidIQ mientras Metricool esté bloqueado** (decisión del propietario, 2026-11-16). vidIQ publica y programa gratis (0 créditos) en YouTube, Instagram y TikTok. Pasos: `vidiq_video_upload` con la URL pública del MP4 (máx. 299 MB) → miniatura con `vidiq_upload_image` (URL pública que responda 200 directo; las del release redirigen y fallan) → `vidiq_social_post_draft_create` (YouTube: título, `privacyStatus: public`, `categoryId: 27` = Educación, tags, `publishAt` con zona -03:00) → `vidiq_social_post_publish` → `vidiq_social_post_status` hasta que diga programado. Hoy solo YouTube está conectado en vidIQ; Instagram y TikTok se conectan gratis con `vidiq_social_account_connect` (lo hace el propietario). Pinterest no está en vidIQ: queda en Metricool. Un post programado en vidIQ no se puede cancelar desde la tarea: revisar todo antes de publicar.
+
 ## Temas (en orden de producción)
 
 ### Orden para la semana del 17 al 23/11 (resumen semanal 2026-11-16)
@@ -148,7 +150,7 @@ Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y ampl
 | --- | --- | --- |
 | L01 | Incoterms 2020: los 11 explicados y los 5 errores que te hacen perder plata | Publicado (2026-11-04 20:30, 8:04 min; falta la miniatura) |
 | L02 | Contenedores: tipos, medidas, TEU y cómo elegir 20 o 40 pies | Publicado (2026-11-06 20:30, 8:32 min) |
-| L03 | PRIMERA IMPORTACIÓN: los 7 pasos para importar a Uruguay sin pagar de más | Renderizado, reprogramado 2026-11-17 20:30 (falló el 10/11 por el límite de Metricool; en riesgo, verificar el 18/11). No se produjo L04 (regla 20) |
+| L03 | PRIMERA IMPORTACIÓN: los 7 pasos para importar a Uruguay sin pagar de más | Programado 2026-11-17 20:30 por vidIQ (post a3caace6; falló el 10/11 en Metricool por el límite; la copia de Metricool quedó como borrador). No se produjo L04 (regla 20) |
 | L02b | AUTOELEVADOR O TRANSPALETA: cómo elegir el equipo de tu depósito sin gastar de más | Renderizado, NO publicado (falló el 2026-11-13 20:30: límite de Metricool) |
 | L04 | Los 10 problemas más caros de un depósito y cómo resolverlos | Pendiente |
 | L05 | DEMURRAGE y detention: cómo no pagar días de contenedor y cómo negociar los días libres | Pendiente |
