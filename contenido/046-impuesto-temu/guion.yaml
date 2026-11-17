@@ -1,0 +1,80 @@
+titulo: "IMPUESTO TEMU: comprás 15 y pagás 20 💸"
+formato: short
+serie: "Cómo hacerlo"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: aprobado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Saber cuánto paga hoy una compra en el exterior que llega a Uruguay (franquicia: IVA 22 %, sin IVA desde EE. UU. hasta USD 200; cuarto envío: 60 % con mínimo USD 20) y juntar las compras chicas en un solo envío para no gastar las 3 franquicias del año."
+  util: 5
+  llamativo: 5
+  gancho: "Comprás algo de 15 dólares y pagás 20 de impuesto."
+  aprendi: "Cada envío gasta una de las 3 franquicias del año sin importar cuánto vale (uno de 5 dólares cuenta igual que uno de 700), y fuera de franquicia hay un mínimo de USD 20 por envío: un producto barato puede pagar más impuesto que lo que cuesta. Además, el IVA no cuenta dentro del tope de USD 800, y la exoneración de EE. UU. exige que la mercadería sea de allá: si en la caja va algo que no es de EE. UU., paga IVA todo el paquete."
+  referencia: "Mecanismos de la regla 22 (sin copiar texto): plata que perdés con contraste en los primeros 3 s (como nuestro 010), noticia del nicho explicada (régimen de franquicias de Uruguay, el tema más buscado de compras web este año en medios uruguayos) y pregunta con número concreto (15 vs. 20). Estructura de guía: regla → cuenta → acción."
+escenas:
+  - grande: "COMPRÁS 15, PAGÁS 20"
+    resaltar: "PAGÁS 20"
+    chico: "Compras en el exterior que llegan a Uruguay"
+    narracion: "Comprás algo de quince dólares en Temu y pagás veinte de impuesto. Pasa en Uruguay si ya usaste tus tres franquicias del año."
+    clip: https://videos.pexels.com/video-files/6700011/6700011-hd_1080_1920_25fps.mp4
+  - grande: "3 ENVÍOS POR AÑO"
+    resaltar: "3 ENVÍOS"
+    chico: "Tope: USD 800 en total en el año (el IVA no cuenta) · desde el 1/5/2026"
+    narracion: "Desde mayo, la franquicia son tres envíos por año, con un tope de ochocientos dólares en total."
+    clip: https://videos.pexels.com/video-files/6342195/6342195-hd_1080_1920_24fps.mp4
+  - grande: "FRANQUICIA: IVA 22 %"
+    resaltar: "22 %"
+    chico: "Desde EE. UU. y hasta USD 200 por envío: sin IVA (mercadería de allá)"
+    narracion: "En franquicia pagás el IVA del veintidós por ciento. Desde Estados Unidos, hasta doscientos dólares por envío, no pagás IVA."
+    clip: https://videos.pexels.com/video-files/13456113/13456113-hd_720_1280_24fps.mp4
+  - grande: "4.º ENVÍO: 60 %"
+    resaltar: "60 %"
+    chico: "Régimen simplificado · mínimo USD 20 por envío"
+    narracion: "Desde el cuarto envío pasás al régimen simplificado: sesenta por ciento, con un mínimo de veinte dólares por envío."
+    clip: https://videos.pexels.com/video-files/6964001/6964001-hd_1080_1920_25fps.mp4
+  - grande: "USD 100 → 22 O 60"
+    resaltar: "22 O 60"
+    chico: "El mismo producto: USD 22 en franquicia, USD 60 fuera de ella"
+    narracion: "El mismo producto de cien dólares paga veintidós o sesenta."
+    clip: https://videos.pexels.com/video-files/8298300/8298300-hd_720_1280_25fps.mp4
+  - grande: "JUNTÁ EN UN ENVÍO"
+    resaltar: "UN ENVÍO"
+    chico: "Cada envío gasta 1 de tus 3, aunque valga USD 5 · Seguí Logística en 1 Minuto"
+    narracion: "Por eso, juntá las compras chicas en un solo envío: cada uno gasta una franquicia, aunque valga cinco dólares. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/6342204/6342204-hd_720_1280_24fps.mp4
+descripcion: |
+  IMPUESTO TEMU: comprás 15 y pagás 20 💸
+
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1
+
+  ¿Cuánto pagás hoy por comprar en el exterior desde Uruguay? Régimen vigente desde el 1/5/2026 (Decreto 50/2026):
+  · Franquicia: hasta 3 envíos por persona y por año, con un tope de USD 800 en total en el año. El IVA no entra en ese tope. Lo que no usás no pasa al año siguiente.
+  · En franquicia se paga IVA del 22 %. Desde Estados Unidos, hasta USD 200 por envío, no se paga IVA (acuerdo TIFA), pero la mercadería tiene que ser de allá: si en el paquete va algo que no es de EE. UU., paga IVA todo el envío.
+  · Cuarto envío, o un envío que no cumple las condiciones: pasa al régimen simplificado, 60 % del valor con un mínimo de USD 20 por envío (máximo 20 kg, sin productos con IMESI).
+  · La cuenta: un producto de USD 100 paga USD 22 en franquicia y USD 60 fuera de ella. Uno de USD 15 fuera de franquicia paga el mínimo: USD 20.
+  · Qué hacer: cada envío gasta una de tus 3 franquicias, valga USD 5 o USD 700. Juntá las compras chicas en un solo envío y guardá las franquicias para lo que más vale.
+
+  Ojo: las reglas pueden cambiar. Revisá la guía del MEF y la Aduana (DNA) antes de comprar.
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  Curso recomendado de comercio exterior (link de afiliado): https://go.hotmart.com/P108344299F
+
+  Imágenes de stock: Tima Miroshnichenko, Liza Summer, Mizuno K y Mikhail Nilov (Pexels).
+
+  #Shorts #ImpuestoTemu #Franquicias #ComprasEnElExterior
+fuentes:
+  - https://www.gub.uy/ministerio-economia-finanzas/comunicacion/noticias/guia-preguntas-frecuentes-sobre-regimen-envios-postales-franquicias
+  - https://www.aduanas.gub.uy/innovaportal/v/28455/1/innova.front/desde-el-1%C2%BA-de-mayo-comienza-a-regir-el-nuevo-regimen-de-franquicias-de-envios-postales-internacionales.html
+  - https://www.aduanas.gub.uy/innovaportal/file/28462/1/rg-12-2026.pdf
+  - https://www.elobservador.com.uy/ciencia-y-tecnologia/guia-compras-el-exterior-16-claves-evacuar-dudas-n6042852
+  - https://www.montevideo.com.uy/Noticias/Regimen-de-franquicias-que-entrara-en-vigencia-el-1-de-mayo-y-el-cambio-a-ultimo-momento-uc960576
+  - https://somosuruguay.com.uy/economia/nuevo-regimen-compras-exterior-cambia-franquicias-cuando-rige-n2671
+creditos:
+  - https://www.pexels.com/video/a-person-counting-money-6700011/
+  - https://www.pexels.com/video/close-up-video-of-parcels-6342195/
+  - https://www.pexels.com/video/a-man-delivering-a-package-to-a-woman-13456113/
+  - https://www.pexels.com/video/a-person-computing-using-a-calculator-6964001/
+  - https://www.pexels.com/video/a-woman-checking-the-documents-8298300/
+  - https://www.pexels.com/video/woman-putting-clothes-inside-the-box-6342204/
