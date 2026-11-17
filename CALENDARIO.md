@@ -50,6 +50,14 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 
 21. **Publicar con vidIQ mientras Metricool esté bloqueado** (decisión del propietario, 2026-11-16; reemplaza el paso "Programá en Metricool" de las tareas diaria y de largos para YouTube, Instagram y TikTok; el pin de Pinterest sigue en Metricool). Si hay videos del atraso sin publicar, se programa primero el más viejo por vidIQ en lugar de producir uno nuevo (regla 20). vidIQ publica y programa gratis (0 créditos) en YouTube, Instagram y TikTok. Pasos: `vidiq_video_upload` con la URL pública del MP4 (máx. 299 MB) → miniatura con `vidiq_upload_image` (URL pública que responda 200 directo; las del release redirigen y fallan: para los largos, copiar el .jpg del release a miniaturas/LNN-tema-corto.jpg en main y usar la URL de raw.githubusercontent.com) → `vidiq_social_post_draft_create` (YouTube: título, `privacyStatus: public`, `categoryId: 27` = Educación, tags, `publishAt` con zona -03:00) → `vidiq_social_post_publish` → `vidiq_social_post_status` hasta que diga programado. Cuentas conectadas en vidIQ (2026-11-16, canPublish true): YouTube `UCYGlvUEFxyuPxuEhiAX9bbA`, Instagram `29759225183685543` (@logisticaen1minuto) y TikTok `_000ImZ-S5jGvapBHzJjWlRKWIAEgr_cTDNb`. Pinterest no está en vidIQ: queda en Metricool. Un post programado en vidIQ no se puede cancelar desde la tarea: revisar todo antes de publicar. **Por qué:** el plan gratis de Metricool permite 20 publicaciones por mes y el canal hace unas 40 (Short en 3 redes + pin + largos). Plan elegido sin pagar: vidIQ para YouTube, Instagram y TikTok; Metricool solo para el pin de Pinterest (cuando se renueve el cupo mensual). TikTok (confirmado por el propietario el 2026-11-16, regla fija): privacyLevel PUBLIC_TO_EVERYONE, allowComment true, musicUsageConfirmed true, isAiGenerated false. Instagram: el Reel va con el mismo texto (máx. 2.200 caracteres) y hashtags sin #Shorts. YouTube va en un post y Instagram + TikTok en otro, a la misma hora.
 
+22. **Mirar qué funciona antes de escribir** (pedido del propietario, 2026-11-17). Cada tarea, antes de elegir el gancho: buscar 3 a 5 videos del nicho que estén rindiendo esa semana (vidIQ `vidiq_outliers`/`vidiq_trending_videos` si hay créditos; si no, WebSearch). Anotar en el guion, en `chequeo.referencia`, el MECANISMO que se toma (tipo de gancho, estructura, fórmula de título), nunca el texto. Prohibido copiar guiones, frases, imágenes o videos de otros canales: además de los derechos de autor, YouTube no monetiza el contenido reutilizado. Mecanismos que hoy tienen evidencia (análisis 2026-11-17, claude/analisis-competencia-2026-11-17.md en el proyecto):
+    - **Plata que perdés + contraste** en los primeros 3 s (nuestro 010: 81,8 % pasó los 3 s; el 009 sin plata en el gancho: 0 %).
+    - **Desmentir lo que te dijeron** ("te cotizan hasta el puerto… y después aparecen los costos").
+    - **Pregunta con número concreto** en el título ("¿Cuánto pagás hoy…?", "¿Por qué subió…?").
+    - **Noticia del nicho explicada en días** (Ormuz y Bab el-Mandeb, recargos de guerra, régimen de franquicias de Uruguay y Argentina): el que la explica primero se lleva las vistas. Siempre con fuente oficial y fecha.
+    - **Serie reconocible** con el mismo prefijo en el título (ej.: "LO QUE PAGÁS:").
+    - Lo que NO se puede ver de otros canales: su retención por segundo (es privada). La retención se mide en los nuestros, en el resumen semanal.
+
 ## Temas (en orden de producción)
 
 ### Orden para la semana del 17 al 23/11 (resumen semanal 2026-11-16)
@@ -59,7 +67,8 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 1. **No se producen Shorts ni largos nuevos hasta que se vuelva a publicar** (lo decide el propietario: plan de Metricool, publicación a mano o esperar que se renueve el límite). Con 9 videos listos hay atraso para más de una semana.
 2. **Primero sale el atraso, en el mismo orden**, uno por día a las 19:00: 013 → 036 → 055 → 011 → 031 → 052 → 014 (los que no hayan salido). Los largos L03 y L02b van a las 20:30, martes y viernes.
 3. **Al reprogramar después del 18/11, sacar de la descripción los cupones LANZAMIENTO y DEPOSITO7** (vencen ese día). El resto de la descripción queda igual.
-4. Terminado el atraso, siguen temas nuevos rotando series y con gancho de plata: 037 (demurrage como problema real, serie 2) → 053 (conteo cíclico, serie 3) → 016 (mercancías peligrosas, serie 1).
+4. **Prioridad nueva (2026-11-17, regla 22):** apenas haya lugar, el 046 se hace con el ángulo de la noticia: "IMPUESTO TEMU: cuánto pagás hoy por comprar afuera desde Uruguay" (IVA 22 % en franquicia, tope anual y régimen nuevo vigente desde el 1/5/2026; verificar todo en DNA/IMPO antes). Y un Short nuevo de noticia: "RECARGO DE GUERRA: por qué tu flete subió aunque el barco no pase por Ormuz" (verificar recargos en avisos oficiales de las navieras).
+5. Terminado el atraso, siguen temas nuevos rotando series y con gancho de plata: 037 (demurrage como problema real, serie 2) → 053 (conteo cíclico, serie 3) → 016 (mercancías peligrosas, serie 1).
 
 El 037 queda después del 013 para no repetir tema la misma semana.
 
@@ -152,6 +161,7 @@ Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y ampl
 | L02 | Contenedores: tipos, medidas, TEU y cómo elegir 20 o 40 pies | Publicado (2026-11-06 20:30, 8:32 min) |
 | L03 | PRIMERA IMPORTACIÓN: los 7 pasos para importar a Uruguay sin pagar de más | Programado 2026-11-17 20:30 por vidIQ (post a3caace6; falló el 10/11 en Metricool por el límite; la copia de Metricool quedó como borrador). No se produjo L04 (regla 20) |
 | L02b | AUTOELEVADOR O TRANSPALETA: cómo elegir el equipo de tu depósito sin gastar de más | Renderizado, NO publicado (falló el 2026-11-13 20:30: límite de Metricool) |
+| L03c | IMPUESTO TEMU: cuánto pagás hoy por comprar en el exterior desde Uruguay (franquicias, IVA, topes y cómo calcularlo) | Pendiente (prioridad: tema de noticia, regla 22) |
 | L04 | Los 10 problemas más caros de un depósito y cómo resolverlos | Pendiente |
 | L05 | DEMURRAGE y detention: cómo no pagar días de contenedor y cómo negociar los días libres | Pendiente |
 | L06 | EXPORTAR DESDE Uruguay por primera vez: pasos, documentos y certificado de origen | Pendiente |
