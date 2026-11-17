@@ -56,6 +56,7 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
     - **Pregunta con número concreto** en el título ("¿Cuánto pagás hoy…?", "¿Por qué subió…?").
     - **Noticia del nicho explicada en días** (Ormuz y Bab el-Mandeb, recargos de guerra, régimen de franquicias de Uruguay y Argentina): el que la explica primero se lleva las vistas. Siempre con fuente oficial y fecha.
     - **Serie reconocible** con el mismo prefijo en el título (ej.: "LO QUE PAGÁS:").
+    - **TubeAlfred conectado (2026-11-17):** 50 créditos gratis por mes (se renuevan en la fecha de registro, no se acumulan). 1 crédito por búsqueda, video o transcripción; los comentarios cuestan 20 o más, solo con OK del propietario. Uso: el resumen semanal hace UNA búsqueda por tema (`youtube_search_query`, sort popularity, upload_date week o month) y anota los mecanismos; las tareas diarias no gastan créditos de TubeAlfred.
     - Lo que NO se puede ver de otros canales: su retención por segundo (es privada). La retención se mide en los nuestros, en el resumen semanal.
 
 ## Temas (en orden de producción)
