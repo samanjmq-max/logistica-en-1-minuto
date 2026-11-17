@@ -135,7 +135,7 @@ Formato: **la duda → los pasos → el error a evitar**. Para personas y peque�
 | 043 | Cómo embalar un paquete para que llegue sano | El 80 % de lo que se rompe, se rompe por cómo se embaló | Pendiente (verificar cifra o sacar) |
 | 044 | Peso volumétrico: cómo se calcula | Te cobraron más de lo que pesa tu caja | Publicado (2026-11-07 19:00; se intercaló por la regla 18: 004 a 007 fueron 4 días seguidos de la serie 1) |
 | 045 | Cómo enviar un paquete al exterior desde Uruguay | Lo que nadie te dice antes de ir al correo | Pendiente |
-| 046 | Compras en el exterior y franquicia (Uruguay) | IMPUESTO TEMU: comprás 15 y pagás 20 | Guion listo 2026-11-17, en render (para el 24/11 19:00) |
+| 046 | Compras en el exterior y franquicia (Uruguay) | IMPUESTO TEMU: comprás 15 y pagás 20 | Programado 2026-11-24 19:00 por vidIQ en YouTube, Instagram y TikTok (39 s; pin de Pinterest 19:05 en Metricool) |
 | 047 | Cómo leer el rastreo de un envío | "En tránsito" hace una semana: qué significa | Pendiente |
 | 048 | Qué no se puede enviar (mercancías prohibidas y peligrosas) | Las baterías que te frenan el paquete | Pendiente |
 | 049 | Cómo ordenar un depósito chico | Encontrar cualquier cosa en 30 segundos | Pendiente |

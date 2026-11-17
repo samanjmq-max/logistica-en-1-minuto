@@ -4,7 +4,7 @@ serie: "Cómo hacerlo"
 voz: em_alex
 velocidad: 1.1
 pausa: 0.25
-estado: aprobado       # piloto -> aprobado -> publicado
+estado: publicado       # piloto -> aprobado -> publicado
 chequeo:
   se_lleva: "Saber cuánto paga hoy una compra en el exterior que llega a Uruguay (franquicia: IVA 22 %, sin IVA desde EE. UU. hasta USD 200; cuarto envío: 60 % con mínimo USD 20) y juntar las compras chicas en un solo envío para no gastar las 3 franquicias del año."
   util: 5
