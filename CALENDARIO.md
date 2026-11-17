@@ -65,10 +65,10 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 
 **Del 10/11 a la noche al 16/11 no se publicó nada:** Metricool rechazó cada publicación con "You have reached your Metricool account limit" (L03, 013, 036, 055, L02b, 011 y 031). El 052 (16/11) y el 014 (17/11) están programados con el mismo riesgo. Los videos están renderizados pero nadie los vio, así que la lista de la semana pasada no se llegó a probar.
 
-1. **No se producen Shorts ni largos nuevos hasta que se vuelva a publicar** (lo decide el propietario: plan de Metricool, publicación a mano o esperar que se renueve el límite). Con 9 videos listos hay atraso para más de una semana.
+1. **[Resuelto 2026-11-17: se publica por vidIQ, regla 21. Todo el atraso quedó programado del 17 al 23/11.] No se producen Shorts ni largos nuevos hasta que se vuelva a publicar** (lo decide el propietario: plan de Metricool, publicación a mano o esperar que se renueve el límite). Con 9 videos listos hay atraso para más de una semana.
 2. **Primero sale el atraso, en el mismo orden**, uno por día a las 19:00: 013 → 036 → 055 → 011 → 031 → 052 → 014 (los que no hayan salido). Los largos L03 y L02b van a las 20:30, martes y viernes.
 3. **Al reprogramar después del 18/11, sacar de la descripción los cupones LANZAMIENTO y DEPOSITO7** (vencen ese día). El resto de la descripción queda igual.
-4. **Prioridad nueva (2026-11-17, regla 22):** apenas haya lugar, el 046 se hace con el ángulo de la noticia: "IMPUESTO TEMU: cuánto pagás hoy por comprar afuera desde Uruguay" (IVA 22 % en franquicia, tope anual y régimen nuevo vigente desde el 1/5/2026; verificar todo en DNA/IMPO antes). Y un Short nuevo de noticia: "RECARGO DE GUERRA: por qué tu flete subió aunque el barco no pase por Ormuz" (verificar recargos en avisos oficiales de las navieras).
+4. **Prioridad nueva (2026-11-17, regla 22):** el próximo Short nuevo (para el 24/11) y el próximo largo (L03c, para el 24/11 20:30) son estos; el 046 se hace con el ángulo de la noticia: "IMPUESTO TEMU: cuánto pagás hoy por comprar afuera desde Uruguay" (IVA 22 % en franquicia, tope anual y régimen nuevo vigente desde el 1/5/2026; verificar todo en DNA/IMPO antes). Y un Short nuevo de noticia: "RECARGO DE GUERRA: por qué tu flete subió aunque el barco no pase por Ormuz" (verificar recargos en avisos oficiales de las navieras).
 5. Terminado el atraso, siguen temas nuevos rotando series y con gancho de plata: 037 (demurrage como problema real, serie 2) → 053 (conteo cíclico, serie 3) → 016 (mercancías peligrosas, serie 1).
 
 El 037 queda después del 013 para no repetir tema la misma semana.
@@ -84,9 +84,9 @@ El 037 queda después del 013 para no repetir tema la misma semana.
 | 008 | El Bill of Lading | El papel que vale lo mismo que la mercadería | Publicado (2026-11-08 19:00) |
 | 009 | Certificado de origen (se enfocó en uno: factura comercial y packing list quedan para el 036) | Sin el certificado, pagás arancel completo | Publicado (2026-11-09 19:00) |
 | 010 | Avería gruesa | Tu carga llegó perfecta y igual te cobran | Publicado (2026-11-10 19:00) |
-| 011 | Seguro de carga: cláusulas A, B y C | ¿Qué pasa si se pierde mi mercadería? | Renderizado, NO publicado (falló el 2026-11-14: límite de Metricool) |
+| 011 | Seguro de carga: cláusulas A, B y C | ¿Qué pasa si se pierde mi mercadería? | Programado 2026-11-22 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
 | 012 | Contenedores que caen al mar | Cuántos se pierden por año | Pendiente (se pasó el 2026-11-16: solo como cifra es una curiosidad sin acción y útil < 4; retomarlo solo con un enfoque útil, por ejemplo qué hacer si tu contenedor es uno de ellos, sin repetir 010 y 011) |
-| 013 | Demurrage y detention | La multa que te cobra la naviera por día | Renderizado, NO publicado (falló el 2026-11-11: límite de Metricool) |
+| 013 | Demurrage y detention | La multa que te cobra la naviera por día | Programado 2026-11-19 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
 | 014 | VGM (SOLAS): pesar el contenedor | Sin este número, tu contenedor no sube | Programado 2026-11-17 19:00 por vidIQ en YouTube, Instagram y TikTok (pin pendiente) |
 | 015 | Trincaje de contenedores | Cómo se atan miles de cajas en alta mar | Pendiente |
 | 016 | Mercancías peligrosas: clases IMO | Qué significan los rombos de colores | Pendiente |
@@ -113,12 +113,12 @@ Formato: **problema → causa → solución**. Un problema típico de un área l
 | 028 | Depósito | Errores de picking | Mandaste el producto equivocado al cliente | Pendiente |
 | 029 | Depósito | Mercadería vencida (sin FEFO) | Tiraste mercadería que estaba en el depósito | Pendiente |
 | 030 | Recepción | Camiones esperando en la puerta | Tres horas para descargar un camión | Pendiente |
-| 031 | Recepción | Recibir sin controlar contra la orden de compra | Pagaste mercadería que nunca entró | Renderizado, NO publicado (falló el 2026-11-15: límite de Metricool) |
+| 031 | Recepción | Recibir sin controlar contra la orden de compra | Pagaste mercadería que nunca entró | Programado 2026-11-23 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
 | 032 | Despacho | Pedidos que salen tarde | El camión se fue y el pedido quedó | Pendiente |
 | 033 | Despacho | Carga mal armada en el camión | Llegó roto por cómo se cargó | Pendiente |
 | 034 | Transporte | Rutas de reparto mal armadas | Tu camión recorre el doble de lo necesario | Pendiente |
 | 035 | Transporte | Entregas fallidas en última milla | Fue, no había nadie, y vuelve mañana | Pendiente |
-| 036 | Importación | Carga trabada en aduana por documentos | Un error en la factura y la carga no sale | Renderizado, NO publicado (falló el 2026-11-12: límite de Metricool) |
+| 036 | Importación | Carga trabada en aduana por documentos | Un error en la factura y la carga no sale | Programado 2026-11-20 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
 | 037 | Importación | Demurrage por retirar tarde el contenedor | La multa diaria que nadie vio venir | Pendiente |
 | 038 | Inventario | Quiebres de stock | Tenés de todo, menos lo que se vende | Pendiente |
 | 039 | Inventario | Sobrestock | Plata parada en la estantería | Pendiente |
@@ -144,7 +144,7 @@ Formato: **la duda → los pasos → el error a evitar**. Para personas y peque�
 | 052 | Cómo cotizar un flete | Tres datos que te pide cualquier transportista | Programado 2026-11-18 19:00 por vidIQ en YouTube, Instagram y TikTok (falló el 16/11 en Metricool; pin pendiente) |
 | 053 | Cómo hacer un inventario sin parar la operación | El conteo cíclico | Pendiente |
 | 054 | Cómo importar por primera vez | Los pasos, en orden | Pendiente |
-| 055 | ¿Autoelevador o transpaleta? La pregunta que decide | Comprar el equipo equivocado te come el capital | Renderizado, NO publicado (falló el 2026-11-13: límite de Metricool) |
+| 055 | ¿Autoelevador o transpaleta? La pregunta que decide | Comprar el equipo equivocado te come el capital | Programado 2026-11-21 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
 | 056 | Cuánto espacio necesitás para arrancar un depósito | El error de alquilar de más (o de menos) | Pendiente |
 
 
@@ -161,7 +161,7 @@ Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y ampl
 | L01 | Incoterms 2020: los 11 explicados y los 5 errores que te hacen perder plata | Publicado (2026-11-04 20:30, 8:04 min; falta la miniatura) |
 | L02 | Contenedores: tipos, medidas, TEU y cómo elegir 20 o 40 pies | Publicado (2026-11-06 20:30, 8:32 min) |
 | L03 | PRIMERA IMPORTACIÓN: los 7 pasos para importar a Uruguay sin pagar de más | Programado 2026-11-17 20:30 por vidIQ (post a3caace6; falló el 10/11 en Metricool por el límite; la copia de Metricool quedó como borrador). No se produjo L04 (regla 20) |
-| L02b | AUTOELEVADOR O TRANSPALETA: cómo elegir el equipo de tu depósito sin gastar de más | Renderizado, NO publicado (falló el 2026-11-13 20:30: límite de Metricool) |
+| L02b | AUTOELEVADOR O TRANSPALETA: cómo elegir el equipo de tu depósito sin gastar de más | Programado 2026-11-20 20:30 por vidIQ en YouTube (falló el 13/11 en Metricool; sin cupón) |
 | L03c | IMPUESTO TEMU: cuánto pagás hoy por comprar en el exterior desde Uruguay (franquicias, IVA, topes y cómo calcularlo) | Pendiente (prioridad: tema de noticia, regla 22) |
 | L04 | Los 10 problemas más caros de un depósito y cómo resolverlos | Pendiente |
 | L05 | DEMURRAGE y detention: cómo no pagar días de contenedor y cómo negociar los días libres | Pendiente |
