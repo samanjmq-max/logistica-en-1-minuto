@@ -61,15 +61,15 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 
 ## Temas (en orden de producción)
 
-### Orden para la semana del 17 al 23/11 (resumen semanal 2026-11-16)
+### Orden para la semana del 17 al 23/11 (resumen semanal 2026-11-16; actualizado 2026-11-18)
 
-**Del 10/11 a la noche al 16/11 no se publicó nada:** Metricool rechazó cada publicación con "You have reached your Metricool account limit" (L03, 013, 036, 055, L02b, 011 y 031). El 052 (16/11) y el 014 (17/11) están programados con el mismo riesgo. Los videos están renderizados pero nadie los vio, así que la lista de la semana pasada no se llegó a probar.
+**Del 10/11 a la noche al 16/11 no se publicó nada** porque Metricool rechazó todo con "You have reached your Metricool account limit". **Resuelto el 16–17/11:** se publica por vidIQ (regla 21) y Metricool queda solo para el pin de Pinterest.
 
-1. **[Resuelto 2026-11-17: se publica por vidIQ, regla 21. Todo el atraso quedó programado del 17 al 23/11.] No se producen Shorts ni largos nuevos hasta que se vuelva a publicar** (lo decide el propietario: plan de Metricool, publicación a mano o esperar que se renueve el límite). Con 9 videos listos hay atraso para más de una semana.
-2. **Primero sale el atraso, en el mismo orden**, uno por día a las 19:00: 013 → 036 → 055 → 011 → 031 → 052 → 014 (los que no hayan salido). Los largos L03 y L02b van a las 20:30, martes y viernes.
-3. **Al reprogramar después del 18/11, sacar de la descripción los cupones LANZAMIENTO y DEPOSITO7** (vencen ese día). El resto de la descripción queda igual.
-4. **Prioridad nueva (2026-11-17, regla 22):** el próximo Short nuevo (para el 24/11) y el próximo largo (L03c, para el 24/11 20:30) son estos; el 046 se hace con el ángulo de la noticia: "IMPUESTO TEMU: cuánto pagás hoy por comprar afuera desde Uruguay" (IVA 22 % en franquicia, tope anual y régimen nuevo vigente desde el 1/5/2026; verificar todo en DNA/IMPO antes). Y un Short nuevo de noticia: "RECARGO DE GUERRA: por qué tu flete subió aunque el barco no pase por Ormuz" (verificar recargos en avisos oficiales de las navieras).
-5. Terminado el atraso, siguen temas nuevos rotando series y con gancho de plata: 037 (demurrage como problema real, serie 2) → 053 (conteo cíclico, serie 3) → 016 (mercancías peligrosas, serie 1).
+1. **[Resuelto 2026-11-17]** Se vuelve a publicar por vidIQ; se producen Shorts y largos nuevos con normalidad.
+2. **[Hecho 2026-11-17]** Atraso programado por vidIQ, uno por día a las 19:00: 014 (17/11), 052 (18/11), 013 (19/11), 036 (20/11), 055 (21/11), 011 (22/11) y 031 (23/11); largos L03 (17/11) y L02b (20/11) a las 20:30.
+3. **[Hecho]** Los cupones LANZAMIENTO y DEPOSITO7 vencieron el 18/11 y ya no van en ninguna descripción.
+4. **Prioridad de noticias (2026-11-17, regla 22):** Short 046 IMPUESTO TEMU **[hecho, programado 24/11]**; Short 057 RECARGO ORMUZ (recargo de guerra vs. recargo de emergencia por combustible) **[hecho, programado 25/11]**. **Falta el largo L03c** "IMPUESTO TEMU: cuánto pagás hoy por comprar afuera desde Uruguay": es el próximo largo (verificar todo en DNA/IMPO antes).
+5. **Próximos Shorts**, rotando series y con gancho de plata: 037 (demurrage como problema real, serie 2) → 053 (conteo cíclico, serie 3) → 016 (mercancías peligrosas, serie 1). El próximo día libre es el 26/11.
 
 El 037 queda después del 013 para no repetir tema la misma semana.
 
