@@ -146,7 +146,7 @@ Formato: **la duda → los pasos → el error a evitar**. Para personas y peque�
 | 054 | Cómo importar por primera vez | Los pasos, en orden | Pendiente |
 | 055 | ¿Autoelevador o transpaleta? La pregunta que decide | Comprar el equipo equivocado te come el capital | Programado 2026-11-21 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
 | 056 | Cuánto espacio necesitás para arrancar un depósito | El error de alquilar de más (o de menos) | Pendiente |
-| 057 | Recargo de guerra vs. recargo de emergencia por combustible (prioridad 4 del 17/11) | RECARGO ORMUZ: tu barco no pasa y pagás igual | En producción (2026-11-18) |
+| 057 | Recargo de guerra vs. recargo de emergencia por combustible (prioridad 4 del 17/11) | RECARGO ORMUZ: tu barco no pasa y pagás igual | Programado 2026-11-25 19:00 por vidIQ en YouTube, Instagram y TikTok (35 s; pin de Pinterest 19:05 en Metricool) |
 
 
 ## Videos largos (horizontales, 8 a 10 minutos)

@@ -4,7 +4,7 @@ serie: "Logística en 1 minuto"
 voz: em_alex
 velocidad: 1.1
 pausa: 0.25
-estado: aprobado       # piloto -> aprobado -> publicado
+estado: publicado       # piloto -> aprobado -> publicado
 chequeo:
   se_lleva: "Distinguir el recargo de guerra (solo rutas que tocan la zona del conflicto) del recargo de emergencia por combustible (todas las rutas: en Maersk USD 200 por 20' y USD 400 por 40' en rutas largas desde el 25/3/2026), y pedir cada cotización con los recargos por separado y con fecha de validez."
   util: 4
