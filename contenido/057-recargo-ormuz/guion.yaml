@@ -1,0 +1,79 @@
+titulo: "RECARGO ORMUZ: tu barco no pasa y pagás igual ⛽"
+formato: short
+serie: "Logística en 1 minuto"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: aprobado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Distinguir el recargo de guerra (solo rutas que tocan la zona del conflicto) del recargo de emergencia por combustible (todas las rutas: en Maersk USD 200 por 20' y USD 400 por 40' en rutas largas desde el 25/3/2026), y pedir cada cotización con los recargos por separado y con fecha de validez."
+  util: 4
+  llamativo: 5
+  gancho: "Tu contenedor no pasa ni cerca de Ormuz y te cobran 400 dólares más."
+  aprendi: "El recargo que sube el flete en rutas que no tocan el Golfo no es el de guerra sino el de emergencia por combustible, y Maersk lo aplica en TODAS las rutas del mundo (también las intrarregionales, a mitad de precio). Además se revisa cada 14 días y el monto que se cobra es el vigente en la fecha de cálculo que fija la naviera (en Maersk, fuera de EE. UU., la salida programada del barco al confirmar la reserva), no el de la cotización que te pasaron."
+  referencia: "Mecanismos de la regla 22 (sin copiar texto): noticia del nicho explicada (crisis de Ormuz; tema en Cronista y MundoMarítimo, y los videos de Ormuz de What's Going on With Shipping fueron los que más se salieron de la media del canal), plata que perdés con contraste en los primeros 3 s (como nuestro 010) y desmentir lo que creés (\"si mi barco no pasa por ahí, no me afecta\"). Estructura: síntoma → causa real → cifra → acción."
+escenas:
+  - grande: "NO PASA POR ORMUZ"
+    resaltar: "ORMUZ"
+    chico: "…y tu flete sube igual · contenedor de 40 pies, ruta larga"
+    narracion: "Tu contenedor viene de China, no pasa ni cerca de Ormuz, y aun así te cobran cuatrocientos dólares más."
+    clip: https://videos.pexels.com/video-files/10622135/10622135-hd_720_1280_30fps.mp4
+  - grande: "GUERRA: SOLO AHÍ"
+    resaltar: "SOLO AHÍ"
+    chico: "El recargo de guerra o de conflicto va en rutas desde y hacia la zona"
+    narracion: "No es el recargo de guerra: ese se cobra solo en las rutas que tocan la zona del conflicto."
+    clip: https://videos.pexels.com/video-files/11336230/11336230-hd_720_1280_30fps.mp4
+  - grande: "COMBUSTIBLE: TODAS"
+    resaltar: "TODAS"
+    chico: "Recargo de emergencia por combustible · Maersk, desde el 25/3/2026"
+    narracion: "Es el recargo de emergencia por combustible. Con la crisis subió el combustible, y Maersk lo cobra en todas las rutas del mundo."
+    clip: https://videos.pexels.com/video-files/10451891/10451891-hd_720_1280_30fps.mp4
+  - grande: "40 PIES: USD 400"
+    resaltar: "USD 400"
+    chico: "Rutas largas, sentido principal · 20 pies: USD 200"
+    narracion: "En rutas largas, doscientos dólares por contenedor de veinte y cuatrocientos por uno de cuarenta."
+    clip: https://videos.pexels.com/video-files/6700011/6700011-hd_1080_1920_25fps.mp4
+  - grande: "CAMBIA CADA 14 DÍAS"
+    resaltar: "14 DÍAS"
+    chico: "Se revisa cada dos semanas: el de tu cotización puede no ser el que pagás"
+    narracion: "Y se revisa cada catorce días: el monto de tu cotización puede no ser el de tu embarque."
+    clip: https://videos.pexels.com/video-files/8298300/8298300-hd_720_1280_25fps.mp4
+  - grande: "PEDILO DETALLADO"
+    resaltar: "DETALLADO"
+    chico: "Cada recargo por separado y hasta qué fecha vale · Seguí Logística en 1 Minuto"
+    narracion: "Pedí la cotización con cada recargo por separado y hasta qué fecha vale. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/8814707/8814707-hd_1080_1920_25fps.mp4
+descripcion: |
+  RECARGO ORMUZ: tu barco no pasa y pagás igual ⛽
+
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1
+
+  ¿Por qué subió tu flete si tu contenedor no pasa por el estrecho de Ormuz?
+  · El recargo de guerra o de conflicto se cobra en las rutas que van o vienen de la zona del conflicto (Golfo Pérsico, mar Rojo).
+  · Lo que sí pagan todas las rutas es el recargo de emergencia por combustible: con la crisis subió el combustible de los barcos. Maersk lo aplica en todas las rutas del mundo desde el 25/3/2026 (EBS): en rutas largas y sentido principal, USD 200 por contenedor de 20 pies y USD 400 por uno de 40; en el sentido de retorno y en rutas intrarregionales, la mitad. CMA CGM, Hapag-Lloyd, MSC y ONE sumaron recargos parecidos.
+  · Se revisa cada 14 días. Lo que pagás es el monto vigente en la fecha de cálculo que fija la naviera, no el de una cotización vieja.
+  · Qué hacer: pedí la cotización con cada recargo por separado (flete, combustible, emergencia, gastos locales) y con fecha de validez por escrito.
+
+  Ojo: los montos son los publicados por Maersk en marzo de 2026 y pueden haber cambiado. Consultá los vigentes para tu ruta antes de cerrar.
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  Curso recomendado de logística internacional (link de afiliado): https://go.hotmart.com/M108343505U
+
+  Imágenes de stock: Ivan Mudruk, Glenn Langhorst, Tima Miroshnichenko, Mikhail Nilov y Kampus Production (Pexels).
+
+  #Shorts #Ormuz #Flete #RecargoDeCombustible
+fuentes:
+  - https://www.maersk.com/news/articles/2026/03/16/hormuz-closure-emergency-freight-operational-update
+  - https://shipandbunker.com/news/world/767162-maersk-implements-emergency-bunker-surcharge-amid-middle-east-crisis
+  - https://www.engine.online/news/shipping-firms-add-emergency-surcharges-as-bunker-prices-spike-7893
+  - https://www.maersk.com/news/articles/2026/08/12/revision-of-pss-from-far-east-asia-to-north-europe-and-mediterranean
+  - https://www.fidifocus.org/on-the-wire/cma-cgm-imposes-emergency-fuel-surcharge/
+  - https://www.lloydslist.com/LL1156482/Carriers-rush-to-impose-war-risk-surcharges-as-Middle-East-crisis-deepens
+creditos:
+  - https://www.pexels.com/video/industrial-ship-on-rough-sea-10622135/
+  - https://www.pexels.com/video/container-ship-in-city-bay-11336230/
+  - https://www.pexels.com/video/container-ship-being-loaded-10451891/
+  - https://www.pexels.com/video/a-person-counting-money-6700011/
+  - https://www.pexels.com/video/a-woman-checking-the-documents-8298300/
+  - https://www.pexels.com/video/a-person-signing-documents-8814707/
