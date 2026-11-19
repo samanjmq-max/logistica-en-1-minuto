@@ -1,0 +1,78 @@
+titulo: "DEMURRAGE POR TRAMOS: calculaste 3.900 y pagás 4.700 💸"
+formato: short
+serie: "Problemas reales y cómo se resuelven"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: publicado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "El demurrage no se cobra a un precio fijo por día sino por tramos que suben (Maersk en Nueva York/Nueva Jersey 2026: 4 días libres, después USD 390, 500, 640 y 745 por día): pedir la tabla de tramos de su puerto antes de embarcar y calcular el peor caso con los días que puede demorar la aduana."
+  util: 5
+  llamativo: 4
+  gancho: "Retiraste el contenedor diez días tarde, calculaste 3.900 dólares y te llegó una factura de 4.700."
+  aprendi: "La tarifa diaria escala por tramos: en la tarifa 2026 de Maersk para las terminales de Nueva York y Nueva Jersey, el mismo contenedor de 20 o 40 pies paga USD 390 por día del día 5 al 8 y USD 745 desde el día 34 (casi el doble). Y los días libres son días hábiles (lunes a sábado con el portón abierto), pero lo que se pasa se cobra por día calendario. Hapag-Lloyd vende hasta 10 días libres extra de detention con descuento, pero hay que pagarlos antes de que llegue el barco y no se devuelven."
+  referencia: "Mecanismos de la regla 22 (sin copiar texto): plata que perdés con contraste en los primeros 3 s (como nuestro 010: cifra esperada vs. cifra real), desmentir lo que creés (\"días de atraso × precio por día\") y número concreto en el título. vidIQ sin créditos: búsqueda web de la semana (cobertura de tarifas de D&D en EE. UU. en MundoMarítimo, The Logistics World y Tradlinx, julio–agosto 2026). Estructura de la serie 2: síntoma → causa → solución."
+escenas:
+  - grande: "10 DÍAS: USD 4.700"
+    resaltar: "USD 4.700"
+    chico: "Contenedor de 20 o 40 pies · terminales de Nueva York y Nueva Jersey, tarifa Maersk 2026"
+    narracion: "Retiraste el contenedor diez días tarde. Calculaste tres mil novecientos dólares y te llegó una factura de cuatro mil setecientos."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+  - grande: "SUBE POR TRAMOS"
+    resaltar: "TRAMOS"
+    chico: "Demurrage escalonado: cuanto más tardás, más caro es cada día"
+    narracion: "El error: el precio por día no es fijo. Sube por tramos cuanto más tardás."
+    clip: https://videos.pexels.com/video-files/11336230/11336230-hd_720_1280_30fps.mp4
+  - grande: "DÍA 5: USD 390"
+    resaltar: "USD 390"
+    chico: "4 días libres · días 5 a 8: USD 390 · 9 a 13: USD 500 · 14 a 33: USD 640"
+    narracion: "Con Maersk en Nueva York, tenés cuatro días libres. Del quinto al octavo pagás trescientos noventa por día, del noveno quinientos y del catorce seiscientos cuarenta."
+    clip: https://videos.pexels.com/video-files/11801939/11801939-hd_1080_1920_30fps.mp4
+  - grande: "DÍA 34: USD 745"
+    resaltar: "USD 745"
+    chico: "Casi el doble que el primer tramo, por día calendario"
+    narracion: "Y desde el día treinta y cuatro, setecientos cuarenta y cinco: casi el doble."
+    clip: https://videos.pexels.com/video-files/6700011/6700011-hd_1080_1920_25fps.mp4
+  - grande: "PEDÍ LA TABLA"
+    resaltar: "TABLA"
+    chico: "Días libres y cada tramo de tu puerto, por escrito, antes de embarcar"
+    narracion: "Antes de embarcar, pedí la tabla de tramos de tu puerto, no solo el precio del primer día."
+    clip: https://videos.pexels.com/video-files/8298300/8298300-hd_720_1280_25fps.mp4
+  - grande: "CALCULÁ EL PEOR CASO"
+    resaltar: "PEOR CASO"
+    chico: "Sumá los días que puede demorar la aduana · Seguí Logística en 1 Minuto"
+    narracion: "Y calculá el peor caso con los días que puede demorar la aduana. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/8814707/8814707-hd_1080_1920_25fps.mp4
+descripcion: |
+  DEMURRAGE POR TRAMOS: calculaste 3.900 y pagás 4.700 💸
+
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1
+
+  El demurrage (contenedor lleno que sigue en la terminal después de los días libres) no se cobra a un precio fijo por día: sube por tramos.
+  · Ejemplo real: tarifa de importación de Maersk vigente desde el 1/1/2026 para las terminales de Nueva York y Nueva Jersey, contenedor seco de 20 o 40 pies: días 1 a 4 libres; días 5 a 8, USD 390 por día; 9 a 13, USD 500; 14 a 33, USD 640; desde el día 34, USD 745.
+  · 10 días de más (días 5 a 14): 4 × 390 + 5 × 500 + 1 × 640 = USD 4.700. Con el precio del primer día habrías calculado USD 3.900.
+  · En esa tarifa los días libres son días hábiles (lunes a sábado con el portón abierto), pero lo que se pasa se cobra por día calendario.
+  · Qué hacer hoy: antes de embarcar, pedile a tu forwarder la tabla de tramos de TU puerto y naviera, por escrito. Calculá el peor caso sumando los días que puede demorar la aduana. Si vas a necesitar más tiempo, negociá días libres extra antes de que llegue el barco (Hapag-Lloyd, por ejemplo, vende hasta 10 días extra de detention con descuento, que se pagan antes del arribo y no se devuelven).
+
+  Cada naviera y cada puerto tienen su propia tabla, y la tarifa pública de la naviera es la que vale: confirmala antes de cerrar.
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  Curso recomendado de logística internacional (link de afiliado): https://go.hotmart.com/M108343505U
+
+  Imágenes de stock: Glenn Langhorst, FÁBIO REIS DE ABREU, Mike Hongkong 2, Tima Miroshnichenko, Kampus Production y Mikhail Nilov (Pexels).
+
+  #Shorts #Demurrage #Contenedor #Importacion
+fuentes:
+  - https://eascpcd.maersk.com/~/media_sc9/maersk/local-information/files/north-america/united-states-of-america/import/us-import-demurrage-tariff-effective-01-jan-2026.pdf
+  - https://www.maersk.com/news/articles/2025/12/02/changes-to-us-detention-demurrage-tariff
+  - https://ams.hapag-lloyd.com/content/dam/website/downloads/OLB/AdditionalFreeTime_Terms.pdf
+  - https://www.hapag-lloyd.com/content/dam/website/downloads/detention_demurrage/Detention_and_Demurrage_Guide_USA_May_2026.pdf
+  - https://www.hapag-lloyd.com/content/dam/website/downloads/detention_demurrage/germany_demurrage_detention_import.pdf
+creditos:
+  - https://www.pexels.com/video/container-ship-in-harbor-13372582/
+  - https://www.pexels.com/video/container-ship-in-city-bay-11336230/
+  - https://www.pexels.com/video/vehicle-carrying-container-in-warehouse-11801939/
+  - https://www.pexels.com/video/a-person-counting-money-6700011/
+  - https://www.pexels.com/video/a-woman-checking-the-documents-8298300/
+  - https://www.pexels.com/video/a-person-signing-documents-8814707/

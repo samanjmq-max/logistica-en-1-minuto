@@ -119,7 +119,7 @@ Formato: **problema → causa → solución**. Un problema típico de un área l
 | 034 | Transporte | Rutas de reparto mal armadas | Tu camión recorre el doble de lo necesario | Pendiente |
 | 035 | Transporte | Entregas fallidas en última milla | Fue, no había nadie, y vuelve mañana | Pendiente |
 | 036 | Importación | Carga trabada en aduana por documentos | Un error en la factura y la carga no sale | Programado 2026-11-20 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
-| 037 | Importación | Demurrage por retirar tarde el contenedor | La multa diaria que nadie vio venir | Pendiente |
+| 037 | Importación | Demurrage por retirar tarde el contenedor (enfoque: la tarifa sube por tramos) | DEMURRAGE POR TRAMOS: calculaste 3.900 y pagás 4.700 | Renderizando (2026-11-19, para el 26/11 19:00) |
 | 038 | Inventario | Quiebres de stock | Tenés de todo, menos lo que se vende | Pendiente |
 | 039 | Inventario | Sobrestock | Plata parada en la estantería | Pendiente |
 | 040 | Gestión | Medir sin KPIs | Si no lo medís, no lo podés mejorar | Pendiente |
