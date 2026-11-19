@@ -69,7 +69,7 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 2. **[Hecho 2026-11-17]** Atraso programado por vidIQ, uno por día a las 19:00: 014 (17/11), 052 (18/11), 013 (19/11), 036 (20/11), 055 (21/11), 011 (22/11) y 031 (23/11); largos L03 (17/11) y L02b (20/11) a las 20:30.
 3. **[Hecho]** Los cupones LANZAMIENTO y DEPOSITO7 vencieron el 18/11 y ya no van en ninguna descripción.
 4. **Prioridad de noticias (2026-11-17, regla 22):** Short 046 IMPUESTO TEMU **[hecho, programado 24/11]**; Short 057 RECARGO ORMUZ (recargo de guerra vs. recargo de emergencia por combustible) **[hecho, programado 25/11]**. **Falta el largo L03c** "IMPUESTO TEMU: cuánto pagás hoy por comprar afuera desde Uruguay": es el próximo largo (verificar todo en DNA/IMPO antes).
-5. **Próximos Shorts**, rotando series y con gancho de plata: 037 (demurrage como problema real, serie 2) → 053 (conteo cíclico, serie 3) → 016 (mercancías peligrosas, serie 1). El próximo día libre es el 26/11.
+5. **Próximos Shorts**, rotando series y con gancho de plata: 037 (demurrage por tramos, serie 2) **[hecho, programado 26/11]** → 053 (conteo cíclico, serie 3) → 016 (mercancías peligrosas, serie 1). El próximo día libre es el 27/11.
 
 El 037 queda después del 013 para no repetir tema la misma semana.
 
@@ -119,7 +119,7 @@ Formato: **problema → causa → solución**. Un problema típico de un área l
 | 034 | Transporte | Rutas de reparto mal armadas | Tu camión recorre el doble de lo necesario | Pendiente |
 | 035 | Transporte | Entregas fallidas en última milla | Fue, no había nadie, y vuelve mañana | Pendiente |
 | 036 | Importación | Carga trabada en aduana por documentos | Un error en la factura y la carga no sale | Programado 2026-11-20 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
-| 037 | Importación | Demurrage por retirar tarde el contenedor (enfoque: la tarifa sube por tramos) | DEMURRAGE POR TRAMOS: calculaste 3.900 y pagás 4.700 | Renderizando (2026-11-19, para el 26/11 19:00) |
+| 037 | Importación | Demurrage por retirar tarde el contenedor (enfoque: la tarifa sube por tramos) | DEMURRAGE POR TRAMOS: calculaste 3.900 y pagás 4.700 | Programado 2026-11-26 19:00 por vidIQ en YouTube, Instagram y TikTok (36 s; pin de Pinterest 19:05 en Metricool) |
 | 038 | Inventario | Quiebres de stock | Tenés de todo, menos lo que se vende | Pendiente |
 | 039 | Inventario | Sobrestock | Plata parada en la estantería | Pendiente |
 | 040 | Gestión | Medir sin KPIs | Si no lo medís, no lo podés mejorar | Pendiente |
