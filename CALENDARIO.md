@@ -68,7 +68,7 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 1. **[Resuelto 2026-11-17]** Se vuelve a publicar por vidIQ; se producen Shorts y largos nuevos con normalidad.
 2. **[Hecho 2026-11-17]** Atraso programado por vidIQ, uno por día a las 19:00: 014 (17/11), 052 (18/11), 013 (19/11), 036 (20/11), 055 (21/11), 011 (22/11) y 031 (23/11); largos L03 (17/11) y L02b (20/11) a las 20:30.
 3. **[Hecho]** Los cupones LANZAMIENTO y DEPOSITO7 vencieron el 18/11 y ya no van en ninguna descripción.
-4. **Prioridad de noticias (2026-11-17, regla 22):** Short 046 IMPUESTO TEMU **[hecho, programado 24/11]**; Short 057 RECARGO ORMUZ (recargo de guerra vs. recargo de emergencia por combustible) **[hecho, programado 25/11]**. **Falta el largo L03c** "IMPUESTO TEMU: cuánto pagás hoy por comprar afuera desde Uruguay": es el próximo largo (verificar todo en DNA/IMPO antes).
+4. **Prioridad de noticias (2026-11-17, regla 22):** Short 046 IMPUESTO TEMU **[hecho, programado 24/11]**; Short 057 RECARGO ORMUZ (recargo de guerra vs. recargo de emergencia por combustible) **[hecho, programado 25/11]**. Largo L03c **[hecho, programado 21/11 20:30]**.
 5. **Próximos Shorts**, rotando series y con gancho de plata: 037 (demurrage por tramos, serie 2) **[hecho, programado 26/11]** → 053 (conteo cíclico, serie 3) → 016 (mercancías peligrosas, serie 1). El próximo día libre es el 27/11.
 
 El 037 queda después del 013 para no repetir tema la misma semana.
@@ -163,7 +163,7 @@ Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y ampl
 | L02 | Contenedores: tipos, medidas, TEU y cómo elegir 20 o 40 pies | Publicado (2026-11-06 20:30, 8:32 min) |
 | L03 | PRIMERA IMPORTACIÓN: los 7 pasos para importar a Uruguay sin pagar de más | Programado 2026-11-17 20:30 por vidIQ (post a3caace6; falló el 10/11 en Metricool por el límite; la copia de Metricool quedó como borrador). No se produjo L04 (regla 20) |
 | L02b | AUTOELEVADOR O TRANSPALETA: cómo elegir el equipo de tu depósito sin gastar de más | Programado 2026-11-20 20:30 por vidIQ en YouTube (falló el 13/11 en Metricool; sin cupón) |
-| L03c | IMPUESTO TEMU: ¿cuánto pagás hoy por comprar afuera desde Uruguay? (franquicias, IVA, 60 %, la cuenta y 6 errores) | Renderizado, NO publicado (2026-11-19; para el 2026-11-21 20:30 por vidIQ) |
+| L03c | IMPUESTO TEMU: ¿cuánto pagás hoy por comprar afuera desde Uruguay? (franquicias, IVA, 60 %, la cuenta y 6 errores) | Programado 2026-11-21 20:30 por vidIQ (8:46 min; https://www.youtube.com/watch?v=TKUV6IrfTv0, post 9cd99759; el viernes 20/11 20:30 ya lo ocupaba L02b, por eso va el sábado) |
 | L04 | Los 10 problemas más caros de un depósito y cómo resolverlos | Pendiente |
 | L05 | DEMURRAGE y detention: cómo no pagar días de contenedor y cómo negociar los días libres | Pendiente |
 | L06 | EXPORTAR DESDE Uruguay por primera vez: pasos, documentos y certificado de origen | Pendiente |
