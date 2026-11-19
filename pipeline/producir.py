@@ -36,6 +36,7 @@ PRONUNCIA = {
     "CIP": "se i pe", "CFR": "se efe erre", "CIF": "se i efe", "DAP": "dap", "DPU": "de pe u",
     "DDP": "de de pe", "DAT": "dat", "ICC": "i se se", "TEU": "teu", "FEU": "feu",
     "B/L": "be ele", "BIC": "bic", "ISO": "iso", "VGM": "ve ge eme", "IMO": "imo",
+    "IVA": "iva", "IMESI": "imesi",
 }
 
 

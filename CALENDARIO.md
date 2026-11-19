@@ -163,7 +163,7 @@ Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y ampl
 | L02 | Contenedores: tipos, medidas, TEU y cómo elegir 20 o 40 pies | Publicado (2026-11-06 20:30, 8:32 min) |
 | L03 | PRIMERA IMPORTACIÓN: los 7 pasos para importar a Uruguay sin pagar de más | Programado 2026-11-17 20:30 por vidIQ (post a3caace6; falló el 10/11 en Metricool por el límite; la copia de Metricool quedó como borrador). No se produjo L04 (regla 20) |
 | L02b | AUTOELEVADOR O TRANSPALETA: cómo elegir el equipo de tu depósito sin gastar de más | Programado 2026-11-20 20:30 por vidIQ en YouTube (falló el 13/11 en Metricool; sin cupón) |
-| L03c | IMPUESTO TEMU: cuánto pagás hoy por comprar en el exterior desde Uruguay (franquicias, IVA, topes y cómo calcularlo) | Pendiente (prioridad: tema de noticia, regla 22) |
+| L03c | IMPUESTO TEMU: ¿cuánto pagás hoy por comprar afuera desde Uruguay? (franquicias, IVA, 60 %, la cuenta y 6 errores) | Renderizado, NO publicado (2026-11-19; para el 2026-11-21 20:30 por vidIQ) |
 | L04 | Los 10 problemas más caros de un depósito y cómo resolverlos | Pendiente |
 | L05 | DEMURRAGE y detention: cómo no pagar días de contenedor y cómo negociar los días libres | Pendiente |
 | L06 | EXPORTAR DESDE Uruguay por primera vez: pasos, documentos y certificado de origen | Pendiente |

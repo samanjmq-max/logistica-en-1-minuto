@@ -1,0 +1,288 @@
+titulo: "IMPUESTO TEMU: ¿cuánto pagás hoy por comprar afuera desde Uruguay? 💸"
+formato: largo
+serie: "Guías completas"
+voz: em_alex
+velocidad: 1.0
+pausa: 0.35
+estado: aprobado
+chequeo:
+  se_lleva: "Calcular cuánto paga hoy cualquier compra en el exterior que llega a Uruguay (franquicia con IVA, Estados Unidos sin IVA hasta USD 200, régimen de 60 % con mínimo de USD 20) y decidir en qué compras del año gastar las 3 franquicias para no pagar de más."
+  util: 5
+  llamativo: 5
+  gancho: "Tres compras de 10 dólares en febrero te pueden costar 114 dólares de más en octubre."
+  aprendi: "Las franquicias se gastan por envío y no por valor: tres envíos de USD 10 consumen el año entero, y una compra de USD 300 que llega después paga 180 en vez de 66. Por debajo de USD 33,33 el régimen del 60 % siempre cobra el mínimo de USD 20. Si pagás con una tarjeta que no está a tu nombre, la compra pierde la franquicia. Y el contador del año incluye los envíos de enero a abril, hechos con el régimen anterior. Según un informe de Fenicio citado por EFE, las compras por franquicia bajaron de unos USD 23 millones por mes (enero a abril) a entre 9 y 13 millones (mayo a agosto)."
+  referencia: "Mecanismos de la regla 22, sin copiar texto: noticia del nicho explicada con fuente oficial (Decreto 50/2026, guía del MEF), pregunta con número concreto en el título ('¿cuánto pagás hoy…?'), plata que perdés con contraste en los primeros segundos (114 dólares de más), y desmentir lo que te dijeron ('juntá todo y listo' o 'desde Estados Unidos no pagás nada'). Búsqueda de la semana en medios uruguayos: el tema más repetido es el impuesto Temu y la caída de las compras web. vidIQ sin créditos (se renuevan el 30/11): referencia por WebSearch. Estructura de guía: regla → cuenta con ejemplo → decisión → errores."
+miniatura:
+  arriba: "IMPUESTO TEMU"
+  abajo: "¿22 % o 60 %? La cuenta"
+escenas:
+  # --- Intro
+  - capitulo: "Lo que te cuesta una compra de 10 dólares"
+    grande: "3 × USD 10 = USD 114 DE MÁS"
+    resaltar: "USD 114"
+    chico: "Tres compras chicas en febrero pueden encarecer tu compra grande de octubre"
+    narracion: "Tres compras de diez dólares en febrero te pueden costar ciento catorce dólares de más en octubre. No es un error de la aduana: es cómo funcionan hoy las compras en el exterior que llegan a Uruguay."
+    clip: https://videos.pexels.com/video-files/5696874/5696874-hd_1280_720_30fps.mp4
+  - grande: "EN ESTE VIDEO"
+    chico: "Las reglas · Estados Unidos · el 60 % · la cuenta con 3 compras · cómo elegir · 6 errores"
+    narracion: "La respuesta corta: veintidós por ciento de IVA mientras te queden franquicias, y sesenta por ciento cuando se terminan. En este video vas a ver la cuenta completa, con las reglas que rigen desde el primero de mayo de dos mil veintiséis. Vas a ver la excepción de Estados Unidos, qué pasa desde el cuarto envío, la cuenta con tres compras reales, cómo decidir en qué compras usar tus franquicias, y los seis errores que más plata hacen perder."
+    clip: https://videos.pexels.com/video-files/13244608/13244608-hd_1920_1080_24fps.mp4
+  - grande: "LEY 20.446 · DECRETO 50/2026"
+    chico: "Las reglas salen de la ley de presupuesto y del decreto del MEF publicado el 19/3/2026"
+    narracion: "Todo lo que vas a escuchar sale de la Ley veinte mil cuatrocientos cuarenta y seis y del Decreto cincuenta de dos mil veintiséis, más la guía de preguntas frecuentes del Ministerio de Economía."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+  - grande: "COMPRAS: CASI LA MITAD"
+    resaltar: "LA MITAD"
+    chico: "Compras por franquicia: unos USD 23 M por mes (ene-abr) → entre 9 y 13 M (may-ago) · informe de Fenicio citado por EFE"
+    narracion: "Según un informe de la plataforma Fenicio, citado por la agencia EFE, las compras por franquicia pasaron de unos veintitrés millones de dólares por mes entre enero y abril, a entre nueve y trece millones por mes entre mayo y agosto."
+  # --- La franquicia
+  - capitulo: "La franquicia: 3 envíos y 800 dólares"
+    grande: "3 ENVÍOS POR AÑO"
+    resaltar: "3 ENVÍOS"
+    chico: "Por persona y por año civil, sin importar cuánto vale cada envío"
+    narracion: "Primera regla. La franquicia son tres envíos por persona y por año civil. Y fijate en la letra: tres envíos, sin importar cuánto vale cada uno. Un envío de cinco dólares gasta una franquicia igual que uno de seiscientos."
+    clip: https://videos.pexels.com/video-files/4281404/4281404-hd_1920_1080_25fps.mp4
+  - grande: "TOPE: USD 800 EN EL AÑO"
+    resaltar: "USD 800"
+    chico: "Es un tope acumulado anual, no por compra · el IVA no cuenta dentro del tope"
+    narracion: "Segunda regla: hay un tope de ochocientos dólares en total en el año. No es por compra, es la suma de los tres envíos. Y el IVA que pagás no se cuenta dentro de esos ochocientos."
+    clip: https://videos.pexels.com/video-files/5738746/5738746-hd_1280_720_30fps.mp4
+  - grande: "IVA: 22 %"
+    resaltar: "22 %"
+    chico: "En franquicia pagás el IVA; para la mayoría de los productos, la tasa básica del 22 %"
+    narracion: "Tercera regla: la franquicia no es gratis. Pagás el IVA, que para la mayoría de los productos es la tasa básica del veintidós por ciento. Se calcula sobre el total de la factura de compra, con todo lo que figure sumado en ella, y el dólar se toma al tipo de cambio del Banco Central del día hábil anterior."
+    clip: https://videos.pexels.com/video-files/6657743/6657743-hd_1366_720_25fps.mp4
+  - grande: "ENERO A ABRIL TAMBIÉN CUENTAN"
+    resaltar: "TAMBIÉN CUENTAN"
+    chico: "El cómputo incluye los envíos del año hechos con el régimen anterior"
+    narracion: "Un detalle que mucha gente no sabe: el contador no arrancó de cero en mayo. Para este año se cuentan todos los envíos del año civil, también los que hiciste con el régimen anterior. Si en marzo ya habías traído tres paquetes, este año no te queda ninguna franquicia."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+    desde: 5
+  # --- Requisitos
+  - capitulo: "Quién puede usar la franquicia"
+    grande: "MAYOR DE EDAD · CÉDULA URUGUAYA"
+    resaltar: "CÉDULA"
+    chico: "Persona física mayor de edad, con documento uruguayo, para uso personal y sin fines comerciales"
+    narracion: "¿Quién puede usarla? Una persona física, mayor de edad, con documento de identidad uruguayo. Y la compra tiene que ser para uso personal, sin fines comerciales."
+    clip: https://videos.pexels.com/video-files/7841671/7841671-hd_1280_720_30fps.mp4
+  - grande: "TARJETA A TU NOMBRE"
+    resaltar: "A TU NOMBRE"
+    chico: "Pago con tarjeta o dinero electrónico internacional · titular = comprador = destinatario"
+    narracion: "Además, tenés que pagar con tarjeta o con un medio de pago electrónico internacional, y el titular de ese medio de pago tiene que ser la misma persona que compra y que recibe. Si tu hermano te presta la tarjeta, esa compra no entra en tu franquicia."
+    clip: https://videos.pexels.com/video-files/8426060/8426060-hd_1280_720_25fps.mp4
+  - grande: "REGISTRO ÚNICO EN ADUANAS"
+    chico: "El decreto pide registrarse por única vez ante la Dirección Nacional de Aduanas"
+    narracion: "Y el decreto exige registrarte una única vez ante la Dirección Nacional de Aduanas, y autorizar que el emisor de tu tarjeta le pase información del pago. El operador postal, además, informa tu documento y los últimos cuatro dígitos de la tarjeta."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+    desde: 10
+  # --- Estados Unidos
+  - capitulo: "Estados Unidos: sin IVA, con letra chica"
+    grande: "EE. UU.: SIN IVA HASTA USD 200"
+    resaltar: "SIN IVA"
+    chico: "Por el acuerdo TIFA, según la guía del MEF · hoy aplica solo a Estados Unidos"
+    narracion: "La excepción que todos buscan: Según el Ministerio de Economía, las compras desde Estados Unidos de hasta doscientos dólares no pagan IVA, por el acuerdo marco de comercio e inversiones con ese país. Hoy es el único país con ese beneficio."
+    clip: https://videos.pexels.com/video-files/4102389/4102389-hd_1920_1080_30fps.mp4
+  - grande: "EL VENDEDOR TIENE QUE SER DE ALLÁ"
+    resaltar: "DE ALLÁ"
+    chico: "El remitente debe ser residente fiscal en EE. UU. y se acredita con la factura"
+    narracion: "Pero tiene letra chica. El que te vende tiene que ser residente fiscal en Estados Unidos, y eso se acredita con la factura. Que el paquete salga de un depósito en Miami no alcanza si el vendedor está en otro país."
+    clip: https://videos.pexels.com/video-files/6657743/6657743-hd_1366_720_25fps.mp4
+    desde: 6
+  - grande: "IGUAL GASTA 1 DE TUS 3"
+    resaltar: "1 DE TUS 3"
+    chico: "Aunque no pague IVA, el envío cuenta en las 3 franquicias y en el tope de USD 800"
+    narracion: "Y lo más importante: aunque no pague IVA, ese envío igual gasta una de tus tres franquicias y cuenta en el tope de ochocientos. La guía del Ministerio lo muestra con un ejemplo: una compra de ciento noventa y ocho dólares desde Estados Unidos no paga IVA, y te deja seiscientos dos dólares y dos envíos para el resto del año."
+    clip: https://videos.pexels.com/video-files/13244608/13244608-hd_1920_1080_24fps.mp4
+    desde: 8
+  # --- El cuarto envío
+  - capitulo: "Desde el cuarto envío: 60 % con mínimo de 20"
+    grande: "4.º ENVÍO: 60 %"
+    resaltar: "60 %"
+    chico: "Prestación única: sustituye todos los tributos de la importación"
+    narracion: "¿Y qué pasa cuando se te terminan las franquicias? Desde el cuarto envío, o cuando una compra no cumple las condiciones, pasás a lo que el decreto llama prestación única. Es un solo pago del sesenta por ciento sobre el valor de la factura, que reemplaza todos los tributos de la importación."
+    clip: https://videos.pexels.com/video-files/3365496/3365496-hd_1920_1080_30fps.mp4
+  - grande: "MÍNIMO: USD 20 POR ENVÍO"
+    resaltar: "USD 20"
+    chico: "Hasta USD 33,33 de compra, siempre pagás el mínimo: 60 % de 33,33 = 20"
+    narracion: "Y tiene un mínimo de veinte dólares por envío. Hacé la cuenta: el sesenta por ciento de treinta y tres dólares con treinta y tres es veinte. O sea que cualquier compra de menos de treinta y tres dólares paga veinte igual. Un producto de quince dólares paga más de impuesto que lo que cuesta."
+  - grande: "SIN LÍMITE DE ENVÍOS"
+    chico: "Personas físicas o empresas, de cualquier edad, con o sin fines comerciales · sin despachante"
+    narracion: "La parte buena: este régimen no tiene límite de envíos. Lo puede usar cualquier persona, de cualquier edad, o una empresa, con o sin fines comerciales, y no necesitás despachante de aduana."
+    clip: https://videos.pexels.com/video-files/4281404/4281404-hd_1920_1080_25fps.mp4
+    desde: 6
+  - grande: "PAGÁS ANTES DE RECIBIR"
+    chico: "El operador no entrega sin el pago · sin pagar en 30 días, la mercadería se da por abandonada"
+    narracion: "Y un dato práctico: el operador postal no te puede entregar el paquete hasta que el tributo esté pagado. Si no lo pagás en treinta días desde que la mercadería ingresó, se considera abandonada."
+    clip: https://videos.pexels.com/video-files/14910119/14910119-hd_1280_720_24fps.mp4
+  # --- La cuenta
+  - capitulo: "La cuenta con 3 compras reales"
+    grande: "3 COMPRAS, 2 REGÍMENES"
+    chico: "Ropa de USD 60 desde China · auriculares de USD 15 · zapatillas de USD 150 desde EE. UU."
+    narracion: "Vamos con números. Imaginá a Lucía, en Montevideo. Este año quiere comprar tres cosas: ropa por sesenta dólares a una tienda china, unos auriculares de quince dólares, y unas zapatillas de ciento cincuenta dólares a un vendedor de Estados Unidos."
+    clip: https://videos.pexels.com/video-files/19896989/19896989-hd_1280_720_25fps.mp4
+  - grande: "USD 60 → 13,20 O 36"
+    resaltar: "13,20 O 36"
+    chico: "Franquicia: 22 % = USD 13,20 · fuera de franquicia: 60 % = USD 36"
+    narracion: "La ropa de sesenta dólares: en franquicia paga el veintidós por ciento, trece dólares con veinte. Fuera de franquicia, el sesenta por ciento: treinta y seis dólares."
+  - grande: "USD 15 → 3,30 O 20"
+    resaltar: "3,30 O 20"
+    chico: "Franquicia: USD 3,30 · fuera: el 60 % daría 9, pero el mínimo es USD 20"
+    narracion: "Los auriculares de quince: en franquicia, tres dólares con treinta. Fuera de franquicia, el sesenta por ciento daría nueve, pero rige el mínimo: veinte dólares."
+  - grande: "USD 150 DESDE EE. UU. → 0 O 90"
+    resaltar: "0 O 90"
+    chico: "Vendedor de EE. UU. y menos de USD 200: sin IVA · fuera de franquicia: 60 % = USD 90"
+    narracion: "Y las zapatillas de ciento cincuenta, a un vendedor de Estados Unidos: en franquicia, cero de IVA. Fuera de franquicia, noventa dólares. Las tres compras juntas suman doscientos veinticinco dólares, muy por debajo del tope."
+  - grande: "16,50 CONTRA 146"
+    resaltar: "16,50"
+    chico: "Las 3 en franquicia: USD 16,50 de impuestos · las 3 fuera: USD 146"
+    narracion: "Resultado: si las tres entran en franquicia, Lucía paga dieciséis dólares con cincuenta de impuestos en total. Si ya había gastado sus franquicias en otras cosas, paga ciento cuarenta y seis."
+    clip: https://videos.pexels.com/video-files/5738746/5738746-hd_1280_720_30fps.mp4
+    desde: 5
+  # --- Suscripción y cómo decidir
+  - capitulo: "Cómo decidir qué compras usan franquicia"
+    grande: "SUSCRIBITE"
+    chico: "Lo que viene ahora es la regla para no tirar plata en todo el año"
+    narracion: "Si esto te sirve, suscribite a Logística en 1 Minuto, porque lo que viene ahora es lo más útil del video: la regla para decidir en qué compras gastar tus franquicias, y por qué esas tres compras de diez dólares te salen tan caras."
+    clip: https://videos.pexels.com/video-files/7183495/7183495-hd_2048_1080_24fps.mp4
+  - grande: "AHORRO = 38 % DEL VALOR"
+    resaltar: "38 %"
+    chico: "Diferencia entre 60 % y 22 %: lo que te ahorra la franquicia en una compra de más de USD 33,33"
+    narracion: "La clave es pensar en cuánto te ahorra cada franquicia. En una compra de más de treinta y tres dólares, la diferencia entre el sesenta y el veintidós por ciento es el treinta y ocho por ciento del valor. Cuanto más cara la compra, más plata te ahorra la franquicia."
+  - grande: "USD 10: AHORRÁS 17,80"
+    resaltar: "17,80"
+    chico: "Compra de USD 10: franquicia USD 2,20 · fuera USD 20 · USD 300: 66 contra 180, ahorrás 114"
+    narracion: "En una compra chica la franquicia ahorra poco: en un envío de diez dólares pagás dos con veinte en vez de veinte, te ahorrás diecisiete con ochenta. En una compra de trescientos dólares pagás sesenta y seis en vez de ciento ochenta: te ahorrás ciento catorce."
+  - grande: "FEBRERO: 3 × USD 10"
+    resaltar: "3 × USD 10"
+    chico: "Tres envíos chicos gastan las tres franquicias del año"
+    narracion: "Si en febrero hacés tres compras de diez dólares en tres envíos separados, gastaste las tres franquicias del año. Y cuando en octubre comprás algo de trescientos dólares, ya no tenés franquicia: pagás ciento ochenta en vez de sesenta y seis. Ciento catorce dólares de más."
+    clip: https://videos.pexels.com/video-files/4292301/4292301-hd_1280_720_50fps.mp4
+  - grande: "FRANQUICIA PARA LO MÁS CARO"
+    resaltar: "LO MÁS CARO"
+    chico: "Planificá el año: las 3 franquicias para las 3 compras más caras, sin pasar de USD 800 entre todas"
+    narracion: "La regla queda así: a principio de año, hacé la lista de lo que pensás comprar afuera. Las tres franquicias van para las tres compras más caras, cuidando que entre todas no pasen de ochocientos dólares. Lo chico, mejor juntalo en un mismo envío, o pagalo sabiendo que el mínimo es veinte."
+    clip: https://videos.pexels.com/video-files/7841671/7841671-hd_1280_720_30fps.mp4
+    desde: 5
+  - grande: "ENVÍO ≠ PEDIDO"
+    chico: "El límite es por envío: si la tienda divide tu pedido en varios paquetes, preguntá cómo se computa"
+    narracion: "Y ojo con esto: el límite se cuenta por envío. Si una tienda te divide un mismo pedido en varios paquetes, antes de pagar preguntale a tu courier cómo se va a computar."
+    clip: https://videos.pexels.com/video-files/3365496/3365496-hd_1920_1080_30fps.mp4
+    desde: 6
+  # --- Lo que no entra
+  - capitulo: "Lo que no entra en estos regímenes"
+    grande: "MÁS DE 20 KG O USD 800"
+    resaltar: "20 KG"
+    chico: "El 60 % aplica a envíos de hasta 20 kg y hasta USD 800 cada uno"
+    narracion: "Hay compras que no entran en ninguno de los dos. El régimen del sesenta por ciento es para envíos de hasta veinte kilos y de hasta ochocientos dólares cada uno. Si te pasás, ya es una importación común, como la que vimos en el video de la primera importación."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+  - grande: "IMESI Y PERMISOS: AFUERA"
+    resaltar: "AFUERA"
+    chico: "No aplica a mercadería gravada por IMESI ni a la que necesita autorización de otro organismo"
+    narracion: "Tampoco aplica a la mercadería que paga IMESI, el impuesto específico interno, ni a la que necesita autorización de otro organismo para entrar. Antes de comprar algo así, averiguá qué régimen le corresponde."
+    clip: https://videos.pexels.com/video-files/6657743/6657743-hd_1366_720_25fps.mp4
+    desde: 12
+  - grande: "LIBROS Y MEDICAMENTOS"
+    chico: "Uso personal: no cuentan en el tope de USD 800 (medicamentos con autorización del MSP)"
+    narracion: "Y una excepción a favor tuyo: los libros y los medicamentos de uso personal no cuentan dentro del tope de ochocientos dólares. En el caso de los medicamentos, con la autorización del Ministerio de Salud Pública."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+    desde: 15
+  # --- Errores
+  - capitulo: "Los 6 errores más caros"
+    grande: "ERROR 1: GASTARLA EN LO CHICO"
+    resaltar: "ERROR 1"
+    chico: "Cada envío gasta una franquicia, valga USD 5 o USD 500"
+    narracion: "Y ahora, los seis errores que más plata hacen perder. Uno: gastar las franquicias en envíos chicos al principio del año. Ya lo viste: es la forma más cara de comprar."
+    clip: https://videos.pexels.com/video-files/4281404/4281404-hd_1920_1080_25fps.mp4
+    desde: 12
+  - grande: "ERROR 2: TARJETA AJENA"
+    resaltar: "ERROR 2"
+    chico: "El titular del pago tiene que ser el que compra y recibe"
+    narracion: "Dos: pagar con una tarjeta que no está a tu nombre. Si no cumplís las condiciones, perdés la franquicia para esa compra y pagás el sesenta por ciento, y además te puede caer una multa."
+    clip: https://videos.pexels.com/video-files/8426060/8426060-hd_1280_720_25fps.mp4
+    desde: 6
+  - grande: "ERROR 3: CREER QUE EMPEZÓ EN MAYO"
+    resaltar: "ERROR 3"
+    chico: "Los envíos de enero a abril cuentan en el cupo de este año"
+    narracion: "Tres: creer que el contador empezó en mayo. Los envíos de enero a abril cuentan para el cupo del año."
+    clip: https://videos.pexels.com/video-files/7183495/7183495-hd_2048_1080_24fps.mp4
+    desde: 10
+  - grande: "ERROR 4: \"DE EE. UU. NO PAGO NADA\""
+    resaltar: "ERROR 4"
+    chico: "Sin IVA solo hasta USD 200, con vendedor de allá, y gasta 1 de tus 3"
+    narracion: "Cuatro: pensar que desde Estados Unidos no pagás nada. Es sin IVA hasta doscientos dólares, el vendedor tiene que ser de allá, y gasta una franquicia igual."
+    clip: https://videos.pexels.com/video-files/4102389/4102389-hd_1920_1080_30fps.mp4
+    desde: 10
+  - grande: "ERROR 5: COMPRAR PARA REVENDER"
+    resaltar: "ERROR 5"
+    chico: "La franquicia es para uso personal · para vender, el régimen del 60 % o una importación común"
+    narracion: "Cinco: usar la franquicia para traer mercadería que vas a revender. La franquicia es para uso personal. Si querés vender, el camino es el régimen del sesenta por ciento o una importación común."
+    clip: https://videos.pexels.com/video-files/19896989/19896989-hd_1280_720_25fps.mp4
+    desde: 6
+  - grande: "ERROR 6: DEJARLO SIN PAGAR"
+    resaltar: "ERROR 6"
+    chico: "A los 30 días sin pagar, la mercadería se considera abandonada"
+    narracion: "Y seis: dejar el paquete sin pagar porque el impuesto te sorprendió. A los treinta días se considera abandonado, y perdés la compra."
+    clip: https://videos.pexels.com/video-files/14910119/14910119-hd_1280_720_24fps.mp4
+    desde: 6
+  # --- Cierre
+  - capitulo: "Resumen"
+    grande: "RESUMEN"
+    chico: "3 envíos y USD 800 con IVA · EE. UU. sin IVA hasta 200 · después: 60 %, mínimo 20 · franquicia para lo más caro"
+    narracion: "En resumen: tres envíos por año y ochocientos dólares en franquicia, pagando IVA. Desde Estados Unidos, sin IVA hasta doscientos. Después, sesenta por ciento con mínimo de veinte. Y las franquicias, para lo más caro. Las reglas pueden cambiar: antes de comprar, revisá la guía del Ministerio de Economía y de Aduanas."
+    clip: https://videos.pexels.com/video-files/5696874/5696874-hd_1280_720_30fps.mp4
+    desde: 8
+  - grande: "LOGÍSTICA EN 1 MINUTO"
+    chico: "Guía + planilla para comparar costos: link en la descripción"
+    narracion: "Si estás pensando en importar en serio, en la descripción tenés una guía con una planilla para comparar costos. Esto fue Logística en 1 Minuto. Suscribite, y contame en los comentarios qué compraste afuera este año."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+    desde: 6
+descripcion: |
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1
+
+  ¿Cuánto pagás hoy por comprar afuera desde Uruguay? Tres compras de USD 10 en febrero te pueden costar USD 114 de más en octubre. En este video: las reglas que rigen desde el 1/5/2026, la excepción de Estados Unidos, el régimen del 60 % desde el cuarto envío, la cuenta con 3 compras reales, cómo decidir en qué compras usar tus franquicias y los 6 errores más caros.
+
+  Datos clave (Ley 20.446, Decreto 50/2026 y guía del MEF):
+  · Franquicia: hasta 3 envíos por persona y por año civil, sin importar el valor de cada uno, con un tope acumulado de USD 800 en el año. El IVA no cuenta dentro del tope. Los envíos de enero a abril de 2026 (régimen anterior) cuentan en el cupo del año.
+  · En franquicia se paga IVA (tasa básica 22 % para la mayoría de los productos) sobre el total de la factura, al tipo de cambio del BCU del día hábil anterior.
+  · Requisitos: persona física mayor de edad con documento uruguayo, uso personal, pago con tarjeta o dinero electrónico internacional a nombre de quien compra y recibe, y registro por única vez ante la Dirección Nacional de Aduanas.
+  · Estados Unidos: según la guía del MEF, hasta USD 200 por envío no se paga IVA (acuerdo TIFA); el vendedor debe ser residente fiscal en EE. UU. y el envío cuenta igual en las 3 franquicias y en el tope.
+  · Desde el cuarto envío, o si no se cumplen las condiciones: prestación única del 60 % sobre el valor de factura, con un mínimo de USD 20 por envío. Sin límite de envíos, para personas o empresas, sin despachante. Hasta 20 kg y USD 800 por envío. No aplica a mercadería con IMESI ni a la que requiere autorización de otro organismo.
+  · Libros y medicamentos de uso personal no cuentan en el tope de USD 800 (medicamentos con autorización del MSP).
+  · El operador postal no entrega sin el pago; a los 30 días sin pagar, la mercadería se considera abandonada.
+  · Compras por franquicia: unos USD 23 millones por mes de enero a abril y entre 9 y 13 millones por mes de mayo a agosto de 2026 (informe de Fenicio citado por EFE, 9/10/2026).
+  Ojo: el ejemplo usa números redondos y la tasa básica de IVA. Las reglas pueden cambiar: revisá la guía del MEF y de Aduanas antes de comprar. No es asesoramiento tributario.
+
+  Fuentes: IMPO (Decreto 50/2026), Ministerio de Economía y Finanzas (guía de preguntas frecuentes, 24/4/2026, y comunicado del 16/3/2026), Ámbito (1/5/2026) y Semanario La Prensa / EFE (9/10/2026).
+
+  Imágenes de stock (Pexels): Cyriac von Czapiewski, FÁBIO REIS DE ABREU, Thanh Văn, Suraphat Nuea-on, EJ Merl, Alex Kad, Kmeel.com Videos, Kampus Production, RDNE Stock project, Sosa Films, LOC THAI, K, Mikhail Nilov, Kaboompics, Rodrigo Garcin, Raquel Tinoco, Andi Farruku y los autores de los clips reutilizados, enlazados en github.com/samanjmq-max/logistica-en-1-minuto.
+
+  Música original generada para el canal.
+
+  Curso recomendado de comercio exterior (link de afiliado): https://go.hotmart.com/P108344299F
+
+  #ImpuestoTemu #ComprasEnElExterior #Uruguay
+fuentes:
+  - https://www.impo.com.uy/bases/decretos-originales/50-2026
+  - https://www.gub.uy/ministerio-economia-finanzas/comunicacion/noticias/guia-preguntas-frecuentes-sobre-regimen-envios-postales-franquicias
+  - https://www.gub.uy/ministerio-economia-finanzas/comunicacion/noticias/gobierno-reglamenta-regimen-para-envios-postales-internacionales
+  - https://www.aduanas.gub.uy/innovaportal/v/28455/1/innova.front/desde-el-1%C2%BA-de-mayo-comienza-a-regir-el-nuevo-regimen-de-franquicias-de-envios-postales-internacionales.html
+  - https://www.impo.com.uy/bases/todgi-2023/10-2024
+  - https://www.ambito.com/uruguay/comenzo-regir-el-impuesto-temu-cuales-son-las-claves-n6273075
+  - https://semanariolaprensa.com/el-impuesto-temu-desplomo-las-compras-web-en-el-exterior-y-cambio-las-preferencias-de-los-uruguayos/
+  - https://www.montevideo.com.uy/Noticias/Gobierno-emite-decreto-por-impuesto-Temu-que-cambios-introduce-la-nueva-legislacion-uc956136
+creditos:
+  - https://www.pexels.com/video/people-unloading-the-cargo-on-the-airplane-5696874/
+  - https://www.pexels.com/video/driving-vehicle-on-airport-tarmac-13244608/
+  - https://www.pexels.com/video/a-shot-of-the-airport-from-a-moving-vehicle-4102389/
+  - https://www.pexels.com/video/person-holding-documents-8731324/
+  - https://www.pexels.com/video/a-person-using-magnifying-glass-on-documents-6657743/
+  - https://www.pexels.com/video/a-man-signing-a-document-7841671/
+  - https://www.pexels.com/video/men-closing-a-business-deal-8426060/
+  - https://www.pexels.com/video/machine-picking-products-from-shelf-5738746/
+  - https://www.pexels.com/video/men-getting-items-from-the-shelves-in-the-warehouse-4281404/
+  - https://www.pexels.com/video/man-working-on-a-warehouse-14910119/
+  - https://www.pexels.com/video/a-man-dragging-a-pallet-cart-4292301/
+  - https://www.pexels.com/video/a-man-loading-cement-on-a-delivery-truck-3365496/
+  - https://www.pexels.com/video/aerial-shot-of-a-highway-7183495/
+  - https://www.pexels.com/video/deposito-19896989/
+  - https://www.pexels.com/video/container-ship-in-harbor-13372582/
