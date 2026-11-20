@@ -69,7 +69,7 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 2. **[Hecho 2026-11-17]** Atraso programado por vidIQ, uno por día a las 19:00: 014 (17/11), 052 (18/11), 013 (19/11), 036 (20/11), 055 (21/11), 011 (22/11) y 031 (23/11); largos L03 (17/11) y L02b (20/11) a las 20:30.
 3. **[Hecho]** Los cupones LANZAMIENTO y DEPOSITO7 vencieron el 18/11 y ya no van en ninguna descripción.
 4. **Prioridad de noticias (2026-11-17, regla 22):** Short 046 IMPUESTO TEMU **[hecho, programado 24/11]**; Short 057 RECARGO ORMUZ (recargo de guerra vs. recargo de emergencia por combustible) **[hecho, programado 25/11]**. Largo L03c **[hecho, programado 21/11 20:30]**.
-5. **Próximos Shorts**, rotando series y con gancho de plata: 037 (demurrage por tramos, serie 2) **[hecho, programado 26/11]** → 053 (conteo cíclico, serie 3) → 016 (mercancías peligrosas, serie 1). El próximo día libre es el 27/11.
+5. **Próximos Shorts**, rotando series y con gancho de plata: 037 (demurrage por tramos, serie 2) **[hecho, programado 26/11]** → 053 (conteo cíclico, serie 3) **[hecho, programado 27/11]** → 016 (mercancías peligrosas, serie 1). El próximo día libre es el 28/11.
 
 El 037 queda después del 013 para no repetir tema la misma semana.
 
@@ -142,7 +142,7 @@ Formato: **la duda → los pasos → el error a evitar**. Para personas y peque�
 | 050 | Cómo almacenar en altura sin riesgo | Lo pesado abajo, siempre | Pendiente |
 | 051 | Pallet: medidas y cómo armarlo | El pallet mal armado que se cae en el camión | Pendiente |
 | 052 | Cómo cotizar un flete | Tres datos que te pide cualquier transportista | Programado 2026-11-18 19:00 por vidIQ en YouTube, Instagram y TikTok (falló el 16/11 en Metricool; pin pendiente) |
-| 053 | Cómo hacer un inventario sin parar la operación | CONTEO CÍCLICO: cerrás un día y el stock igual falla | Renderizado, NO publicado (2026-11-20; se programa para el 27/11 19:00) |
+| 053 | Cómo hacer un inventario sin parar la operación | CONTEO CÍCLICO: cerrás un día y el stock igual falla | Programado 2026-11-27 19:00 por vidIQ en YouTube, Instagram y TikTok (33 s; pin de Pinterest 19:05 en Metricool) |
 | 054 | Cómo importar por primera vez | Los pasos, en orden | Pendiente |
 | 055 | ¿Autoelevador o transpaleta? La pregunta que decide | Comprar el equipo equivocado te come el capital | Programado 2026-11-21 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
 | 056 | Cuánto espacio necesitás para arrancar un depósito | El error de alquilar de más (o de menos) | Pendiente |
