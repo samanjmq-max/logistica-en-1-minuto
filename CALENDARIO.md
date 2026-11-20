@@ -142,7 +142,7 @@ Formato: **la duda → los pasos → el error a evitar**. Para personas y peque�
 | 050 | Cómo almacenar en altura sin riesgo | Lo pesado abajo, siempre | Pendiente |
 | 051 | Pallet: medidas y cómo armarlo | El pallet mal armado que se cae en el camión | Pendiente |
 | 052 | Cómo cotizar un flete | Tres datos que te pide cualquier transportista | Programado 2026-11-18 19:00 por vidIQ en YouTube, Instagram y TikTok (falló el 16/11 en Metricool; pin pendiente) |
-| 053 | Cómo hacer un inventario sin parar la operación | El conteo cíclico | Pendiente |
+| 053 | Cómo hacer un inventario sin parar la operación | CONTEO CÍCLICO: cerrás un día y el stock igual falla | Renderizado, NO publicado (2026-11-20; se programa para el 27/11 19:00) |
 | 054 | Cómo importar por primera vez | Los pasos, en orden | Pendiente |
 | 055 | ¿Autoelevador o transpaleta? La pregunta que decide | Comprar el equipo equivocado te come el capital | Programado 2026-11-21 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
 | 056 | Cuánto espacio necesitás para arrancar un depósito | El error de alquilar de más (o de menos) | Pendiente |

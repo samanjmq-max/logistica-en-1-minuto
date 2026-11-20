@@ -1,0 +1,76 @@
+titulo: "CONTEO CÍCLICO: cerrás un día y el stock igual falla 📦"
+formato: short
+serie: "Cómo hacerlo"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: publicado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Armar un conteo cíclico: separar los productos en A, B y C, contar un poco cada día hábil sin cerrar el depósito (A cada mes, B cada 3, C cada 6, como punto de partida), contar a ciegas y buscar la causa de cada diferencia en vez de solo ajustar."
+  util: 5
+  llamativo: 4
+  gancho: "Cerraste el depósito un día para hacer inventario, perdiste ventas, y al mes el sistema ya no coincide con la estantería."
+  aprendi: "En el estudio de DeHoratius y Raman (Management Science, 2008), de casi 370.000 registros de inventario de 37 tiendas de un minorista, el 65 % no coincidía con lo que había en la tienda. Y el conteo a ciegas (el que cuenta no ve la cantidad del sistema) existe porque, si la ve, tiende a confirmarla: el error queda escondido."
+  referencia: "Mecanismos de la regla 22 (sin copiar texto): plata que perdés con contraste en los primeros 3 s (cerraste y perdiste ventas, y el stock igual falla), desmentir lo que creés (\"el inventario anual deja el stock bien\") y un número concreto que sorprende (65 %). Estructura de la serie 3: la duda → los pasos → el error a evitar. vidIQ sin créditos: búsqueda web de la semana sobre conteo cíclico (guías de Cleverence 2026 y artículos de APICS), sin TubeAlfred."
+escenas:
+  - grande: "CERRASTE PARA CONTAR"
+    resaltar: "CERRASTE"
+    chico: "Un día sin vender para hacer inventario… y al mes el sistema no coincide"
+    narracion: "Cerraste un día para hacer inventario, perdiste ventas, y al mes el sistema ya no coincide con la estantería."
+    clip: https://videos.pexels.com/video-files/16971219/16971219-hd_1080_1920_30fps.mp4
+  - grande: "65 % MAL"
+    resaltar: "65 %"
+    chico: "Casi 370.000 registros de 37 tiendas de un minorista (DeHoratius y Raman, 2008)"
+    narracion: "En un estudio de casi trescientos setenta mil registros, el sesenta y cinco por ciento estaba mal."
+    clip: https://videos.pexels.com/video-files/12909001/12909001-hd_720_1280_24fps.mp4
+  - grande: "CONTEO CÍCLICO"
+    resaltar: "CÍCLICO"
+    chico: "Contás un poco cada día hábil, sin parar la operación"
+    narracion: "La solución es el conteo cíclico: contás un poco todos los días, sin cerrar."
+    clip: https://videos.pexels.com/video-files/15170997/15170997-hd_1080_1920_30fps.mp4
+  - grande: "A: CADA MES"
+    resaltar: "CADA MES"
+    chico: "A: cada mes · B: cada 3 meses · C: cada 6 meses (punto de partida)"
+    narracion: "Separá los productos en A, B y C. Los A, que más plata mueven, contalos cada mes; los B, cada tres meses; los C, cada seis."
+    clip: https://videos.pexels.com/video-files/6342195/6342195-hd_1080_1920_24fps.mp4
+  - grande: "CONTÁ A CIEGAS"
+    resaltar: "A CIEGAS"
+    chico: "Conteos del período ÷ días hábiles = cuántos contás por día"
+    narracion: "Dividí los conteos por los días hábiles y contá a ciegas, sin mirar el sistema."
+    clip: https://videos.pexels.com/video-files/6964001/6964001-hd_1080_1920_25fps.mp4
+  - grande: "BUSCÁ LA CAUSA"
+    resaltar: "CAUSA"
+    chico: "Recepción, unidad equivocada, ubicación mal cargada · Seguí Logística en 1 Minuto"
+    narracion: "Y si no coincide, no ajustes y listo: buscá la causa. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/7019231/7019231-hd_1080_2048_25fps.mp4
+descripcion: |
+  CONTEO CÍCLICO: cerrás un día y el stock igual falla 📦
+
+  📗 Guía + planilla para armar tu primer depósito: https://go.hotmart.com/U108348887Q?dp=1
+
+  Duda: cómo hacer inventario sin cerrar el depósito.
+  · Dato: en un estudio de casi 370.000 registros de inventario de 37 tiendas de un minorista, el 65 % no coincidía con lo que había en la tienda (DeHoratius y Raman, Management Science, 2008).
+  · Paso 1: separá los productos en A, B y C (A = los que más plata mueven).
+  · Paso 2: definí cada cuánto contás cada clase. Un punto de partida habitual: A cada mes, B cada 3 meses y C cada 6. Si una clase da muchas diferencias, contala más seguido.
+  · Paso 3: sumá los conteos del período y dividilos por los días hábiles. Ejemplo: 6.000 códigos por trimestre son unos 100 por día hábil.
+  · Paso 4: contá a ciegas (el que cuenta no ve la cantidad del sistema; solo el supervisor la compara).
+  · Error a evitar: ajustar la diferencia y seguir. Buscá la causa (recepción mal registrada, unidad de medida equivocada, producto en otra ubicación) para que no se repita.
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  Imágenes de stock: Rolan Muradov, Mizuno K, Liza Summer, Mikhail Nilov y cottonbro studio (Pexels).
+
+  #Shorts #ConteoCiclico #Inventario #Deposito
+fuentes:
+  - https://ideas.repec.org/a/inm/ormnsc/v54y2008i4p627-641.html
+  - https://www.chicagobooth.edu/review/first-measure-then-manage
+  - https://apicssanantonio.starchapter.com/blog/id/17
+  - https://www.cleverence.com/articles/business-blogs/guide-cycle-count-4729/
+  - https://fitsmallbusiness.com/cycle-count/
+creditos:
+  - https://www.pexels.com/video/racks-16971219/
+  - https://www.pexels.com/video/woman-searching-through-boxes-in-an-office-12909001/
+  - https://www.pexels.com/video/workers-at-a-warehouse-15170997/
+  - https://www.pexels.com/video/close-up-video-of-parcels-6342195/
+  - https://www.pexels.com/video/a-person-computing-using-a-calculator-6964001/
+  - https://www.pexels.com/video/a-man-riding-a-pallet-jack-7019231/
