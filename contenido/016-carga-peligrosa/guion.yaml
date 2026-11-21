@@ -1,0 +1,77 @@
+titulo: "CARGA PELIGROSA: era perfume y pagás 5.000 💸"
+formato: short
+serie: "Logística en 1 minuto"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: aprobado        # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Saber si lo que importa es mercancía peligrosa antes de reservar: pedir al proveedor la ficha de datos de seguridad (SDS), mirar la sección 14 (número ONU y clase) y avisarle al forwarder, porque declararla como carga común se cobra (Maersk: USD 5.000 por BL como base; en China, 15.000 por contenedor)."
+  util: 5
+  llamativo: 4
+  gancho: "Importaste perfumes como carga común y la naviera te cobra cinco mil dólares."
+  aprendi: "Productos de todos los días son mercancía peligrosa para el barco: el perfume con alcohol es UN 1266, clase 3 (líquido inflamable), y las baterías de litio son clase 9. La respuesta ya está escrita en la sección 14 de la ficha de seguridad del proveedor. Y se estima que, además de la carga declarada como peligrosa, otro 5 % viaja mal declarada o mal clasificada (TT Club)."
+  referencia: "Mecanismos de la regla 22 (sin copiar texto): plata que perdés con contraste en los primeros 3 s (algo inocente como un perfume vs. un cobro de 5.000 dólares), desmentir lo que creés (\"peligroso es lo químico\") y número concreto en el título. Tema con noticias del nicho: navieras endureciendo los cobros por carga mal declarada (Maersk, aviso del 24/10/2025). vidIQ sin créditos hasta el 30/11: referencia por WebSearch, sin TubeAlfred."
+escenas:
+  - grande: "ERA PERFUME"
+    resaltar: "PERFUME"
+    chico: "Lo declaraste como carga común… y la naviera te cobra"
+    narracion: "Importaste perfumes como carga común y la naviera te cobra cinco mil dólares."
+    clip: https://videos.pexels.com/video-files/10451891/10451891-hd_720_1280_30fps.mp4
+  - grande: "5.000 USD"
+    resaltar: "5.000 USD"
+    chico: "Maersk: base por BL mal declarado · China: USD 15.000 por contenedor"
+    narracion: "Es lo que cobra Maersk como base por cada conocimiento de embarque mal declarado. En China, quince mil por contenedor."
+    clip: https://videos.pexels.com/video-files/6700011/6700011-hd_1080_1920_25fps.mp4
+  - grande: "UN 1266 · CLASE 3"
+    resaltar: "CLASE 3"
+    chico: "Perfume con alcohol = líquido inflamable · Baterías de litio = clase 9"
+    narracion: "El perfume lleva alcohol: para el código marítimo es líquido inflamable, clase tres. Las baterías de litio, clase nueve."
+    clip: https://videos.pexels.com/video-files/6342195/6342195-hd_1080_1920_24fps.mp4
+  - grande: "PEDÍ LA SDS"
+    resaltar: "SDS"
+    chico: "Ficha de datos de seguridad del producto, antes de comprar"
+    narracion: "Antes de comprar, pedile al proveedor la ficha de datos de seguridad."
+    clip: https://videos.pexels.com/video-files/8298300/8298300-hd_720_1280_25fps.mp4
+  - grande: "SECCIÓN 14"
+    resaltar: "14"
+    chico: "Número ONU · clase · grupo de embalaje → avisale al forwarder"
+    narracion: "Andá a la sección catorce: si trae número ONU y clase, avisale a tu forwarder antes de reservar."
+    clip: https://videos.pexels.com/video-files/6100897/6100897-hd_1080_2048_30fps.mp4
+  - grande: "OTRO 5 % MAL DECLARADO"
+    resaltar: "5 %"
+    chico: "Estimación de TT Club · Seguí Logística en 1 Minuto"
+    narracion: "Se estima que otro cinco por ciento de la carga viaja mal declarada. Que no sea la tuya. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/11336230/11336230-hd_720_1280_30fps.mp4
+descripcion: |
+  CARGA PELIGROSA: era perfume y pagás 5.000 💸
+
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1
+
+  Mucha mercadería de todos los días es "mercancía peligrosa" para el transporte, y declararla como carga común se paga caro.
+  · Dato: Maersk cobra como base USD 5.000 por conocimiento de embarque (BL) mal declarado; en China, USD 15.000 por contenedor, más todos los costos que genere (aviso de Maersk del 24/10/2025).
+  · Ejemplos: el perfume con solvente inflamable (alcohol) es UN 1266, clase 3 (líquido inflamable); las baterías de litio son clase 9.
+  · Qué hacer: antes de comprar, pedile al proveedor la ficha de datos de seguridad (SDS). En la sección 14 ("Información relativa al transporte") figuran el número ONU, la clase y el grupo de embalaje. Si trae número ONU y clase, avisale a tu forwarder antes de reservar: necesita la declaración de mercancías peligrosas según el código IMDG.
+  · Contexto: TT Club estima que hasta un 10 % de la carga es peligrosa y que otro 5 % viaja mal declarado o mal clasificado.
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  Curso recomendado de logística internacional (link de afiliado): https://go.hotmart.com/M108343505U
+
+  Imágenes de stock: Glenn Langhorst, Tima Miroshnichenko, Liza Summer, Mikhail Nilov y Katrin Bolovtsova (Pexels).
+
+  #Shorts #CargaPeligrosa #MercanciasPeligrosas #IMDG
+fuentes:
+  - https://www.maersk.com/news/articles/2025/10/24/customer-advisory-dangerous-goods-misdeclaration-fee
+  - https://www.ttclub.com/fileadmin/uploads/tt-club/Documents/Stop_Loss/TTC_SL27_Classification_of_Dangerous_Goods_web.pdf
+  - https://reachonline.eu/reach/en/annex-ii-14.html
+  - https://cameochemicals.noaa.gov/unna/1266
+  - https://www.tnt.com/express/en_ie/site/how-to/ship-perfumes.html
+  - https://maritime-executive.com/article/hapag-lloyd-imposes-steep-fine-for-misdeclared-dangerous-goods
+creditos:
+  - https://www.pexels.com/video/container-ship-being-loaded-10451891/
+  - https://www.pexels.com/video/a-person-counting-money-6700011/
+  - https://www.pexels.com/video/close-up-video-of-parcels-6342195/
+  - https://www.pexels.com/video/a-woman-checking-the-documents-8298300/
+  - https://www.pexels.com/video/a-person-flipping-some-documents-6100897/
+  - https://www.pexels.com/video/container-ship-in-city-bay-11336230/
