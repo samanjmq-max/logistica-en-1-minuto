@@ -4,7 +4,7 @@ serie: "Logística en 1 minuto"
 voz: em_alex
 velocidad: 1.1
 pausa: 0.25
-estado: aprobado        # piloto -> aprobado -> publicado
+estado: publicado       # piloto -> aprobado -> publicado
 chequeo:
   se_lleva: "Saber si lo que importa es mercancía peligrosa antes de reservar: pedir al proveedor la ficha de datos de seguridad (SDS), mirar la sección 14 (número ONU y clase) y avisarle al forwarder, porque declararla como carga común se cobra (Maersk: USD 5.000 por BL como base; en China, 15.000 por contenedor)."
   util: 5
