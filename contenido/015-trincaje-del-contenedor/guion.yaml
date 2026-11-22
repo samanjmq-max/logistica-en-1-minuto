@@ -4,7 +4,7 @@ serie: "Logística en 1 minuto"
 voz: em_alex
 velocidad: 1.1
 pausa: 0.25
-estado: aprobado       # piloto -> aprobado -> publicado
+estado: publicado      # piloto -> aprobado -> publicado
 chequeo:
   se_lleva: "Si carga el contenedor él mismo, el seguro no cubre el daño por mala estiba: tiene que amarrar con la cuenta del CTU Code (la carga empuja hasta 0,8 de su peso; cada anclaje del piso aguanta como mínimo 1.000 kg), dejar en total no más de 15 cm de huecos por dirección y no poner más del 60 % del peso en la mitad del largo."
   util: 4
@@ -49,9 +49,9 @@ descripcion: |
   📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1
 
   Trincaje (sujeción de la carga) dentro del contenedor: si lo cargás vos, la responsabilidad es tuya.
-  · Seguro: en las Cláusulas del Instituto (A) 2009, cláusula 4.3, no se cubre el daño por embalaje insuficiente cuando lo hizo el asegurado o su personal, y "embalaje" incluye la estiba en el contenedor. Si la estiba la hace otro, pedí que quede por escrito quién la hizo.
+  · Seguro: en las Cláusulas del Instituto (A) 2009, cláusula 4.3, no se cubre el daño por embalaje insuficiente cuando lo hizo el asegurado o su personal, y "embalaje" incluye la estiba en el contenedor. También queda afuera si el embalaje o la estiba se hicieron antes de que empezara la cobertura: revisalo con tu aseguradora.
   · Fuerzas (Código CTU de la OMI, la OIT y la CEPE): en mar abierto la carga empuja de costado con hasta 0,8 de su peso; en ruta, al frenar, 0,8 hacia adelante.
-  · Anclajes: cada punto del piso del contenedor tiene una carga mínima de 1.000 kg (10 kN) en cualquier dirección (muchos nuevos, 2.000 kg); los del techo, 500 kg. Una máquina de 2.000 kg puede empujar 1.600 kg de costado: un solo amarre no alcanza.
+  · Anclajes: cada punto del piso del contenedor tiene una carga mínima de 1.000 kg (10 kN) en cualquier dirección (muchos nuevos, 2.000 kg); los de los rieles de arriba, 500 kg. Una máquina de 2.000 kg puede empujar 1.600 kg de costado: un solo amarre no alcanza.
   · Huecos: la suma de espacios libres en cada dirección horizontal no debería pasar de 15 cm; se rellenan con bolsas de aire o madera.
   · Peso: el centro de gravedad no debería correrse más de un 5 %; como regla práctica, no más del 60 % del peso en la mitad del largo.
 

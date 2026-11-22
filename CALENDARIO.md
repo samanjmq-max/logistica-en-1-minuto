@@ -69,7 +69,7 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 2. **[Hecho 2026-11-17]** Atraso programado por vidIQ, uno por día a las 19:00: 014 (17/11), 052 (18/11), 013 (19/11), 036 (20/11), 055 (21/11), 011 (22/11) y 031 (23/11); largos L03 (17/11) y L02b (20/11) a las 20:30.
 3. **[Hecho]** Los cupones LANZAMIENTO y DEPOSITO7 vencieron el 18/11 y ya no van en ninguna descripción.
 4. **Prioridad de noticias (2026-11-17, regla 22):** Short 046 IMPUESTO TEMU **[hecho, programado 24/11]**; Short 057 RECARGO ORMUZ (recargo de guerra vs. recargo de emergencia por combustible) **[hecho, programado 25/11]**. Largo L03c **[hecho, programado 21/11 20:30]**.
-5. **Próximos Shorts**, rotando series y con gancho de plata: 037 (demurrage por tramos, serie 2) **[hecho, programado 26/11]** → 053 (conteo cíclico, serie 3) **[hecho, programado 27/11]** → 016 (mercancías peligrosas, serie 1) **[hecho, programado 28/11]** → 015 (trincaje, serie 1; segundo día seguido de la serie, dentro de la regla 18) **[en producción 2026-11-22, para el 29/11]**. El próximo día libre después es el 30/11; conviene que sea de la serie 2 o 3.
+5. **Próximos Shorts**, rotando series y con gancho de plata: 037 (demurrage por tramos, serie 2) **[hecho, programado 26/11]** → 053 (conteo cíclico, serie 3) **[hecho, programado 27/11]** → 016 (mercancías peligrosas, serie 1) **[hecho, programado 28/11]** → 015 (trincaje, serie 1; segundo día seguido de la serie, dentro de la regla 18) **[hecho, programado 29/11]**. El próximo día libre después es el 30/11; conviene que sea de la serie 2 o 3.
 
 El 037 queda después del 013 para no repetir tema la misma semana.
 
@@ -88,7 +88,7 @@ El 037 queda después del 013 para no repetir tema la misma semana.
 | 012 | Contenedores que caen al mar | Cuántos se pierden por año | Pendiente (se pasó el 2026-11-16: solo como cifra es una curiosidad sin acción y útil < 4; retomarlo solo con un enfoque útil, por ejemplo qué hacer si tu contenedor es uno de ellos, sin repetir 010 y 011) |
 | 013 | Demurrage y detention | La multa que te cobra la naviera por día | Programado 2026-11-19 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
 | 014 | VGM (SOLAS): pesar el contenedor | Sin este número, tu contenedor no sube | Programado 2026-11-17 19:00 por vidIQ en YouTube, Instagram y TikTok (pin pendiente) |
-| 015 | Trincaje de contenedores (enfoque: si cargás vos, el seguro no cubre la mala estiba; cuentas del CTU Code) | TRINCAJE CASERO: llegó roto y el seguro no paga | En producción (2026-11-22) |
+| 015 | Trincaje de contenedores (enfoque: si cargás vos, el seguro no cubre la mala estiba; cuentas del CTU Code) | TRINCAJE CASERO: llegó roto y el seguro no paga | Programado 2026-11-29 19:00 por vidIQ en YouTube, Instagram y TikTok (32 s; pin de Pinterest 19:05 en Metricool) |
 | 016 | Mercancías peligrosas: clases IMO (enfoque: carga mal declarada y la sección 14 de la SDS) | CARGA PELIGROSA: era perfume y pagás 5.000 | Programado 2026-11-28 19:00 por vidIQ en YouTube, Instagram y TikTok (35 s; pin de Pinterest 19:05 en Metricool) |
 | 017 | Cadena de frío | Por qué el reefer nunca se apaga | Pendiente |
 | 018 | Despachante de aduana y forwarder | Quién hace qué en una importación | Pendiente |
