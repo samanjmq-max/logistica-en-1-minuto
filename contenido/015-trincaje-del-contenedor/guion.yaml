@@ -1,0 +1,76 @@
+titulo: "TRINCAJE CASERO: llegó roto y el seguro no paga ⛓️"
+formato: short
+serie: "Logística en 1 minuto"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: aprobado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Si carga el contenedor él mismo, el seguro no cubre el daño por mala estiba: tiene que amarrar con la cuenta del CTU Code (la carga empuja hasta 0,8 de su peso; cada anclaje del piso aguanta como mínimo 1.000 kg), dejar en total no más de 15 cm de huecos por dirección y no poner más del 60 % del peso en la mitad del largo."
+  util: 4
+  llamativo: 5
+  gancho: "Cargaste vos el contenedor, llegó roto y el seguro no te paga."
+  aprendi: "Para las Cláusulas del Instituto (A) 2009, 'embalaje' incluye la estiba dentro del contenedor: si la hizo el asegurado o su gente, el daño por mala estiba queda excluido incluso en 'todo riesgo'. Y la cuenta no da con una sola argolla: una máquina de 2.000 kg en mar abierto empuja de costado hasta 1.600 kg, y cada anclaje del piso solo garantiza 1.000 kg."
+  referencia: "Mecanismos de la regla 22 (sin copiar texto): plata que perdés con contraste en los primeros 3 s (tenías seguro y no paga), desmentir lo que creés ('con la cláusula A estoy cubierto') y números concretos en pantalla (0,8 · 1.000 kg · 15 cm). En la búsqueda de la semana lo que circula del tema son videos de cargas que casi vuelcan: consecuencia visible primero, explicación después. vidIQ sin créditos hasta el 30/11: referencia por WebSearch, sin TubeAlfred."
+escenas:
+  - grande: "LLEGÓ ROTO"
+    resaltar: "ROTO"
+    chico: "Cargaste vos el contenedor… y el seguro no paga"
+    narracion: "Cargaste vos el contenedor, llegó todo roto y el seguro no te paga."
+    clip: https://videos.pexels.com/video-files/6342195/6342195-hd_1080_1920_24fps.mp4
+  - grande: "CLÁUSULA 4.3"
+    resaltar: "4.3"
+    chico: "ICC (A) 2009: \"embalaje\" incluye la estiba en el contenedor"
+    narracion: "Hasta la cláusula A excluye tu mal embalaje, y embalar incluye cómo estibaste el contenedor."
+    clip: https://videos.pexels.com/video-files/8298300/8298300-hd_720_1280_25fps.mp4
+  - grande: "0,8 DE SU PESO"
+    resaltar: "0,8"
+    chico: "CTU Code · en ruta, al frenar: 0,8 hacia adelante"
+    narracion: "En mar abierto, la carga empuja de costado con hasta el ochenta por ciento de su peso."
+    clip: https://videos.pexels.com/video-files/10622135/10622135-hd_720_1280_30fps.mp4
+  - grande: "1.000 KG POR ANCLAJE"
+    resaltar: "1.000 KG"
+    chico: "Mínimo de cada anclaje del piso · máquina de 2.000 kg = empuja 1.600"
+    narracion: "Cada anclaje del piso garantiza mil kilos. Una máquina de dos mil empuja mil seiscientos: con uno no alcanza."
+    clip: https://videos.pexels.com/video-files/6618335/6618335-hd_1280_720_24fps.mp4
+  - grande: "HUECOS: MÁX. 15 CM"
+    resaltar: "15 CM"
+    chico: "Sumados, en cada dirección · rellená con bolsas de aire o madera"
+    narracion: "Huecos sumados: máximo quince centímetros por dirección. Rellenalos con bolsas de aire o madera."
+    clip: https://videos.pexels.com/video-files/7033604/7033604-hd_1080_1920_25fps.mp4
+  - grande: "60 % EN LA MITAD"
+    resaltar: "60 %"
+    chico: "Tope del CTU Code para el peso a lo largo · Seguí Logística en 1 Minuto"
+    narracion: "Y nunca más del sesenta por ciento del peso en una mitad. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/11801939/11801939-hd_1080_1920_30fps.mp4
+descripcion: |
+  TRINCAJE CASERO: llegó roto y el seguro no paga ⛓️
+
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1
+
+  Trincaje (sujeción de la carga) dentro del contenedor: si lo cargás vos, la responsabilidad es tuya.
+  · Seguro: en las Cláusulas del Instituto (A) 2009, cláusula 4.3, no se cubre el daño por embalaje insuficiente cuando lo hizo el asegurado o su personal, y "embalaje" incluye la estiba en el contenedor. Si la estiba la hace otro, pedí que quede por escrito quién la hizo.
+  · Fuerzas (Código CTU de la OMI, la OIT y la CEPE): en mar abierto la carga empuja de costado con hasta 0,8 de su peso; en ruta, al frenar, 0,8 hacia adelante.
+  · Anclajes: cada punto del piso del contenedor tiene una carga mínima de 1.000 kg (10 kN) en cualquier dirección (muchos nuevos, 2.000 kg); los del techo, 500 kg. Una máquina de 2.000 kg puede empujar 1.600 kg de costado: un solo amarre no alcanza.
+  · Huecos: la suma de espacios libres en cada dirección horizontal no debería pasar de 15 cm; se rellenan con bolsas de aire o madera.
+  · Peso: el centro de gravedad no debería correrse más de un 5 %; como regla práctica, no más del 60 % del peso en la mitad del largo.
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  Curso recomendado de logística internacional (link de afiliado): https://go.hotmart.com/M108343505U
+
+  Imágenes de stock de Pexels (autores y enlaces en el guion del video en github.com/samanjmq-max/logistica-en-1-minuto).
+
+  #Shorts #Trincaje #EstibaDeCarga #CTUCode
+fuentes:
+  - https://www.mardep.gov.hk/en/msnote/pdf/msin1669anx1.pdf
+  - https://www.mardep.gov.hk/en/msnote/pdf/msin1669anx2.pdf
+  - https://www.ttclub.com/fileadmin/uploads/tt-club/Documents/ICC.pdf
+  - https://www.tis-gdv.de/?p=26301
+creditos:
+  - https://www.pexels.com/video/close-up-video-of-parcels-6342195/
+  - https://www.pexels.com/video/a-woman-checking-the-documents-8298300/
+  - https://www.pexels.com/video/industrial-ship-on-rough-sea-10622135/
+  - https://www.pexels.com/video/a-forklift-truck-transferring-a-cargo-container-6618335/
+  - https://www.pexels.com/video/a-macro-shot-of-a-steel-tape-measure-7033604/
+  - https://www.pexels.com/video/vehicle-carrying-container-in-warehouse-11801939/
