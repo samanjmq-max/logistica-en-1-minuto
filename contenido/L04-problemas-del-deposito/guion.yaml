@@ -1,0 +1,304 @@
+titulo: "DEPÓSITO CARO: los 10 problemas que te hacen perder plata y cómo resolver cada uno 📦"
+formato: largo
+serie: "Guías completas"
+voz: em_alex
+velocidad: 1.0
+pausa: 0.35
+estado: aprobado
+chequeo:
+  se_lleva: "Una recorrida de su propio depósito con 10 problemas en el orden en que se mueve la mercadería (recibir, guardar, contar, preparar y despachar): el síntoma de cada uno, qué cuesta y cómo se resuelve, más un orden para arreglarlos (primero lo que lastima gente, después lo que pierde plata todos los días, al final el reacomodo)."
+  util: 5
+  llamativo: 4
+  gancho: "El sistema dice que tenés cuarenta cajas y en la estantería hay treinta y una. No es mala suerte: en un estudio de casi 370.000 registros de inventario, el 65 % no coincidía con lo que había."
+  aprendi: "En el semáforo de daños de estanterías (SEMA, la asociación europea de fabricantes), un daño ámbar no obliga a descargar en el momento, pero si no se repara en cuatro semanas pasa a rojo, y rojo es descargar y sacar de uso ya. Un pallet europeo EPAL (1.200 × 800 mm, unos 25 kg) aguanta 1.500 kg si la carga va pareja, pero el límite baja a 1.000 kg si no lo es. Y la preparación de pedidos se estima en hasta el 55 % del costo operativo de un depósito (de Koster y otros, 2007), con el recorrido como la parte más grande del tiempo: por eso acercar lo que más sale ahorra más que correr."
+  referencia: "Mecanismo de la regla 22, sin copiar texto: la fórmula 'N errores que te cuestan plata (y cómo arreglarlos)' es la más repetida esta semana en medios y blogs del nicho (The Logistics World, Cleverence, MRPeasy, búsqueda web: vidIQ sin créditos hasta el 30/11). Se toma la estructura de lista con solución por punto, pero ordenada como el recorrido de la mercadería para que cada capítulo abra un gancho nuevo, más plata que perdés con contraste en los primeros 3 segundos (sistema 40 cajas, estantería 31) y un objeto que se ve en la apertura (estanterías con gente sacando mercadería), que fue lo que repartió Instagram la semana del 16 al 22/11."
+miniatura:
+  arriba: "DEPÓSITO CARO"
+  abajo: "10 problemas y cómo resolver cada uno"
+escenas:
+  # --- Intro
+  - capitulo: "Lo que te cuesta tu depósito"
+    grande: "SISTEMA: 40 · ESTANTE: 31"
+    resaltar: "31"
+    chico: "Nueve cajas que figuran, se venden… y no están"
+    narracion: "El sistema dice que tenés cuarenta cajas. Vas a la estantería y hay treinta y una. Ya vendiste las nueve que faltan. Esto no es mala suerte: es uno de los problemas más caros de un depósito, y tiene solución."
+    clip: https://videos.pexels.com/video-files/4281404/4281404-hd_1920_1080_25fps.mp4
+  - grande: "65 % NO COINCIDÍA"
+    resaltar: "65 %"
+    chico: "Casi 370.000 registros de inventario de 37 tiendas de un minorista (DeHoratius y Raman, 2008)"
+    narracion: "En un estudio de casi trescientos setenta mil registros de inventario de un minorista, el sesenta y cinco por ciento no coincidía con lo que había en la tienda."
+    clip: https://videos.pexels.com/video-files/19896989/19896989-hd_1280_720_25fps.mp4
+  - grande: "EN ESTE VIDEO"
+    chico: "Recibir · guardar · contar · preparar · despachar · un ejemplo · por dónde empezar"
+    narracion: "En este video vas a recorrer tu depósito en el mismo orden en que se mueve la mercadería: recibir, guardar, contar, preparar y despachar. En cada paso, el problema, lo que cuesta y cómo se resuelve. Después, un ejemplo con números en un depósito de Montevideo, por dónde empezar, y los errores más comunes al arreglarlo."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+  # --- Recibir
+  - capitulo: "Recibir: problemas 1 y 2"
+    grande: "1. FIRMAR SIN CONTAR"
+    resaltar: "SIN CONTAR"
+    chico: "Firmaste el remito y pagaste mercadería que nunca entró"
+    narracion: "Problema uno: firmar el remito sin contar. Si el camión trajo menos, o algo vino golpeado, y vos firmaste limpio, pagaste mercadería que nunca entró. Y reclamar después es mucho más difícil."
+    clip: https://videos.pexels.com/video-files/3365496/3365496-hd_1920_1080_30fps.mp4
+  - grande: "CONTRA TU ORDEN DE COMPRA"
+    chico: "No contra el remito del proveedor: si no, solo confirmás lo que él dice"
+    narracion: "La solución: contá bultos y cantidades contra tu orden de compra, no contra el remito del proveedor. Si contás contra su papel, solo confirmás lo que él dice. Lo que falta o llega roto se escribe en el remito en ese momento, antes de firmar."
+    clip: https://videos.pexels.com/video-files/7841671/7841671-hd_1280_720_30fps.mp4
+  - grande: "7 DÍAS"
+    resaltar: "7 DÍAS"
+    chico: "Ej.: convenio CMR (carretera internacional, Europa), art. 30: daño que no se ve, aviso por escrito"
+    narracion: "Y los plazos para reclamar un daño que no se ve son cortos. Por ejemplo, en el convenio CMR del transporte internacional por carretera, son siete días, sin contar domingos ni feriados. Revisá qué plazo tiene tu contrato o tu transportista."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+  - grande: "2. GUARDAR DONDE HAY LUGAR"
+    resaltar: "DONDE HAY LUGAR"
+    chico: "La mercadería existe… pero nadie sabe dónde está"
+    narracion: "Problema dos: guardar donde hay lugar. La mercadería entra, alguien la deja en el primer hueco libre, y nadie lo anota. Existe, pero no se encuentra. Para el sistema hay stock, para el cliente no."
+    clip: https://videos.pexels.com/video-files/14910119/14910119-hd_1280_720_24fps.mp4
+  - grande: "PASILLO · MÓDULO · NIVEL · POSICIÓN"
+    chico: "Ej.: B-04-2-1 · cada hueco con su etiqueta · se registra al guardar"
+    narracion: "La solución: cada hueco del depósito tiene una dirección, como una casa. Pasillo, módulo, nivel y posición. Por ejemplo, B cero cuatro, dos, uno. Se pega una etiqueta, y nada se guarda sin registrar en qué dirección quedó."
+    clip: https://videos.pexels.com/video-files/4281404/4281404-hd_1920_1080_25fps.mp4
+    desde: 5
+  # --- Guardar
+  - capitulo: "Guardar: problemas 3, 4 y 5"
+    grande: "3. ESTANTERÍA SIN CARTEL"
+    resaltar: "SIN CARTEL"
+    chico: "Nadie sabe cuánto aguanta cada nivel"
+    narracion: "Problema tres: estanterías sin cartel de carga. Nadie sabe cuánto aguanta cada nivel, así que se carga a ojo. Y una estantería sobrecargada no avisa: se deforma de a poco, hasta que un día cede."
+    clip: https://videos.pexels.com/video-files/5738746/5738746-hd_1280_720_30fps.mp4
+  - grande: "KG POR NIVEL"
+    resaltar: "KG"
+    chico: "Pedí al fabricante la capacidad por nivel y por módulo, y colgala a la vista"
+    narracion: "La solución: pedile al fabricante o al instalador la capacidad de tu estantería, por nivel y por módulo, y colgala a la vista en cada una. Y una regla simple: lo pesado, abajo."
+    clip: https://videos.pexels.com/video-files/19896989/19896989-hd_1280_720_25fps.mp4
+    desde: 6
+  - grande: "4. EL GOLPE QUE NADIE VIO"
+    resaltar: "GOLPE"
+    chico: "Un parante golpeado por el autoelevador pierde resistencia"
+    narracion: "Problema cuatro: el golpe que nadie vio. Un autoelevador roza un parante, queda doblado, y como la estantería sigue en pie, nadie dice nada. Pero ese parante ya no aguanta lo mismo."
+    clip: https://videos.pexels.com/video-files/13422070/13422070-hd_1920_1080_30fps.mp4
+    desde: 10
+  - grande: "VERDE · ÁMBAR · ROJO"
+    chico: "Semáforo de daños de SEMA, la asociación europea de fabricantes de estanterías"
+    narracion: "Para esto existe un semáforo, el de SEMA, la asociación europea de fabricantes de estanterías. Verde: daño mínimo, se puede usar, pero se vigila. Ámbar: hay que reparar, aunque no hace falta descargar en el momento. Rojo: se descarga ya y se saca de uso."
+    clip: https://videos.pexels.com/video-files/4281404/4281404-hd_1920_1080_25fps.mp4
+    desde: 2
+  - grande: "ÁMBAR + 4 SEMANAS = ROJO"
+    resaltar: "ROJO"
+    chico: "Sin reparar en 4 semanas, el ámbar pasa a rojo · y además, inspección de un experto"
+    narracion: "Y el dato que casi nadie sabe: si un ámbar no se repara en cuatro semanas, pasa a rojo. La solución práctica: alguien del depósito, capacitado, recorre las estanterías seguido, anota cada golpe, y además un experto hace una inspección técnica periódica."
+    clip: https://videos.pexels.com/video-files/6657743/6657743-hd_1366_720_25fps.mp4
+  - grande: "5. PALLET MAL ARMADO"
+    resaltar: "MAL ARMADO"
+    chico: "Cajas que sobresalen, carga despareja, film flojo"
+    narracion: "Problema cinco: el pallet mal armado. Cajas que sobresalen del borde, lo pesado arriba, film flojo. En el depósito parece estable, pero en el autoelevador o en el camión se desarma, y lo que se rompe lo pagás vos."
+    clip: https://videos.pexels.com/video-files/4292301/4292301-hd_1280_720_50fps.mp4
+  - grande: "1.500 KG → 1.000 KG"
+    resaltar: "1.000 KG"
+    chico: "Pallet europeo EPAL 1.200 × 800 mm, unos 25 kg: 1.500 kg con carga pareja, 1.000 kg si no"
+    narracion: "Un dato para tener en cuenta: el pallet europeo, de un metro veinte por ochenta, aguanta mil quinientos kilos si la carga va pareja. Si no va pareja, el límite baja a mil. La solución: nada sale del borde, lo pesado abajo, y el film abraza también la madera del pallet."
+    clip: https://videos.pexels.com/video-files/4292301/4292301-hd_1280_720_50fps.mp4
+    desde: 4
+  # --- Suscribirse
+  - grande: "SEGUÍ EL CANAL"
+    chico: "Lo que viene: los problemas que más plata hacen perder todos los días"
+    narracion: "Hasta acá, lo que entra y cómo se guarda. Ahora vienen los cinco problemas que más plata hacen perder todos los días: el inventario, el vencimiento y los pedidos. Si esto te está sirviendo, suscribite a Logística en 1 Minuto. Cada semana, una guía como esta."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+    desde: 3
+  # --- Contar
+  - capitulo: "Contar: problemas 6 y 7"
+    grande: "6. EL STOCK NO COINCIDE"
+    resaltar: "NO COINCIDE"
+    chico: "Se cierra un día para hacer inventario… y al mes ya no coincide"
+    narracion: "Problema seis, el del principio: el stock que no coincide. La respuesta típica es cerrar un día para hacer inventario. Perdés ventas ese día, y al mes, el sistema ya no coincide otra vez."
+    clip: https://videos.pexels.com/video-files/19896989/19896989-hd_1280_720_25fps.mp4
+    desde: 12
+  - grande: "CONTEO CÍCLICO"
+    chico: "A: cada mes · B: cada 3 meses · C: cada 6 meses (punto de partida)"
+    narracion: "La solución es el conteo cíclico: contar un poco todos los días, sin cerrar. Separá los productos en A, B y C. Los A, los que más plata mueven, contalos cada mes. Los B, cada tres meses. Los C, cada seis. Después se ajusta."
+    clip: https://videos.pexels.com/video-files/14910119/14910119-hd_1280_720_24fps.mp4
+    desde: 5
+  - grande: "A CIEGAS"
+    resaltar: "A CIEGAS"
+    chico: "El que cuenta no ve la cantidad del sistema · si no coincide, se busca la causa"
+    narracion: "Dos reglas que hacen la diferencia. Contá a ciegas: el que cuenta no ve lo que dice el sistema, porque si lo ve, tiende a confirmarlo. Y si no coincide, no ajustes y listo: buscá la causa. Casi siempre es una recepción mal cargada, una unidad equivocada o una ubicación mal registrada."
+    clip: https://videos.pexels.com/video-files/4281404/4281404-hd_1920_1080_25fps.mp4
+    desde: 8
+  - grande: "7. VENCIDO EN EL FONDO"
+    resaltar: "VENCIDO"
+    chico: "Lo nuevo adelante, lo viejo atrás… hasta que vence"
+    narracion: "Problema siete: la mercadería que vence en el fondo de la estantería. Llega un lote nuevo, se pone adelante porque es más cómodo, y el viejo queda atrás hasta que vence. Eso no se vende: se tira."
+    clip: https://videos.pexels.com/video-files/5738746/5738746-hd_1280_720_30fps.mp4
+    desde: 8
+  - grande: "FEFO"
+    resaltar: "FEFO"
+    chico: "First expired, first out: sale primero lo que vence primero (no lo que entró primero)"
+    narracion: "La solución tiene nombre: FEFO. Lo primero que vence es lo primero que sale. No es lo mismo que FIFO, que despacha lo que entró primero: un lote que entró después puede vencer antes. Por eso, en productos con vencimiento, se registra la fecha de cada lote al recibir, y se prepara por fecha."
+    clip: https://videos.pexels.com/video-files/6657743/6657743-hd_1366_720_25fps.mp4
+    desde: 5
+  # --- Preparar
+  - capitulo: "Preparar pedidos: problemas 8 y 9"
+    grande: "HASTA 55 %"
+    resaltar: "55 %"
+    chico: "Costo de preparar pedidos sobre el costo operativo del depósito (de Koster y otros, 2007)"
+    narracion: "Y ahora, la parte que más plata se lleva. Según una revisión de estudios de de Koster y otros, preparar pedidos puede ser hasta el cincuenta y cinco por ciento del costo operativo de un depósito."
+    clip: https://videos.pexels.com/video-files/5738746/5738746-hd_1280_720_30fps.mp4
+    desde: 3
+  - grande: "8. LO QUE MÁS SALE, LEJOS"
+    resaltar: "LEJOS"
+    chico: "El recorrido suele ser la parte más grande del tiempo de preparación"
+    narracion: "Problema ocho: lo que más sale está lejos. En la preparación, el tiempo de caminar suele ser la parte más grande. Si tu producto estrella está en el fondo, cada pedido paga ese viaje, todos los días."
+    clip: https://videos.pexels.com/video-files/14910119/14910119-hd_1280_720_24fps.mp4
+    desde: 10
+  - grande: "LOS A, CERCA Y A MANO"
+    chico: "Ordená por salidas, no por proveedor ni por orden alfabético"
+    narracion: "La solución: ordená por salidas. Sacá del sistema cuántas veces salió cada producto en los últimos tres meses. Los que más salen van cerca del despacho y a una altura cómoda, sin agacharse ni estirarse. Lo que casi no sale, al fondo o arriba."
+    clip: https://videos.pexels.com/video-files/4281404/4281404-hd_1920_1080_25fps.mp4
+  - grande: "9. PEDIDO EQUIVOCADO"
+    resaltar: "EQUIVOCADO"
+    chico: "Ida + devolución + reenvío: tres envíos por un pedido"
+    narracion: "Problema nueve: el pedido equivocado. Mandaste el talle o el modelo que no era, y pagás tres envíos por uno: el de ida, la devolución y el reenvío."
+    clip: https://videos.pexels.com/video-files/3365496/3365496-hd_1920_1080_30fps.mp4
+    desde: 6
+  - grande: "99,68 %"
+    resaltar: "99,68 %"
+    chico: "Donde arranca el 20 % de mejor desempeño en pedidos bien preparados (WERC, DC Measures 2025)"
+    narracion: "Y les pasa a los mejores. En el informe de WERC de dos mil veinticinco, el veinte por ciento de depósitos con mejor desempeño arranca en noventa y nueve coma sesenta y ocho por ciento de pedidos bien preparados. O sea, hasta unos tres de cada mil, mal."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+    desde: 8
+  - grande: "SEPARÁ LOS PARECIDOS"
+    chico: "Talles, colores y versiones en ubicaciones no vecinas · dígito de control en la etiqueta"
+    narracion: "La solución: separá los productos parecidos, talles, colores, versiones, en ubicaciones que no sean vecinas. Y poné un dígito de control en la etiqueta de cada ubicación, que el preparador dice o escanea antes de sacar. Cambialo cada tanto, porque la gente lo memoriza."
+    clip: https://videos.pexels.com/video-files/5738746/5738746-hd_1280_720_30fps.mp4
+    desde: 12
+  # --- Despachar y seguridad
+  - capitulo: "Despachar y moverse: problema 10"
+    grande: "10. EL AUTOELEVADOR SIN REGLAS"
+    resaltar: "SIN REGLAS"
+    chico: "Peatones y equipos por el mismo pasillo, operadores sin capacitación"
+    narracion: "Problema diez, el que más cuesta, porque no se mide en plata: el autoelevador sin reglas. Gente caminando por los mismos pasillos que los equipos, cargas que tapan la vista, y operadores sin capacitación."
+    clip: https://videos.pexels.com/video-files/13422070/13422070-hd_1920_1080_30fps.mp4
+    desde: 20
+  - grande: "74 MUERTES · 9.050 LESIONES"
+    resaltar: "74"
+    chico: "Con autoelevadores, en Estados Unidos, en 2017 (lesiones con días de baja). Fuente: BLS"
+    narracion: "Para dimensionarlo: en Estados Unidos, en dos mil diecisiete, los autoelevadores estuvieron en setenta y cuatro muertes en el trabajo, y en nueve mil cincuenta lesiones con días de baja, según la oficina de estadísticas laborales."
+    clip: https://videos.pexels.com/video-files/6618335/6618335-hd_1280_720_24fps.mp4
+  - grande: "PASILLOS MARCADOS"
+    chico: "Peatones por un lado, equipos por otro · solo opera quien está capacitado · respetá la placa"
+    narracion: "La solución: marcá en el piso por dónde caminan las personas y por dónde andan los equipos. Que solo maneje quien está capacitado, según la norma de tu país. Y respetá la placa de capacidad: en el video del autoelevador explicamos por qué levanta menos de lo que dice el folleto."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+    desde: 6
+  # --- Ejemplo
+  - capitulo: "Ejemplo: un depósito chico en Montevideo"
+    grande: "EL CASO"
+    chico: "Venta online · 2.000 pedidos por mes · 1 de cada 100 sale mal · envío USD 6 (números de ejemplo)"
+    narracion: "Ahora, un ejemplo con números. Un depósito chico en Montevideo que prepara ventas online: dos mil pedidos por mes. Uno de cada cien sale mal, y cada envío cuesta seis dólares. Son números de ejemplo."
+    clip: https://videos.pexels.com/video-files/19896989/19896989-hd_1280_720_25fps.mp4
+  - grande: "20 × 2 × USD 6 = USD 240"
+    resaltar: "USD 240"
+    chico: "20 pedidos mal · 2 envíos de más cada uno (devolución y reenvío) · por mes"
+    narracion: "Uno por ciento de dos mil son veinte pedidos mal por mes. Cada uno suma dos envíos de más, la devolución y el reenvío. Veinte por dos por seis: doscientos cuarenta dólares por mes. Casi tres mil por año, sin contar el tiempo ni los clientes que no vuelven."
+    clip: https://videos.pexels.com/video-files/3365496/3365496-hd_1920_1080_30fps.mp4
+  - grande: "AL 0,3 %: USD 72"
+    resaltar: "USD 72"
+    chico: "6 pedidos mal por mes · 6 × 2 × USD 6 · ahorro: USD 168 por mes"
+    narracion: "Si con productos parecidos separados y dígito de control bajás al nivel de los mejores, tres de cada mil, son seis pedidos mal por mes: setenta y dos dólares. Ahorrás ciento sesenta y ocho dólares por mes, con etiquetas y orden, sin comprar nada caro."
+    clip: https://videos.pexels.com/video-files/4281404/4281404-hd_1920_1080_25fps.mp4
+    desde: 5
+  - grande: "MEDÍ ANTES DE ARREGLAR"
+    chico: "Anotá un mes: pedidos mal, faltantes al contar, productos vencidos, golpes en estanterías"
+    narracion: "La lección del ejemplo: medí antes de arreglar. Durante un mes, anotá cuatro números: pedidos que salieron mal, diferencias en los conteos, productos vencidos y golpes en las estanterías. Con eso sabés cuál de los diez problemas te cuesta más a vos."
+    clip: https://videos.pexels.com/video-files/6657743/6657743-hd_1366_720_25fps.mp4
+  # --- Prioridad
+  - capitulo: "Por dónde empezar"
+    grande: "1° LO QUE LASTIMA"
+    resaltar: "LASTIMA"
+    chico: "Estanterías en rojo, sobrecargadas y autoelevadores sin reglas: hoy"
+    narracion: "¿Por dónde empezar? Primero, lo que puede lastimar a alguien: estanterías en rojo, niveles sobrecargados y autoelevadores sin reglas. Eso se resuelve hoy, no el mes que viene."
+    clip: https://videos.pexels.com/video-files/13422070/13422070-hd_1920_1080_30fps.mp4
+    desde: 4
+  - grande: "2° LO DE TODOS LOS DÍAS"
+    chico: "Recepción contra la orden de compra · ubicaciones · conteo cíclico · pedidos"
+    narracion: "Segundo, lo que te hace perder plata todos los días: recibir contra la orden de compra, ubicaciones con dirección, conteo cíclico y control de pedidos. Son hábitos, no inversiones."
+    clip: https://videos.pexels.com/video-files/14910119/14910119-hd_1280_720_24fps.mp4
+  - grande: "3° EL REACOMODO"
+    chico: "Mover los productos que más salen cerca del despacho, de a una zona"
+    narracion: "Y tercero, el reacomodo: mover lo que más sale cerca del despacho. Hacelo de a una zona por vez, sin parar la operación."
+    clip: https://videos.pexels.com/video-files/5738746/5738746-hd_1280_720_30fps.mp4
+  # --- Errores
+  - capitulo: "Los 4 errores al arreglarlo"
+    grande: "ERRORES AL ARREGLARLO"
+    chico: "Ajustar sin buscar la causa · sistema antes que orden · todo de una vez · ámbar olvidado"
+    narracion: "Y cuatro errores típicos al arreglarlo. Uno: ajustar el stock en el sistema sin buscar la causa; el error vuelve el mes que viene. Dos: comprar un sistema antes de tener ubicaciones y etiquetas. Tres: reacomodar todo el depósito un fin de semana; se pierde más de lo que se gana. Y cuatro: anotar un daño ámbar y olvidarlo; a las cuatro semanas es rojo."
+    clip: https://videos.pexels.com/video-files/8426060/8426060-hd_1280_720_25fps.mp4
+  # --- Cierre
+  - capitulo: "Resumen"
+    grande: "RESUMEN"
+    chico: "Recibir contando · dirección para cada hueco · carga por nivel · semáforo · pallet parejo · conteo cíclico · FEFO · lo que más sale, cerca · separar parecidos · pasillos marcados"
+    narracion: "En resumen: recibí contando, dale una dirección a cada hueco, colgá la carga por nivel, revisá los golpes con el semáforo, armá pallets parejos, contá un poco cada día, despachá por vencimiento, acercá lo que más sale, separá lo parecido y marcá los pasillos."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+    desde: 9
+  - grande: "LOGÍSTICA EN 1 MINUTO"
+    chico: "Guía + planilla para armar tu primer depósito: link en la descripción"
+    narracion: "Si estás armando u ordenando tu depósito, en la descripción tenés una guía con una planilla para planificarlo. Y suscribite, que el próximo video también te ahorra plata."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+    desde: 15
+descripcion: |
+  📗 Guía + planilla para armar tu primer depósito: https://go.hotmart.com/U108348887Q?dp=1
+
+  El sistema dice 40 cajas y en la estantería hay 31. En este video recorremos un depósito en el orden en que se mueve la mercadería (recibir, guardar, contar, preparar y despachar) con los 10 problemas que más plata hacen perder, qué cuesta cada uno y cómo se resuelve. Además: un ejemplo con números en un depósito de Montevideo, por dónde empezar y los 4 errores más comunes al arreglarlo.
+
+  Los 10 problemas:
+  1. Firmar el remito sin contar → contar contra tu orden de compra y anotar en el remito.
+  2. Guardar donde hay lugar → dirección para cada hueco (pasillo, módulo, nivel, posición).
+  3. Estanterías sin cartel de carga → capacidad por nivel a la vista; lo pesado abajo.
+  4. El golpe que nadie vio → semáforo de daños (verde, ámbar, rojo) e inspecciones.
+  5. Pallet mal armado → nada fuera del borde, carga pareja, film que abrace la madera.
+  6. Stock que no coincide → conteo cíclico A, B, C, a ciegas, buscando la causa.
+  7. Mercadería vencida → FEFO: sale primero lo que vence primero.
+  8. Lo que más sale, lejos → ordenar por salidas, cerca del despacho y a la altura de la mano.
+  9. Pedido equivocado → separar productos parecidos y dígito de control.
+  10. Autoelevador sin reglas → pasillos marcados, operadores capacitados, respetar la placa.
+
+  Datos clave:
+  · Inventario: en casi 370.000 registros de 37 tiendas de un minorista, el 65 % no coincidía con lo que había (DeHoratius y Raman, Management Science, 2008).
+  · Recepción: en el convenio CMR (transporte internacional por carretera), el daño no visible se avisa por escrito dentro de 7 días, sin contar domingos ni feriados (art. 30). Revisá el plazo de tu contrato.
+  · Estanterías: semáforo de daños de SEMA. Verde: se usa y se vigila. Ámbar: reparar, sin descarga inmediata; si no se repara en 4 semanas pasa a rojo. Rojo: descargar y sacar de uso de inmediato. Además, inspección técnica de un experto y carteles con la carga máxima.
+  · Pallet europeo EPAL: 1.200 × 800 × 144 mm, unos 25 kg; 1.500 kg con carga pareja, 1.000 kg si no lo es.
+  · Preparación de pedidos: se estima en hasta el 55 % del costo operativo de un depósito, y el recorrido suele ser la parte más grande del tiempo (de Koster, Le-Duc y Roodbergen, 2007).
+  · Pedidos bien preparados: el 20 % de mejor desempeño arranca en 99,68 % (WERC, DC Measures 2025).
+  · Autoelevadores en Estados Unidos, 2017: 74 muertes en el trabajo y 9.050 lesiones con días de baja (BLS).
+  Ojo: el ejemplo de Montevideo usa números supuestos (2.000 pedidos por mes, 1 % de error, USD 6 por envío). Hacé la cuenta con los tuyos.
+
+  Imágenes de stock (Pexels), con los autores de los clips enlazados en github.com/samanjmq-max/logistica-en-1-minuto.
+
+  Música original generada para el canal.
+
+  #Deposito #Almacen #Inventario #Logistica
+fuentes:
+  - https://ideas.repec.org/a/inm/ormnsc/v54y2008i4p627-641.html
+  - https://www.dashdoc.com/es/blog/todo-sobre-el-cmr-transporte-
+  - https://www.ipesearch.co.uk/SEMA-maintenance-for-your-racking
+  - https://www.fastlineservices.co.uk/resources/sema-racking-inspection-guidance
+  - https://www.dexion.co.uk/services/rack-inspection/
+  - https://en.wikipedia.org/wiki/EUR-pallet
+  - https://www.mecalux.com/warehouse-manual/pallet/euro-pallet
+  - https://www.mecalux.com/blog/fefo
+  - https://pure.eur.nl/ws/portalfiles/portal/46713708/DesignandControl_2007.pdf
+  - https://www.yale.com/globalassets/coms/yale/north-america/documents/white-papers/snack-drawer/YALE-1520_WERC-DC-Metrics-infographic.pdf
+  - https://www.bls.gov/iif/factsheets/fatal-occupational-injuries-forklifts-2017.htm
+  - https://www.supplychainbrain.com/technology/robotics/blog/15876699/how-to-reduce-warehouse-picking-errors
+creditos:
+  - https://www.pexels.com/video/men-getting-items-from-the-shelves-in-the-warehouse-4281404/
+  - https://www.pexels.com/video/deposito-19896989/
+  - https://www.pexels.com/video/forklift-in-a-warehouse-6194507/
+  - https://www.pexels.com/video/a-man-loading-cement-on-a-delivery-truck-3365496/
+  - https://www.pexels.com/video/a-man-signing-a-document-7841671/
+  - https://www.pexels.com/video/person-holding-documents-8731324/
+  - https://www.pexels.com/video/man-working-on-a-warehouse-14910119/
+  - https://www.pexels.com/video/machine-picking-products-from-shelf-5738746/
+  - https://www.pexels.com/video/man-driving-forklift-in-warehouse-13422070/
+  - https://www.pexels.com/video/a-person-using-magnifying-glass-on-documents-6657743/
+  - https://www.pexels.com/video/a-man-dragging-a-pallet-cart-4292301/
+  - https://www.pexels.com/video/a-forklift-truck-transferring-a-cargo-container-6618335/
+  - https://www.pexels.com/video/men-closing-a-business-deal-8426060/
