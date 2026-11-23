@@ -27,7 +27,7 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 
 ## Reglas de calidad (crítica interna antes de producir)
 
-1. **Gancho en la primera frase:** una pregunta o un dato que sorprenda. Nada de introducciones. **El gancho dice qué pierde o qué paga el espectador** (plata, carga, tiempo): "¿quién pierde?", "te cobran", "pagás el doble". Nada de ganchos de lista o descriptivos ("6 X que tenés que conocer", "¿carga el doble?"). *(Revisión 2026-11-09, datos de Instagram: el 004 "Si el barco se hunde, ¿quién pierde?" fue el mejor: 141 vistas y 52,6 % pasó los 3 s. Los descriptivos rindieron peor: 007 "¿carga el doble?" 18,3 % pasó los 3 s; 006 "6 contenedores" 3,8 s de promedio; 002 "el viaje" 3,6 s. Revisión 2026-11-16: el 010 "AVERÍA GRUESA: tu carga llegó sana y pagás igual" tuvo el mejor paso de los 3 s hasta ahora (81,8 %) y 12,2 s de promedio (33 % del video), con solo 15 vistas. Se mantiene la regla.)*
+1. **Gancho en la primera frase:** una pregunta o un dato que sorprenda. Nada de introducciones. **El gancho dice qué pierde o qué paga el espectador** (plata, carga, tiempo): "¿quién pierde?", "te cobran", "pagás el doble". Nada de ganchos de lista o descriptivos ("6 X que tenés que conocer", "¿carga el doble?"). **El texto grande del primer cuadro nombra el tema** (la cosa: contenedor, autoelevador, seguro, flete) además de la consecuencia; nada de preguntas sueltas que no dicen de qué se habla ("¿QUIÉN TE LA PAGA?"), ni de "el dato que…" sin el dato. *(Revisión 2026-11-09, datos de Instagram: el 004 "Si el barco se hunde, ¿quién pierde?" fue el mejor: 141 vistas y 52,6 % pasó los 3 s. Los descriptivos rindieron peor: 007 "¿carga el doble?" 18,3 % pasó los 3 s; 006 "6 contenedores" 3,8 s de promedio; 002 "el viaje" 3,6 s. Revisión 2026-11-16: el 010 "AVERÍA GRUESA: tu carga llegó sana y pagás igual" tuvo el mejor paso de los 3 s hasta ahora (81,8 %) y 12,2 s de promedio (33 % del video), con solo 15 vistas. Revisión 2026-11-23, Instagram del 16 al 22/11: los dos reels que Instagram repartió abrían nombrando el objeto: 014 "SIN VGM, NO EMBARCA" (91 vistas, 66,2 % deslizó, 7,9 s de promedio) y 055 "¿AUTOELEVADOR O TRANSPALETA?" (114 vistas, 77,7 % deslizó). Los que abrían con algo vago casi no se mostraron: 011 "¿QUIÉN TE LA PAGA?" 7 vistas y 85,7 % deslizó; 052 "LA FACTURA VINO MÁS CARA" 2 vistas y 100 %. Son muestras chicas: es una tendencia, no una prueba.)*
 2. **Un concepto por video.** Si hacen falta dos, son dos videos.
 3. **Un dato concreto y con fuente** en cada video: un número, una norma, un caso real.
 4. **Visual que explica:** códigos resaltados, cifras grandes, comparaciones. El texto en pantalla aporta, no repite la voz.
@@ -37,8 +37,8 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 8. **Música de fondo original** (generada por pipeline/musica.py, sin derechos de terceros), baja debajo de la voz. Se desactiva con musica: false en el guion.
 9. **Título:** las dos primeras palabras son las que se ven al deslizar: van en MAYÚSCULAS y son la palabra clave fuerte del tema (ej.: "INCOTERM PELIGROSO: DDP te puede fundir 💸"). Corto, un emoji, y deja curiosidad: no explica todo.
 10. **Hashtags: 4 como máximo**, #Shorts primero y 3 del tema exacto. Nada de hashtags genéricos ni de relleno (#viral, #fyp): YouTube los toma como spam.
-11. **Horario:** 19:00 por defecto. Cuando haya 3 semanas de datos, el resumen semanal prueba otro horario y decide con números (no con consejos de terceros).
-12. **Primeros 3 segundos:** imagen que se mueve + la frase gancho en pantalla desde el primer cuadro. Nada de logo, saludo ni pausa al inicio. Es lo que decide si deslizan.
+11. **Horario:** 19:00 por defecto. Cuando haya 3 semanas de datos, el resumen semanal prueba otro horario y decide con números (no con consejos de terceros). *(2026-11-23: todavía no se prueba. De las 3 semanas, una (9–15/11) casi no tuvo publicaciones por el límite de Metricool, y sin datos por video de YouTube no se puede comparar un horario contra otro. Se revisa cuando haya 2 semanas seguidas publicando todos los días y vidIQ con créditos.)*
+12. **Primeros 3 segundos:** imagen que se mueve + la frase gancho en pantalla desde el primer cuadro. Nada de logo, saludo ni pausa al inicio. Es lo que decide si deslizan. **El clip de la primera escena es nuevo en cada video y muestra el objeto del tema** (el contenedor, el autoelevador, la caja, el camión): nunca el mismo clip de apertura que ya usó otro video publicado, y nunca un clip genérico (billetes, firma de papeles, calculadora) como apertura. Los clips reutilizados pueden ir en las escenas del medio. Antes de programar se compara el `clip` de la primera escena con los guiones de `contenido/`. *(Revisión 2026-11-23: en la semana del 16 al 22/11 el clip de billetes 6700011 apareció en 4 videos y el del barco 11336230 abrió dos (011 y 013). El 055, el único con apertura propia (transpaleta, 7019231), fue el reel más visto de la semana: 114 vistas. El 052 abrió con billetes: 2 vistas.)*
 13. **Llamado a seguir atado al contenido:** además del cierre, cuando el video tiene una lista o un remate, pedir que sigan ANTES del remate y conectado al tema ("Seguí la cuenta: el tercer error es el que más plata cuesta"). Nunca al principio.
 14. **Primero el empaque:** título y gancho se escriben ANTES que el guion. Si el título no entusiasma, se cambia la idea, no se fuerza el guion.
 15. **Nunca borrar un video con advertencia o strike:** se apela desde YouTube Studio. Borrarlo elimina la posibilidad de apelar.
@@ -61,6 +61,20 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 
 ## Temas (en orden de producción)
 
+### Orden para la semana del 30/11 al 6/12 (resumen semanal 2026-11-23)
+
+Datos de la semana 16–22/11: los reels que Instagram repartió fueron los de un objeto que se ve (014 VGM, contenedor y balanza: 91 vistas; 055 autoelevador o transpaleta: 114). Los de papeles y cargos (052 flete, 036 documentos, 013 demurrage, 011 seguro) tuvieron entre 2 y 7 vistas. Esta semana se prueba si se repite: se intercalan temas con un objeto físico en el primer cuadro (serie 3 y serie 1) con la serie 2, siempre con gancho de plata (regla 1) y clip de apertura nuevo (regla 12).
+
+1. 30/11: 028 PICKING EQUIVOCADO (serie 2) **[ya en producción]**.
+2. 1/12: 051 PALLET (serie 3): el pallet mal armado que se cae en el camión; medidas, cómo apilar y el error a evitar. Apertura: un pallet o un camión cargándose.
+3. 2/12: 029 MERCADERÍA VENCIDA (serie 2): FEFO, con un número de plata perdida. Apertura: estantería con producto, no billetes.
+4. 3/12: 017 REEFER (serie 1, cadena de frío): qué pasa si se corta el frío y quién paga. Apertura: contenedor refrigerado.
+5. 4/12: 050 ALMACENAR EN ALTURA (serie 3): lo pesado abajo y la capacidad de la estantería por nivel. Apertura: estanterías.
+6. 5/12: 033 CARGA MAL ARMADA (serie 2): llegó roto por cómo se cargó el camión. Sin repetir el 015 (aquel era el contenedor y el seguro; este es el camión y el reparto).
+7. 6/12: libre para una noticia del nicho (regla 22) o 045 ENVIAR AL EXTERIOR (serie 3).
+
+**Clips:** vidIQ vuelve a tener 150 créditos el 30/11 a la noche (hora de Uruguay). Usarlos primero en clips de apertura nuevos (regla 12), no en investigación. El resumen del 30/11 corre antes de que se renueven: tampoco va a tener datos por video de YouTube.
+
 ### Orden para la semana del 17 al 23/11 (resumen semanal 2026-11-16; actualizado 2026-11-18)
 
 **Del 10/11 a la noche al 16/11 no se publicó nada** porque Metricool rechazó todo con "You have reached your Metricool account limit". **Resuelto el 16–17/11:** se publica por vidIQ (regla 21) y Metricool queda solo para el pin de Pinterest.
@@ -68,7 +82,7 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 1. **[Resuelto 2026-11-17]** Se vuelve a publicar por vidIQ; se producen Shorts y largos nuevos con normalidad.
 2. **[Hecho 2026-11-17]** Atraso programado por vidIQ, uno por día a las 19:00: 014 (17/11), 052 (18/11), 013 (19/11), 036 (20/11), 055 (21/11), 011 (22/11) y 031 (23/11); largos L03 (17/11) y L02b (20/11) a las 20:30.
 3. **[Hecho]** Los cupones LANZAMIENTO y DEPOSITO7 vencieron el 18/11 y ya no van en ninguna descripción.
-4. **Prioridad de noticias (2026-11-17, regla 22):** Short 046 IMPUESTO TEMU **[hecho, programado 24/11]**; Short 057 RECARGO ORMUZ (recargo de guerra vs. recargo de emergencia por combustible) **[hecho, programado 25/11]**. Largo L03c **[hecho, programado 21/11 20:30]**.
+4. **Prioridad de noticias (2026-11-17, regla 22):** Short 046 IMPUESTO TEMU **[hecho, programado 24/11]**; Short 057 RECARGO ORMUZ (recargo de guerra vs. recargo de emergencia por combustible) **[hecho, programado 25/11]**. Largo L03c **[hecho, publicado 21/11 20:30]**.
 5. **Próximos Shorts**, rotando series y con gancho de plata: 037 (demurrage por tramos, serie 2) **[hecho, programado 26/11]** → 053 (conteo cíclico, serie 3) **[hecho, programado 27/11]** → 016 (mercancías peligrosas, serie 1) **[hecho, programado 28/11]** → 015 (trincaje, serie 1; segundo día seguido de la serie, dentro de la regla 18) **[hecho, programado 29/11]**. El próximo día libre después es el 30/11: 028 (errores de picking, serie 2; el 027 se saltea esta semana para no repetir tema con el 053) **[hecho]**.
 
 El 037 queda después del 013 para no repetir tema la misma semana.
@@ -84,13 +98,13 @@ El 037 queda después del 013 para no repetir tema la misma semana.
 | 008 | El Bill of Lading | El papel que vale lo mismo que la mercadería | Publicado (2026-11-08 19:00) |
 | 009 | Certificado de origen (se enfocó en uno: factura comercial y packing list quedan para el 036) | Sin el certificado, pagás arancel completo | Publicado (2026-11-09 19:00) |
 | 010 | Avería gruesa | Tu carga llegó perfecta y igual te cobran | Publicado (2026-11-10 19:00) |
-| 011 | Seguro de carga: cláusulas A, B y C | ¿Qué pasa si se pierde mi mercadería? | Programado 2026-11-22 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
+| 011 | Seguro de carga: cláusulas A, B y C | ¿Qué pasa si se pierde mi mercadería? | Publicado (2026-11-22 19:00 por vidIQ en YouTube, Instagram y TikTok) |
 | 012 | Contenedores que caen al mar | Cuántos se pierden por año | Pendiente (se pasó el 2026-11-16: solo como cifra es una curiosidad sin acción y útil < 4; retomarlo solo con un enfoque útil, por ejemplo qué hacer si tu contenedor es uno de ellos, sin repetir 010 y 011) |
-| 013 | Demurrage y detention | La multa que te cobra la naviera por día | Programado 2026-11-19 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
-| 014 | VGM (SOLAS): pesar el contenedor | Sin este número, tu contenedor no sube | Programado 2026-11-17 19:00 por vidIQ en YouTube, Instagram y TikTok (pin pendiente) |
+| 013 | Demurrage y detention | La multa que te cobra la naviera por día | Publicado (2026-11-19 19:00 por vidIQ en YouTube, Instagram y TikTok) |
+| 014 | VGM (SOLAS): pesar el contenedor | Sin este número, tu contenedor no sube | Publicado (2026-11-17 19:00 por vidIQ en YouTube, Instagram y TikTok) |
 | 015 | Trincaje de contenedores (enfoque: si cargás vos, el seguro no cubre la mala estiba; cuentas del CTU Code) | TRINCAJE CASERO: llegó roto y el seguro no paga | Programado 2026-11-29 19:00 por vidIQ en YouTube, Instagram y TikTok (32 s; pin de Pinterest 19:05 en Metricool) |
 | 016 | Mercancías peligrosas: clases IMO (enfoque: carga mal declarada y la sección 14 de la SDS) | CARGA PELIGROSA: era perfume y pagás 5.000 | Programado 2026-11-28 19:00 por vidIQ en YouTube, Instagram y TikTok (35 s; pin de Pinterest 19:05 en Metricool) |
-| 017 | Cadena de frío | Por qué el reefer nunca se apaga | Pendiente |
+| 017 | Cadena de frío | Por qué el reefer nunca se apaga | Pendiente (orden 30/11–6/12: 3/12) |
 | 018 | Despachante de aduana y forwarder | Quién hace qué en una importación | Pendiente |
 | 019 | Zona franca (caso Uruguay) | Comprar, guardar y no pagar impuestos todavía | Pendiente |
 | 020 | Canal de Panamá y la sequía | Cuando falta agua, el comercio frena | Pendiente |
@@ -111,14 +125,14 @@ Formato: **problema → causa → solución**. Un problema típico de un área l
 | --- | --- | --- | --- | --- |
 | 027 | Depósito | Diferencias de inventario | El sistema dice 100 y en la estantería hay 87 | Pendiente |
 | 028 | Depósito | Errores de picking (enfoque: separar los parecidos y dígito de control en la ubicación, que hay que cambiar) | PICKING EQUIVOCADO: pagás 3 envíos por un pedido | Renderizando (2026-11-23), para el 30/11 19:00 |
-| 029 | Depósito | Mercadería vencida (sin FEFO) | Tiraste mercadería que estaba en el depósito | Pendiente |
+| 029 | Depósito | Mercadería vencida (sin FEFO) | Tiraste mercadería que estaba en el depósito | Pendiente (orden 30/11–6/12: 2/12) |
 | 030 | Recepción | Camiones esperando en la puerta | Tres horas para descargar un camión | Pendiente |
 | 031 | Recepción | Recibir sin controlar contra la orden de compra | Pagaste mercadería que nunca entró | Programado 2026-11-23 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
 | 032 | Despacho | Pedidos que salen tarde | El camión se fue y el pedido quedó | Pendiente |
-| 033 | Despacho | Carga mal armada en el camión | Llegó roto por cómo se cargó | Pendiente |
+| 033 | Despacho | Carga mal armada en el camión | Llegó roto por cómo se cargó | Pendiente (orden 30/11–6/12: 5/12) |
 | 034 | Transporte | Rutas de reparto mal armadas | Tu camión recorre el doble de lo necesario | Pendiente |
 | 035 | Transporte | Entregas fallidas en última milla | Fue, no había nadie, y vuelve mañana | Pendiente |
-| 036 | Importación | Carga trabada en aduana por documentos | Un error en la factura y la carga no sale | Programado 2026-11-20 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
+| 036 | Importación | Carga trabada en aduana por documentos | Un error en la factura y la carga no sale | Publicado (2026-11-20 19:00 por vidIQ en YouTube, Instagram y TikTok) |
 | 037 | Importación | Demurrage por retirar tarde el contenedor (enfoque: la tarifa sube por tramos) | DEMURRAGE POR TRAMOS: calculaste 3.900 y pagás 4.700 | Programado 2026-11-26 19:00 por vidIQ en YouTube, Instagram y TikTok (36 s; pin de Pinterest 19:05 en Metricool) |
 | 038 | Inventario | Quiebres de stock | Tenés de todo, menos lo que se vende | Pendiente |
 | 039 | Inventario | Sobrestock | Plata parada en la estantería | Pendiente |
@@ -134,17 +148,17 @@ Formato: **la duda → los pasos → el error a evitar**. Para personas y peque�
 | --- | --- | --- | --- |
 | 043 | Cómo embalar un paquete para que llegue sano | El 80 % de lo que se rompe, se rompe por cómo se embaló | Pendiente (verificar cifra o sacar) |
 | 044 | Peso volumétrico: cómo se calcula | Te cobraron más de lo que pesa tu caja | Publicado (2026-11-07 19:00; se intercaló por la regla 18: 004 a 007 fueron 4 días seguidos de la serie 1) |
-| 045 | Cómo enviar un paquete al exterior desde Uruguay | Lo que nadie te dice antes de ir al correo | Pendiente |
+| 045 | Cómo enviar un paquete al exterior desde Uruguay | Lo que nadie te dice antes de ir al correo | Pendiente (orden 30/11–6/12: 6/12 si no hay noticia) |
 | 046 | Compras en el exterior y franquicia (Uruguay) | IMPUESTO TEMU: comprás 15 y pagás 20 | Programado 2026-11-24 19:00 por vidIQ en YouTube, Instagram y TikTok (39 s; pin de Pinterest 19:05 en Metricool) |
 | 047 | Cómo leer el rastreo de un envío | "En tránsito" hace una semana: qué significa | Pendiente |
 | 048 | Qué no se puede enviar (mercancías prohibidas y peligrosas) | Las baterías que te frenan el paquete | Pendiente |
 | 049 | Cómo ordenar un depósito chico | Encontrar cualquier cosa en 30 segundos | Pendiente |
-| 050 | Cómo almacenar en altura sin riesgo | Lo pesado abajo, siempre | Pendiente |
-| 051 | Pallet: medidas y cómo armarlo | El pallet mal armado que se cae en el camión | Pendiente |
-| 052 | Cómo cotizar un flete | Tres datos que te pide cualquier transportista | Programado 2026-11-18 19:00 por vidIQ en YouTube, Instagram y TikTok (falló el 16/11 en Metricool; pin pendiente) |
+| 050 | Cómo almacenar en altura sin riesgo | Lo pesado abajo, siempre | Pendiente (orden 30/11–6/12: 4/12) |
+| 051 | Pallet: medidas y cómo armarlo | El pallet mal armado que se cae en el camión | Pendiente (orden 30/11–6/12: 1/12) |
+| 052 | Cómo cotizar un flete | Tres datos que te pide cualquier transportista | Publicado (2026-11-18 19:00 por vidIQ en YouTube, Instagram y TikTok) |
 | 053 | Cómo hacer un inventario sin parar la operación | CONTEO CÍCLICO: cerrás un día y el stock igual falla | Programado 2026-11-27 19:00 por vidIQ en YouTube, Instagram y TikTok (33 s; pin de Pinterest 19:05 en Metricool) |
 | 054 | Cómo importar por primera vez | Los pasos, en orden | Pendiente |
-| 055 | ¿Autoelevador o transpaleta? La pregunta que decide | Comprar el equipo equivocado te come el capital | Programado 2026-11-21 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
+| 055 | ¿Autoelevador o transpaleta? La pregunta que decide | Comprar el equipo equivocado te come el capital | Publicado (2026-11-21 19:00 por vidIQ en YouTube, Instagram y TikTok) |
 | 056 | Cuánto espacio necesitás para arrancar un depósito | El error de alquilar de más (o de menos) | Pendiente |
 | 057 | Recargo de guerra vs. recargo de emergencia por combustible (prioridad 4 del 17/11) | RECARGO ORMUZ: tu barco no pasa y pagás igual | Programado 2026-11-25 19:00 por vidIQ en YouTube, Instagram y TikTok (35 s; pin de Pinterest 19:05 en Metricool) |
 
@@ -161,9 +175,9 @@ Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y ampl
 | --- | --- | --- |
 | L01 | Incoterms 2020: los 11 explicados y los 5 errores que te hacen perder plata | Publicado (2026-11-04 20:30, 8:04 min; falta la miniatura) |
 | L02 | Contenedores: tipos, medidas, TEU y cómo elegir 20 o 40 pies | Publicado (2026-11-06 20:30, 8:32 min) |
-| L03 | PRIMERA IMPORTACIÓN: los 7 pasos para importar a Uruguay sin pagar de más | Programado 2026-11-17 20:30 por vidIQ (post a3caace6; falló el 10/11 en Metricool por el límite; la copia de Metricool quedó como borrador). No se produjo L04 (regla 20) |
-| L02b | AUTOELEVADOR O TRANSPALETA: cómo elegir el equipo de tu depósito sin gastar de más | Programado 2026-11-20 20:30 por vidIQ en YouTube (falló el 13/11 en Metricool; sin cupón) |
-| L03c | IMPUESTO TEMU: ¿cuánto pagás hoy por comprar afuera desde Uruguay? (franquicias, IVA, 60 %, la cuenta y 6 errores) | Programado 2026-11-21 20:30 por vidIQ (8:46 min; https://www.youtube.com/watch?v=TKUV6IrfTv0, post 9cd99759; el viernes 20/11 20:30 ya lo ocupaba L02b, por eso va el sábado) |
+| L03 | PRIMERA IMPORTACIÓN: los 7 pasos para importar a Uruguay sin pagar de más | Publicado (2026-11-17 20:30 por vidIQ, post a3caace6; la copia de Metricool quedó como borrador). No se produjo L04 (regla 20) |
+| L02b | AUTOELEVADOR O TRANSPALETA: cómo elegir el equipo de tu depósito sin gastar de más | Publicado (2026-11-20 20:30 por vidIQ en YouTube) |
+| L03c | IMPUESTO TEMU: ¿cuánto pagás hoy por comprar afuera desde Uruguay? (franquicias, IVA, 60 %, la cuenta y 6 errores) | Publicado (2026-11-21 20:30 por vidIQ, 8:46 min; https://www.youtube.com/watch?v=TKUV6IrfTv0, post 9cd99759) |
 | L04 | Los 10 problemas más caros de un depósito y cómo resolverlos | Pendiente |
 | L05 | DEMURRAGE y detention: cómo no pagar días de contenedor y cómo negociar los días libres | Pendiente |
 | L06 | EXPORTAR DESDE Uruguay por primera vez: pasos, documentos y certificado de origen | Pendiente |
