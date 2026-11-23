@@ -256,7 +256,7 @@ descripcion: |
   5. Pallet mal armado → nada fuera del borde, carga pareja, film que abrace la madera.
   6. Stock que no coincide → conteo cíclico A, B, C, a ciegas, buscando la causa.
   7. Mercadería vencida → FEFO: sale primero lo que vence primero.
-  8. Lo que más sale, lejos → ordenar por salidas, cerca del despacho y a la altura de la mano.
+  8. Lo que más sale, lejos → ordenar por salidas, cerca del despacho y a una altura cómoda.
   9. Pedido equivocado → separar productos parecidos y dígito de control.
   10. Autoelevador sin reglas → pasillos marcados, operadores capacitados, respetar la placa.
 

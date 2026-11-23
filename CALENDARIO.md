@@ -178,7 +178,7 @@ Para sumar horas de reproducción y cobrar más por vista. Cada uno junta y ampl
 | L03 | PRIMERA IMPORTACIÓN: los 7 pasos para importar a Uruguay sin pagar de más | Publicado (2026-11-17 20:30 por vidIQ, post a3caace6; la copia de Metricool quedó como borrador). No se produjo L04 (regla 20) |
 | L02b | AUTOELEVADOR O TRANSPALETA: cómo elegir el equipo de tu depósito sin gastar de más | Publicado (2026-11-20 20:30 por vidIQ en YouTube) |
 | L03c | IMPUESTO TEMU: ¿cuánto pagás hoy por comprar afuera desde Uruguay? (franquicias, IVA, 60 %, la cuenta y 6 errores) | Publicado (2026-11-21 20:30 por vidIQ, 8:46 min; https://www.youtube.com/watch?v=TKUV6IrfTv0, post 9cd99759) |
-| L04 | DEPÓSITO CARO: los 10 problemas que te hacen perder plata y cómo resolver cada uno | Guion listo 2026-11-23, renderizando (para el 2026-11-24 20:30) |
+| L04 | DEPÓSITO CARO: los 10 problemas que te hacen perder plata y cómo resolver cada uno | Programado 2026-11-24 20:30 por vidIQ (8:49 min; https://www.youtube.com/watch?v=GMcGkiCtT5w, post 9d4a6ef0) |
 | L05 | DEMURRAGE y detention: cómo no pagar días de contenedor y cómo negociar los días libres | Pendiente |
 | L06 | EXPORTAR DESDE Uruguay por primera vez: pasos, documentos y certificado de origen | Pendiente |
 | L07 | INVENTARIO SIN errores: cómo hacer un conteo cíclico en tu depósito paso a paso | Pendiente |
