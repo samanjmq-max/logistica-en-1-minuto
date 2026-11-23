@@ -69,7 +69,7 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 2. **[Hecho 2026-11-17]** Atraso programado por vidIQ, uno por día a las 19:00: 014 (17/11), 052 (18/11), 013 (19/11), 036 (20/11), 055 (21/11), 011 (22/11) y 031 (23/11); largos L03 (17/11) y L02b (20/11) a las 20:30.
 3. **[Hecho]** Los cupones LANZAMIENTO y DEPOSITO7 vencieron el 18/11 y ya no van en ninguna descripción.
 4. **Prioridad de noticias (2026-11-17, regla 22):** Short 046 IMPUESTO TEMU **[hecho, programado 24/11]**; Short 057 RECARGO ORMUZ (recargo de guerra vs. recargo de emergencia por combustible) **[hecho, programado 25/11]**. Largo L03c **[hecho, programado 21/11 20:30]**.
-5. **Próximos Shorts**, rotando series y con gancho de plata: 037 (demurrage por tramos, serie 2) **[hecho, programado 26/11]** → 053 (conteo cíclico, serie 3) **[hecho, programado 27/11]** → 016 (mercancías peligrosas, serie 1) **[hecho, programado 28/11]** → 015 (trincaje, serie 1; segundo día seguido de la serie, dentro de la regla 18) **[hecho, programado 29/11]**. El próximo día libre después es el 30/11; conviene que sea de la serie 2 o 3.
+5. **Próximos Shorts**, rotando series y con gancho de plata: 037 (demurrage por tramos, serie 2) **[hecho, programado 26/11]** → 053 (conteo cíclico, serie 3) **[hecho, programado 27/11]** → 016 (mercancías peligrosas, serie 1) **[hecho, programado 28/11]** → 015 (trincaje, serie 1; segundo día seguido de la serie, dentro de la regla 18) **[hecho, programado 29/11]**. El próximo día libre después es el 30/11: 028 (errores de picking, serie 2; el 027 se saltea esta semana para no repetir tema con el 053) **[hecho]**.
 
 El 037 queda después del 013 para no repetir tema la misma semana.
 
@@ -110,7 +110,7 @@ Formato: **problema → causa → solución**. Un problema típico de un área l
 | # | Área | Problema | Gancho | Estado |
 | --- | --- | --- | --- | --- |
 | 027 | Depósito | Diferencias de inventario | El sistema dice 100 y en la estantería hay 87 | Pendiente |
-| 028 | Depósito | Errores de picking | Mandaste el producto equivocado al cliente | Pendiente |
+| 028 | Depósito | Errores de picking (enfoque: separar los parecidos y dígito de control en la ubicación, que hay que cambiar) | PICKING EQUIVOCADO: pagás 3 envíos por un pedido | Renderizando (2026-11-23), para el 30/11 19:00 |
 | 029 | Depósito | Mercadería vencida (sin FEFO) | Tiraste mercadería que estaba en el depósito | Pendiente |
 | 030 | Recepción | Camiones esperando en la puerta | Tres horas para descargar un camión | Pendiente |
 | 031 | Recepción | Recibir sin controlar contra la orden de compra | Pagaste mercadería que nunca entró | Programado 2026-11-23 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |

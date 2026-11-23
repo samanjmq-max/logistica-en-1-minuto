@@ -1,0 +1,69 @@
+titulo: "PICKING EQUIVOCADO: pagás 3 envíos por un pedido 📦"
+formato: short
+serie: "Problemas reales"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: aprobado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Bajar los errores de preparación de pedidos con dos cambios: separar los productos parecidos (talles, colores, versiones) en ubicaciones que no sean vecinas y confirmar cada ubicación con un dígito de control en la etiqueta, que hay que cambiar cada tanto porque el personal lo memoriza."
+  util: 4
+  llamativo: 4
+  gancho: "Mandaste el talle equivocado y pagás tres envíos por un solo pedido: el de ida, la devolución y el reenvío."
+  aprendi: "El dígito de control de la ubicación (el que el preparador dice o escanea para confirmar que está en el estante correcto) pierde efecto porque la gente lo memoriza enseguida y confirma sin mirar; por eso los sistemas de picking por voz los regeneran. Y ni los mejores se salvan: en el informe DC Measures 2025 de WERC, el 20 % de mejor desempeño arranca en 99,68 % de acierto, o sea, hasta unos 3 pedidos mal de cada 1.000."
+  referencia: "Mecanismos de la regla 22 (sin copiar texto): plata que perdés con contraste en los primeros 3 s (un error, tres envíos), costo oculto de un error (artículos de la semana sobre el verdadero costo de las selecciones erróneas, búsqueda web), desmentir lo que creés (el error no es solo de la persona: es de dónde está el producto) y número concreto (3 de cada 1.000). Estructura de la serie 2: problema → causa → solución. vidIQ sin créditos (se renuevan el 30/11): referencia por WebSearch, sin TubeAlfred."
+escenas:
+  - grande: "TALLE EQUIVOCADO"
+    resaltar: "EQUIVOCADO"
+    chico: "Envío de ida + devolución + reenvío: tres envíos por un pedido"
+    narracion: "Mandaste el talle equivocado y pagás tres envíos por un solo pedido: el de ida, la devolución y el reenvío."
+    clip: https://videos.pexels.com/video-files/6342204/6342204-hd_720_1280_24fps.mp4
+  - grande: "3 DE CADA 1.000"
+    resaltar: "3 DE CADA 1.000"
+    chico: "El 20 % mejor arranca en 99,68 % de pedidos bien preparados (WERC, 2025)"
+    narracion: "Y no es raro: hasta en el veinte por ciento de depósitos con mejor desempeño, pueden salir mal tres de cada mil pedidos."
+    clip: https://videos.pexels.com/video-files/4281404/4281404-hd_1920_1080_25fps.mp4
+  - grande: "SEPARÁ LOS PARECIDOS"
+    resaltar: "PARECIDOS"
+    chico: "Talles, colores y versiones del mismo producto: nunca en ubicaciones vecinas"
+    narracion: "Una causa típica: productos parecidos, uno al lado del otro. Separá talles, colores y versiones en ubicaciones que no sean vecinas."
+    clip: https://videos.pexels.com/video-files/16971219/16971219-hd_1080_1920_30fps.mp4
+  - grande: "DÍGITO DE CONTROL"
+    resaltar: "DÍGITO"
+    chico: "Un código corto en la etiqueta del estante: se dice o se escanea antes de sacar"
+    narracion: "Después, poné un dígito de control en la etiqueta de cada ubicación: el que prepara lo dice o lo escanea antes de sacar."
+    clip: https://videos.pexels.com/video-files/15170997/15170997-hd_1080_1920_30fps.mp4
+  - grande: "CAMBIALOS SEGUIDO"
+    resaltar: "CAMBIALOS"
+    chico: "El personal los memoriza rápido y confirma sin mirar · Seguí Logística en 1 Minuto"
+    narracion: "Pero ojo: la gente lo memoriza enseguida y confirma sin mirar. Cambialos cada tanto. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/6342195/6342195-hd_1080_1920_24fps.mp4
+descripcion: |
+  PICKING EQUIVOCADO: pagás 3 envíos por un pedido 📦
+
+  📗 Guía + planilla para armar tu primer depósito: https://go.hotmart.com/U108348887Q?dp=1
+
+  Problema: el pedido sale con el producto, el talle o el color equivocado. El error se paga con el envío de ida, la devolución y el reenvío.
+  · Dato: en el informe DC Measures 2025 de WERC (Warehousing Education and Research Council), el 20 % de depósitos con mejor desempeño arranca en 99,68 % de acierto en la preparación de pedidos: hasta unos 3 pedidos mal de cada 1.000.
+  · Causa típica: productos parecidos (talles, colores, versiones) guardados uno al lado del otro, con etiquetas que se confunden.
+  · Solución 1: separá los parecidos en ubicaciones que no sean vecinas y usá etiquetas bien distintas.
+  · Solución 2: poné un dígito de control (un código corto) en la etiqueta de cada ubicación. El que prepara lo dice (picking por voz) o lo escanea antes de sacar: así confirma que está en el lugar correcto.
+  · Error a evitar: dejar siempre los mismos dígitos. El personal los memoriza rápido y confirma sin mirar; cambialos cada tanto.
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  Imágenes de stock de Pexels: Liza Summer, Rolan Muradov y otros autores (enlaces en el guion del video en github.com/samanjmq-max/logistica-en-1-minuto).
+
+  #Shorts #Picking #Deposito #Almacen
+fuentes:
+  - https://www.yale.com/globalassets/coms/yale/north-america/documents/white-papers/snack-drawer/YALE-1520_WERC-DC-Metrics-infographic.pdf
+  - https://s3.amazonaws.com/scg-lm/pdfs/yale_wp_Top_12_distribution_center_metrics_021021.pdf
+  - https://www.mmh.com/article/voice_stands_tall_in_the_warehouse
+  - https://patents.google.com/patent/US8868519B2
+  - https://www.supplychainbrain.com/technology/robotics/blog/15876699/how-to-reduce-warehouse-picking-errors
+creditos:
+  - https://www.pexels.com/video/woman-putting-clothes-inside-the-box-6342204/
+  - https://www.pexels.com/video/men-getting-items-from-the-shelves-in-the-warehouse-4281404/
+  - https://www.pexels.com/video/racks-16971219/
+  - https://www.pexels.com/video/workers-at-a-warehouse-15170997/
+  - https://www.pexels.com/video/close-up-video-of-parcels-6342195/
