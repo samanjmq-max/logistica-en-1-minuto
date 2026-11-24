@@ -1,0 +1,68 @@
+titulo: "PALLET TRABADO: más firme y se aplasta 📦"
+formato: short
+serie: "Cómo hacerlo"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: aprobado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Armar un pallet de cajas que no se aplaste: si el contenido no aguanta peso, apilar en columna (cada caja justo encima de la otra y alineada), sin cajas que sobresalgan del borde, y dar la firmeza con film o flejes en vez de cruzar las cajas."
+  util: 5
+  llamativo: 4
+  gancho: "Cruzaste las cajas del pallet para que quede más firme, y las de abajo llegaron aplastadas."
+  aprendi: "Lo que muchos enseñan como la forma correcta (trabar o cruzar las capas) le quita a las cajas entre 49 y 54 % de su resistencia a la compresión, contra 12 a 20 % en columna (RIT para la Fibre Box Association, 2021). Y una columna corrida apenas 1,9 cm ya pierde 44 a 45 %, casi lo mismo que cruzar. Además, 2,5 cm de caja afuera del pallet le sacan a una capa entre 14 y 28 % (Virginia Tech)."
+  referencia: "Mecanismos de la regla 22 (sin copiar texto): desmentir lo que te enseñaron (trabar = más firme), plata que perdés con contraste en los primeros 3 s (más firme, pero se aplasta), número concreto en pantalla (la mitad de la resistencia) y objeto visible en el primer cuadro (pallet), que es lo que repartió Instagram la semana del 16 al 22/11. Estructura de la serie 3: la duda → los pasos → el error a evitar. vidIQ sin créditos (se renuevan el 30/11): referencia por WebSearch, sin TubeAlfred."
+escenas:
+  - grande: "PALLET TRABADO"
+    resaltar: "TRABADO"
+    chico: "Cajas cruzadas para que quede firme… y las de abajo llegan aplastadas"
+    narracion: "Cruzaste las cajas del pallet para que quede más firme, y las de abajo llegaron aplastadas. Y eso lo pagás vos."
+    clip: https://videos.pexels.com/video-files/4292301/4292301-hd_1280_720_50fps.mp4
+  - grande: "CRUZADO: -50 %"
+    resaltar: "-50 %"
+    chico: "Cajas cruzadas: 49 a 54 % menos resistencia · en columna: 12 a 20 % (RIT, 2021)"
+    narracion: "Un estudio para la Fibre Box Association midió que apilar cruzado le quita a las cajas la mitad de su resistencia. En columna, entre doce y veinte por ciento."
+    clip: https://videos.pexels.com/video-files/6342195/6342195-hd_1080_1920_24fps.mp4
+  - grande: "EN COLUMNA"
+    resaltar: "COLUMNA"
+    chico: "Cada caja justo encima de la otra · corrida 2 cm pierde 44 %"
+    narracion: "Si lo de adentro no aguanta peso, apilá en columna: cada caja justo encima de la otra. Y alineadas: corridas dos centímetros, pierden casi lo mismo."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+  - grande: "NADA AFUERA DEL BORDE"
+    resaltar: "AFUERA"
+    chico: "2,5 cm de caja afuera: una capa pierde hasta 28 % (Virginia Tech)"
+    narracion: "Segundo: ninguna caja afuera del pallet. Dos centímetros y medio de más, y una capa pierde hasta veintiocho por ciento."
+    clip: https://videos.pexels.com/video-files/3365496/3365496-hd_1920_1080_30fps.mp4
+  - grande: "FIRMEZA: FILM O FLEJE"
+    resaltar: "FILM"
+    chico: "La estabilidad la dan el film o los flejes, no cruzar cajas · Seguí Logística en 1 Minuto"
+    narracion: "La firmeza dásela con film o flejes, no cruzando cajas. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/7464002/7464002-hd_1080_1920_30fps.mp4
+descripcion: |
+  PALLET TRABADO: más firme y se aplasta 📦
+
+  📗 Guía + planilla para armar tu primer depósito: https://go.hotmart.com/U108348887Q?dp=1
+
+  Duda: cómo armar un pallet de cajas para que no llegue aplastado.
+  · Dato: en un estudio del Rochester Institute of Technology para la Fibre Box Association (2021), las cajas apiladas cruzadas (trabadas) perdieron entre 49 y 54 % de su resistencia a la compresión; en columna alineada, entre 12 y 20 %. Una columna corrida 1,9 cm perdió 44 a 45 %.
+  · Paso 1: si el contenido no aguanta peso, apilá en columna: cada caja justo encima de la otra, con las esquinas alineadas. Con contenido rígido, el cruzado puede dar más estabilidad (DHL).
+  · Paso 2: nada afuera del borde. En Virginia Tech, 2,5 cm de caja afuera del pallet le sacaron a una capa entre 14 y 28 % de resistencia.
+  · Paso 3: la estabilidad, con film o flejes.
+  · Error a evitar: cruzar las capas "para que quede firme" con cajas que llevan el peso.
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  Imágenes de stock de Pexels (autores y enlaces en el guion del video en github.com/samanjmq-max/logistica-en-1-minuto).
+
+  #Shorts #Pallet #Paletizado #Embalaje
+fuentes:
+  - https://www.fibrebox.org/assets/2025/07/Pallet_Patterns.pdf
+  - https://www.fibrebox.org/assets/2025/07/Pallet_Overhang_Phase_1.pdf
+  - https://vtechworks.lib.vt.edu/handle/10919/114345
+  - https://www.dhl.com/ve-es/home/global-forwarding/centro-educativo-para-el-transporte-de-carga/buen-embalaje-para-la-carga.html
+creditos:
+  - https://www.pexels.com/video/a-man-dragging-a-pallet-cart-4292301/
+  - https://www.pexels.com/video/close-up-video-of-parcels-6342195/
+  - https://www.pexels.com/video/forklift-in-a-warehouse-6194507/
+  - https://www.pexels.com/video/a-man-loading-cement-on-a-delivery-truck-3365496/
+  - https://www.pexels.com/video/woman-taping-cardboard-box-7464002/
