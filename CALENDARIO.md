@@ -66,7 +66,7 @@ Autocrítica de los primeros videos (2026-11-03), con esta regla: 003 (dígito d
 Datos de la semana 16–22/11: los reels que Instagram repartió fueron los de un objeto que se ve (014 VGM, contenedor y balanza: 91 vistas; 055 autoelevador o transpaleta: 114). Los de papeles y cargos (052 flete, 036 documentos, 013 demurrage, 011 seguro) tuvieron entre 2 y 7 vistas. Esta semana se prueba si se repite: se intercalan temas con un objeto físico en el primer cuadro (serie 3 y serie 1) con la serie 2, siempre con gancho de plata (regla 1) y clip de apertura nuevo (regla 12).
 
 1. 30/11: 028 PICKING EQUIVOCADO (serie 2) **[programado]**.
-2. 1/12: 051 PALLET (serie 3): el pallet mal armado que se cae en el camión; medidas, cómo apilar y el error a evitar. Apertura: un pallet o un camión cargándose. **[hecho: PALLET TRABADO, apertura 4292301]**
+2. 1/12: 051 PALLET (serie 3): el pallet mal armado que se cae en el camión; medidas, cómo apilar y el error a evitar. Apertura: un pallet o un camión cargándose. **[programado: PALLET TRABADO, apertura 4292301]**
 3. 2/12: 029 MERCADERÍA VENCIDA (serie 2): FEFO, con un número de plata perdida. Apertura: estantería con producto, no billetes.
 4. 3/12: 017 REEFER (serie 1, cadena de frío): qué pasa si se corta el frío y quién paga. Apertura: contenedor refrigerado.
 5. 4/12: 050 ALMACENAR EN ALTURA (serie 3): lo pesado abajo y la capacidad de la estantería por nivel. Apertura: estanterías.
@@ -154,7 +154,7 @@ Formato: **la duda → los pasos → el error a evitar**. Para personas y peque�
 | 048 | Qué no se puede enviar (mercancías prohibidas y peligrosas) | Las baterías que te frenan el paquete | Pendiente |
 | 049 | Cómo ordenar un depósito chico | Encontrar cualquier cosa en 30 segundos | Pendiente |
 | 050 | Cómo almacenar en altura sin riesgo | Lo pesado abajo, siempre | Pendiente (orden 30/11–6/12: 4/12) |
-| 051 | Pallet: cómo armarlo (enfoque: apilado en columna vs. cruzado y cajas que sobresalen) | PALLET TRABADO: más firme y se aplasta | Renderizando (para el 2026-12-01 19:00) |
+| 051 | Pallet: cómo armarlo (enfoque: apilado en columna vs. cruzado y cajas que sobresalen) | PALLET TRABADO: más firme y se aplasta | Programado 2026-12-01 19:00 por vidIQ en YouTube, Instagram y TikTok (36 s; pin de Pinterest 19:05 en Metricool) |
 | 052 | Cómo cotizar un flete | Tres datos que te pide cualquier transportista | Publicado (2026-11-18 19:00 por vidIQ en YouTube, Instagram y TikTok) |
 | 053 | Cómo hacer un inventario sin parar la operación | CONTEO CÍCLICO: cerrás un día y el stock igual falla | Programado 2026-11-27 19:00 por vidIQ en YouTube, Instagram y TikTok (33 s; pin de Pinterest 19:05 en Metricool) |
 | 054 | Cómo importar por primera vez | Los pasos, en orden | Pendiente |
