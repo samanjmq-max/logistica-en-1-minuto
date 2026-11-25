@@ -51,7 +51,7 @@ descripcion: |
   Problema: despachás primero lo que entró primero (FIFO) y aun así tirás mercadería vencida.
   · Causa: un lote que entra hoy puede vencer antes que uno que ya estaba guardado. Ordenar por fecha de entrada no alcanza.
   · Solución: FEFO (First Expired, First Out), sale primero lo que vence primero. La OMS lo pide en sus buenas prácticas de almacenamiento y distribución de productos médicos (TRS 1025, anexo 7, punto 12.30) y pide revisar el stock cada tanto para detectar lo que está cerca de vencer.
-  · Ojo: el cliente puede rechazar la mercadería mucho antes del vencimiento. En Japón, la "regla del tercio" obliga a entregar dentro del primer tercio de la vida útil (en un producto de 6 meses, dentro de 2); el Ministerio de Agricultura la señala como una de las causas de pérdida de alimentos y promueve flexibilizarla a la mitad.
+  · Ojo: el cliente puede rechazar la mercadería mucho antes del vencimiento. En Japón, la "regla del tercio" (una costumbre comercial, no una ley) exige entregar dentro del primer tercio de la vida útil (en un producto de 6 meses, dentro de 2); el Ministerio de Agricultura la señala como una de las causas de pérdida de alimentos y promueve flexibilizarla a la mitad.
   · Hoy mismo: al recibir, anotá lote y vencimiento; poné adelante lo que vence antes; y preguntale a cada cliente cuánta vida útil mínima acepta.
 
   Seguí Logística en 1 Minuto: un concepto nuevo cada día.

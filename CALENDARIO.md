@@ -67,7 +67,7 @@ Datos de la semana 16–22/11: los reels que Instagram repartió fueron los de u
 
 1. 30/11: 028 PICKING EQUIVOCADO (serie 2) **[programado]**.
 2. 1/12: 051 PALLET (serie 3): el pallet mal armado que se cae en el camión; medidas, cómo apilar y el error a evitar. Apertura: un pallet o un camión cargándose. **[programado: PALLET TRABADO, apertura 4292301]**
-3. 2/12: 029 MERCADERÍA VENCIDA (serie 2): FEFO, con un número de plata perdida. Apertura: estantería con producto, no billetes.
+3. 2/12: 029 MERCADERÍA VENCIDA (serie 2): FEFO, con un número de plata perdida. Apertura: estantería con producto, no billetes. **[programado: MERCADERÍA VENCIDA, apertura 5738746]**
 4. 3/12: 017 REEFER (serie 1, cadena de frío): qué pasa si se corta el frío y quién paga. Apertura: contenedor refrigerado.
 5. 4/12: 050 ALMACENAR EN ALTURA (serie 3): lo pesado abajo y la capacidad de la estantería por nivel. Apertura: estanterías.
 6. 5/12: 033 CARGA MAL ARMADA (serie 2): llegó roto por cómo se cargó el camión. Sin repetir el 015 (aquel era el contenedor y el seguro; este es el camión y el reparto).
@@ -125,7 +125,7 @@ Formato: **problema → causa → solución**. Un problema típico de un área l
 | --- | --- | --- | --- | --- |
 | 027 | Depósito | Diferencias de inventario | El sistema dice 100 y en la estantería hay 87 | Pendiente |
 | 028 | Depósito | Errores de picking (enfoque: separar los parecidos y dígito de control en la ubicación, que hay que cambiar) | PICKING EQUIVOCADO: pagás 3 envíos por un pedido | Programado 2026-11-30 19:00 por vidIQ en YouTube, Instagram y TikTok (34 s; pin de Pinterest 19:05 en Metricool) |
-| 029 | Depósito | Mercadería vencida (enfoque: FIFO por entrada falla, FEFO y la regla del tercio de Japón) | MERCADERÍA VENCIDA: entró última y vence primero | Renderizado, NO publicado (para 2026-12-02 19:00) |
+| 029 | Depósito | Mercadería vencida (enfoque: FIFO por entrada falla, FEFO y la regla del tercio de Japón) | MERCADERÍA VENCIDA: entró última y vence primero | Programado 2026-12-02 19:00 por vidIQ en YouTube, Instagram y TikTok (33 s; https://www.youtube.com/watch?v=ObsZeINg3k4; pin de Pinterest 19:05 en Metricool) |
 | 030 | Recepción | Camiones esperando en la puerta | Tres horas para descargar un camión | Pendiente |
 | 031 | Recepción | Recibir sin controlar contra la orden de compra | Pagaste mercadería que nunca entró | Programado 2026-11-23 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
 | 032 | Despacho | Pedidos que salen tarde | El camión se fue y el pedido quedó | Pendiente |
