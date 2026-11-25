@@ -125,7 +125,7 @@ Formato: **problema → causa → solución**. Un problema típico de un área l
 | --- | --- | --- | --- | --- |
 | 027 | Depósito | Diferencias de inventario | El sistema dice 100 y en la estantería hay 87 | Pendiente |
 | 028 | Depósito | Errores de picking (enfoque: separar los parecidos y dígito de control en la ubicación, que hay que cambiar) | PICKING EQUIVOCADO: pagás 3 envíos por un pedido | Programado 2026-11-30 19:00 por vidIQ en YouTube, Instagram y TikTok (34 s; pin de Pinterest 19:05 en Metricool) |
-| 029 | Depósito | Mercadería vencida (sin FEFO) | Tiraste mercadería que estaba en el depósito | Pendiente (orden 30/11–6/12: 2/12) |
+| 029 | Depósito | Mercadería vencida (enfoque: FIFO por entrada falla, FEFO y la regla del tercio de Japón) | MERCADERÍA VENCIDA: entró última y vence primero | Renderizado, NO publicado (para 2026-12-02 19:00) |
 | 030 | Recepción | Camiones esperando en la puerta | Tres horas para descargar un camión | Pendiente |
 | 031 | Recepción | Recibir sin controlar contra la orden de compra | Pagaste mercadería que nunca entró | Programado 2026-11-23 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
 | 032 | Despacho | Pedidos que salen tarde | El camión se fue y el pedido quedó | Pendiente |
