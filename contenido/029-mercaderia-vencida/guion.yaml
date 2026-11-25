@@ -16,32 +16,32 @@ escenas:
   - grande: "MERCADERÍA VENCIDA"
     resaltar: "VENCIDA"
     chico: "Sacaste primero lo que entró primero… y tiraste igual"
-    narracion: "Despachaste primero lo que entró primero, y igual tiraste mercadería vencida. El error está en el orden."
+    narracion: "Despachaste primero lo que entró primero, y igual tiraste mercadería vencida."
     clip: https://videos.pexels.com/video-files/5738746/5738746-hd_1280_720_30fps.mp4
   - grande: "LLEGÓ HOY, VENCE ANTES"
     resaltar: "VENCE ANTES"
     chico: "Un lote nuevo puede traer una fecha más corta que el viejo"
-    narracion: "Un lote que llega hoy puede vencer antes que el que ya tenés guardado. Si despachás por fecha de entrada, ese se te queda atrás."
+    narracion: "Un lote que llega hoy puede vencer antes que el que ya tenés guardado. Y por fecha de entrada, queda atrás."
     clip: https://videos.pexels.com/video-files/15170997/15170997-hd_1080_1920_30fps.mp4
   - grande: "FEFO"
     resaltar: "FEFO"
     chico: "First Expired, First Out · la OMS lo pide para medicamentos (TRS 1025)"
-    narracion: "Por eso se usa FEFO: sale primero lo que vence primero, sin importar cuándo entró. La Organización Mundial de la Salud lo pide para almacenar medicamentos."
+    narracion: "La solución es FEFO: sale primero lo que vence primero. La OMS lo pide para almacenar medicamentos."
     clip: https://videos.pexels.com/video-files/4281404/4281404-hd_1920_1080_25fps.mp4
   - grande: "REGLA DE 1/3"
     resaltar: "1/3"
     chico: "Japón: si pasó un tercio de la vida útil, el comercio no la recibe"
-    narracion: "Y ojo: tu cliente la puede rechazar mucho antes de que venza. En Japón, con la regla del tercio, si ya pasó un tercio de la vida útil, el comercio no la recibe."
+    narracion: "Y tu cliente la puede rechazar antes de que venza: en Japón, si pasó un tercio de la vida útil, el comercio no la recibe."
     clip: https://videos.pexels.com/video-files/12909001/12909001-hd_720_1280_24fps.mp4
   - grande: "LOTE + VENCIMIENTO"
     resaltar: "VENCIMIENTO"
     chico: "Al recibir: anotá lote y vencimiento · lo que vence antes, adelante"
-    narracion: "Hoy mismo: al recibir, anotá lote y vencimiento, y poné adelante lo que vence antes."
+    narracion: "Al recibir, anotá lote y vencimiento, y poné adelante lo que vence antes."
     clip: https://videos.pexels.com/video-files/8298300/8298300-hd_720_1280_25fps.mp4
   - grande: "VIDA ÚTIL MÍNIMA"
     resaltar: "MÍNIMA"
     chico: "Preguntale a tu cliente cuánta acepta · Seguí Logística en 1 Minuto"
-    narracion: "Y preguntale a tu cliente cuánta vida útil mínima acepta. Seguí Logística en 1 Minuto."
+    narracion: "Preguntale a tu cliente qué vida útil mínima acepta. Seguí Logística en 1 Minuto."
     clip: https://videos.pexels.com/video-files/16971219/16971219-hd_1080_1920_30fps.mp4
 descripcion: |
   MERCADERÍA VENCIDA: entró última y vence primero ⏳
