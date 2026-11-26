@@ -68,7 +68,7 @@ Datos de la semana 16–22/11: los reels que Instagram repartió fueron los de u
 1. 30/11: 028 PICKING EQUIVOCADO (serie 2) **[programado]**.
 2. 1/12: 051 PALLET (serie 3): el pallet mal armado que se cae en el camión; medidas, cómo apilar y el error a evitar. Apertura: un pallet o un camión cargándose. **[programado: PALLET TRABADO, apertura 4292301]**
 3. 2/12: 029 MERCADERÍA VENCIDA (serie 2): FEFO, con un número de plata perdida. Apertura: estantería con producto, no billetes. **[programado: MERCADERÍA VENCIDA, apertura 5738746]**
-4. 3/12: 017 REEFER (serie 1, cadena de frío): qué pasa si se corta el frío y quién paga. Apertura: contenedor refrigerado. **[hecho: CONTENEDOR REFRIGERADO, apertura 6618335 (autoelevador con contenedor), nunca usada para abrir; sin créditos de vidIQ para un clip de reefer]**
+4. 3/12: 017 REEFER (serie 1, cadena de frío): qué pasa si se corta el frío y quién paga. Apertura: contenedor refrigerado. **[programado: CONTENEDOR REFRIGERADO, apertura 6618335 (autoelevador con contenedor), nunca usada para abrir; sin créditos de vidIQ para un clip de reefer]**
 5. 4/12: 050 ALMACENAR EN ALTURA (serie 3): lo pesado abajo y la capacidad de la estantería por nivel. Apertura: estanterías.
 6. 5/12: 033 CARGA MAL ARMADA (serie 2): llegó roto por cómo se cargó el camión. Sin repetir el 015 (aquel era el contenedor y el seguro; este es el camión y el reparto).
 7. 6/12: libre para una noticia del nicho (regla 22) o 045 ENVIAR AL EXTERIOR (serie 3).
@@ -104,7 +104,7 @@ El 037 queda después del 013 para no repetir tema la misma semana.
 | 014 | VGM (SOLAS): pesar el contenedor | Sin este número, tu contenedor no sube | Publicado (2026-11-17 19:00 por vidIQ en YouTube, Instagram y TikTok) |
 | 015 | Trincaje de contenedores (enfoque: si cargás vos, el seguro no cubre la mala estiba; cuentas del CTU Code) | TRINCAJE CASERO: llegó roto y el seguro no paga | Programado 2026-11-29 19:00 por vidIQ en YouTube, Instagram y TikTok (32 s; pin de Pinterest 19:05 en Metricool) |
 | 016 | Mercancías peligrosas: clases IMO (enfoque: carga mal declarada y la sección 14 de la SDS) | CARGA PELIGROSA: era perfume y pagás 5.000 | Programado 2026-11-28 19:00 por vidIQ en YouTube, Instagram y TikTok (35 s; pin de Pinterest 19:05 en Metricool) |
-| 017 | Cadena de frío (enfoque: el reefer mantiene, no enfría; preenfriar y °C vs °F) | CONTENEDOR REFRIGERADO: no enfría tu carga | Renderizando (orden 30/11–6/12: 3/12) |
+| 017 | Cadena de frío (enfoque: el reefer mantiene, no enfría; preenfriar y °C vs °F) | CONTENEDOR REFRIGERADO: no enfría tu carga | Programado 2026-12-03 19:00 por vidIQ en YouTube, Instagram y TikTok (34 s; https://www.youtube.com/watch?v=t8LxW63aMio; pin de Pinterest 19:05 en Metricool) |
 | 018 | Despachante de aduana y forwarder | Quién hace qué en una importación | Pendiente |
 | 019 | Zona franca (caso Uruguay) | Comprar, guardar y no pagar impuestos todavía | Pendiente |
 | 020 | Canal de Panamá y la sequía | Cuando falta agua, el comercio frena | Pendiente |
