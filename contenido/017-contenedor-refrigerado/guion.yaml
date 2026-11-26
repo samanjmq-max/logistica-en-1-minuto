@@ -1,0 +1,78 @@
+titulo: "CONTENEDOR REFRIGERADO: no enfría tu carga ❄️"
+formato: short
+serie: "Logística en 1 minuto"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: aprobado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "El contenedor refrigerado (reefer) mantiene la temperatura con la que cargaste, no enfría: preenfriá la carga a la temperatura de viaje antes de cargar y poné temperatura y escala (°C o °F) por escrito en la reserva."
+  util: 5
+  llamativo: 4
+  gancho: "Pagaste flete refrigerado y la carga llegó perdida igual."
+  aprendi: "El reefer casi no baja la temperatura de una carga tibia: un congelado cargado a unos -5 °C tardó más de 3 días en llegar a -18 °C en el centro (West P&I). Y una de las causas más comunes de reclamos es confundir Celsius con Fahrenheit: 0 °C es enfriado, 0 °F (unos -18 °C) es congelado; hubo pan y chocolate viajando congelados por eso (TT Club)."
+  referencia: "Mecanismos de la regla 22 (sin copiar texto): desmentir lo que creés (refrigerado = heladera que enfría), plata que perdés con contraste en los primeros 3 s (pagaste el frío y llegó perdida), número concreto en pantalla (+3 días; 0 °C ≠ 0 °F) y objeto visible en el primer cuadro (contenedor). vidIQ sin créditos (se renuevan el 30/11): referencia por WebSearch; en el nicho hispano el reefer aparece sobre todo como definición o innovación tecnológica, no como el error que hace perder la carga, y ese es el hueco."
+escenas:
+  - grande: "CONTENEDOR REFRIGERADO"
+    resaltar: "REFRIGERADO"
+    chico: "Pagaste el frío… y la carga llegó perdida igual"
+    narracion: "Pagaste flete refrigerado, y la carga llegó perdida igual."
+    clip: https://videos.pexels.com/video-files/6618335/6618335-hd_1280_720_24fps.mp4
+  - grande: "NO ENFRÍA, MANTIENE"
+    resaltar: "MANTIENE"
+    chico: "Conserva la temperatura que tenía la carga al cargarla"
+    narracion: "El contenedor refrigerado no está hecho para enfriar tu carga: mantiene la temperatura que tenía cuando la cargaste."
+    clip: https://videos.pexels.com/video-files/11801939/11801939-hd_1080_1920_30fps.mp4
+  - grande: "+3 DÍAS PARA -18 °C"
+    resaltar: "+3 DÍAS"
+    chico: "Congelado cargado tibio: el centro tardó más de 3 días (West P&I)"
+    narracion: "Un congelado que se cargó a menos cinco grados tardó más de tres días en llegar a menos dieciocho en el centro."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+  - grande: "PREENFRIÁ ANTES"
+    resaltar: "PREENFRIÁ"
+    chico: "La carga, a la temperatura de viaje antes de entrar al contenedor"
+    narracion: "Por eso la carga se enfría antes, a la temperatura de viaje, y se mide antes de cargar."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+  - grande: "0 °C ≠ 0 °F"
+    resaltar: "0 °F"
+    chico: "0 °C = enfriado · 0 °F (unos -18 °C) = congelado · TT Club"
+    narracion: "Y ojo: cero grados Celsius es enfriado; cero Fahrenheit es congelado. Confundirlos es una de las causas más comunes de reclamos."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+  - grande: "°C O °F, POR ESCRITO"
+    resaltar: "POR ESCRITO"
+    chico: "Temperatura y escala en la reserva · Seguí Logística en 1 Minuto"
+    narracion: "Poné la temperatura y la escala por escrito en la reserva. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/8298300/8298300-hd_720_1280_25fps.mp4
+descripcion: |
+  CONTENEDOR REFRIGERADO: no enfría tu carga ❄️
+
+  El error: pensar que el contenedor refrigerado (reefer) funciona como una cámara que enfría. No: está hecho para mantener la temperatura que tenía la carga cuando se cargó.
+  · Dato: West P&I cuenta el caso de un producto congelado cargado a unos -5 °C que tardó más de 3 días en llegar a -18 °C en el centro. Según el club, el reefer baja la temperatura de una carga tibia solo "extremadamente despacio".
+  · Qué hacer: preenfriá la carga a la temperatura de viaje antes de cargar (lo piden MSC, Kuehne+Nagel y TT Club) y medila antes de que entre al contenedor.
+  · Ojo con la escala: según TT Club, confundir Celsius con Fahrenheit está entre las causas más comunes de reclamos. 0 °C es una temperatura típica de enfriado; 0 °F (unos -18 °C), de congelado. Hubo pan y chocolate que viajaron congelados por errores así.
+  · Hoy mismo: poné temperatura y escala (°C o °F) por escrito en la reserva y en las instrucciones al forwarder. Definirlas es responsabilidad del que envía.
+  · Al cargar: nunca por encima de la línea roja ni más allá del piso de rieles (T-floor), para que circule el aire.
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1
+
+  Curso recomendado de logística internacional (link de afiliado): https://go.hotmart.com/M108343505U
+
+  Imágenes de stock de Pexels (autores y enlaces en el guion del video en github.com/samanjmq-max/logistica-en-1-minuto).
+
+  #Shorts #Reefer #CadenaDeFrio #Contenedores
+fuentes:
+  - https://www.westpandi.com/News-and-Resources/Loss-Prevention-Bulletins/The-Carriage-of-Reefer-Containers/
+  - https://ttclub.com/news-and-resources/news/article/tt-talk-common-issues-in-the-cool-chain
+  - https://www.ttclub.com/fileadmin/uploads/tt-club/Documents/Stop_Loss/TTC_SL20_Temperature_controlled_cargo_SPA.pdf
+  - https://www.msc.com/en/solutions/reefer-cargo
+  - https://www.kuehne-nagel.com/how-to/sea-freight/what-is-a-reefer-container
+  - https://www.bws.net/insights/blogs/proper-loading-of-reefer-containers
+creditos:
+  - https://www.pexels.com/video/a-forklift-truck-transferring-a-cargo-container-6618335/
+  - https://www.pexels.com/video/vehicle-carrying-container-in-warehouse-11801939/
+  - https://www.pexels.com/video/container-ship-in-harbor-13372582/
+  - https://www.pexels.com/video/containers-on-a-cargo-ship-at-port-15187012/
+  - https://www.pexels.com/video/person-holding-documents-8731324/
+  - https://www.pexels.com/video/a-woman-checking-the-documents-8298300/
