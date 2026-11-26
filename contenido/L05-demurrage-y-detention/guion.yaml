@@ -1,0 +1,298 @@
+titulo: "DEMURRAGE Y DETENTION: cuánto pagás por cada día de contenedor y cómo no pagarlo 💸"
+formato: largo
+serie: "Guías completas"
+voz: em_alex
+velocidad: 1.0
+pausa: 0.35
+estado: aprobado
+chequeo:
+  se_lleva: "Calcular cuánto le va a costar cada día de más con el contenedor (días libres, reloj combinado o separado, tramos que suben) y una lista de qué pedir y hacer antes de embarcar, cuando llega el barco y cuando llega la factura para no pagarlo."
+  util: 5
+  llamativo: 4
+  gancho: "Pensaste que te pasaste cuatro días y que eran 400 dólares. Te llega una factura de 1.370, porque el reloj no paró cuando sacaste el contenedor del puerto: paró cuando devolviste el vacío."
+  aprendi: "En la tarifa de importación de Hapag-Lloyd para Uruguay (vigente desde el 1/1/2026) el demurrage y el detention van combinados: 5 días libres en un seco, días corridos, el día del evento cuenta entero y los días se cuentan desde el arribo del buque; después USD 80/100 por día (20'/40') y desde el día 11 USD 105/145. Un reefer tiene solo 3 días libres y USD 255 por día. Maersk publica para Uruguay 7 días libres en el mismo puerto: dos días de diferencia entre navieras. Y en EE. UU., desde mayo de 2024, si a la factura de D&D le falta un dato obligatorio de la regla de la FMC, no hay obligación de pagarla."
+  referencia: "Mecanismo de la regla 22, sin copiar texto: la fórmula 'dejá de pagar de más: cómo reducir demurrage' (video de Terminal49 'Stop Overpaying…' y guías 'cómo reducir los cargos de detención y demora' de C. H. Robinson y DHL, que son lo que más aparece esta semana en la búsqueda web; vidIQ sin créditos hasta el 30/11). Se toma: plata que perdés con contraste en los primeros 3 segundos (calculaste 400, pagás 1.370), desmentir lo que creés (el reloj no para al descargar), pregunta con 'cuánto pagás' en el título y una estructura en el orden del viaje (antes de embarcar, cuando llega el barco, cuando llega la factura) para abrir un gancho nuevo en cada capítulo."
+miniatura:
+  arriba: "DEMURRAGE"
+  abajo: "11 días de más: USD 1.370"
+escenas:
+  # --- Intro
+  - capitulo: "Lo que te cobran por día"
+    grande: "PENSASTE USD 400 · PAGÁS USD 1.370"
+    resaltar: "USD 1.370"
+    chico: "Contenedor de 40 pies en Montevideo, retirado y devuelto tarde"
+    narracion: "Llegó tu contenedor a Montevideo. Lo retiraste unos días tarde, lo vaciaste en tu depósito, y pensaste: me pasé cuatro días, son cuatrocientos dólares. Te llega una factura de mil trescientos setenta."
+    clip: https://videos.pexels.com/video-files/6618335/6618335-hd_1280_720_24fps.mp4
+  - grande: "EL RELOJ NO PARÓ"
+    resaltar: "NO PARÓ"
+    chico: "No para cuando retirás ni cuando descargás: para cuando devolvés el vacío"
+    narracion: "No es un error de la naviera. El reloj no paró cuando sacaste el contenedor del puerto, ni cuando lo descargaste. Paró cuando el contenedor vacío volvió al depósito de la naviera."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 3
+  - grande: "EN ESTE VIDEO"
+    chico: "Los dos cargos · el reloj · los tramos · la cuenta · cómo negociar · 7 errores"
+    narracion: "En este video vas a ver qué son el demurrage y el detention, cuándo arranca y cuándo para cada reloj, cuánto cuesta un día de más con tarifas reales, la cuenta completa de ese contenedor en Montevideo, y lo más útil: cómo negociar los días libres antes de embarcar, cómo no perder días cuando llega el barco, y los siete errores que más plata cuestan."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+  # --- Los cargos
+  - capitulo: "Demurrage, detention y combinado"
+    grande: "EL CONTENEDOR ES DE LA NAVIERA"
+    resaltar: "DE LA NAVIERA"
+    chico: "Te lo presta unos días gratis: los días libres (free time)"
+    narracion: "Primero, lo básico. El contenedor casi nunca es tuyo: es de la naviera, y te lo presta unos días gratis para que retires la carga. Esos son los días libres, en inglés free time. Pasados esos días, te cobra por cada día de más."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 8
+  - grande: "DEMURRAGE: ADENTRO DEL PUERTO"
+    resaltar: "DEMURRAGE"
+    chico: "Contenedor lleno en la terminal: desde la descarga del barco hasta que sale por el portón"
+    narracion: "Demurrage es lo que pagás mientras el contenedor lleno sigue adentro del puerto. En la importación, según los términos de Maersk, corre desde que lo descargan del barco hasta que sale por el portón de la terminal."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+    desde: 6
+  - grande: "DETENTION: AFUERA DEL PUERTO"
+    resaltar: "DETENTION"
+    chico: "Desde que sale de la terminal hasta que entra vacío al depósito que indica la naviera"
+    narracion: "Detention es lo que pagás cuando el contenedor ya está afuera: arriba de un camión o en tu depósito. Corre desde que sale de la terminal hasta que entra vacío al depósito que indica la naviera."
+    clip: https://videos.pexels.com/video-files/3365496/3365496-hd_1920_1080_30fps.mp4
+  - grande: "COMBINADO: UN SOLO RELOJ"
+    resaltar: "UN SOLO RELOJ"
+    chico: "Demurrage + detention juntos: desde la llegada o la descarga hasta la devolución del vacío"
+    narracion: "Y muchas navieras usan un tercer formato: el combinado. Un solo reloj, con un solo paquete de días libres, que arranca cuando llega o descarga el contenedor y para con la devolución del vacío. Es lo que tenía nuestro contenedor de Montevideo."
+    clip: https://videos.pexels.com/video-files/6618335/6618335-hd_1280_720_24fps.mp4
+    desde: 5
+  - grande: "+ ALMACENAJE DE LA TERMINAL"
+    resaltar: "ALMACENAJE"
+    chico: "Lo cobra la terminal por el espacio, no la naviera por el contenedor: factura aparte"
+    narracion: "Ojo con otro cargo que se confunde: el almacenaje. Ese lo cobra la terminal portuaria por el espacio, no la naviera por el contenedor. En las tarifas de Hapag-Lloyd y de Maersk para Uruguay, el almacenaje lo factura la terminal, aparte. O sea: un día de más adentro del puerto te puede costar dos veces."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 14
+  # --- El reloj
+  - capitulo: "Cuándo arranca y cuándo para el reloj"
+    grande: "DÍAS CORRIDOS"
+    resaltar: "CORRIDOS"
+    chico: "Hapag-Lloyd Uruguay: días calendario, y el día del evento cuenta como un día entero"
+    narracion: "Ahora, el reloj. Primera regla: en la mayoría de las tarifas se cuentan días corridos, con sábados, domingos y feriados. En la tarifa de Hapag-Lloyd para Uruguay son días calendario, y el día en que pasa algo, por ejemplo la descarga, cuenta como un día entero."
+    clip: https://videos.pexels.com/video-files/6657743/6657743-hd_1366_720_25fps.mp4
+  - grande: "¿DESDE EL ARRIBO O LA DESCARGA?"
+    resaltar: "¿DESDE"
+    chico: "Hapag-Lloyd Uruguay cuenta desde el arribo del buque · Maersk, desde la descarga del contenedor"
+    narracion: "Segunda regla: fijate desde cuándo arranca. Hapag-Lloyd, en su tarifa para Uruguay, cuenta los días libres desde el arribo del buque. Maersk, desde la descarga del contenedor. Con la primera, si el barco descarga tarde, podés perder días sin haber hecho nada."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+    desde: 12
+  - grande: "PARA CON EL VACÍO"
+    resaltar: "VACÍO"
+    chico: "Cuando entra vacío al depósito que indicó la naviera: no cuando terminás de descargar"
+    narracion: "Y tercera: el reloj del detention o del combinado para recién cuando el vacío entra al depósito que te indicó la naviera. No cuando terminás de descargar, ni cuando el camión sale de tu depósito. Por eso, antes de mandar el camión, confirmá a qué depósito va."
+    clip: https://videos.pexels.com/video-files/17899033/17899033-hd_1920_1080_24fps.mp4
+  - grande: "EXPORTACIÓN: EL RELOJ AL REVÉS"
+    resaltar: "AL REVÉS"
+    chico: "Arranca cuando retirás el vacío y sigue hasta que el contenedor lleno entra a la terminal"
+    narracion: "Si exportás, pasa lo mismo al revés: el reloj arranca cuando retirás el contenedor vacío, y sigue mientras lo cargás, hasta que entra lleno a la terminal. Si lo retirás demasiado temprano, pagás días solo por esperar."
+    clip: https://videos.pexels.com/video-files/3817901/3817901-hd_1280_720_30fps.mp4
+    desde: 10
+  # --- Tarifas
+  - capitulo: "Cuánto cuesta un día de más"
+    grande: "5 DÍAS LIBRES"
+    resaltar: "5 DÍAS"
+    chico: "Hapag-Lloyd, importación Uruguay, desde el 1/1/2026: contenedor seco de 20 o 40 pies, combinado"
+    narracion: "Vamos a los números, con una tarifa real. Hapag-Lloyd, importación en Uruguay, vigente desde enero de dos mil veintiséis. Contenedor seco de veinte o de cuarenta pies, demurrage y detention combinados: cinco días libres."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 18
+  - grande: "40 PIES: USD 100 → USD 145"
+    resaltar: "USD 145"
+    chico: "Días 6 a 10: USD 80 (20') · USD 100 (40') · desde el día 11: USD 105 · USD 145, por día"
+    narracion: "Del día seis al diez, pagás ochenta dólares por día en un veinte pies y cien en un cuarenta. Y del día once en adelante, ciento cinco y ciento cuarenta y cinco. No es un precio fijo: sube por tramos. Cuanto más tardás, más caro es cada día."
+    clip: https://videos.pexels.com/video-files/6618335/6618335-hd_1280_720_24fps.mp4
+    desde: 10
+  - grande: "REFRIGERADO: 3 DÍAS Y USD 255"
+    resaltar: "USD 255"
+    chico: "Reefer: 3 días libres · días 4 a 9: USD 255 · desde el día 10: USD 315, por día (Hapag-Lloyd Uruguay)"
+    narracion: "Con un contenedor refrigerado es peor: tres días libres nada más, y después doscientos cincuenta y cinco dólares por día, que suben a trescientos quince. Cada día de más cuesta más del doble que en uno seco."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+    desde: 16
+  - grande: "OTRA NAVIERA, OTRA TABLA"
+    resaltar: "OTRA TABLA"
+    chico: "Maersk Uruguay (su página, valores desde 2024): 7 días libres · 40 pies: USD 90, 130 y 150 por día"
+    narracion: "Y cada naviera tiene su tabla. Maersk, en su página para Uruguay, publica siete días libres para un contenedor seco, con tramos de noventa, ciento treinta y ciento cincuenta dólares por día en un cuarenta pies. Dos días libres de diferencia en el mismo puerto. Eso se compara antes de elegir con quién viajar."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+  - grande: "NUEVA YORK: USD 2.478"
+    resaltar: "USD 2.478"
+    chico: "14 días de más, promedio por contenedor · Hamburgo: USD 584 (Container xChange, 2023)"
+    narracion: "Y en otros países los números cambian mucho. En un estudio de Container xChange de dos mil veintitrés, catorce días de más costaban en promedio dos mil cuatrocientos setenta y ocho dólares por contenedor en Nueva York, y quinientos ochenta y cuatro en Hamburgo."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 20
+  # --- Ejemplo
+  - capitulo: "La cuenta del contenedor de Montevideo"
+    grande: "EL CASO"
+    chico: "Seco de 40 pies · Hapag-Lloyd · combinado · 5 días libres · fechas supuestas para el ejemplo"
+    narracion: "Ahora sí, la cuenta del principio. Un importador de Montevideo trae un contenedor seco de cuarenta pies con esta tarifa combinada de cinco días libres. Las fechas del caso son un ejemplo, pero la tarifa es la real."
+    clip: https://videos.pexels.com/video-files/6618335/6618335-hd_1280_720_24fps.mp4
+    desde: 14
+  - grande: "DÍA 9: SALE DEL PUERTO"
+    resaltar: "DÍA 9"
+    chico: "Faltaba un documento: el despacho se demoró"
+    narracion: "El barco llega el día uno. Al importador le faltaba un documento, el despachante lo consigue tarde, y el contenedor sale del puerto recién el día nueve. Él piensa: me pasé cuatro días, cuatro por cien, cuatrocientos dólares."
+    clip: https://videos.pexels.com/video-files/3365496/3365496-hd_1920_1080_30fps.mp4
+    desde: 6
+  - grande: "DÍA 16: DEVUELVE EL VACÍO"
+    resaltar: "DÍA 16"
+    chico: "Lo vacía sin apuro y el camión devuelve el contenedor una semana después"
+    narracion: "Pero en su depósito no tenía gente para descargar ese día, lo vacían sin apuro, y el camión devuelve el contenedor vacío el día dieciséis. Como el reloj es combinado, todo eso cuenta."
+    clip: https://videos.pexels.com/video-files/4281404/4281404-hd_1920_1080_25fps.mp4
+  - grande: "500 + 870 = USD 1.370"
+    resaltar: "USD 1.370"
+    chico: "Días 6 a 10: 5 × USD 100 = 500 · días 11 a 16: 6 × USD 145 = 870 · más el almacenaje de la terminal"
+    narracion: "La cuenta: del día seis al diez, cinco días a cien, quinientos dólares. Del once al dieciséis, seis días a ciento cuarenta y cinco, ochocientos setenta. Total: mil trescientos setenta dólares. Más el almacenaje de la terminal por los días que estuvo adentro, que viene en otra factura."
+  - grande: "PAPELES LISTOS: USD 0"
+    resaltar: "USD 0"
+    chico: "Sale el día 3 · se vacía en el día · el vacío vuelve el día 5"
+    narracion: "¿Y si hubiera tenido los papeles listos antes de que llegara el barco? Retira el día tres, lo vacía en el día, devuelve el vacío el día cinco. Cero dólares de demurrage y detention. La diferencia entre las dos cuentas no fue la naviera: fueron los papeles y la organización."
+    clip: https://videos.pexels.com/video-files/17899033/17899033-hd_1920_1080_24fps.mp4
+    desde: 2
+  # --- Suscribirse
+  - grande: "SEGUÍ EL CANAL"
+    chico: "Lo que viene: cómo negociar los días libres y no perder ni un día"
+    narracion: "Hasta acá, cómo te cobran. Ahora viene lo que te ahorra esa plata: cómo negociar los días libres, qué hacer cuando llega el barco y los siete errores más caros. Si esto te está sirviendo, suscribite a Logística en 1 Minuto. Cada semana, una guía como esta."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+    desde: 2
+  # --- Negociar
+  - capitulo: "Antes de embarcar: negociar los días libres"
+    grande: "PEDILO POR ESCRITO"
+    resaltar: "POR ESCRITO"
+    chico: "Cuántos días · separados o combinados · desde cuándo corren · la tabla de tramos"
+    narracion: "Todo se juega antes de embarcar. Cuando pedís la cotización, pedí por escrito cuatro cosas: cuántos días libres tenés, si son separados o combinados, desde cuándo corren, y la tabla completa de tramos, no solo el precio del primer día."
+    clip: https://videos.pexels.com/video-files/7841671/7841671-hd_1280_720_30fps.mp4
+  - grande: "LOS DÍAS LIBRES SE NEGOCIAN"
+    resaltar: "SE NEGOCIAN"
+    chico: "La tarifa publicada aplica si no pactaste otra cosa (términos de Maersk): más días en el contrato o la reserva"
+    narracion: "La tarifa publicada aplica si no pactaste otra cosa. Eso quiere decir que los días libres se pueden negociar, en el contrato con la naviera o a través de tu forwarder. Cuanto más volumen movés, más fuerza tenés para pedir más días."
+    clip: https://videos.pexels.com/video-files/8426060/8426060-hd_1280_720_25fps.mp4
+  - grande: "CON 14 DÍAS: USD 200"
+    resaltar: "USD 200"
+    chico: "Mismo caso: solo los días 15 y 16 a USD 100 (si el primer tramo sigue igual), en vez de USD 1.370"
+    narracion: "Mirá lo que cambia en nuestro ejemplo. Si el importador hubiera pactado catorce días libres en vez de cinco, y el primer tramo siguiera en cien dólares, pagaba solo los días quince y dieciséis: doscientos dólares en lugar de mil trescientos setenta."
+    clip: https://videos.pexels.com/video-files/8170593/8170593-hd_1920_1080_25fps.mp4
+  - grande: "¿SEPARADOS O COMBINADOS?"
+    resaltar: "¿SEPARADOS"
+    chico: "Si tu demora es la aduana, necesitás días de demurrage · si es tu depósito, de detention"
+    narracion: "Y elegí el formato según dónde se te va el tiempo. Si lo que demora es la aduana, con el contenedor adentro del puerto, necesitás días de demurrage. Si lo que demora es descargar en tu depósito, necesitás días de detention. El combinado te da flexibilidad, porque usás los días donde te hagan falta."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 11
+  - grande: "DÍAS EXTRA POR ADELANTADO"
+    resaltar: "POR ADELANTADO"
+    chico: "Ej.: Hapag-Lloyd en EE. UU. vende hasta 10 días extra de detention con descuento: se pagan antes del arribo y no se devuelven"
+    narracion: "Algunas navieras incluso venden días extra por adelantado. Hapag-Lloyd, en Estados Unidos, vende hasta diez días extra de detention con descuento, pero se pagan antes de que llegue el barco y no se devuelven. Sirve si ya sabés que vas a tardar."
+    clip: https://videos.pexels.com/video-files/6657743/6657743-hd_1366_720_25fps.mp4
+    desde: 8
+  # --- Llegada
+  - capitulo: "Cuando llega el barco: no perder días"
+    grande: "PAPELES ANTES DEL BARCO"
+    resaltar: "ANTES"
+    chico: "Factura, conocimiento de embarque, certificado de origen y permisos, revisados con tu despachante"
+    narracion: "Mientras el barco viaja, es el momento de trabajar. Mandale a tu despachante la factura, el conocimiento de embarque, el certificado de origen y los permisos que hagan falta, y revisen todo antes de que llegue. Un dato mal en un documento te puede frenar días en el puerto, y cada día corre."
+    clip: https://videos.pexels.com/video-files/8731324/8731324-hd_1280_720_25fps.mp4
+    desde: 6
+  - grande: "CAMIÓN Y DESCARGA RESERVADOS"
+    resaltar: "RESERVADOS"
+    chico: "Camión para retirar · gente y autoelevador para vaciarlo el mismo día"
+    narracion: "Y organizá lo de afuera: el camión para retirar, y la gente y el autoelevador para vaciarlo el mismo día que llega a tu depósito. Cada día que el contenedor espera lleno en tu patio es un día de detention."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+  - grande: "EL VACÍO VUELVE YA"
+    resaltar: "YA"
+    chico: "Confirmá el depósito de devolución y su horario antes de mandar el camión"
+    narracion: "Apenas lo vaciás, devolvelo. Antes de mandar el camión, confirmá en qué depósito de vacíos lo recibe la naviera y en qué horario, para que no termine volviendo a tu patio un día más."
+    clip: https://videos.pexels.com/video-files/18749847/18749847-hd_1920_1080_60fps.mp4
+  # --- Factura
+  - capitulo: "Cuando llega la factura"
+    grande: "REVISÁ LA FACTURA"
+    resaltar: "REVISÁ"
+    chico: "Fechas de descarga, salida y devolución · días libres pactados · tramos aplicados"
+    narracion: "Cuando llega la factura, no la pagues sin revisar. Compará las fechas de descarga, de salida y de devolución con tus propios papeles, los días libres que pactaste y los tramos que te aplicaron. Si algo no coincide, reclamá por escrito, y rápido."
+    clip: https://videos.pexels.com/video-files/6657743/6657743-hd_1366_720_25fps.mp4
+    desde: 13
+  - grande: "EE. UU.: 30 DÍAS"
+    resaltar: "30 DÍAS"
+    chico: "Regla de la FMC, desde mayo de 2024: factura dentro de 30 días, al menos 30 días para reclamar; sin un dato obligatorio, no hay obligación de pagar"
+    narracion: "Si tu carga pasa por Estados Unidos, hay una regla a tu favor. Desde mayo de dos mil veinticuatro, la Comisión Marítima Federal exige que la factura llegue dentro de los treinta días, te da por lo menos treinta días para reclamar, y si a la factura le falta un dato obligatorio, no estás obligado a pagarla."
+    clip: https://videos.pexels.com/video-files/7841671/7841671-hd_1280_720_30fps.mp4
+    desde: 4
+  # --- Errores
+  - capitulo: "Los 7 errores más caros"
+    grande: "ERRORES 1 A 3"
+    chico: "1. Creer que el reloj para al descargar · 2. Contar días hábiles · 3. Mirar solo el precio del primer día"
+    narracion: "Y los siete errores más caros. Uno: creer que el reloj para cuando descargás la mercadería; para cuando devolvés el vacío. Dos: contar días hábiles cuando la tarifa cuenta días corridos. Tres: calcular con el precio del primer día, sin ver los tramos que suben."
+    clip: https://videos.pexels.com/video-files/15187012/15187012-hd_1920_1080_30fps.mp4
+    desde: 16
+  - grande: "ERRORES 4 Y 5"
+    chico: "4. Confundir demurrage con almacenaje · 5. No preguntar desde cuándo corren los días libres"
+    narracion: "Cuatro: pensar que el demurrage incluye el almacenaje de la terminal; son dos facturas distintas. Cinco: no preguntar desde cuándo corren los días libres; desde el arribo o desde la descarga no es lo mismo."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+    desde: 9
+  - grande: "ERRORES 6 Y 7"
+    chico: "6. Juntar los papeles cuando el barco ya llegó · 7. Pagar sin revisar o reclamar fuera de plazo"
+    narracion: "Seis: esperar a que llegue el barco para juntar los papeles. Y siete: pagar la factura sin revisarla, o reclamar cuando ya pasó el plazo."
+    clip: https://videos.pexels.com/video-files/8426060/8426060-hd_1280_720_25fps.mp4
+    desde: 4
+  # --- Cierre
+  - capitulo: "Resumen"
+    grande: "RESUMEN"
+    chico: "Días y tramos por escrito · negociar antes de embarcar · papeles antes del barco · vaciar en el día · devolver el vacío ya · revisar la factura"
+    narracion: "En resumen: pedí por escrito los días libres y la tabla de tramos, negociá antes de embarcar, tené los papeles listos antes de que llegue el barco, vaciá el contenedor en el día, devolvé el vacío enseguida y revisá cada factura."
+    clip: https://videos.pexels.com/video-files/6618335/6618335-hd_1280_720_24fps.mp4
+    desde: 2
+  - grande: "LOGÍSTICA EN 1 MINUTO"
+    chico: "Guía + planilla para comparar cotizaciones: link en la descripción"
+    narracion: "Para comparar cotizaciones de flete sin sorpresas, en la descripción tenés una guía con una planilla. Y suscribite, que el próximo video también te ahorra plata."
+    clip: https://videos.pexels.com/video-files/13372582/13372582-hd_1280_720_60fps.mp4
+    desde: 14
+descripcion: |
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1
+
+  Pensaste que te pasaste 4 días y eran USD 400, y te llega una factura de USD 1.370. En este video: qué son el demurrage y el detention (y el formato combinado), cuándo arranca y cuándo para cada reloj, cuánto cuesta un día de más con tarifas reales de Uruguay, la cuenta completa de un contenedor en Montevideo, cómo negociar los días libres antes de embarcar, qué hacer cuando llega el barco y los 7 errores más caros.
+
+  Datos clave:
+  · Demurrage: contenedor lleno dentro de la terminal (en importación, desde la descarga hasta la salida). Detention: contenedor afuera, hasta que entra VACÍO al depósito que indica la naviera. Combinado: un solo reloj, desde la descarga hasta la devolución del vacío (términos de Maersk).
+  · Hapag-Lloyd, importación Uruguay, vigente desde el 1/1/2026, demurrage y detention combinados, días calendario (el día del evento cuenta entero): seco de 20/40 pies, 5 días libres; días 6 a 10, USD 80/100 por día; desde el día 11, USD 105/145. Refrigerado: 3 días libres; días 4 a 9, USD 255; después USD 315. El almacenaje lo cobra la terminal aparte.
+  · Maersk, importación Uruguay (su página, valores desde el 1/1/2024): seco 7 días libres combinados; 40 pies USD 90 (días 8 a 17), 130 (18 a 21) y 150 (desde el 22). Reloj desde la descarga hasta la devolución del vacío. Almacenaje aparte, de la terminal.
+  · Con 14 días de más, el promedio por contenedor era USD 2.478 en Nueva York y USD 584 en Hamburgo (Container xChange, 2023).
+  · Hapag-Lloyd en EE. UU. vende hasta 10 días extra de detention con descuento, que se pagan antes del arribo y no se devuelven.
+  · EE. UU. (regla de la FMC, 46 CFR 541, vigente desde el 28/5/2024): la factura de demurrage o detention se emite dentro de los 30 días, el que recibe la factura tiene al menos 30 días para reclamar y, si falta un dato obligatorio, no está obligado a pagar.
+
+  La cuenta del ejemplo (seco de 40 pies, Hapag-Lloyd Uruguay): sale del puerto el día 9 y el vacío vuelve el día 16 → días 6 a 10: 5 × USD 100 = 500; días 11 a 16: 6 × USD 145 = 870; total USD 1.370, más el almacenaje de la terminal. Con 14 días libres pactados (y el mismo primer tramo) habría pagado USD 200. Las fechas son supuestas; la tarifa es la publicada.
+
+  Ojo: cada naviera, puerto y contrato tiene su tabla, y las tarifas cambian. Confirmá la tuya por escrito con tu naviera o tu forwarder antes de embarcar.
+
+  Fuentes: tarifa de demurrage y detention de importación de Hapag-Lloyd para Uruguay (enero de 2026), página de importación de Maersk Uruguay, términos de detention y demurrage de Maersk, benchmark de Container xChange 2023, días extra de Hapag-Lloyd (EE. UU.) y regla final de la Comisión Marítima Federal de EE. UU. (FMC).
+
+  Imágenes de stock (Pexels), con los autores de los clips enlazados en github.com/samanjmq-max/logistica-en-1-minuto.
+
+  Música original generada para el canal.
+
+  Curso recomendado de logística internacional (link de afiliado): https://go.hotmart.com/M108343505U
+
+  #Demurrage #Detention #Contenedor #ComercioExterior
+fuentes:
+  - https://www.hapag-lloyd.com/content/dam/website/downloads/detention_demurrage/Uruguay_impo_Demurrage_and_Detention_Jan_2026.pdf
+  - https://www.maersk.com/local-information/latin-america/uruguay/import
+  - https://terms.maersk.com/dnd
+  - https://www.container-xchange.com/blog/demurrage-detention
+  - https://www.ajot.com/news/average-demurrage-and-detention-charges-witness-a-25-dip-globally-in-2023
+  - https://ams.hapag-lloyd.com/content/dam/website/downloads/OLB/AdditionalFreeTime_Terms.pdf
+  - https://www.fmc.gov/fmc-publishes-final-rule-on-detention-and-demurrage-billing-practices/
+  - https://marinelink.com/news/final-rule-demurrage-detention-cleared-513698
+  - https://public-inspection.federalregister.gov/2025-23920.pdf
+  - https://www.chrobinson.com/es-es/resources/resource-center/guides/detention-and-demurrage-guide/
+  - https://terminal49.com/videos/stop-overpaying-how-cargo-owners-can-reduce-demurrage-improv-whegk5
+creditos:
+  - https://www.pexels.com/video/a-forklift-truck-transferring-a-cargo-container-6618335/
+  - https://www.pexels.com/video/containers-on-a-cargo-ship-at-port-15187012/
+  - https://www.pexels.com/video/container-ship-in-harbor-13372582/
+  - https://www.pexels.com/video/a-man-loading-cement-on-a-delivery-truck-3365496/
+  - https://www.pexels.com/video/a-person-using-magnifying-glass-on-documents-6657743/
+  - https://www.pexels.com/video/a-semi-truck-is-driving-down-the-road-17899033/
+  - https://www.pexels.com/video/commercial-trucks-lining-up-on-a-weighing-scale-for-crops-valuation-3817901/
+  - https://www.pexels.com/video/person-holding-documents-8731324/
+  - https://www.pexels.com/video/men-getting-items-from-the-shelves-in-the-warehouse-4281404/
+  - https://www.pexels.com/video/a-man-signing-a-document-7841671/
+  - https://www.pexels.com/video/men-closing-a-business-deal-8426060/
+  - https://www.pexels.com/video/group-of-people-shaking-hands-8170593/
+  - https://www.pexels.com/video/forklift-in-a-warehouse-6194507/
+  - https://www.pexels.com/video/semi-truck-climbing-a-mountain-on-west-coast-in-oregon-18749847/
