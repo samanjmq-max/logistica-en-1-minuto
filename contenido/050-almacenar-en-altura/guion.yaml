@@ -1,0 +1,70 @@
+titulo: "ESTANTERÍA INDUSTRIAL: subís un nivel y aguanta 38 % menos ⚠️"
+formato: short
+serie: "Cómo hacerlo"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: aprobado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Antes de separar o mover los niveles de una estantería de pallets, saber que la capacidad del bastidor la decide el hueco más grande (entre niveles o del piso al primer larguero), pedir la capacidad nueva al fabricante, actualizar el cartel de carga y poner lo más pesado abajo."
+  util: 5
+  llamativo: 4
+  gancho: "Subiste un nivel de la estantería para que entre un pallet más alto, y el bastidor puede aguantar 38 % menos."
+  aprendi: "La capacidad del bastidor (los parantes) no es fija: depende de la separación entre niveles. En la tabla de Interlake Mecalux para un mismo bastidor, con niveles cada 48\" (1,2 m) aguanta 20.867 lb (9.465 kg) y cada 72\" (1,8 m) 12.982 lb (5.888 kg): 38 % menos. Y manda el hueco MÁS grande, incluido el del piso al primer larguero: mover un solo larguero cambia la capacidad de todo el módulo."
+  referencia: "Mecanismos de la regla 22 (sin copiar texto): consecuencia visible primero (lo que circula del tema son videos de estanterías que caen en dominó; acá solo se toma el mecanismo de mostrar la consecuencia, sin usar esos videos), desmentir lo que creés (la estantería aguanta lo mismo aunque la reacomodes), número concreto en el título y en pantalla (-38 %), objeto visible en el primer cuadro (autoelevador frente a una estantería alta). Estructura de la serie 3: la duda → los pasos → el error a evitar. vidIQ sin créditos (se renuevan el 30/11): referencia por WebSearch, sin TubeAlfred."
+escenas:
+  - grande: "ESTANTERÍA: -38 %"
+    resaltar: "-38 %"
+    chico: "Separaste los niveles para que entre un pallet más alto… y aguanta menos"
+    narracion: "Subiste un nivel de la estantería para que entre un pallet más alto, y el bastidor puede aguantar un treinta y ocho por ciento menos."
+    clip: https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_30fps.mp4
+  - grande: "1,2 m → 1,8 m"
+    resaltar: "1,8 m"
+    chico: "Mismo bastidor: 9.465 kg → 5.888 kg (tabla de Interlake Mecalux)"
+    narracion: "En la tabla de un fabricante, con niveles cada metro veinte, el bastidor aguanta nueve mil cuatrocientos kilos. Cada metro ochenta, menos de seis mil."
+    clip: https://videos.pexels.com/video-files/16971219/16971219-hd_1080_1920_30fps.mp4
+  - grande: "MANDA EL HUECO MAYOR"
+    resaltar: "HUECO"
+    chico: "La mayor separación entre niveles, o del piso al primer larguero"
+    narracion: "Manda el hueco más grande, aunque sea uno solo: entre dos niveles, o del piso al primer larguero."
+    clip: https://videos.pexels.com/video-files/4281404/4281404-hd_1920_1080_25fps.mp4
+  - grande: "CARTEL DE CARGA"
+    resaltar: "CARTEL"
+    chico: "Antes de mover un larguero: capacidad nueva del fabricante y cartel actualizado"
+    narracion: "Antes de mover un larguero, pedile la capacidad nueva al fabricante y actualizá el cartel de carga."
+    clip: https://videos.pexels.com/video-files/14910119/14910119-hd_1280_720_24fps.mp4
+  - grande: "LO PESADO, ABAJO"
+    resaltar: "ABAJO"
+    chico: "Los niveles bajos, para lo más pesado · Seguí Logística en 1 Minuto"
+    narracion: "Y lo más pesado, siempre abajo. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/5738746/5738746-hd_1280_720_30fps.mp4
+descripcion: |
+  ESTANTERÍA INDUSTRIAL: subís un nivel y aguanta 38 % menos ⚠️
+
+  📗 Guía + planilla para armar tu primer depósito: https://go.hotmart.com/U108348887Q?dp=1
+
+  Duda: ¿puedo separar los niveles de la estantería para que entren pallets más altos?
+  · Dato: en la tabla de capacidades de Interlake Mecalux para un mismo bastidor (modelo 2.314, uso no sísmico), con niveles cada 48" (1,2 m) aguanta 20.867 lb (9.465 kg) y cada 72" (1,8 m) 12.982 lb (5.888 kg): 38 % menos.
+  · Regla: la capacidad la decide el hueco más grande, sea entre dos niveles o del piso al primer larguero. Mover uno solo cambia la capacidad de todo el módulo.
+  · Paso 1: antes de mover, sacar o agregar un larguero, pedí la capacidad nueva al fabricante (o a un ingeniero).
+  · Paso 2: actualizá el cartel de carga (kilos por nivel y por módulo) antes de volver a cargar.
+  · Paso 3: lo más pesado, en los niveles de abajo.
+  · Error a evitar: reacomodar niveles "a ojo" y seguir cargando con el cartel viejo.
+  Las capacidades son de un modelo de ejemplo: la de tu estantería está en la placa o en la ficha de tu fabricante.
+
+  Seguí Logística en 1 Minuto: un concepto nuevo cada día.
+
+  Imágenes de stock de Pexels (autores y enlaces en el guion del video en github.com/samanjmq-max/logistica-en-1-minuto).
+
+  #Shorts #Estanterias #Almacenamiento #Deposito
+fuentes:
+  - https://argo.webstaurantstore.com/documents/pdf/interlake_mecalux_-_upright_frame_capacities_-_314_-_bolted.pdf
+  - https://www.cisco-eagle.com/blog/2021/06/01/pallet-rack-modifications/
+  - https://damotech.com/blog/pallet-rack-modifications-can-affect-load-capacity
+  - https://www.insst.es/documentacion/colecciones-tecnicas/ntp-notas-tecnicas-de-prevencion/18-serie-ntp-numeros-611-a-645-ano-2003/ntp-618-almacenamiento-en-estanterias-metalicas
+creditos:
+  - https://www.pexels.com/video/forklift-in-a-warehouse-6194507/
+  - https://www.pexels.com/video/racks-16971219/
+  - https://www.pexels.com/video/men-getting-items-from-the-shelves-in-the-warehouse-4281404/
+  - https://www.pexels.com/video/man-working-on-a-warehouse-14910119/
+  - https://www.pexels.com/video/machine-picking-products-from-shelf-5738746/

@@ -69,7 +69,7 @@ Datos de la semana 16–22/11: los reels que Instagram repartió fueron los de u
 2. 1/12: 051 PALLET (serie 3): el pallet mal armado que se cae en el camión; medidas, cómo apilar y el error a evitar. Apertura: un pallet o un camión cargándose. **[programado: PALLET TRABADO, apertura 4292301]**
 3. 2/12: 029 MERCADERÍA VENCIDA (serie 2): FEFO, con un número de plata perdida. Apertura: estantería con producto, no billetes. **[programado: MERCADERÍA VENCIDA, apertura 5738746]**
 4. 3/12: 017 REEFER (serie 1, cadena de frío): qué pasa si se corta el frío y quién paga. Apertura: contenedor refrigerado. **[programado: CONTENEDOR REFRIGERADO, apertura 6618335 (autoelevador con contenedor), nunca usada para abrir; sin créditos de vidIQ para un clip de reefer]**
-5. 4/12: 050 ALMACENAR EN ALTURA (serie 3): lo pesado abajo y la capacidad de la estantería por nivel. Apertura: estanterías.
+5. 4/12: 050 ALMACENAR EN ALTURA (serie 3): lo pesado abajo y la capacidad de la estantería por nivel. Apertura: estanterías. **[en producción: ESTANTERÍA INDUSTRIAL, apertura 6194507 (autoelevador frente a estantería alta), nunca usada para abrir]**
 6. 5/12: 033 CARGA MAL ARMADA (serie 2): llegó roto por cómo se cargó el camión. Sin repetir el 015 (aquel era el contenedor y el seguro; este es el camión y el reparto).
 7. 6/12: libre para una noticia del nicho (regla 22) o 045 ENVIAR AL EXTERIOR (serie 3).
 
@@ -153,7 +153,7 @@ Formato: **la duda → los pasos → el error a evitar**. Para personas y peque�
 | 047 | Cómo leer el rastreo de un envío | "En tránsito" hace una semana: qué significa | Pendiente |
 | 048 | Qué no se puede enviar (mercancías prohibidas y peligrosas) | Las baterías que te frenan el paquete | Pendiente |
 | 049 | Cómo ordenar un depósito chico | Encontrar cualquier cosa en 30 segundos | Pendiente |
-| 050 | Cómo almacenar en altura sin riesgo | Lo pesado abajo, siempre | Pendiente (orden 30/11–6/12: 4/12) |
+| 050 | Cómo almacenar en altura sin riesgo (enfoque: la capacidad del bastidor depende del hueco más grande entre niveles; cartel de carga; lo pesado abajo) | ESTANTERÍA INDUSTRIAL: subís un nivel y aguanta 38 % menos | En producción (para 2026-12-04 19:00) |
 | 051 | Pallet: cómo armarlo (enfoque: apilado en columna vs. cruzado y cajas que sobresalen) | PALLET TRABADO: más firme y se aplasta | Programado 2026-12-01 19:00 por vidIQ en YouTube, Instagram y TikTok (36 s; pin de Pinterest 19:05 en Metricool) |
 | 052 | Cómo cotizar un flete | Tres datos que te pide cualquier transportista | Publicado (2026-11-18 19:00 por vidIQ en YouTube, Instagram y TikTok) |
 | 053 | Cómo hacer un inventario sin parar la operación | CONTEO CÍCLICO: cerrás un día y el stock igual falla | Programado 2026-11-27 19:00 por vidIQ en YouTube, Instagram y TikTok (33 s; pin de Pinterest 19:05 en Metricool) |
