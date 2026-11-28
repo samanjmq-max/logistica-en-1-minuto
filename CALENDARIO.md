@@ -70,7 +70,7 @@ Datos de la semana 16–22/11: los reels que Instagram repartió fueron los de u
 3. 2/12: 029 MERCADERÍA VENCIDA (serie 2): FEFO, con un número de plata perdida. Apertura: estantería con producto, no billetes. **[programado: MERCADERÍA VENCIDA, apertura 5738746]**
 4. 3/12: 017 REEFER (serie 1, cadena de frío): qué pasa si se corta el frío y quién paga. Apertura: contenedor refrigerado. **[programado: CONTENEDOR REFRIGERADO, apertura 6618335 (autoelevador con contenedor), nunca usada para abrir; sin créditos de vidIQ para un clip de reefer]**
 5. 4/12: 050 ALMACENAR EN ALTURA (serie 3): lo pesado abajo y la capacidad de la estantería por nivel. Apertura: estanterías. **[programado: ESTANTERÍA INDUSTRIAL, apertura 6194507 (autoelevador frente a estantería alta), nunca usada para abrir]**
-6. 5/12: 033 CARGA MAL ARMADA (serie 2): llegó roto por cómo se cargó el camión. Sin repetir el 015 (aquel era el contenedor y el seguro; este es el camión y el reparto).
+6. 5/12: 033 CARGA MAL ARMADA (serie 2): llegó roto por cómo se cargó el camión. Sin repetir el 015 (aquel era el contenedor y el seguro; este es el camión y el reparto). **[en producción: CARGA SUELTA, apertura 3365496 (camión de reparto cargándose), nunca usada para abrir]**
 7. 6/12: libre para una noticia del nicho (regla 22) o 045 ENVIAR AL EXTERIOR (serie 3).
 
 **Clips:** vidIQ vuelve a tener 150 créditos el 30/11 a la noche (hora de Uruguay). Usarlos primero en clips de apertura nuevos (regla 12), no en investigación. El resumen del 30/11 corre antes de que se renueven: tampoco va a tener datos por video de YouTube.
@@ -129,7 +129,7 @@ Formato: **problema → causa → solución**. Un problema típico de un área l
 | 030 | Recepción | Camiones esperando en la puerta | Tres horas para descargar un camión | Pendiente |
 | 031 | Recepción | Recibir sin controlar contra la orden de compra | Pagaste mercadería que nunca entró | Programado 2026-11-23 19:00 por vidIQ en YouTube, Instagram y TikTok (falló antes en Metricool; sin cupones) |
 | 032 | Despacho | Pedidos que salen tarde | El camión se fue y el pedido quedó | Pendiente |
-| 033 | Despacho | Carga mal armada en el camión | Llegó roto por cómo se cargó | Pendiente (orden 30/11–6/12: 5/12) |
+| 033 | Despacho | Carga mal armada en el camión (enfoque: la cincha pasada por encima sujeta su STF, no su LC; goma antideslizante y carga pegada al frente) | CARGA SUELTA: la cincha dice 2.000 y aprieta 500 | En producción (2026-11-28) |
 | 034 | Transporte | Rutas de reparto mal armadas | Tu camión recorre el doble de lo necesario | Pendiente |
 | 035 | Transporte | Entregas fallidas en última milla | Fue, no había nadie, y vuelve mañana | Pendiente |
 | 036 | Importación | Carga trabada en aduana por documentos | Un error en la factura y la carga no sale | Publicado (2026-11-20 19:00 por vidIQ en YouTube, Instagram y TikTok) |

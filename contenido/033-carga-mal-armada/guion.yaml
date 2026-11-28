@@ -1,0 +1,69 @@
+titulo: "CARGA SUELTA: la cincha dice 2.000 y aprieta 500 🚚"
+formato: short
+serie: "Problemas reales"
+voz: em_alex
+velocidad: 1.1
+pausa: 0.25
+estado: aprobado       # piloto -> aprobado -> publicado
+chequeo:
+  se_lleva: "Al amarrar carga en un camión con cinchas pasadas por encima, lo que sujeta no es el número grande de la etiqueta (LC) sino el STF (250 a 500 daN): por eso hay que poner goma antideslizante abajo (fricción 0,6) y cargar pegado al frente del camión, sin huecos, en vez de confiar solo en las cinchas."
+  util: 5
+  llamativo: 4
+  gancho: "Amarraste con cinchas de 2.000 kilos, frenaste y la carga se fue adelante."
+  aprendi: "La guía europea de sujeción de cargas de 2014 dice textual que el LC 'es irrelevante' en el amarre por encima: la cincha solo aprieta hacia abajo lo que dice su STF, que en una de 50 mm va de 250 a 500 daN aunque la etiqueta diga LC 2.000. Y contra un frente EN 12642 L se pueden bloquear 7,8 t con fricción 0,15 pero 25,4 t con goma (0,6)."
+  referencia: "Mecanismos de la regla 22 (sin copiar texto): desmentir lo que creés (el número de la etiqueta de la cincha), que es justo lo que venden los clips de producto ('límite de carga 5.000 kg'); plata que perdés con contraste en los primeros 3 s (cinchas de 2.000 y igual se corrió); consecuencia visible primero, como los videos virales de cargas mal atadas que circulan (solo el mecanismo, ninguna imagen); objeto visible en el primer cuadro (camión cargándose). vidIQ sin créditos hasta el 30/11: referencia por WebSearch, sin TubeAlfred."
+escenas:
+  - grande: "CARGA SUELTA"
+    resaltar: "SUELTA"
+    chico: "Cinchas de 2.000 kg… frenaste y la carga se fue adelante"
+    narracion: "Amarraste la carga del camión con cinchas de dos mil kilos, frenaste y se fue todo adelante. Y la rotura la pagás vos."
+    clip: https://videos.pexels.com/video-files/3365496/3365496-hd_1920_1080_30fps.mp4
+  - grande: "AL FRENAR: 0,8"
+    resaltar: "0,8"
+    chico: "Al frenar, la carga empuja adelante con el 80 % de su peso (guía europea 2014)"
+    narracion: "Al frenar, la carga empuja hacia adelante con hasta el ochenta por ciento de su peso."
+    clip: https://videos.pexels.com/video-files/17899033/17899033-hd_1920_1080_24fps.mp4
+  - grande: "MIRÁ EL STF"
+    resaltar: "STF"
+    chico: "Etiqueta: LC 2.000 daN · STF 250 a 500 daN · pasada por encima, cuenta el STF"
+    narracion: "Y el dos mil de la etiqueta es el LC. Pasada por encima, la cincha aprieta lo que dice el STF: entre doscientos cincuenta y quinientos."
+    clip: https://videos.pexels.com/video-files/11801920/11801920-hd_1080_1920_30fps.mp4
+  - grande: "GOMA ABAJO: 0,6"
+    resaltar: "0,6"
+    chico: "Alfombra de goma limpia bajo la carga: fricción 0,6 (guía europea)"
+    narracion: "Primero, alfombra de goma abajo: con fricción cero coma seis, cada cincha sujeta mucho más."
+    clip: https://videos.pexels.com/video-files/13422070/13422070-hd_1920_1080_30fps.mp4
+  - grande: "PEGADA AL FRENTE"
+    resaltar: "FRENTE"
+    chico: "Frente EN 12642 L: con goma bloquea 25,4 t; casi sin fricción, 7,8 t · Seguí Logística en 1 Minuto"
+    narracion: "Segundo, cargá pegado al frente del camión, sin huecos: con goma, el frente frena más del triple. Seguí Logística en 1 Minuto."
+    clip: https://videos.pexels.com/video-files/4292301/4292301-hd_1280_720_50fps.mp4
+descripcion: |
+  CARGA SUELTA: la cincha dice 2.000 y aprieta 500 🚚
+
+  Problema: amarraste la carga del camión con cinchas "de 2.000 kg", frenaste y la carga se corrió igual.
+  · Causa: al frenar, la carga empuja hacia adelante con hasta 0,8 de su peso (0,5 de costado y hacia atrás), según las Guías Europeas de Buenas Prácticas para la sujeción de cargas en carretera (2014, norma EN 12195-1).
+  · La etiqueta: el número grande es el LC (capacidad de amarre). En el amarre por encima de la carga, la guía dice que el LC es irrelevante: la cincha solo aprieta hacia abajo su STF (tensión con la carraca), que en cincha de 50 mm suele ir de 250 a 500 daN (1 daN ≈ 1 kg).
+  · Paso 1: alfombra de goma antideslizante bajo la carga (con superficie limpia, la guía toma fricción 0,6).
+  · Paso 2: cargá pegado al frente del camión, sin huecos. Un frente EN 12642 L (5.000 daN) bloquea 7,8 t con fricción 0,15 y 25,4 t con 0,6. Si queda un hueco, todo el peso lo tienen que sujetar las cinchas.
+  · Error a evitar: calcular las cinchas con el LC cuando las pasás por encima.
+
+  Seguí Logística en 1 Minuto: un problema real y cómo se resuelve, cada día.
+
+  📘 Guía práctica + planilla para comparar cotizaciones: https://go.hotmart.com/M108343404O?dp=1
+  Curso recomendado de logística internacional (link de afiliado): https://go.hotmart.com/M108343505U
+
+  Imágenes de stock de Pexels (autores y enlaces en el guion del video en github.com/samanjmq-max/logistica-en-1-minuto).
+
+  #Shorts #AmarreDeCarga #Estiba #Camión
+fuentes:
+  - https://www.hsa.ie/eng/Vehicles_at_Work/Load_Securing/Guidance_and_Publications/2014_European_Best_Practice.pdf
+  - https://www.certex.dk/en/knowhow/articles-about-load-securing/technical-description-lashing
+  - https://www.dolezych.de/en/newsblog/guide/lashing-strap-label/
+  - https://boxic24.com/english/ratgeber/lashing-strap-guide
+creditos:
+  - https://www.pexels.com/video/a-man-loading-cement-on-a-delivery-truck-3365496/
+  - https://www.pexels.com/video/a-semi-truck-is-driving-down-the-road-17899033/
+  - https://www.pexels.com/video/trucks-on-viaduct-in-city-11801920/
+  - https://www.pexels.com/video/man-driving-forklift-in-warehouse-13422070/
+  - https://www.pexels.com/video/a-man-dragging-a-pallet-cart-4292301/
